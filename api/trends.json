@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T00:38:53.167009+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-10T01:31:36.628526+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "两部门发布公告，4月起取消光伏等产品增值税出口退税",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
         },
         {
           "title": "住房公积金制度改革",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E5%88%B6%E5%BA%A6%E6%94%B9%E9%9D%A9%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
         },
         {
           "title": "国家医保局：告别看病缴费排长队",
@@ -37,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
         },
         {
           "title": "国常会：部署实施财政金融协同促内需一揽子政策",
@@ -48,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
         },
         {
           "title": "美国最高法院计划下周三为下一个意见发布日。",
@@ -63,15 +64,51 @@
           "time_info": "00时38分"
         },
         {
+          "title": "委内瑞拉政府声明：委内瑞拉振幅“探索”与美国合作。 证实美国国务院官员已经抵达。 委内瑞拉代表将前往美国。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3034323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
           "title": "解读特斯拉低息政策背后",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%96%AF%E6%8B%89%E4%BD%8E%E6%81%AF%E6%94%BF%E7%AD%96%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
           "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
+        },
+        {
+          "title": "淘宝闪购、美团发布声明",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E3%80%81%E7%BE%8E%E5%9B%A2%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E",
+          "source": "百度热搜",
+          "ranks": [
+            13,
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
+        },
+        {
+          "title": "邵佳一谈成为国家队主教练",
+          "url": "https://www.douyin.com/hot/2361704",
+          "source": "抖音",
+          "ranks": [
+            19,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
         },
         {
           "title": "隔夜互换市场交易员仍预计，加拿大央行将在今年大部分时间内把关键利率维持在2.25%。 此前，决策者表示，只要经济增长和通胀走势符合预期，当前利率就处于“大致合适的水平”。 加拿大央行下一次利率决议及货币政策报告将于1月28日公布。",
@@ -85,26 +122,15 @@
           "time_info": "00时38分"
         },
         {
-          "title": "淘宝闪购、美团发布声明",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E3%80%81%E7%BE%8E%E5%9B%A2%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "邵佳一谈成为国家队主教练",
-          "url": "https://www.douyin.com/hot/2361704",
-          "source": "抖音",
+          "title": "明晟公司MSCI北欧国家指数涨1.2%，报384.81点，创2025年3月6日以来收盘新高。 在十个板块中，北欧工业板块涨幅最大。 军工股萨博公司涨6.3%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3034307",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时38分"
+          "time_info": "01时31分"
         },
         {
           "title": "提前12个小时！特朗普抢先披露非农就业数据，“65.4万”与劳工部发布信息完全吻合",
@@ -116,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "最高法院定于下周三发布新一批裁决，关税案备受瞩目",
+          "url": "https://wallstreetcn.com/livenews/3034297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时31分"
         },
         {
           "title": "特朗普提前12小时发布就业数据 与正式结果精准吻合",
@@ -131,6 +168,125 @@
       ]
     },
     {
+      "keyword_group": "国际 外交 战争",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "外交部回应特朗普涉台言论",
+          "url": "https://www.douyin.com/hot/2362093",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
+        },
+        {
+          "title": "外交部回应丹羽逝世",
+          "url": "https://www.douyin.com/hot/2362182",
+          "source": "抖音",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
+        },
+        {
+          "title": "外交部：对丹羽先生逝世表示沉痛哀悼",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%AF%B9%E4%B8%B9%E7%BE%BD%E5%85%88%E7%94%9F%E9%80%9D%E4%B8%96%E8%A1%A8%E7%A4%BA%E6%B2%89%E7%97%9B%E5%93%80%E6%82%BC",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
+        },
+        {
+          "title": "如何看国际空间站乘组因健康提前返回",
+          "url": "https://www.toutiao.com/trending/7592996062500634633/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
+        },
+        {
+          "title": "国际铜夜盘收涨1.92%，沪铜收涨1.93%，沪铝收涨1.81%，沪锌收涨0.36%，沪铅收涨0.61%，沪镍收涨2.78%，沪锡收涨3.15%。 氧化铝夜盘收涨0.53%，铝合金收涨0.96%。 不锈钢夜盘收涨1.24%。",
+          "url": "https://wallstreetcn.com/livenews/3034320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "委内瑞拉政府表示，已与美国启动探索性外交阶段，旨在重建外交关系。",
+          "url": "https://flash.jin10.com/detail/20260110011159823800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "美国国务卿卢比奥与西班牙外交大臣Albares通电话。",
+          "url": "https://wallstreetcn.com/livenews/3034289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "阿根廷外交部：南方共同市场将于1月17日签署欧盟协议。",
+          "url": "https://flash.jin10.com/detail/20260110005546295800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "委代总统会见中国大使 外交部回应",
+          "url": "https://www.toutiao.com/trending/7593276531867340298/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "外交部回应美涉台言论",
+          "url": "https://www.toutiao.com/trending/7593196743953596422/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI Qwen DeepSeek Claude",
       "match_count": 9,
       "titles": [
@@ -142,8 +298,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
         },
         {
           "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
@@ -153,19 +309,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
           "url": "https://wallstreetcn.com/articles/3762915",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
         },
         {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
@@ -175,8 +332,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
         },
         {
           "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
@@ -186,8 +343,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
         },
         {
           "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
@@ -197,8 +354,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
         },
         {
           "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
@@ -208,8 +365,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
         },
         {
           "title": "如何分辨AI音乐骗局",
@@ -219,8 +376,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
         },
         {
           "title": "核能助推AI革命：Meta签下巨额订单 Oklo与Vistra股价齐飙升",
@@ -236,80 +393,8 @@
       ]
     },
     {
-      "keyword_group": "国际 外交 战争",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "外交部回应特朗普涉台言论",
-          "url": "https://www.douyin.com/hot/2362093",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "外交部回应丹羽逝世",
-          "url": "https://www.douyin.com/hot/2362182",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "外交部：对丹羽先生逝世表示沉痛哀悼",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%AF%B9%E4%B8%B9%E7%BE%BD%E5%85%88%E7%94%9F%E9%80%9D%E4%B8%96%E8%A1%A8%E7%A4%BA%E6%B2%89%E7%97%9B%E5%93%80%E6%82%BC",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "美国国务卿卢比奥与西班牙外交大臣Albares通电话。",
-          "url": "https://wallstreetcn.com/livenews/3034289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "如何看国际空间站乘组因健康提前返回",
-          "url": "https://www.toutiao.com/trending/7592996062500634633/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "委代总统会见中国大使 外交部回应",
-          "url": "https://www.toutiao.com/trending/7593276531867340298/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        }
-      ]
-    },
-    {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "官方发文 4 月 1 日起全面取消光伏出口退税，电池分阶段退坡至最终取消，怎样解读？对行业有哪些影响？",
@@ -319,19 +404,42 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
         },
         {
           "title": "国务院反垄断反不正当竞争委员会：外卖平台服务行业拼补贴、拼价格、控流量等问题突出 决定开展调查、评估",
           "url": "https://www.cls.cn/detail/2253152",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
+        },
+        {
+          "title": "国务院反垄断反不正当竞争委员会办公室对外卖平台服务行业市场竞争状况开展调查、评估",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32351494",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
+        },
+        {
+          "title": "美联储博斯蒂克：听到依赖外国工人的行业面临压力。",
+          "url": "https://flash.jin10.com/detail/20260110011523881800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时38分"
+          "time_info": "01时31分"
         },
         {
           "title": "Servus Credit Union首席经济学家Charles St-Arnaud：数据显示，加拿大劳动力市场并未受到美国贸易冲突影响的行业仍然是就业增长的主要来源。 总体而言，今天的报告显示劳动力市场具有一定的韧性。 这将为2026年经济活动的回升提供空间，尽管回升幅度可能有限。 有鉴于此，该报告支持加拿大央行最近的评估，即除非经济恶化，否则没必要进一步降息。",
@@ -343,23 +451,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
-        },
-        {
-          "title": "国务院反垄断反不正当竞争委员会办公室对外卖平台服务行业市场竞争状况开展调查、评估",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32351494",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
         }
       ]
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "上海：加速商业火箭、人形机器人等创新产品突破产业规模化发展瓶颈",
@@ -369,8 +466,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
         },
         {
           "title": "我国科研团队研究成果为提升钙钛矿电池稳定性提供新思路",
@@ -382,6 +479,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "CES 2026有哪些黑科技硬件",
+          "url": "https://www.toutiao.com/trending/7593152874981363254/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "上海科技馆回归在即：除了全球最大的LED巨幕影院，还有……",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32351786",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
+          "url": "https://wallstreetcn.com/articles/3762954",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.94%，暂报4077.63点，最近七个自然日累计上涨7.54%，1月3-6日平滑地持续上涨，6-8日持续回撤。 MarketVectorTM数字资产100中盘指数跌0.49%，报3799.01点，最近七天累涨2.37%。 MarketVector数字资产100指数涨0.58%，报19000.72点，最近七天累涨1.89%。 最近七天，比特币累涨1.72%，1月5日曾达到94785.88美元；以太坊期内持平，6日曾涨至306.405美元。 Solana累涨6.02%，狗狗币累涨1.58%，XRP累涨5.6%。",
+          "url": "https://wallstreetcn.com/livenews/3034317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时31分"
         }
       ]
     },
@@ -390,43 +538,45 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "Faker举报路人游戏ID",
-          "url": "https://search.bilibili.com/all?keyword=Faker%E4%B8%BE%E6%8A%A5%E8%B7%AF%E4%BA%BA%E6%B8%B8%E6%88%8FID",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
           "title": "苹果 M5Max 游戏性能将超 RTX5070Ti，这会给独立显卡市场带来哪些冲击？",
           "url": "https://www.zhihu.com/question/1991220751215400179",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
+        },
+        {
+          "title": "Faker举报路人游戏ID",
+          "url": "https://search.bilibili.com/all?keyword=Faker%E4%B8%BE%E6%8A%A5%E8%B7%AF%E4%BA%BA%E6%B8%B8%E6%88%8FID",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
         }
       ]
     },
     {
-      "keyword_group": "美股 美元",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
-          "url": "https://wallstreetcn.com/articles/3762954",
-          "source": "华尔街见闻",
+          "title": "谷歌涨幅扩大至1.6%，报330.83美元/股，盘中市值突破4万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3034302",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时38分"
+          "time_info": "01时31分"
         }
       ]
     }
