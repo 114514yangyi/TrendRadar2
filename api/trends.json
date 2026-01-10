@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T12:43:57.903642+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-01-10T13:29:52.001969+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "两部门发布公告，4月起取消光伏等产品增值税出口退税",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 12时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 13时29分]"
         },
         {
           "title": "国家医保局：告别看病缴费排长队",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 12时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 13时29分]"
         },
         {
           "title": "住房公积金制度改革",
@@ -64,11 +64,12 @@
             6,
             7,
             10,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 12时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 13时29分]"
         },
         {
           "title": "淘宝闪购、美团发布声明",
@@ -119,11 +120,23 @@
           "url": "https://flash.jin10.com/detail/20260110115841984800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时29分]"
+        },
+        {
+          "title": "盛松成：货币政策“小步走”可能性较大，降准降息仍有空间",
+          "url": "https://wallstreetcn.com/livenews/3034498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时43分"
+          "time_info": "13时29分"
         },
         {
           "title": "美国最高法院计划下周三为下一个意见发布日。",
@@ -137,6 +150,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "北汽新能源与小马智行开启战略合作2.0阶段，L4级Robotaxi将出海中东、欧洲",
+          "url": "https://wallstreetcn.com/livenews/3034497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "委内瑞拉政府声明：委内瑞拉振幅“探索”与美国合作。 证实美国国务院官员已经抵达。 委内瑞拉代表将前往美国。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3034323",
           "source": "华尔街见闻-快讯",
@@ -146,6 +170,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "特朗普：将推行为期一年的信用卡利率上限政策，限定为10%",
+          "url": "https://flash.jin10.com/detail/20260110092636627800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 13时29分]"
+        },
+        {
+          "title": "特朗普：我解决了拜登留下的高房贷利率难题，为美国家庭减轻负担",
+          "url": "https://flash.jin10.com/detail/20260110092012620800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 13时29分]"
+        },
+        {
+          "title": "特朗普：将推行为期一年的信用卡利率上限政策，限定为10%",
+          "url": "https://wallstreetcn.com/livenews/3034471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 13时29分]"
         },
         {
           "title": "黎真主党领导人会见伊朗外长，双方讨论加强合作",
@@ -159,45 +225,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时42分 ~ 04时33分]"
-        },
-        {
-          "title": "特朗普：将推行为期一年的信用卡利率上限政策，限定为10%",
-          "url": "https://flash.jin10.com/detail/20260110092636627800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 12时43分]"
-        },
-        {
-          "title": "特朗普：我解决了拜登留下的高房贷利率难题，为美国家庭减轻负担",
-          "url": "https://flash.jin10.com/detail/20260110092012620800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 12时43分]"
-        },
-        {
-          "title": "特朗普：将推行为期一年的信用卡利率上限政策，限定为10%",
-          "url": "https://wallstreetcn.com/livenews/3034471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 12时43分]"
         },
         {
           "title": "黎真主党领导人会见伊朗外长 双方讨论加强合作",
@@ -230,11 +257,26 @@
           "ranks": [
             6,
             14,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 13时29分]"
+        },
+        {
+          "title": "美国财长贝森特：如果美国最高法院裁定反对特朗普政府（关税政策），财政部有足够的资金支付任何关税退款。",
+          "url": "https://flash.jin10.com/detail/20260110083753572800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            22,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 13时29分]"
         },
         {
           "title": "美国财长贝森特表示，澳大利亚及其他几个国家将参加他周一在华盛顿主持的七国集团（G7）发达经济体财长会议，共同讨论关键矿产问题；印度也受邀参加此次会议。",
@@ -250,29 +292,17 @@
           "time_info": "[10时10分 ~ 12时43分]"
         },
         {
-          "title": "美国财长贝森特：如果美国最高法院裁定反对特朗普政府（关税政策），财政部有足够的资金支付任何关税退款。",
-          "url": "https://flash.jin10.com/detail/20260110083753572800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 12时43分]"
-        },
-        {
           "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
           "url": "https://www.cls.cn/detail/2253739",
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时29分]"
         },
         {
           "title": "美国总统特朗普：将继续举办石油会议，（但后续）就没有新闻发布会了。",
@@ -321,6 +351,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 03时26分]"
+        },
+        {
+          "title": "北方多地发布大风预警信息，部分水域禁航",
+          "url": "https://wallstreetcn.com/livenews/3034494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "白宫证实，特朗普的社交媒体账户无意中泄露了汇总的就业数据，“其中部分数据来源于事先公布的信息”。 白宫正在据此审查有关经济数据发布的规程。（华尔街日报）",
@@ -487,8 +528,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时29分]"
         },
         {
           "title": "美委启动“探索性外交”，美方派出代表团",
@@ -536,11 +577,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 13时29分]"
         },
         {
           "title": "委内瑞拉代理总统德尔西·罗德里格斯已请求下周二前往华盛顿，其中包括可能访问白宫。（委内瑞拉媒体ABC国际）",
@@ -554,6 +596,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时42分 ~ 04时33分]"
+        },
+        {
+          "title": "美国国家航空航天局：计划不早于美国东部时间1月14日下午5点（北京时间1月15日早上6点），执行SpaceX“Crew-11”任务组与国际空间站的分离对接。",
+          "url": "https://flash.jin10.com/detail/20260110095439295800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时29分]"
         },
         {
           "title": "委代总统会见中国大使 外交部回应",
@@ -578,18 +633,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 07时28分]"
-        },
-        {
-          "title": "美国国家航空航天局：计划不早于美国东部时间1月14日下午5点（北京时间1月15日早上6点），执行SpaceX“Crew-11”任务组与国际空间站的分离对接。",
-          "url": "https://flash.jin10.com/detail/20260110095439295800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时43分]"
         },
         {
           "title": "新华社：美国在破坏国际秩序歧途狂奔",
@@ -716,7 +759,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
@@ -754,8 +797,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时33分 ~ 12时43分]"
+          "appearance_count": 10,
+          "time_info": "[04时33分 ~ 13时29分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -768,8 +811,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 12时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 13时29分]"
         },
         {
           "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
@@ -800,6 +843,19 @@
           "time_info": "[00时38分 ~ 07时28分]"
         },
         {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 13时29分]"
+        },
+        {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
           "url": "https://www.cls.cn/detail/2253101",
           "source": "财联社热门",
@@ -824,19 +880,6 @@
           "time_info": "[00时38分 ~ 06时29分]"
         },
         {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 12时43分]"
-        },
-        {
           "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
           "source": "澎湃新闻",
@@ -858,8 +901,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时28分 ~ 12时43分]"
+          "appearance_count": 6,
+          "time_info": "[07时28分 ~ 13时29分]"
+        },
+        {
+          "title": "据华尔街日报：OpenAI承诺投入1000万美元支持投票提案，与倡导组织就儿童安全措施达成和解。",
+          "url": "https://flash.jin10.com/detail/20260110094533475800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 13时29分]"
         },
         {
           "title": "OpenAI和软银向合作伙伴SB Energy投资10亿美元。",
@@ -871,19 +928,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI承诺投入1000万美元支持投票提案，与倡导组织就儿童安全措施达成和解。",
-          "url": "https://flash.jin10.com/detail/20260110094533475800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 12时43分]"
         },
         {
           "title": "OpenAI和软银向“星门”合作伙伴SB Energy投资10亿美元",
@@ -932,6 +976,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 03时26分]"
+        },
+        {
+          "title": "DeepSeek准备第二次震惊全世界",
+          "url": "https://www.toutiao.com/trending/7593519269174840858/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "AI 技术的核心本质是什么？背后的技术原理有哪些？",
@@ -992,8 +1047,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 12时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 13时29分]"
         },
         {
           "title": "上海科技馆回归在即：除了全球最大的LED巨幕影院，还有……",
@@ -1004,11 +1059,12 @@
             17,
             16,
             13,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时31分 ~ 12时43分]"
+          "appearance_count": 13,
+          "time_info": "[01时31分 ~ 13时29分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.64%，报26408点。 恒生科技指数主连夜盘收涨0.81%，报5748点。",
@@ -1028,11 +1084,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时29分]"
         },
         {
           "title": "科研人员需86万买公安局副局长职务？威胁女子不出钱就曝裸照？",
@@ -1042,8 +1099,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时29分]"
         },
         {
           "title": "开年以来港股主题ETF“吸金”超百亿元，多只产品份额创新高",
@@ -1118,8 +1175,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 12时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 13时29分]"
         },
         {
           "title": "国务院反垄断反不正当竞争委员会：外卖平台服务行业拼补贴、拼价格、控流量等问题突出 决定开展调查、评估",
@@ -1149,11 +1206,12 @@
           "url": "https://flash.jin10.com/detail/20260110115753193800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时29分]"
         },
         {
           "title": "国务院反垄断反不正当竞争委员会办公室对外卖平台服务行业市场竞争状况开展调查、评估",
@@ -1217,6 +1275,17 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "非农数据“温和”，标普新高，美元指数四连涨，黄金重回4500关口",
+          "url": "https://wallstreetcn.com/articles/3762954",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 13时29分]"
+        },
+        {
           "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
           "url": "https://wallstreetcn.com/articles/3762954",
           "source": "华尔街见闻",
@@ -1229,17 +1298,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时38分 ~ 06时29分]"
-        },
-        {
-          "title": "非农数据“温和”，标普新高，美元指数四连涨，黄金重回4500关口",
-          "url": "https://wallstreetcn.com/articles/3762954",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 12时43分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
