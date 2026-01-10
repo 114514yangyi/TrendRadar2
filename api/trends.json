@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T12:01:46.132996+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2026-01-10T12:43:57.903642+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "两部门发布公告，4月起取消光伏等产品增值税出口退税",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 12时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 12时43分]"
         },
         {
           "title": "国家医保局：告别看病缴费排长队",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 12时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 12时43分]"
         },
         {
           "title": "住房公积金制度改革",
@@ -63,11 +63,12 @@
           "ranks": [
             6,
             7,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 12时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 12时43分]"
         },
         {
           "title": "淘宝闪购、美团发布声明",
@@ -114,6 +115,17 @@
           "time_info": "[02时42分 ~ 07时28分]"
         },
         {
+          "title": "美国消费者银行家协会：期待与政府合作，确保美国人能够获得所需的信贷。",
+          "url": "https://flash.jin10.com/detail/20260110115841984800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "美国最高法院计划下周三为下一个意见发布日。",
           "url": "https://wallstreetcn.com/livenews/3034297",
           "source": "华尔街见闻-快讯",
@@ -149,6 +161,45 @@
           "time_info": "[02时42分 ~ 04时33分]"
         },
         {
+          "title": "特朗普：将推行为期一年的信用卡利率上限政策，限定为10%",
+          "url": "https://flash.jin10.com/detail/20260110092636627800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 12时43分]"
+        },
+        {
+          "title": "特朗普：我解决了拜登留下的高房贷利率难题，为美国家庭减轻负担",
+          "url": "https://flash.jin10.com/detail/20260110092012620800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 12时43分]"
+        },
+        {
+          "title": "特朗普：将推行为期一年的信用卡利率上限政策，限定为10%",
+          "url": "https://wallstreetcn.com/livenews/3034471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 12时43分]"
+        },
+        {
           "title": "黎真主党领导人会见伊朗外长 双方讨论加强合作",
           "url": "https://flash.jin10.com/detail/20260110023159728800",
           "source": "金十数据",
@@ -159,18 +210,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 03时26分]"
-        },
-        {
-          "title": "特朗普：将推行为期一年的信用卡利率上限政策，限定为10%",
-          "url": "https://flash.jin10.com/detail/20260110092636627800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时01分]"
         },
         {
           "title": "巴拉圭正式废除委内瑞拉公民免签入境政策",
@@ -185,40 +224,17 @@
           "time_info": "[05时29分 ~ 06时29分]"
         },
         {
-          "title": "特朗普：我解决了拜登留下的高房贷利率难题，为美国家庭减轻负担",
-          "url": "https://flash.jin10.com/detail/20260110092012620800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时01分]"
-        },
-        {
-          "title": "特朗普：将推行为期一年的信用卡利率上限政策，限定为10%",
-          "url": "https://wallstreetcn.com/livenews/3034471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时01分]"
-        },
-        {
           "title": "美国总统特朗普：自2026年1月20日起，作为美国总统，我将要求实施为期一年的信用卡利率上限政策，利率不得超过10%。",
           "url": "https://flash.jin10.com/detail/20260110091128037800",
           "source": "金十数据",
           "ranks": [
             6,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 12时43分]"
         },
         {
           "title": "美国财长贝森特表示，澳大利亚及其他几个国家将参加他周一在华盛顿主持的七国集团（G7）发达经济体财长会议，共同讨论关键矿产问题；印度也受邀参加此次会议。",
@@ -226,11 +242,37 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            24
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 12时43分]"
+        },
+        {
+          "title": "美国财长贝森特：如果美国最高法院裁定反对特朗普政府（关税政策），财政部有足够的资金支付任何关税退款。",
+          "url": "https://flash.jin10.com/detail/20260110083753572800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 12时43分]"
+        },
+        {
+          "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
+          "url": "https://www.cls.cn/detail/2253739",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时01分]"
+          "time_info": "[12时01分 ~ 12时43分]"
         },
         {
           "title": "美国总统特朗普：将继续举办石油会议，（但后续）就没有新闻发布会了。",
@@ -269,18 +311,6 @@
           "time_info": "[07时28分 ~ 10时10分]"
         },
         {
-          "title": "美国财长贝森特：如果美国最高法院裁定反对特朗普政府（关税政策），财政部有足够的资金支付任何关税退款。",
-          "url": "https://flash.jin10.com/detail/20260110083753572800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时01分]"
-        },
-        {
           "title": "美国家庭财富升至纪录新高，得益于美股上涨，但房地产市场低迷",
           "url": "https://wallstreetcn.com/livenews/3034339",
           "source": "华尔街见闻-快讯",
@@ -313,17 +343,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
-        },
-        {
-          "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
-          "url": "https://www.cls.cn/detail/2253739",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨1.2%，报384.81点，创2025年3月6日以来收盘新高。 在十个板块中，北欧工业板块涨幅最大。 军工股萨博公司涨6.3%，在一众北欧个股里领跑。",
@@ -439,11 +458,12 @@
           "ranks": [
             2,
             27,
-            24
+            24,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 12时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 12时43分]"
         },
         {
           "title": "如何看国际空间站乘组因健康提前返回",
@@ -458,6 +478,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时38分 ~ 07时28分]"
+        },
+        {
+          "title": "外交部：解决台湾问题不容外部干涉",
+          "url": "https://www.toutiao.com/trending/7593409685739274281/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时43分]"
         },
         {
           "title": "美委启动“探索性外交”，美方派出代表团",
@@ -500,15 +531,16 @@
           "time_info": "[01时31分 ~ 06时29分]"
         },
         {
-          "title": "外交部：解决台湾问题不容外部干涉",
-          "url": "https://www.toutiao.com/trending/7593409685739274281/",
-          "source": "今日头条",
+          "title": "中国会从美国对委内瑞拉的打击中获得经验启示？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32350305",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            13,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 12时43分]"
         },
         {
           "title": "委内瑞拉代理总统德尔西·罗德里格斯已请求下周二前往华盛顿，其中包括可能访问白宫。（委内瑞拉媒体ABC国际）",
@@ -522,18 +554,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时42分 ~ 04时33分]"
-        },
-        {
-          "title": "中国会从美国对委内瑞拉的打击中获得经验启示？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32350305",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时01分]"
         },
         {
           "title": "委代总统会见中国大使 外交部回应",
@@ -558,6 +578,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 07时28分]"
+        },
+        {
+          "title": "美国国家航空航天局：计划不早于美国东部时间1月14日下午5点（北京时间1月15日早上6点），执行SpaceX“Crew-11”任务组与国际空间站的分离对接。",
+          "url": "https://flash.jin10.com/detail/20260110095439295800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时43分]"
         },
         {
           "title": "新华社：美国在破坏国际秩序歧途狂奔",
@@ -591,17 +623,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
-        },
-        {
-          "title": "美国国家航空航天局：计划不早于美国东部时间1月14日下午5点（北京时间1月15日早上6点），执行SpaceX“Crew-11”任务组与国际空间站的分离对接。",
-          "url": "https://flash.jin10.com/detail/20260110095439295800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
         },
         {
           "title": "国际原子能机构（IAEA）拟在扎波罗热核电站附近建立临时停火区，以便对受损的备用输电线路进行维修工作。",
@@ -721,6 +742,22 @@
           "time_info": "[00时38分 ~ 07时28分]"
         },
         {
+          "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
+          "url": "https://www.zhihu.com/question/1923049081044960601",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8,
+            5,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时33分 ~ 12时43分]"
+        },
+        {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
           "url": "https://wallstreetcn.com/articles/3762915",
           "source": "华尔街见闻",
@@ -731,23 +768,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 12时01分]"
-        },
-        {
-          "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
-          "url": "https://www.zhihu.com/question/1923049081044960601",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时33分 ~ 12时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 12时43分]"
         },
         {
           "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
@@ -758,8 +780,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 12时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 12时43分]"
         },
         {
           "title": "如何分辨AI音乐骗局",
@@ -802,6 +824,19 @@
           "time_info": "[00时38分 ~ 06时29分]"
         },
         {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 12时43分]"
+        },
+        {
           "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
           "source": "澎湃新闻",
@@ -815,16 +850,16 @@
           "time_info": "[00时38分 ~ 05时29分]"
         },
         {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            5
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时01分]"
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 12时43分]"
         },
         {
           "title": "OpenAI和软银向合作伙伴SB Energy投资10亿美元。",
@@ -843,11 +878,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 12时43分]"
         },
         {
           "title": "OpenAI和软银向“星门”合作伙伴SB Energy投资10亿美元",
@@ -872,18 +908,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时28分 ~ 10时10分]"
-        },
-        {
-          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
-          "url": "https://wallstreetcn.com/articles/3762982",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时28分 ~ 12时01分]"
         },
         {
           "title": "OpenAI与软银向“星际之门”合作伙伴SB Energy投资10亿美元",
@@ -968,8 +992,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 12时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 12时43分]"
         },
         {
           "title": "上海科技馆回归在即：除了全球最大的LED巨幕影院，还有……",
@@ -983,8 +1007,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时31分 ~ 12时01分]"
+          "appearance_count": 12,
+          "time_info": "[01时31分 ~ 12时43分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.64%，报26408点。 恒生科技指数主连夜盘收涨0.81%，报5748点。",
@@ -999,6 +1023,29 @@
           "time_info": "[03时26分 ~ 04时33分]"
         },
         {
+          "title": "据外媒报道，吉利控股正考虑向美国市场扩张，极氪和领克等品牌或是首选。针对该消息，截至发稿前，吉利控股方面暂未置评。（新浪科技）",
+          "url": "https://wallstreetcn.com/livenews/3034485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时43分]"
+        },
+        {
+          "title": "科研人员需86万买公安局副局长职务？威胁女子不出钱就曝裸照？",
+          "url": "https://news.ifeng.com/c/8pnRY9yWDIX",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时43分]"
+        },
+        {
           "title": "开年以来港股主题ETF“吸金”超百亿元，多只产品份额创新高",
           "url": "https://wallstreetcn.com/livenews/3034461",
           "source": "华尔街见闻-快讯",
@@ -1009,28 +1056,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时10分 ~ 12时01分]"
-        },
-        {
-          "title": "据外媒报道，吉利控股正考虑向美国市场扩张，极氪和领克等品牌或是首选。针对该消息，截至发稿前，吉利控股方面暂未置评。（新浪科技）",
-          "url": "https://wallstreetcn.com/livenews/3034485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
-          "title": "科研人员需86万买公安局副局长职务？威胁女子不出钱就曝裸照？",
-          "url": "https://news.ifeng.com/c/8pnRY9yWDIX",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
         },
         {
           "title": "我国科研团队研究成果为提升钙钛矿电池稳定性提供新思路",
@@ -1080,7 +1105,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "官方发文 4 月 1 日起全面取消光伏出口退税，电池分阶段退坡至最终取消，怎样解读？对行业有哪些影响？",
@@ -1089,11 +1114,12 @@
           "ranks": [
             2,
             1,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 12时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 12时43分]"
         },
         {
           "title": "国务院反垄断反不正当竞争委员会：外卖平台服务行业拼补贴、拼价格、控流量等问题突出 决定开展调查、评估",
@@ -1117,6 +1143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "美国消费者银行家协会：美国银行业回应信用卡利率设限提案，表示认同美国总统特朗普帮助美国人获得更实惠信贷的目标。",
+          "url": "https://flash.jin10.com/detail/20260110115753193800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "国务院反垄断反不正当竞争委员会办公室对外卖平台服务行业市场竞争状况开展调查、评估",
@@ -1201,8 +1238,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 12时43分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
