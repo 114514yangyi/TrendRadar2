@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T12:15:23.712712+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2026-01-11T13:33:51.932335+08:00",
+  "total_titles_processed": 729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "中国新增20万颗卫星申请，专家：卫星频轨资源申请已上升至国家战略层面",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 12时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 13时33分]"
         },
         {
           "title": "伊朗军方发声明称将捍卫国家利益，保护战略基础设施和公共财产，目前伊朗国内局势如何？",
@@ -27,11 +27,12 @@
             9,
             2,
             1,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时22分 ~ 12时15分]"
+          "appearance_count": 10,
+          "time_info": "[03时22分 ~ 13时33分]"
         },
         {
           "title": "国家海洋预报台：印尼塔劳群岛海域发生的地震或会在震源周围引发局地海啸",
@@ -53,11 +54,12 @@
             8,
             11,
             9,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 12时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 13时33分]"
         },
         {
           "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
@@ -92,8 +94,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时30分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[10时30分 ~ 13时33分]"
         },
         {
           "title": "据油轮追踪网站TankerTrackers和委内瑞拉国家石油公司的消息，至少四艘曾以“隐蔽模式”驶离委内瑞拉的油轮已返回该国水域。",
@@ -178,15 +180,15 @@
           "time_info": "[06时27分 ~ 12时15分]"
         },
         {
-          "title": "海南推行用地用林用海联合审批制度改革",
-          "url": "https://wallstreetcn.com/livenews/3034617",
+          "title": "国家粮食和物资储备安全政策专家咨询委员会召开全体会议",
+          "url": "https://wallstreetcn.com/livenews/3034631",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时15分"
+          "time_info": "13时33分"
         },
         {
           "title": "山西多地调整烟花爆竹政策",
@@ -202,6 +204,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时33分 ~ 07时27分]"
+        },
+        {
+          "title": "海南推行用地用林用海联合审批制度改革",
+          "url": "https://wallstreetcn.com/livenews/3034617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时33分]"
         },
         {
           "title": "石油巨头齐聚白宫探讨委内瑞拉原油，特朗普“你们投千亿、政府不出钱”，美孚“没改革就没投资”",
@@ -240,6 +254,17 @@
           "time_info": "[00时33分 ~ 02时39分]"
         },
         {
+          "title": "长光卫星：国内首张甚高分辨率彩色夜光遥感卫星影像发布",
+          "url": "https://wallstreetcn.com/livenews/3034626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
           "title": "特朗普宣布进入国家紧急状态",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E5%9B%BD%E5%AE%B6%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81",
           "source": "百度热搜",
@@ -265,7 +290,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
@@ -295,8 +320,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时25分 ~ 12时15分]"
+          "appearance_count": 12,
+          "time_info": "[01时25分 ~ 13时33分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -308,8 +333,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 12时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 13时33分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -323,8 +348,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 12时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 13时33分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -334,8 +359,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 12时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 13时33分]"
         },
         {
           "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
@@ -401,27 +426,40 @@
           "time_info": "[02时39分 ~ 07时27分]"
         },
         {
+          "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1990551534715556923",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时33分]"
+        },
+        {
           "title": "全球首次！印尼暂时封禁马斯克旗下AI",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%EF%BC%81%E5%8D%B0%E5%B0%BC%E6%9A%82%E6%97%B6%E5%B0%81%E7%A6%81%E9%A9%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8BAI",
           "source": "百度热搜",
           "ranks": [
             6,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时30分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[10时30分 ~ 13时33分]"
         },
         {
-          "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
-          "url": "https://www.zhihu.com/question/1990551534715556923",
-          "source": "知乎",
+          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
+          "url": "https://wallstreetcn.com/articles/3763033",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时15分"
+          "time_info": "13时33分"
         },
         {
           "title": "全球首次，印尼暂时封禁马斯克旗下AI聊天机器人",
@@ -433,6 +471,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "AI照片竟然拿了摄影比赛第一名",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%85%A7%E7%89%87%E7%AB%9F%E7%84%B6%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%90%8D%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
+          "title": "AI时代还有学画画的必要吗",
+          "url": "https://www.baidu.com/s?wd=AI%E6%97%B6%E4%BB%A3%E8%BF%98%E6%9C%89%E5%AD%A6%E7%94%BB%E7%94%BB%E7%9A%84%E5%BF%85%E8%A6%81%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         }
       ]
     },
@@ -469,11 +529,12 @@
           "source": "金十数据",
           "ranks": [
             15,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 12时15分]"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时33分]"
         },
         {
           "title": "美国财长贝森特：美国愿意将委内瑞拉的国际货币基金组织特别提款权兑换成美元，以帮助重建。",
@@ -481,11 +542,24 @@
           "source": "金十数据",
           "ranks": [
             16,
-            22
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时33分]"
+        },
+        {
+          "title": "否认强征慰安妇是挑战国际基本共识",
+          "url": "https://www.toutiao.com/trending/7593910595334704681/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 12时15分]"
+          "time_info": "[12时15分 ~ 13时33分]"
         },
         {
           "title": "特朗普宣称“不需要国际法”，联合国秘书长重申立场",
@@ -508,17 +582,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 05时26分]"
-        },
-        {
-          "title": "否认强征慰安妇是挑战国际基本共识",
-          "url": "https://www.toutiao.com/trending/7593910595334704681/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
         }
       ]
     },
@@ -526,6 +589,18 @@
       "keyword_group": "github 技术 行业 软件",
       "match_count": 4,
       "titles": [
+        {
+          "title": "外卖打车软件可使用，主要区域未发生骚乱…伊朗局势最新进展",
+          "url": "https://news.ifeng.com/c/8pouUo7LZC6",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时30分 ~ 13时33分]"
+        },
         {
           "title": "月之暗面创始人：中国技术不仅要好用，还要参与制定规则",
           "url": "https://flash.jin10.com/detail/20260110200509449800",
@@ -536,18 +611,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 07时27分]"
-        },
-        {
-          "title": "外卖打车软件可使用，主要区域未发生骚乱…伊朗局势最新进展",
-          "url": "https://news.ifeng.com/c/8pouUo7LZC6",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时30分 ~ 12时15分]"
         },
         {
           "title": "碳纤维行业进入“高端转型”关键期",
@@ -566,11 +629,12 @@
           "url": "https://www.zhihu.com/question/1992623155601236574",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时33分]"
         }
       ]
     },
@@ -585,11 +649,12 @@
           "ranks": [
             7,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 12时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 13时33分]"
         },
         {
           "title": "汉威科技：公司近年来对无创柔性脑机接口材料的研发及用于复杂脑信息协同监测等关键技术有所突破",
