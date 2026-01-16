@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T03:25:45.514008+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-01-17T04:31:12.003772+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 03时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 04时31分]"
         },
         {
           "title": "上合组织就伊朗局势发布声明",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 03时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 04时31分]"
         },
         {
           "title": "特朗普威胁：对不支持的国家加征关税",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[01时31分 ~ 04时31分]"
         },
         {
           "title": "上海合作组织发表关于伊朗局势的声明",
@@ -48,11 +48,12 @@
             25,
             19,
             9,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 03时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 04时31分]"
         },
         {
           "title": "聂卫平女儿发布讣告",
@@ -61,11 +62,25 @@
           "ranks": [
             25,
             24,
-            27
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 04时31分]"
+        },
+        {
+          "title": "柬埔寨将对中国公民试行免签政策",
+          "url": "https://www.douyin.com/hot/2369745",
+          "source": "抖音",
+          "ranks": [
+            11,
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时39分 ~ 03时25分]"
+          "time_info": "[01时31分 ~ 04时31分]"
         },
         {
           "title": "德总理：俄罗斯是一个欧洲国家，要实现关系平衡",
@@ -77,18 +92,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时39分 ~ 02时44分]"
-        },
-        {
-          "title": "柬埔寨将对中国公民试行免签政策",
-          "url": "https://www.douyin.com/hot/2369745",
-          "source": "抖音",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 03时25分]"
         },
         {
           "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
@@ -266,7 +269,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -277,8 +280,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 03时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 04时31分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -289,8 +292,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 03时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 04时31分]"
         },
         {
           "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
@@ -301,8 +304,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 03时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 04时31分]"
         },
         {
           "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
@@ -312,8 +315,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 03时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 04时31分]"
+        },
+        {
+          "title": "FTC严查AI领域“人才收购” 欲堵死硅谷巨头反垄断漏洞",
+          "url": "https://flash.jin10.com/detail/20260117034809871800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
@@ -321,11 +335,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时44分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时44分 ~ 04时31分]"
         },
         {
           "title": "变现压力下的“最后手段” OpenAI开启ChatGPT广告测试",
@@ -333,11 +348,12 @@
           "source": "金十数据",
           "ranks": [
             11,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时44分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时44分 ~ 04时31分]"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
@@ -345,11 +361,12 @@
           "source": "金十数据",
           "ranks": [
             13,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时44分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时44分 ~ 04时31分]"
         },
         {
           "title": "OpenAI：计划很快在美国开始对免费版的广告以及ChatGPT Go进行测试。",
@@ -357,11 +374,12 @@
           "source": "金十数据",
           "ranks": [
             14,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时44分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时44分 ~ 04时31分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元，目前已在全球范围内上线。",
@@ -369,11 +387,12 @@
           "source": "金十数据",
           "ranks": [
             16,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时44分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时44分 ~ 04时31分]"
         },
         {
           "title": "美国制裁Barash Aviation、Sama Airline、以及油轮Albarraq Z。",
@@ -389,6 +408,71 @@
       ]
     },
     {
+      "keyword_group": "科研 论文 大模型 科技 创新 成果",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
+          "url": "https://wallstreetcn.com/articles/3763450",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时31分 ~ 04时31分]"
+        },
+        {
+          "title": "特朗普拟推紧急电力拍卖 科技巨头或成最大赢家",
+          "url": "https://flash.jin10.com/detail/20260117035703378800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "中央财经大学刘姝威称福耀科技大学大一学生已被企业抢光，这反映了哪些人才培养趋势？",
+          "url": "https://www.zhihu.com/question/1995129976433947775",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 01时32分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.70%，报26640点。 恒生科技指数主连夜盘收跌0.70%，报5780点。",
+          "url": "https://wallstreetcn.com/livenews/3038978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 04时31分]"
+        },
+        {
+          "title": "福耀科技大学大一学生已被企业抢光",
+          "url": "https://www.toutiao.com/trending/7594710800431104063/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 04时31分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
       "match_count": 5,
       "titles": [
@@ -400,8 +484,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 03时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 04时31分]"
         },
         {
           "title": "一条内存半个月涨出一台iPhone",
@@ -412,8 +496,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 03时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 04时31分]"
         },
         {
           "title": "财政部同意福彩变更双色球游戏规则",
@@ -422,11 +506,12 @@
           "ranks": [
             16,
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 03时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 04时31分]"
         },
         {
           "title": "财政部同意福彩变更双色球游戏规则",
@@ -435,11 +520,12 @@
           "ranks": [
             13,
             18,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 03时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 04时31分]"
         },
         {
           "title": "内存价格暴涨电脑组装涨价一至两千元",
@@ -457,54 +543,55 @@
       ]
     },
     {
-      "keyword_group": "科研 论文 大模型 科技 创新 成果",
+      "keyword_group": "国际 外交 战争",
       "match_count": 4,
       "titles": [
         {
-          "title": "恒生指数主连夜盘收跌0.70%，报26640点。 恒生科技指数主连夜盘收跌0.70%，报5780点。",
-          "url": "https://wallstreetcn.com/livenews/3038978",
-          "source": "华尔街见闻-快讯",
+          "title": "战争警戒PC端首曝",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E4%BA%89%E8%AD%A6%E6%88%92PC%E7%AB%AF%E9%A6%96%E6%9B%9D",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 04时31分]"
+        },
+        {
+          "title": "与美国战争部长练体能，日本防卫大臣出现脱水症状",
+          "url": "https://news.ifeng.com/c/8pxv6RvgJiU",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 04时31分]"
+        },
+        {
+          "title": "国际原子能机构（IAEA）：已获得俄罗斯和乌克兰双方的同意，将实施局部停火。",
+          "url": "https://flash.jin10.com/detail/20260117035641932800",
+          "source": "金十数据",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时25分"
+          "time_info": "04时31分"
         },
         {
-          "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
-          "url": "https://wallstreetcn.com/articles/3763450",
-          "source": "华尔街见闻",
+          "title": "中国军品在国际市场备受瞩目",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%93%81%E5%9C%A8%E5%9B%BD%E9%99%85%E5%B8%82%E5%9C%BA%E5%A4%87%E5%8F%97%E7%9E%A9%E7%9B%AE",
+          "source": "百度热搜",
           "ranks": [
-            10
+            30,
+            24,
+            27
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时31分 ~ 03时25分]"
-        },
-        {
-          "title": "中央财经大学刘姝威称福耀科技大学大一学生已被企业抢光，这反映了哪些人才培养趋势？",
-          "url": "https://www.zhihu.com/question/1995129976433947775",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 01时32分]"
-        },
-        {
-          "title": "福耀科技大学大一学生已被企业抢光",
-          "url": "https://www.toutiao.com/trending/7594710800431104063/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 02时44分]"
+          "time_info": "[02时43分 ~ 04时31分]"
         }
       ]
     },
@@ -546,47 +633,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国际 外交 战争",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "战争警戒PC端首曝",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E4%BA%89%E8%AD%A6%E6%88%92PC%E7%AB%AF%E9%A6%96%E6%9B%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 03时25分]"
-        },
-        {
-          "title": "与美国战争部长练体能，日本防卫大臣出现脱水症状",
-          "url": "https://news.ifeng.com/c/8pxv6RvgJiU",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 03时25分]"
-        },
-        {
-          "title": "中国军品在国际市场备受瞩目",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%93%81%E5%9C%A8%E5%9B%BD%E9%99%85%E5%B8%82%E5%9C%BA%E5%A4%87%E5%8F%97%E7%9E%A9%E7%9B%AE",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 03时25分]"
         }
       ]
     }
