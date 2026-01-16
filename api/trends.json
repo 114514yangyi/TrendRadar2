@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-01-17T05:30:31.007062+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-01-17T06:31:01.452963+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
-          "title": "通过数字身份证溯源，新能源车废旧动力电池回收利用新规发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32398029",
-          "source": "澎湃新闻",
+          "title": "特朗普威胁：对不支持的国家加征关税",
+          "url": "https://news.ifeng.com/c/8pyLh0hhSlp",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[00时39分 ~ 05时30分]"
+          "time_info": "[01时31分 ~ 06时31分]"
+        },
+        {
+          "title": "通过数字身份证溯源，新能源车废旧动力电池回收利用新规发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398029",
+          "source": "澎湃新闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 06时31分]"
         },
         {
           "title": "上合组织就伊朗局势发布声明",
@@ -26,19 +38,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 05时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 06时31分]"
         },
         {
-          "title": "特朗普威胁：对不支持的国家加征关税",
-          "url": "https://news.ifeng.com/c/8pyLh0hhSlp",
-          "source": "凤凰网",
+          "title": "柬埔寨将对中国公民试行免签政策",
+          "url": "https://www.douyin.com/hot/2369745",
+          "source": "抖音",
           "ranks": [
-            1
+            11,
+            12,
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时31分 ~ 05时30分]"
+          "appearance_count": 11,
+          "time_info": "[01时31分 ~ 06时31分]"
         },
         {
           "title": "上海合作组织发表关于伊朗局势的声明",
@@ -53,8 +68,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 05时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 06时31分]"
         },
         {
           "title": "聂卫平女儿发布讣告",
@@ -67,21 +82,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 05时30分]"
-        },
-        {
-          "title": "柬埔寨将对中国公民试行免签政策",
-          "url": "https://www.douyin.com/hot/2369745",
-          "source": "抖音",
-          "ranks": [
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时31分 ~ 05时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 06时31分]"
         },
         {
           "title": "德总理：俄罗斯是一个欧洲国家，要实现关系平衡",
@@ -105,6 +107,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时32分]"
+        },
+        {
+          "title": "古巴国家主席：美国的“胁迫政策”无法迫使古巴妥协",
+          "url": "https://wallstreetcn.com/livenews/3039012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时31分]"
         },
         {
           "title": "欧元兑美元刷新日低至1.1585，特朗普扬言要在格陵兰问题上对那些“不配合”的国家加征关税。",
@@ -179,6 +193,28 @@
           "time_info": "[00时40分 ~ 01时32分]"
         },
         {
+          "title": "美联储副主席杰斐逊：当前的政策立场使我们处于有利位置，可以确定政策利率的调整幅度和时机。",
+          "url": "https://flash.jin10.com/detail/20260117043204809800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时31分]"
+        },
+        {
+          "title": "美联储副主席杰斐逊：自2024年以来的美联储降息已使政策利率进入与中性一致的区间。",
+          "url": "https://flash.jin10.com/detail/20260117043128220800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时31分]"
+        },
+        {
           "title": "王励勤改革剑指奥运新周期",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%B1%E5%8B%A4%E6%94%B9%E9%9D%A9%E5%89%91%E6%8C%87%E5%A5%A5%E8%BF%90%E6%96%B0%E5%91%A8%E6%9C%9F%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -190,15 +226,15 @@
           "time_info": "[00时39分 ~ 00时40分]"
         },
         {
-          "title": "古巴国家主席：美国的“胁迫政策”无法迫使古巴妥协",
-          "url": "https://wallstreetcn.com/livenews/3039012",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储副主席杰斐逊将于十分钟后就经济前景和货币政策发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260117042000000800",
+          "source": "金十数据",
           "ranks": [
-            7
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时31分]"
         },
         {
           "title": "美国最高法院将下周二定为下一个关税意见日，如不发布将至少再等一个月",
@@ -210,6 +246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "美国财长贝森特：预计将对美国工薪阶层返还1000亿-1500亿美元。 关税通胀是没曾叫唤的狗。 相信最高法院将支持总统特朗普的标志性（关税）政策。",
+          "url": "https://wallstreetcn.com/livenews/3039027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         },
         {
           "title": "美国两年期国债收益率上涨，此前特朗普称希望哈塞特留在国家经济委员会（NEC）。",
@@ -240,18 +287,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "美联储副主席杰斐逊：当前的政策立场使我们处于有利位置，可以确定政策利率的调整幅度和时机。",
-          "url": "https://flash.jin10.com/detail/20260117043204809800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -278,17 +314,6 @@
           "time_info": "00时40分"
         },
         {
-          "title": "美联储副主席杰斐逊：自2024年以来的美联储降息已使政策利率进入与中性一致的区间。",
-          "url": "https://flash.jin10.com/detail/20260117043128220800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
           "title": "美国总统特朗普：如果我们输掉最高法院的官司，那将是我们国家的耻辱。",
           "url": "https://flash.jin10.com/detail/20260116234855541800",
           "source": "金十数据",
@@ -309,17 +334,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
-        },
-        {
-          "title": "美联储副主席杰斐逊将于十分钟后就经济前景和货币政策发表讲话。",
-          "url": "https://flash.jin10.com/detail/20260117042000000800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
         }
       ]
     },
@@ -336,8 +350,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 05时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 06时31分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -348,8 +362,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 05时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 06时31分]"
         },
         {
           "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
@@ -360,8 +374,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 05时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 06时31分]"
         },
         {
           "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
@@ -452,24 +466,24 @@
           "time_info": "[02时44分 ~ 04时31分]"
         },
         {
-          "title": "AI初创公司ElevenLabs洽谈按110亿美元估值融资。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3039008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
           "title": "加利福尼亚州总检察长Rob Bonta向 xAI公司发出停止并终止信函，要求该公司立即停止非法行为。",
           "url": "https://flash.jin10.com/detail/20260117043322271800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时31分]"
+        },
+        {
+          "title": "AI初创公司ElevenLabs洽谈按110亿美元估值融资。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3039008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -488,8 +502,19 @@
     },
     {
       "keyword_group": "美股 美元",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "（美股）费城金银指数收涨0.06%，报395.01点，本周累计上涨5.47%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.06%，报2760.43点，特朗普谈论哈塞特带来一波尖锐的V形走势，本周累涨5.38%。 （美股）原材料指数收跌0.21%，报252.23点，本周累涨2.89%。 （美股）金属与矿业指数收跌1.09%，报241.90点，本周累涨4.46%。",
+          "url": "https://wallstreetcn.com/livenews/3039039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.58%，暂报4084.85点，最近连续天累计上涨0.07%，整体大致持稳，1月11日北京时间22:10前后出现一波尖锐的冲高回落行情——最高达到6268.44点。 MarketVectorTM数字资产100中盘指数跌2.22%，报3725.95点，最近七天累跌1.99%，整体冲高回落。 MarketVector数字资产100指数跌1.72%，报19592.12点，最近七天累涨2.99%。 最近七天，比特币累涨4.92%，目前报94872美元；以太坊累涨6.40%，暂报3279美元；Solana累涨4.40%，狗狗币累跌2.99%，XRP累跌2.22%。",
           "url": "https://wallstreetcn.com/livenews/3038945",
@@ -521,9 +546,31 @@
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时31分]"
+        },
+        {
+          "title": "美元指数16日上涨",
+          "url": "https://flash.jin10.com/detail/20260117043039247800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时31分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（1月16日），美国科技股七巨头（Magnificent 7）指数跌0.30%，报204.59点，本周累计下跌1.58%。 “超大”市值科技股指数涨0.12%，报392.82点，本周累跌0.54%。",
+          "url": "https://wallstreetcn.com/livenews/3039026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时30分"
+          "time_info": "06时31分"
         },
         {
           "title": "现货黄金日内跌幅达1.5%，报4546.43美元/盎司。 纽约银日内跌幅达6.0%，报86.81美元/盎司。 纽蒙特矿业跌2.3%。 标普跌0.18%，纳指跌0.2%，半导体指数涨幅收窄至0.8%。 两年期美债收益率涨幅扩大至2.6个基点，刷新日高至3.59%上方。 美元指数短线从99.20点下方反弹，重返99.33一线。 特朗普称，希望哈塞特继续担任白宫顾问。",
@@ -543,20 +590,96 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国际 外交 战争",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "战争警戒PC端首曝",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E4%BA%89%E8%AD%A6%E6%88%92PC%E7%AB%AF%E9%A6%96%E6%9B%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 06时31分]"
         },
         {
-          "title": "美元指数16日上涨",
-          "url": "https://flash.jin10.com/detail/20260117043039247800",
+          "title": "与美国战争部长练体能，日本防卫大臣出现脱水症状",
+          "url": "https://news.ifeng.com/c/8pxv6RvgJiU",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 06时31分]"
+        },
+        {
+          "title": "国际原子能机构（IAEA）：已获得俄罗斯和乌克兰双方的同意，将实施局部停火。",
+          "url": "https://flash.jin10.com/detail/20260117035641932800",
           "source": "金十数据",
           "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "中国军品在国际市场备受瞩目",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%93%81%E5%9C%A8%E5%9B%BD%E9%99%85%E5%B8%82%E5%9C%BA%E5%A4%87%E5%8F%97%E7%9E%A9%E7%9B%AE",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            24,
             27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时43分 ~ 04时31分]"
+        },
+        {
+          "title": "国际原子能机构：俄乌同意局部停火，以修复扎波罗热核电站受损供电线",
+          "url": "https://wallstreetcn.com/livenews/3039014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时31分]"
+        },
+        {
+          "title": "特朗普扬言接管格陵兰 俄罗斯回应：从国际法看非同寻常 将持续关注局势",
+          "url": "https://www.cls.cn/detail/2260775",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 06时31分]"
+        },
+        {
+          "title": "白宫宣布：成立加沙管理国家委员会。 卢比奥、Witkoff、库什纳将出任执行委员会成员。 Jasper Jeffers被任命为“国际稳定部队”指挥官。",
+          "url": "https://wallstreetcn.com/livenews/3039037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时30分"
+          "time_info": "06时31分"
         }
       ]
     },
@@ -574,8 +697,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时31分 ~ 05时30分]"
+          "appearance_count": 11,
+          "time_info": "[01时31分 ~ 06时31分]"
         },
         {
           "title": "福耀科技大学大一学生已被企业抢光",
@@ -584,11 +707,12 @@
           "ranks": [
             9,
             28,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时43分 ~ 05时30分]"
+          "appearance_count": 8,
+          "time_info": "[02时43分 ~ 06时31分]"
         },
         {
           "title": "特朗普拟推紧急电力拍卖 科技巨头或成最大赢家",
@@ -632,73 +756,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国际 外交 战争",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "战争警戒PC端首曝",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E4%BA%89%E8%AD%A6%E6%88%92PC%E7%AB%AF%E9%A6%96%E6%9B%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 05时30分]"
-        },
-        {
-          "title": "与美国战争部长练体能，日本防卫大臣出现脱水症状",
-          "url": "https://news.ifeng.com/c/8pxv6RvgJiU",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 05时30分]"
-        },
-        {
-          "title": "国际原子能机构（IAEA）：已获得俄罗斯和乌克兰双方的同意，将实施局部停火。",
-          "url": "https://flash.jin10.com/detail/20260117035641932800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "国际原子能机构：俄乌同意局部停火，以修复扎波罗热核电站受损供电线",
-          "url": "https://wallstreetcn.com/livenews/3039014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "中国军品在国际市场备受瞩目",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%93%81%E5%9C%A8%E5%9B%BD%E9%99%85%E5%B8%82%E5%9C%BA%E5%A4%87%E5%8F%97%E7%9E%A9%E7%9B%AE",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时43分 ~ 04时31分]"
         }
       ]
     },
@@ -714,8 +774,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 05时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 06时31分]"
         },
         {
           "title": "一条内存半个月涨出一台iPhone",
@@ -727,8 +787,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 05时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 06时31分]"
         },
         {
           "title": "财政部同意福彩变更双色球游戏规则",
@@ -741,8 +801,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 05时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 06时31分]"
         },
         {
           "title": "财政部同意福彩变更双色球游戏规则",
@@ -753,11 +813,12 @@
             18,
             15,
             12,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 05时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 06时31分]"
         },
         {
           "title": "内存价格暴涨电脑组装涨价一至两千元",
@@ -776,7 +837,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌提交通知，就司法部搜索裁决提起上诉。",
@@ -785,9 +846,20 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时31分]"
+        },
+        {
+          "title": "谷歌公司将针对美国法院判决“搜索中出现的非法操纵”提出上诉。",
+          "url": "https://wallstreetcn.com/livenews/3039041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时30分"
+          "time_info": "06时31分"
         }
       ]
     },
@@ -800,11 +872,12 @@
           "url": "https://wallstreetcn.com/livenews/3039017",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时31分]"
         }
       ]
     }
