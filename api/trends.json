@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T18:31:22.227075+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-01-18T19:23:42.475482+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "我国年用电量首超10万亿千瓦时，在全球单一国家中尚属首次",
@@ -54,11 +54,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 18时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 19时23分]"
         },
         {
           "title": "加拿大总理赴华求合作，特朗普回应：是好事，应该做",
@@ -197,6 +198,20 @@
           "time_info": "[10时28分 ~ 15时27分]"
         },
         {
+          "title": "伦敦警察局局长马克·罗利呼吁对警务体系进行彻底改革，称当前模式难以应对挑战。他主张合并英格兰和威尔士现有的43个警察部门，此举将为加大技术投入创造条件。",
+          "url": "https://flash.jin10.com/detail/20260118161640519800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 19时23分]"
+        },
+        {
           "title": "优必选与空中客车达成人形机器人在航空制造领域的合作",
           "url": "https://wallstreetcn.com/livenews/3039181",
           "source": "华尔街见闻-快讯",
@@ -234,19 +249,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时32分 ~ 04时31分]"
-        },
-        {
-          "title": "伦敦警察局局长马克·罗利呼吁对警务体系进行彻底改革，称当前模式难以应对挑战。他主张合并英格兰和威尔士现有的43个警察部门，此举将为加大技术投入创造条件。",
-          "url": "https://flash.jin10.com/detail/20260118161640519800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 18时31分]"
         },
         {
           "title": "特朗普称将对部分国家加征关税，直至“完全收购格陵兰岛”",
@@ -296,6 +298,28 @@
           "time_info": "[10时28分 ~ 12时11分]"
         },
         {
+          "title": "国家防灾减灾救灾委员会针对安徽河南湖南贵州四省启动国家低温雨雪冰冻灾害四级应急响应。",
+          "url": "https://flash.jin10.com/detail/20260118182249669800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "国家防灾减灾救灾委员会：针对四省启动国家低温雨雪冰冻灾害四级应急响应",
+          "url": "https://wallstreetcn.com/livenews/3039229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "若联合国解散哪些国家会受影响",
           "url": "https://www.toutiao.com/trending/7596229883899510835/",
           "source": "今日头条",
@@ -318,6 +342,17 @@
           "time_info": "17时29分"
         },
         {
+          "title": "全国多地发布紧急停课通知",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%8F%91%E5%B8%83%E7%B4%A7%E6%80%A5%E5%81%9C%E8%AF%BE%E9%80%9A%E7%9F%A5%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "北京多区发布暴雪蓝色预警",
           "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%9A%E5%8C%BA%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%AA%E8%93%9D%E8%89%B2%E9%A2%84%E8%AD%A6",
           "source": "百度热搜",
@@ -332,7 +367,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
@@ -344,8 +379,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时42分 ~ 18时31分]"
+          "appearance_count": 7,
+          "time_info": "[14时42分 ~ 19时23分]"
         },
         {
           "title": "Anthropic将Claude Cowork扩展至20美元Pro订阅用户",
@@ -364,6 +399,32 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时28分 ~ 18时31分]"
+        },
+        {
+          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
+          "url": "https://wallstreetcn.com/articles/3763531",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时31分 ~ 19时23分]"
+        },
+        {
+          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
+          "url": "https://www.zhihu.com/question/1995914466735388213",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时31分 ~ 19时23分]"
         },
         {
           "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -386,19 +447,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 07时27分]"
-        },
-        {
-          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
-          "url": "https://wallstreetcn.com/articles/3763531",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时31分 ~ 18时31分]"
         },
         {
           "title": "美国EPA 堵住监管漏洞，xAI依靠燃气轮机快速扩张数据中心的模式终结",
@@ -433,18 +481,6 @@
           "time_info": "[12时10分 ~ 17时29分]"
         },
         {
-          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
-          "url": "https://www.zhihu.com/question/1995914466735388213",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时31分 ~ 18时31分]"
-        },
-        {
           "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
           "url": "https://wallstreetcn.com/livenews/3039127",
           "source": "华尔街见闻-快讯",
@@ -457,6 +493,30 @@
           "time_info": "[00时32分 ~ 06时28分]"
         },
         {
+          "title": "尹同跃宣告奇瑞AI进入2.0时代，要快速追赶特斯拉FSD",
+          "url": "https://wallstreetcn.com/livenews/3039234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
+          "url": "https://wallstreetcn.com/articles/3763530",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 19时23分]"
+        },
+        {
           "title": "CoreWeave投资者会议：AI需求“无法解决”，客户愿意签长约，且提前12个月签约",
           "url": "https://wallstreetcn.com/articles/3763514",
           "source": "华尔街见闻",
@@ -467,18 +527,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时28分 ~ 12时11分]"
-        },
-        {
-          "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
-          "url": "https://wallstreetcn.com/articles/3763530",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 18时31分]"
         },
         {
           "title": "奇瑞超35款车型将搭载全新AI产品",
@@ -514,6 +562,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时28分 ~ 15时27分]"
+        },
+        {
+          "title": "没有商业模式--DeepSeek最坚固的“护城河”",
+          "url": "https://wallstreetcn.com/articles/3763534",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "“AI云”又杀回来了！2026年至今，CoreWeave涨超40%，Nebius涨近30%",
@@ -573,11 +632,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 18时31分]"
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 19时23分]"
         },
         {
           "title": "证监会对容百科技重大合同公告涉嫌误导性陈述立案调查",
@@ -585,11 +645,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 18时31分]"
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 19时23分]"
         },
         {
           "title": "容百科技：因重大合同公告涉嫌误导性陈述被证监会立案",
@@ -597,11 +658,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 18时31分]"
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 19时23分]"
         },
         {
           "title": "证监会对容百科技重大合同公告涉嫌误导性陈述立案调查",
@@ -609,11 +671,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 18时31分]"
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 19时23分]"
         },
         {
           "title": "我国人均存款超 11.8 万，其中定存超 7 成，非银存款亦创新高，你怎么看多存、猛攒、少借、早还的现象？",
@@ -624,8 +687,32 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 19时23分]"
+        },
+        {
+          "title": "美媒：美封锁策略挡不住中国科技崛起",
+          "url": "https://www.toutiao.com/trending/7596619845571972671/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时29分 ~ 18时31分]"
+          "time_info": "[18时30分 ~ 19时23分]"
+        },
+        {
+          "title": "容百科技：与宁德时代“1200亿元合同总金额”是公司估算得出，预计为满足本合同履约需求资本性支出约为87亿元",
+          "url": "https://wallstreetcn.com/livenews/3039219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时23分]"
         },
         {
           "title": "黄金白银迭创新高 投资者该怎么办",
@@ -649,34 +736,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时28分 ~ 12时11分]"
-        },
-        {
-          "title": "美媒：美封锁策略挡不住中国科技崛起",
-          "url": "https://www.toutiao.com/trending/7596619845571972671/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 18时31分]"
-        },
-        {
-          "title": "容百科技：与宁德时代“1200亿元合同总金额”是公司估算得出，预计为满足本合同履约需求资本性支出约为87亿元",
-          "url": "https://wallstreetcn.com/livenews/3039219",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
         }
       ]
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "机构路演：存储行业正转向“高利润、稳价格、弱周期”的运营模式",
@@ -725,6 +790,17 @@
           "time_info": "[00时32分 ~ 10时28分]"
         },
         {
+          "title": "加拿大计划借华技术造本土电车，“已提前告知美方”",
+          "url": "https://news.ifeng.com/c/8q0hRkfA8MH",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时10分 ~ 19时23分]"
+        },
+        {
           "title": "商业火箭发射密度不断加大 可复用技术成降本关键 各环节价值量几何？",
           "url": "https://www.cls.cn/detail/2260213",
           "source": "财联社热门",
@@ -736,17 +812,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时32分 ~ 14时42分]"
-        },
-        {
-          "title": "加拿大计划借华技术造本土电车，“已提前告知美方”",
-          "url": "https://news.ifeng.com/c/8q0hRkfA8MH",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时10分 ~ 18时31分]"
         },
         {
           "title": "“太行三兄弟”完成评估验收，将带动我国燃气轮机行业发展",
@@ -774,6 +839,17 @@
           "time_info": "[00时32分 ~ 07时27分]"
         },
         {
+          "title": "中信证券：证券行业在投行业务、衍生品等业务领域有望迎来重大结构性机遇",
+          "url": "https://flash.jin10.com/detail/20260118183037192800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "行业协会有89名“副会长”？联合调查组：依法暂停其对外活动",
           "url": "https://flash.jin10.com/detail/20260118141614864800",
           "source": "金十数据",
@@ -799,6 +875,17 @@
           "time_info": "[10时28分 ~ 12时11分]"
         },
         {
+          "title": "中信证券：证券行业在投行业务、衍生品等业务领域有望迎来重大结构性机遇",
+          "url": "https://wallstreetcn.com/livenews/3039232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "官方通报行业协会有89名副会长",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%A1%8C%E4%B8%9A%E5%8D%8F%E4%BC%9A%E6%9C%8989%E5%90%8D%E5%89%AF%E4%BC%9A%E9%95%BF%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -813,7 +900,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "徐寅生直播炮轰 WTT 和国际乒联，如何看待他指出的乒联现存问题？这会对乒乓球项目发展产生影响吗？",
@@ -825,8 +912,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时10分 ~ 18时31分]"
+          "appearance_count": 10,
+          "time_info": "[12时10分 ~ 19时23分]"
         },
         {
           "title": "外交部驻港公署发言人：坚决反对美国个别政客炮制涉港恶法",
@@ -866,6 +953,17 @@
           "time_info": "[10时28分 ~ 13时31分]"
         },
         {
+          "title": "“最快护士”张水华辞职后首跑，获重庆马拉松国际组第六名",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32410201",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时30分 ~ 19时23分]"
+        },
+        {
           "title": "俄乌战争还要持续多久",
           "url": "https://www.toutiao.com/trending/7596540133029973567/",
           "source": "今日头条",
@@ -878,15 +976,15 @@
           "time_info": "[13时31分 ~ 14时42分]"
         },
         {
-          "title": "“最快护士”张水华辞职后首跑，获重庆马拉松国际组第六名",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32410201",
-          "source": "澎湃新闻",
+          "title": "荷兰外交大臣：美国加征关税是“敲诈勒索”",
+          "url": "https://wallstreetcn.com/livenews/3039231",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 18时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         }
       ]
     },
