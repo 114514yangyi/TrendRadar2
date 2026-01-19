@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T12:17:14.776065+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-01-19T13:38:42.467027+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 43,
+      "match_count": 54,
       "titles": [
         {
           "title": "大范围雨雪将至 多地发布停课通知",
@@ -31,11 +31,12 @@
             7,
             4,
             19,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时25分 ~ 12时17分]"
+          "appearance_count": 13,
+          "time_info": "[01时25分 ~ 13时38分]"
         },
         {
           "title": "大范围雨雪来了 多地发布停课通知",
@@ -170,6 +171,17 @@
           "time_info": "10时26分"
         },
         {
+          "title": "开局之年 政策加力",
+          "url": "https://www.toutiao.com/trending/7596183011494838322/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "这个全球单一国家首次说明什么",
           "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E5%85%A8%E7%90%83%E5%8D%95%E4%B8%80%E5%9B%BD%E5%AE%B6%E9%A6%96%E6%AC%A1%E8%AF%B4%E6%98%8E%E4%BB%80%E4%B9%88%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -203,17 +215,6 @@
           "time_info": "07时27分"
         },
         {
-          "title": "国家统计局：2025年规模以上高技术制造业增加值比上年增长9.4%，为2022年以来最高点",
-          "url": "https://wallstreetcn.com/livenews/3039506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
           "title": "美国财长贝森特：格陵兰岛对美国国家安全至关重要。美国必须控制该岛。特朗普在这一问题上的做法具有战略考量。",
           "url": "https://flash.jin10.com/detail/20260118221242167800",
           "source": "金十数据",
@@ -236,6 +237,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时27分]"
+        },
+        {
+          "title": "国家统计局：2025年规模以上高技术制造业增加值比上年增长9.4%，为2022年以来最高点",
+          "url": "https://wallstreetcn.com/livenews/3039506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 13时38分]"
         },
         {
           "title": "欧洲8国联合声明：预先协调的“北极耐力”演习与盟友共同举行，正是为了应对这一需求。它对任何国家都不构成威胁。",
@@ -275,6 +288,18 @@
           "time_info": "[05时26分 ~ 07时27分]"
         },
         {
+          "title": "国家统计局：2025年GDP同比增长5%",
+          "url": "https://www.cls.cn/detail/2261730",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 13时38分]"
+        },
+        {
           "title": "三预警同时发布！重大气象灾害应急响应升级调整",
           "url": "https://m.thepaper.cn/newsDetail_forward_32412028",
           "source": "澎湃新闻",
@@ -299,15 +324,16 @@
           "time_info": "[02时37分 ~ 06时28分]"
         },
         {
-          "title": "国家统计局：2025年GDP同比增长5%",
-          "url": "https://www.cls.cn/detail/2261730",
-          "source": "财联社热门",
+          "title": "韩国与意大利签署半导体产业合作谅解备忘录，将加强芯片供应链，并共享信息。",
+          "url": "https://wallstreetcn.com/livenews/3039504",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            7,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
+          "time_info": "[12时17分 ~ 13时38分]"
         },
         {
           "title": "国新办发布会丨介绍2025年国民经济运行情况",
@@ -377,15 +403,15 @@
           "time_info": "10时26分"
         },
         {
-          "title": "韩国与意大利签署半导体产业合作谅解备忘录，将加强芯片供应链，并共享信息。",
-          "url": "https://wallstreetcn.com/livenews/3039504",
+          "title": "韩国财政部长：在当前通胀与外汇形势下，稳定消费者通胀是政策优先事项。",
+          "url": "https://wallstreetcn.com/livenews/3039533",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时17分"
+          "time_info": "13时38分"
         },
         {
           "title": "联合声明显示，卡塔尔重申致力于在加拿大国家建设项目中进行“重大战略投资”。",
@@ -416,9 +442,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
+        },
+        {
+          "title": "韩国财政部长：在当前通胀与外汇形势下，稳定消费者通胀是政策优先事项。",
+          "url": "https://flash.jin10.com/detail/20260119130306777800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "国家统计局：2025年，全国网上零售额同比增长8.6%",
@@ -443,15 +480,103 @@
           "time_info": "10时26分"
         },
         {
+          "title": "女商人服刑7年后获无罪提国家赔偿",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%95%86%E4%BA%BA%E6%9C%8D%E5%88%917%E5%B9%B4%E5%90%8E%E8%8E%B7%E6%97%A0%E7%BD%AA%E6%8F%90%E5%9B%BD%E5%AE%B6%E8%B5%94%E5%81%BF%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "国家统计局：2025年12月份各线城市商品住宅销售价格总体下降",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32413860",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "日本反对党中道改革联合(CRA)有关基本政策的立场声明：将致力于纠正日元过度贬值，降低食品、燃料等日常必需品的价格。 对已获得当地社区同意并具备有效疏散方案的核电站，将允许重启；同时目标是在未来转向不依赖核能的社会。 将促进对灾害救援和基础设施的定向投资。 将利用设立日本主权财富基金所产生的收入，废除食品消费税。",
+          "url": "https://wallstreetcn.com/livenews/3039527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "日本在野党联盟中道改革联合：对于获得当地社区同意、并已制定有效疏散方案的核电站，将允许其重启；同时，目标是在未来推动社会逐步转向不再依赖核能。",
+          "url": "https://flash.jin10.com/detail/20260119124234066800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "福建女商人林惠荣提国家赔偿申请获立案，曾服刑7年后获无罪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32413928",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "日本在野党联盟中道改革联合：将推动针对灾害救援和基础设施的定向投资。通过设立日本主权财富基金所创造的收入来取消食品销售的消费税。",
+          "url": "https://flash.jin10.com/detail/20260119124223462800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "胡润发布中国人工智能50强，寒武纪以6300亿元价值居首",
           "url": "https://wallstreetcn.com/livenews/3039492",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
+        },
+        {
+          "title": "日本在野党联盟中道改革联合在其基本政策立场声明中表示，将致力于纠正日元过度贬值，并下调包括食品、燃料在内的日常必需品价格。",
+          "url": "https://flash.jin10.com/detail/20260119124145279800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "首次制定发布！中医体质分类与判定有了国家标准",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414125",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "国家统计局局长康义说，2026年，我国支撑消费继续增长的积极因素仍然较多，消费有望平稳增长。",
@@ -460,7 +585,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -471,7 +596,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -482,7 +607,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -493,7 +618,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -504,7 +629,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -546,11 +671,12 @@
             19,
             16,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 12时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 13时38分]"
         },
         {
           "title": "“最快护士”张水华辞职后首跑，获重庆马拉松国际组第六名",
@@ -670,6 +796,32 @@
           "time_info": "[06时28分 ~ 07时27分]"
         },
         {
+          "title": "伊朗总统：袭击最高领袖等同全面战争",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E8%A2%AD%E5%87%BB%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%AD%89%E5%90%8C%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 13时38分]"
+        },
+        {
+          "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
+          "url": "https://www.zhihu.com/question/1996211344383435054",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 13时38分]"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬通过社交平台表示，任何对伊朗最高领袖哈梅内伊的攻击都将引发全面战争。",
           "url": "https://flash.jin10.com/detail/20260119040711327800",
           "source": "金十数据",
@@ -681,30 +833,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时32分 ~ 06时28分]"
-        },
-        {
-          "title": "伊朗总统：袭击最高领袖等同全面战争",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E8%A2%AD%E5%87%BB%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%AD%89%E5%90%8C%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 12时17分]"
-        },
-        {
-          "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
-          "url": "https://www.zhihu.com/question/1996211344383435054",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 12时17分]"
         },
         {
           "title": "珠海机场开通“珠海-克拉克”国际货运航线",
@@ -734,7 +862,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
@@ -756,8 +884,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 12时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 13时38分]"
         },
         {
           "title": "没有商业模式--DeepSeek最坚固的“护城河”",
@@ -769,8 +897,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 12时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 13时38分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -792,8 +920,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 12时17分]"
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 13时38分]"
         },
         {
           "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
@@ -814,11 +942,12 @@
           "url": "https://wallstreetcn.com/articles/3763537",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 13时38分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -844,6 +973,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "马斯克：AI5双芯配置接近Blackwell级别，但成本极低",
+          "url": "https://wallstreetcn.com/livenews/3039528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "OpenAI终向广告“妥协”，GEO逻辑被验证无误了吗？",
           "url": "https://www.cls.cn/detail/2261328",
           "source": "财联社热门",
@@ -853,6 +993,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "AI对存储的需求推动SSD发展 高速SSD主控芯片或供应吃紧",
+          "url": "https://www.cls.cn/detail/2261597",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "马斯克：AI5双芯片协同相当于英伟达Blackwell水平",
+          "url": "https://flash.jin10.com/detail/20260119125355949800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
@@ -868,6 +1030,128 @@
       ]
     },
     {
+      "keyword_group": "科研 论文 大模型 科技 创新 成果",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://www.cls.cn/detail/2261399",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 10时26分]"
+        },
+        {
+          "title": "我国人均存款超 11.8 万，其中定存超 7 成，非银存款亦创新高，你怎么看多存、猛攒、少借、早还的现象？",
+          "url": "https://www.zhihu.com/question/1996154645807141797",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时27分]"
+        },
+        {
+          "title": "格陵兰引发美欧关税战风险，纳指期货跌超1%，黄金大涨逼近4700关口，白银再创新高",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 13时38分]"
+        },
+        {
+          "title": "A股商业航天概念午后持续活跃，航亚科技、欧科亿20CM涨停，航发动力、航发控制、航发科技涨停，超捷股份、航宇科技、图南股份等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3039536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "用6万吨产能博千亿大单？锂电正极材料公司容百科技遭证监会立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32411428",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时27分 ~ 13时38分]"
+        },
+        {
+          "title": "“千亿合同金额”竟系公司估算 容百科技涉嫌误导性陈述被立案 | 速读公告",
+          "url": "https://www.cls.cn/detail/2261441",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 12时17分]"
+        },
+        {
+          "title": "加拿大商界人士积极评价加中经贸磋商成果",
+          "url": "https://wallstreetcn.com/livenews/3039252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时25分]"
+        },
+        {
+          "title": "上海“十五五”规划建议：加强量子科技、脑机接口、可控核聚变、生物制造、第六代移动通信等领域敏捷布局",
+          "url": "https://wallstreetcn.com/livenews/3039318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "险资看好2026权益市场，掘金“硬科技”投资机会",
+          "url": "https://wallstreetcn.com/livenews/3039315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "A股机器人概念股表现活跃，锋龙股份14连板，欧科亿20cm涨停，卡倍亿、华研精机、华自科技涨超10%，五洲新春、奥比中光涨逾5%。",
+          "url": "https://wallstreetcn.com/livenews/3039421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "github 技术 行业 软件",
       "match_count": 10,
       "titles": [
@@ -879,11 +1163,12 @@
             11,
             13,
             12,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 12时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 13时38分]"
         },
         {
           "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
@@ -894,8 +1179,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 12时17分]"
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 13时38分]"
         },
         {
           "title": "凯迪拉克F1赛车技术解析",
@@ -974,7 +1259,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -985,118 +1270,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
-          "url": "https://www.cls.cn/detail/2261399",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 10时26分]"
-        },
-        {
-          "title": "我国人均存款超 11.8 万，其中定存超 7 成，非银存款亦创新高，你怎么看多存、猛攒、少借、早还的现象？",
-          "url": "https://www.zhihu.com/question/1996154645807141797",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时27分]"
-        },
-        {
-          "title": "格陵兰引发美欧关税战风险，纳指期货跌超1%，黄金大涨逼近4700关口，白银再创新高",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 12时17分]"
-        },
-        {
-          "title": "用6万吨产能博千亿大单？锂电正极材料公司容百科技遭证监会立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32411428",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时27分 ~ 12时17分]"
-        },
-        {
-          "title": "“千亿合同金额”竟系公司估算 容百科技涉嫌误导性陈述被立案 | 速读公告",
-          "url": "https://www.cls.cn/detail/2261441",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
-        },
-        {
-          "title": "加拿大商界人士积极评价加中经贸磋商成果",
-          "url": "https://wallstreetcn.com/livenews/3039252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时25分]"
-        },
-        {
-          "title": "上海“十五五”规划建议：加强量子科技、脑机接口、可控核聚变、生物制造、第六代移动通信等领域敏捷布局",
-          "url": "https://wallstreetcn.com/livenews/3039318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "险资看好2026权益市场，掘金“硬科技”投资机会",
-          "url": "https://wallstreetcn.com/livenews/3039315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "A股机器人概念股表现活跃，锋龙股份14连板，欧科亿20cm涨停，卡倍亿、华研精机、华自科技涨超10%，五洲新春、奥比中光涨逾5%。",
-          "url": "https://wallstreetcn.com/livenews/3039421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
         }
       ]
     },
@@ -1113,8 +1289,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 12时17分]"
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 13时38分]"
         },
         {
           "title": "美光：内存大短缺将持续到2026年以后",
@@ -1123,9 +1299,26 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "热点",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260119124140458800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         }
       ]
     }
