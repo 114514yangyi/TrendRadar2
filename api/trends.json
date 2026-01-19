@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T19:30:15.489707+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-01-19T21:06:55.951024+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 80,
+      "match_count": 85,
       "titles": [
         {
           "title": "大范围雨雪将至 多地发布停课通知",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时38分 ~ 19时30分]"
+          "appearance_count": 11,
+          "time_info": "[13时38分 ~ 21时06分]"
         },
         {
           "title": "国家统计局：2025年GDP同比增长5%",
@@ -58,8 +58,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时38分 ~ 19时30分]"
+          "appearance_count": 11,
+          "time_info": "[13时38分 ~ 21时06分]"
         },
         {
           "title": "开局之年 政策加力",
@@ -118,11 +118,37 @@
             15,
             13,
             12,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时38分 ~ 19时30分]"
+          "appearance_count": 11,
+          "time_info": "[13时38分 ~ 21时06分]"
+        },
+        {
+          "title": "事关经济，两场重要新闻发布会将于明日举行",
+          "url": "https://www.cls.cn/detail/2262191",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 21时06分]"
+        },
+        {
+          "title": "重磅经济数据发布",
+          "url": "https://www.toutiao.com/trending/7596638782976364068/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 21时06分]"
         },
         {
           "title": "告别单打独斗！国家医保局下场铺路构建出海平台，药械企业如何接住这波红利？",
@@ -137,28 +163,17 @@
           "time_info": "[00时34分 ~ 06时28分]"
         },
         {
-          "title": "事关经济，两场重要新闻发布会将于明日举行",
-          "url": "https://www.cls.cn/detail/2262191",
+          "title": "一图看懂 | 国家电网“十五五”投资4万亿，锁定5大核心赛道",
+          "url": "https://www.cls.cn/detail/2262375",
           "source": "财联社热门",
           "ranks": [
+            5,
             4,
-            3,
             1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时30分]"
-        },
-        {
-          "title": "重磅经济数据发布",
-          "url": "https://www.toutiao.com/trending/7596638782976364068/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时30分]"
+          "time_info": "[18时38分 ~ 21时06分]"
         },
         {
           "title": "意总理：因格陵兰岛对欧洲国家加征关税“是一个错误”",
@@ -186,18 +201,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时37分 ~ 07时27分]"
-        },
-        {
-          "title": "一图看懂 | 国家电网“十五五”投资4万亿，锁定5大核心赛道",
-          "url": "https://www.cls.cn/detail/2262375",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时38分 ~ 19时30分]"
         },
         {
           "title": "美国财长贝森特：特朗普致力于保障美联储的独立性。 美联储拥有神奇的资金，为何不进行一些监管呢？ 或许市场希望从美联储获得一些政策透明度。 我们有四位出色的美联储主席候选人。 认为参议院会满意于这四位候选人的任何一位当选。 参议院银行委员会即将就美联储人选发表意见。 市场对司法部调查美联储事件未予过度关注。",
@@ -626,7 +629,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -653,6 +656,17 @@
           "time_info": "10时26分"
         },
         {
+          "title": "河南平顶山发布暴雪黄色预警",
+          "url": "https://www.toutiao.com/trending/7596912979939606571/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
           "title": "联合声明显示，卡塔尔重申致力于在加拿大国家建设项目中进行“重大战略投资”。",
           "url": "https://flash.jin10.com/detail/20260119060333422800",
           "source": "金十数据",
@@ -670,7 +684,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -772,6 +786,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "上海继续发布大风蓝色预警",
+          "url": "https://wallstreetcn.com/livenews/3039769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "日本首相高市早苗：将请求获得继续担任首相的授权。 我的首相生涯取决于这次选举。 在即将召开的会议上将讨论一些影响深远的法案。 认为选举是民众选择首相的机会。 执政联盟保持多数席位将意味我将继续担任首相。 曾担心我的政府还没有经受过选举的考验。 我的财政政策是对经济政策的根本性改变。",
@@ -917,6 +942,17 @@
           "time_info": "17时43分"
         },
         {
+          "title": "印度央行行长会见部分城市合作银行的行长和首席执行官。",
+          "url": "https://flash.jin10.com/detail/20260119204320585800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
           "title": "国家统计局局长：2026年我国有基础、有条件保持经济稳定向好运行",
           "url": "https://wallstreetcn.com/livenews/3039480",
           "source": "华尔街见闻-快讯",
@@ -950,6 +986,17 @@
           "time_info": "12时17分"
         },
         {
+          "title": "预告：国务院新闻办公室将于2026年1月21日（星期三）上午10时举行新闻发布会，请工业和信息化部副部长张云明介绍2025年工业和信息化发展成效，并答记者问。",
+          "url": "https://wallstreetcn.com/livenews/3039742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
           "title": "日本首相办公室：首相高市早苗将于当地时间今日下午6点（北京时间下午5点）举行新闻发布会。",
           "url": "https://wallstreetcn.com/livenews/3039416",
           "source": "华尔街见闻-快讯",
@@ -959,12 +1006,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "苹果将改为一年两次发布新品",
+          "url": "https://www.douyin.com/hot/2373017",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         }
       ]
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -993,8 +1051,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时34分 ~ 19时30分]"
+          "appearance_count": 24,
+          "time_info": "[00时34分 ~ 21时06分]"
         },
         {
           "title": "“最快护士”张水华辞职后首跑，获重庆马拉松国际组第六名",
@@ -1050,6 +1108,19 @@
           "time_info": "[10时26分 ~ 14时52分]"
         },
         {
+          "title": "外交部回应美方对欧洲八国加征关税",
+          "url": "https://www.cls.cn/detail/2262112",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 21时06分]"
+        },
+        {
           "title": "伊朗外交部：美国干涉应为美伊关系紧张负责",
           "url": "https://wallstreetcn.com/livenews/3039297",
           "source": "华尔街见闻-快讯",
@@ -1087,19 +1158,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时43分 ~ 19时30分]"
-        },
-        {
-          "title": "外交部回应美方对欧洲八国加征关税",
-          "url": "https://www.cls.cn/detail/2262112",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时30分]"
         },
         {
           "title": "欧盟外交官：欧盟成员国同意等到2月1日再采取行动，若美方届时加征关税，欧盟将考虑采取反制手段及反胁迫工具。",
@@ -1385,6 +1443,28 @@
           "time_info": "17时43分"
         },
         {
+          "title": "市场消息：伊朗外交部长将不会出席达沃斯论坛。",
+          "url": "https://flash.jin10.com/detail/20260119203939264800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
+          "title": "古巴启动“战争状态”",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%B4%E5%90%AF%E5%8A%A8%E2%80%9C%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
           "title": "超越国际同类实验十到二十年数据积累 江门中微子实验圆满完成任务",
           "url": "https://wallstreetcn.com/livenews/3039247",
           "source": "华尔街见闻-快讯",
@@ -1399,7 +1479,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
@@ -1498,6 +1578,30 @@
           "time_info": "15时37分"
         },
         {
+          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
+          "title": "金饰克价创新高",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 21时06分]"
+        },
+        {
           "title": "A股储能概念股持续反弹，海博思创涨超10%，华自科技、艾罗能源、阿特斯、锦浪科技、阳光电源跟涨。",
           "url": "https://wallstreetcn.com/livenews/3039578",
           "source": "华尔街见闻-快讯",
@@ -1522,28 +1626,17 @@
           "time_info": "[13时38分 ~ 14时52分]"
         },
         {
-          "title": "金饰克价创新高",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E5%88%9B%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时30分]"
-        },
-        {
           "title": "【数据看盘】多只沪深300相关ETF上周份额大减 顶级游资联手机构抢筹金风科技",
           "url": "https://www.cls.cn/detail/2262347",
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时38分 ~ 19时30分]"
+          "appearance_count": 4,
+          "time_info": "[18时38分 ~ 21时06分]"
         },
         {
           "title": "“千亿合同金额”竟系公司估算 容百科技涉嫌误导性陈述被立案 | 速读公告",
@@ -1602,6 +1695,17 @@
           "time_info": "16时44分"
         },
         {
+          "title": "独家｜基金经理“差别操作”曝光，自己钱重仓科技大赚，产品配置老登股亏钱，合规但不合情？",
+          "url": "https://www.cls.cn/detail/2262432",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
           "title": "上海“十五五”规划建议：加强量子科技、脑机接口、可控核聚变、生物制造、第六代移动通信等领域敏捷布局",
           "url": "https://wallstreetcn.com/livenews/3039318",
           "source": "华尔街见闻-快讯",
@@ -1635,6 +1739,17 @@
           "time_info": "14时52分"
         },
         {
+          "title": "天箭科技：预计2025年净利润同比下降1,657.73%～1,196.06%",
+          "url": "https://wallstreetcn.com/livenews/3039762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
           "title": "飞沃科技：预计2025年净利润为3200万元–4500万元，同比上升120.34% -128.6%。",
           "url": "https://wallstreetcn.com/livenews/3039651",
           "source": "华尔街见闻-快讯",
@@ -1660,7 +1775,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
@@ -1709,8 +1824,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时26分 ~ 19时30分]"
+          "appearance_count": 14,
+          "time_info": "[10时26分 ~ 21时06分]"
         },
         {
           "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
@@ -1822,6 +1937,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "荣耀Magic 8 Pro Air 售价4999元起",
+          "url": "https://wallstreetcn.com/livenews/3039775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
           "title": "AI算力竞赛的关键是什么",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%AE%97%E5%8A%9B%E7%AB%9E%E8%B5%9B%E7%9A%84%E5%85%B3%E9%94%AE%E6%98%AF%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -1842,6 +1968,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
+          "url": "https://www.cls.cn/detail/2262334",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
+          "title": "“大空头”放话：AI繁荣即将转为长期低迷，英伟达掉下神坛只是时间问题！",
+          "url": "https://www.cls.cn/detail/2262181",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "A股三大股指午后均转跌，创业板指日内跌幅达1%，深证成指跌0.19%，沪指跌0.01%。AI应用、保险、银行、半导体等方向跌幅居前，沪深京三市下跌个股近2100只。",
@@ -1888,6 +2036,17 @@
           "time_info": "17时43分"
         },
         {
+          "title": "Air手机界来了个真Pro",
+          "url": "https://s.weibo.com/weibo?q=%23Air%E6%89%8B%E6%9C%BA%E7%95%8C%E6%9D%A5%E4%BA%86%E4%B8%AA%E7%9C%9FPro%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
           "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
           "url": "https://wallstreetcn.com/livenews/3039251",
           "source": "华尔街见闻-快讯",
@@ -1902,7 +2061,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
@@ -2022,7 +2181,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -2055,9 +2214,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
+        },
+        {
+          "title": "媒体：医院隐瞒推诿比技术事故更可怕",
+          "url": "https://www.toutiao.com/trending/7597023008967888425/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "工信部等五部门：分阶段梯度培育建设零碳工厂，到2027年推进至汽车、光伏等行业",
@@ -2085,8 +2255,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时26分 ~ 19时30分]"
+          "appearance_count": 14,
+          "time_info": "[10时26分 ~ 21时06分]"
         },
         {
           "title": "我们的武侠游戏《息风谷战略》已正式发售，作为开发者，想听听大家对这款游戏有何看法，有什么想问我的？",
