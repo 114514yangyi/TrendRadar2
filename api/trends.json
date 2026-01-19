@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T16:44:08.378746+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-01-19T17:43:57.314866+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 67,
+      "match_count": 74,
       "titles": [
         {
           "title": "大范围雨雪将至 多地发布停课通知",
@@ -44,11 +44,26 @@
             19,
             8,
             9,
-            23
+            23,
+            20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时25分 ~ 16时44分]"
+          "appearance_count": 19,
+          "time_info": "[01时25分 ~ 17时43分]"
+        },
+        {
+          "title": "国家统计局：2025年GDP同比增长5%",
+          "url": "https://www.cls.cn/detail/2261730",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时16分 ~ 17时43分]"
         },
         {
           "title": "大范围雨雪来了 多地发布停课通知",
@@ -66,20 +81,6 @@
           "time_info": "[00时34分 ~ 07时27分]"
         },
         {
-          "title": "国家统计局：2025年GDP同比增长5%",
-          "url": "https://www.cls.cn/detail/2261730",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时16分 ~ 16时44分]"
-        },
-        {
           "title": "告别单打独斗！国家医保局下场铺路构建出海平台，药械企业如何接住这波红利？",
           "url": "https://www.cls.cn/detail/2261187",
           "source": "财联社热门",
@@ -90,6 +91,35 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时34分 ~ 06时28分]"
+        },
+        {
+          "title": "国家统计局：2025年12月份各线城市商品住宅销售价格总体下降",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32413860",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时38分 ~ 17时43分]"
+        },
+        {
+          "title": "福建女商人林惠荣提国家赔偿申请获立案，曾服刑7年后获无罪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32413928",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时38分 ~ 17时43分]"
         },
         {
           "title": "意总理：因格陵兰岛对欧洲国家加征关税“是一个错误”",
@@ -119,20 +149,6 @@
           "time_info": "[02时37分 ~ 07时27分]"
         },
         {
-          "title": "国家统计局：2025年12月份各线城市商品住宅销售价格总体下降",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32413860",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时38分 ~ 16时44分]"
-        },
-        {
           "title": "美国财长贝森特：特朗普致力于保障美联储的独立性。 美联储拥有神奇的资金，为何不进行一些监管呢？ 或许市场希望从美联储获得一些政策透明度。 我们有四位出色的美联储主席候选人。 认为参议院会满意于这四位候选人的任何一位当选。 参议院银行委员会即将就美联储人选发表意见。 市场对司法部调查美联储事件未予过度关注。",
           "url": "https://wallstreetcn.com/livenews/3039277",
           "source": "华尔街见闻-快讯",
@@ -145,6 +161,34 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时34分 ~ 05时26分]"
+        },
+        {
+          "title": "首次制定发布！中医体质分类与判定有了国家标准",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414125",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时38分 ~ 17时43分]"
+        },
+        {
+          "title": "三预警同时发布！重大气象灾害应急响应升级调整",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32412028",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 17时43分]"
         },
         {
           "title": "欧元兑美元报价跌0.1%，此前美国总统特朗普围绕格陵兰问题向欧洲八个国家发出关税威胁。",
@@ -171,20 +215,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时37分 ~ 06时28分]"
-        },
-        {
-          "title": "福建女商人林惠荣提国家赔偿申请获立案，曾服刑7年后获无罪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32413928",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时38分 ~ 16时44分]"
         },
         {
           "title": "美国财长贝森特：欧美贸易协议尚未达成最终协议。 特朗普拥有使用关税的紧急权力。 特朗普在处理格陵兰问题时采取了“策略性”的做法。 我们将继续留在北约内。 最高法院不大可能推翻特朗普的关税政策。",
@@ -214,33 +244,6 @@
           "time_info": "[00时34分 ~ 05时26分]"
         },
         {
-          "title": "首次制定发布！中医体质分类与判定有了国家标准",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414125",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时38分 ~ 16时44分]"
-        },
-        {
-          "title": "三预警同时发布！重大气象灾害应急响应升级调整",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32412028",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时26分 ~ 15时37分]"
-        },
-        {
           "title": "2025年国民经济运行情况发布会",
           "url": "https://www.douyin.com/hot/2372470",
           "source": "抖音",
@@ -252,6 +255,17 @@
           "time_info": "10时26分"
         },
         {
+          "title": "重磅经济数据发布",
+          "url": "https://www.toutiao.com/trending/7596638782976364068/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "这个全球单一国家首次说明什么",
           "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E5%85%A8%E7%90%83%E5%8D%95%E4%B8%80%E5%9B%BD%E5%AE%B6%E9%A6%96%E6%AC%A1%E8%AF%B4%E6%98%8E%E4%BB%80%E4%B9%88%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -261,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "事关经济，两场重要新闻发布会将于明日举行",
+          "url": "https://www.cls.cn/detail/2262191",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "中证报：服务消费政策支持料加码",
@@ -382,6 +407,17 @@
           "time_info": "[05时26分 ~ 07时27分]"
         },
         {
+          "title": "国家统计局：12月份社会消费品零售总额45136亿元 同比增长0.9%",
+          "url": "https://www.cls.cn/detail/2261740",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 17时43分]"
+        },
+        {
           "title": "国家级歌手称UP主让华语乐坛氛围更好",
           "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%AD%8C%E6%89%8B%E7%A7%B0UP%E4%B8%BB%E8%AE%A9%E5%8D%8E%E8%AF%AD%E4%B9%90%E5%9D%9B%E6%B0%9B%E5%9B%B4%E6%9B%B4%E5%A5%BD&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -452,17 +488,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时52分 ~ 15时37分]"
-        },
-        {
-          "title": "国家统计局：12月份社会消费品零售总额45136亿元 同比增长0.9%",
-          "url": "https://www.cls.cn/detail/2261740",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
         },
         {
           "title": "日本反对党中道改革联合(CRA)有关基本政策的立场声明：将致力于纠正日元过度贬值，降低食品、燃料等日常必需品的价格。 对已获得当地社区同意并具备有效疏散方案的核电站，将允许重启；同时目标是在未来转向不依赖核能的社会。 将促进对灾害救援和基础设施的定向投资。 将利用设立日本主权财富基金所产生的收入，废除食品消费税。",
@@ -544,6 +569,17 @@
           "time_info": "10时26分"
         },
         {
+          "title": "日本首相高市早苗：将结束过度紧缩的财政政策。 必须大胆投资风险管理，必须摆脱过度紧缩的束缚。 战略性财政支出将增加就业、提高家庭收入，并带来更高的税收收入。 食品通胀预计将维持高企。 计划暂停征收食品消费税两年。 将不再预设额外预算。 将通过降低日本债务/GDP的比率来确保日本财政状况的可持续性。",
+          "url": "https://wallstreetcn.com/livenews/3039665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "联合声明显示，卡塔尔重申致力于在加拿大国家建设项目中进行“重大战略投资”。",
           "url": "https://flash.jin10.com/detail/20260119060333422800",
           "source": "金十数据",
@@ -621,13 +657,24 @@
           "time_info": "13时38分"
         },
         {
+          "title": "国家统计局：2026年我国有基础、有条件保持经济稳定向好运行",
+          "url": "https://www.cls.cn/detail/2261607",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "法国财长：勒索国家是不可接受的，欧洲国家必须保持团结。",
           "url": "https://flash.jin10.com/detail/20260119161943475800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -638,9 +685,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "日本首相高市早苗：将请求获得继续担任首相的授权。 我的首相生涯取决于这次选举。 在即将召开的会议上将讨论一些影响深远的法案。 认为选举是民众选择首相的机会。 执政联盟保持多数席位将意味我将继续担任首相。 曾担心我的政府还没有经受过选举的考验。 我的财政政策是对经济政策的根本性改变。",
+          "url": "https://wallstreetcn.com/livenews/3039659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "日本在野党联盟中道改革联合官员Okamoto：确保资金来源以实施食品减税至关重要。",
@@ -682,7 +740,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -764,6 +822,17 @@
           "time_info": "12时17分"
         },
         {
+          "title": "江西铜业：与中国兵工物资集团有限公司签订《合作框架协议》，协议主要涉及阴极铜、粗铜、电解镍等产品的购销。",
+          "url": "https://wallstreetcn.com/livenews/3039650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "国家统计局局长：2026年我国有基础、有条件保持经济稳定向好运行",
           "url": "https://wallstreetcn.com/livenews/3039480",
           "source": "华尔街见闻-快讯",
@@ -806,12 +875,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "中央气象台继续发布暴雪黄色预警",
+          "url": "https://www.toutiao.com/trending/7596613825602142254/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         }
       ]
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 25,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -836,11 +916,12 @@
             11,
             12,
             13,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时34分 ~ 16时44分]"
+          "appearance_count": 20,
+          "time_info": "[00时34分 ~ 17时43分]"
         },
         {
           "title": "“最快护士”张水华辞职后首跑，获重庆马拉松国际组第六名",
@@ -894,6 +975,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时26分 ~ 14时52分]"
+        },
+        {
+          "title": "国际货币基金组织预计今年全球经济增速将维持在3.3%",
+          "url": "https://wallstreetcn.com/livenews/3039677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "伊朗外交部：美国干涉应为美伊关系紧张负责",
@@ -1035,6 +1127,17 @@
           "time_info": "[04时32分 ~ 06时28分]"
         },
         {
+          "title": "外交部回应美方对欧洲八国加征关税",
+          "url": "https://www.toutiao.com/trending/7596494947302264374/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 17时43分]"
+        },
+        {
           "title": "珠海机场开通“珠海-克拉克”国际货运航线",
           "url": "https://wallstreetcn.com/livenews/3039269",
           "source": "华尔街见闻-快讯",
@@ -1046,17 +1149,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时34分 ~ 02时37分]"
-        },
-        {
-          "title": "外交部回应美方对欧洲八国加征关税",
-          "url": "https://www.toutiao.com/trending/7596494947302264374/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
         },
         {
           "title": "外交部回应美方对欧洲八国加征关税",
@@ -1081,6 +1173,50 @@
           "time_info": "15时37分"
         },
         {
+          "title": "外交部回应美方对欧洲八国加征关税",
+          "url": "https://www.cls.cn/detail/2262112",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "国际货币基金组织：预计2026年欧元区经济增长率为1.3%，较10月预测上调0.1个百分点；2027年经济增长率为1.4%，与10月预测持平。",
+          "url": "https://flash.jin10.com/detail/20260119173205198800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "国际货币基金组织：预计巴西2026年经济增长率为1.6%，低于10月份预测的1.9%，原因是去年实施了货币紧缩政策。",
+          "url": "https://flash.jin10.com/detail/20260119173110172800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "国际货币基金组织：预计2027年全球经济增长率为3.2%，与10月份的预测持平；2025年全球经济增长率为3.3%，高于10月份预测的3.2%。",
+          "url": "https://flash.jin10.com/detail/20260119173105096800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "政府网站显示，日本国际石油开发帝石（INPEX）已撤回其在澳大利亚年处理能力为1,000万吨的博纳帕特碳捕集与封存（CCS）项目的环境方案。",
           "url": "https://flash.jin10.com/detail/20260119144923327800",
           "source": "金十数据",
@@ -1098,9 +1234,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "国际货币基金组织：预计2026年美国经济增长率为2.4%，高于10月份预测的2.1%；2027年美国经济增长率预计为2.0%，低于10月份预测的2.1%。",
+          "url": "https://flash.jin10.com/detail/20260119173100309800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "国际货币基金组织：预测2026年日本经济增长率为0.7%，高于10月份预测的0.6%；2027年经济增长率维持在0.6%，与10月份预测持平。",
+          "url": "https://flash.jin10.com/detail/20260119173047789800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "2026上海国际具身智能产业博览会7月举办",
@@ -1112,6 +1270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
+        },
+        {
+          "title": "英国首相斯塔默：我们对国际法的承诺是务实的。",
+          "url": "https://flash.jin10.com/detail/20260119172927301800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "超越国际同类实验十到二十年数据积累 江门中微子实验圆满完成任务",
@@ -1128,7 +1297,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
@@ -1177,8 +1346,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时26分 ~ 16时44分]"
+          "appearance_count": 10,
+          "time_info": "[10时26分 ~ 17时43分]"
         },
         {
           "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
@@ -1190,8 +1359,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时16分 ~ 16时44分]"
+          "appearance_count": 9,
+          "time_info": "[12时16分 ~ 17时43分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -1232,6 +1401,18 @@
           "time_info": "[04时32分 ~ 07时27分]"
         },
         {
+          "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
+          "url": "https://www.zhihu.com/question/1995464531351135851",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 17时43分]"
+        },
+        {
           "title": "马斯克：AI5双芯配置接近Blackwell级别，但成本极低",
           "url": "https://wallstreetcn.com/livenews/3039528",
           "source": "华尔街见闻-快讯",
@@ -1242,17 +1423,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时38分 ~ 14时52分]"
-        },
-        {
-          "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
-          "url": "https://www.zhihu.com/question/1995464531351135851",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
         },
         {
           "title": "UP主手搓可食用的AI海洋方块",
@@ -1287,6 +1457,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "AI算力竞赛的关键是什么",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%AE%97%E5%8A%9B%E7%AB%9E%E8%B5%9B%E7%9A%84%E5%85%B3%E9%94%AE%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "OpenAI终向广告“妥协”，GEO逻辑被验证无误了吗？",
@@ -1333,6 +1514,17 @@
           "time_info": "15时37分"
         },
         {
+          "title": "美光科技称AI热潮驱动“前所未见”的内存短缺",
+          "url": "https://wallstreetcn.com/livenews/3039654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
           "url": "https://wallstreetcn.com/livenews/3039251",
           "source": "华尔街见闻-快讯",
@@ -1347,7 +1539,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
@@ -1383,8 +1575,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时27分 ~ 16时44分]"
+          "appearance_count": 11,
+          "time_info": "[07时27分 ~ 17时43分]"
         },
         {
           "title": "格陵兰引发美欧关税战风险，纳指期货跌超1%，黄金大涨逼近4700关口，白银再创新高",
@@ -1411,6 +1603,18 @@
           "time_info": "[16时43分 ~ 16时44分]"
         },
         {
+          "title": "金饰克价创新高",
+          "url": "https://www.toutiao.com/trending/7596903365934759979/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时37分 ~ 17时43分]"
+        },
+        {
           "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
@@ -1422,16 +1626,15 @@
           "time_info": "15时37分"
         },
         {
-          "title": "金饰克价创新高",
-          "url": "https://www.toutiao.com/trending/7596903365934759979/",
-          "source": "今日头条",
+          "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            21
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 16时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "A股储能概念股持续反弹，海博思创涨超10%，华自科技、艾罗能源、阿特斯、锦浪科技、阳光电源跟涨。",
@@ -1498,7 +1701,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -1534,6 +1737,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
+        },
+        {
+          "title": "金饰克价创新高",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "飞沃科技：预计2025年净利润为3200万元–4500万元，同比上升120.34% -128.6%。",
+          "url": "https://wallstreetcn.com/livenews/3039651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "A股机器人概念股表现活跃，锋龙股份14连板，欧科亿20cm涨停，卡倍亿、华研精机、华自科技涨超10%，五洲新春、奥比中光涨逾5%。",
@@ -1580,17 +1805,6 @@
           "time_info": "[00时34分 ~ 13时38分]"
         },
         {
-          "title": "凯迪拉克F1赛车技术解析",
-          "url": "https://search.bilibili.com/all?keyword=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8BF1%E8%B5%9B%E8%BD%A6%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
           "title": "镁价底部反弹+全产业链加速卡位 航天与机器人等新需求能否重塑镁行业格局？|行业观察",
           "url": "https://www.cls.cn/detail/2261815",
           "source": "财联社热门",
@@ -1600,8 +1814,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时51分 ~ 16时44分]"
+          "appearance_count": 6,
+          "time_info": "[14时51分 ~ 17时43分]"
+        },
+        {
+          "title": "凯迪拉克F1赛车技术解析",
+          "url": "https://search.bilibili.com/all?keyword=%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8BF1%E8%B5%9B%E8%BD%A6%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "载人飞船着陆缓冲技术获成功验证",
@@ -1710,8 +1935,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时26分 ~ 16时44分]"
+          "appearance_count": 10,
+          "time_info": "[10时26分 ~ 17时43分]"
         },
         {
           "title": "我们的武侠游戏《息风谷战略》已正式发售，作为开发者，想听听大家对这款游戏有何看法，有什么想问我的？",
