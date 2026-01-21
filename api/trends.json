@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T21:06:38.312231+08:00",
-  "total_titles_processed": 1868,
+  "generated_at": "2026-01-21T22:40:09.578301+08:00",
+  "total_titles_processed": 1988,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 60,
+      "match_count": 63,
       "titles": [
         {
           "title": "促内需一揽子政策落地",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时24分 ~ 21时06分]"
+          "appearance_count": 14,
+          "time_info": "[10时24分 ~ 22时40分]"
         },
         {
           "title": "激发民间投资、促进消费，财政部公布一揽子扩内需政策",
@@ -61,7 +61,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -86,6 +86,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "去年净利亏损约10亿！摩尔线程发布上市后首份业绩预告",
+          "url": "https://www.cls.cn/detail/2265495",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时06分 ~ 22时40分]"
         },
         {
           "title": "美国总统特朗普将参加白宫在美东时间13:00（北京时间02:00）举办的新闻发布会。（CBS）",
@@ -249,6 +261,17 @@
           "time_info": "17时41分"
         },
         {
+          "title": "特朗普：格陵兰岛是美国的“核心国家安全利益”",
+          "url": "https://wallstreetcn.com/livenews/3041341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "日本工会联合会主席：期望政府通过经济政策稳定物价和外汇。",
           "url": "https://flash.jin10.com/detail/20260121131507854800",
           "source": "金十数据",
@@ -291,17 +314,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
-        },
-        {
-          "title": "去年净利亏损约10亿！摩尔线程发布上市后首份业绩预告",
-          "url": "https://www.cls.cn/detail/2265495",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时06分"
         },
         {
           "title": "特朗普：我们国家如今面临的所有犯罪问题，都是“昏睡乔（美国前总统拜登）”和围在白宫椭圆形办公室决策桌旁的激进左翼暴徒一手造成的——当然，还包括对自动签字笔（Auto Pen）的非法使用！！！他们都该进监狱！",
@@ -568,6 +580,17 @@
           "time_info": "12时11分"
         },
         {
+          "title": "美国总统特朗普：通过关税手段实现了“最惠国待遇”药品政策。",
+          "url": "https://flash.jin10.com/detail/20260121222249779800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "特朗普发P图将委内瑞拉涂上星条旗，委政府呼吁民众发布官方地图打击“虚假信息”",
           "url": "https://wallstreetcn.com/livenews/3040808",
           "source": "华尔街见闻-快讯",
@@ -621,6 +644,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        },
+        {
+          "title": "特朗普：德国总理默茨工作做得非常出色。 德国能源问题并非现任总理的过错。 我希望欧洲和英国“表现出色”。 默茨正在德国处理电力故障问题。 美国关心欧洲人民，我本人也源自欧洲。 能源、贸易、移民、经济增长是美国西部发展的关键因素。 我们想要的是实力强大的盟友，而不是实力严重削弱的盟友。 格陵兰岛的情况让这个问题更加清晰明了。 除了美国之外，没有哪个国家有能力掌控格陵兰岛。",
+          "url": "https://wallstreetcn.com/livenews/3041323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "欧洲央行管委维勒鲁瓦：法国和欧洲并不孤单，让我们与那些与我们价值观相同的国家携手合作。",
@@ -681,18 +715,19 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "外交部回应是否加入和平委员会",
           "url": "https://www.douyin.com/hot/2375188",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时41分 ~ 21时06分]"
+          "appearance_count": 7,
+          "time_info": "[17时41分 ~ 22时40分]"
         },
         {
           "title": "外交部：绝不允许家门口生战生乱",
@@ -847,6 +882,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 02时56分]"
+        },
+        {
+          "title": "中国还会租借大熊猫给日本吗？外交部：欢迎日本民众来中国看大熊猫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32432551",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 22时40分]"
         },
         {
           "title": "土耳其外交部消息人士：土耳其外交部长在与美国国务卿鲁比奥的电话中讨论了和平委员会及叙利亚最新局势。",
@@ -1009,7 +1055,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -1072,7 +1118,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "DeepSeek Model 1悄然现身",
@@ -1088,8 +1134,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时11分 ~ 21时06分]"
+          "appearance_count": 13,
+          "time_info": "[12时11分 ~ 22时40分]"
         },
         {
           "title": "疑似AI玩家确认是Roamer",
@@ -1118,8 +1164,24 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时36分 ~ 21时06分]"
+          "appearance_count": 12,
+          "time_info": "[13时36分 ~ 22时40分]"
+        },
+        {
+          "title": "图灵的猫回应预测韩服AI疑云",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            12,
+            10,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时42分 ~ 22时40分]"
         },
         {
           "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
@@ -1133,19 +1195,17 @@
           "time_info": "[13时36分 ~ 19时32分]"
         },
         {
-          "title": "图灵的猫回应预测韩服AI疑云",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
-          "source": "bilibili 热搜",
+          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
+          "url": "https://www.cls.cn/detail/2265232",
+          "source": "财联社热门",
           "ranks": [
-            2,
             12,
-            10,
             9,
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时42分 ~ 21时06分]"
+          "time_info": "[18时39分 ~ 22时40分]"
         },
         {
           "title": "俄罗斯积雪9层楼高视频系AI生成",
@@ -1154,7 +1214,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -1193,16 +1253,16 @@
           "time_info": "[17时41分 ~ 18时39分]"
         },
         {
-          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
-          "url": "https://www.cls.cn/detail/2265232",
-          "source": "财联社热门",
+          "title": "咻咻满COS翻唱icantwait",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
-            9
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时39分 ~ 21时06分]"
+          "appearance_count": 3,
+          "time_info": "[21时06分 ~ 22时40分]"
         },
         {
           "title": "上海中小学开设AI课程",
@@ -1242,6 +1302,17 @@
           "time_info": "[02时56分 ~ 04时18分]"
         },
         {
+          "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32418066",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 22时40分]"
+        },
+        {
           "title": "中国的AI+经济",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%9A%84AI%2B%E7%BB%8F%E6%B5%8E",
           "source": "bilibili 热搜",
@@ -1273,17 +1344,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
-        },
-        {
-          "title": "咻咻满COS翻唱icantwait",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时06分"
         },
         {
           "title": "据The Information：OpenAI将于二月推出聊天机器人广告，并根据广告浏览量收费。",
@@ -1758,7 +1818,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "我国已启动第二阶段6G技术试验",
@@ -1961,6 +2021,17 @@
           "time_info": "16时42分"
         },
         {
+          "title": "（丹麦）维斯塔斯风力技术集团跌幅扩大至约3%，美国总统特朗普正谈及美国对风电的需求。",
+          "url": "https://wallstreetcn.com/livenews/3041328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "兴业银行业绩快报：2025年净利润774.7亿元，同比增长0.34%。",
           "url": "https://wallstreetcn.com/livenews/3041214",
           "source": "华尔街见闻-快讯",
@@ -1997,7 +2068,7 @@
     },
     {
       "keyword_group": "美股 美元",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
@@ -2071,6 +2142,17 @@
           "time_info": "05时30分"
         },
         {
+          "title": "美股开盘，道指开涨0.12%，标普500指数涨0.2%，纳指涨0.25%。奈飞(NFLX.O)跌超5%，公司Q1业绩指引逊于预期，暂停股票回购。强生(JNJ.N)跌2.9%，公司业绩展望低于预期。",
+          "url": "https://flash.jin10.com/detail/20260121223021772800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "美元指数跌超0.4%",
           "url": "https://wallstreetcn.com/livenews/3040662",
           "source": "华尔街见闻-快讯",
@@ -2085,7 +2167,7 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "R 星破例让绝症粉丝提前游玩 GTA6，还有哪些游戏公司与玩家之间的感动故事吗？",
@@ -2093,11 +2175,23 @@
           "source": "知乎",
           "ranks": [
             6,
-            11
+            11,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时39分 ~ 21时06分]"
+          "appearance_count": 6,
+          "time_info": "[18时39分 ~ 22时40分]"
+        },
+        {
+          "title": "Steam好评榜Top100大洗牌",
+          "url": "https://search.bilibili.com/all?keyword=Steam%E5%A5%BD%E8%AF%84%E6%A6%9CTop100%E5%A4%A7%E6%B4%97%E7%89%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 22时40分]"
         },
         {
           "title": "为什么大多数的游戏怪物一定会给你显示一个血条？会觉得很破坏沉浸感么？",
