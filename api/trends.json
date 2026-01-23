@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T21:04:16.027199+08:00",
-  "total_titles_processed": 1909,
+  "generated_at": "2026-01-23T22:34:21.758766+08:00",
+  "total_titles_processed": 2039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 80,
+      "match_count": 84,
       "titles": [
         {
           "title": "菲律宾16日起对持普通护照的中国公民免签，我使馆发布提醒",
@@ -647,6 +647,28 @@
           "time_info": "17时38分"
         },
         {
+          "title": "腾讯2025新增永不合作公司名单",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF2025%E6%96%B0%E5%A2%9E%E6%B0%B8%E4%B8%8D%E5%90%88%E4%BD%9C%E5%85%AC%E5%8F%B8%E5%90%8D%E5%8D%95%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "八部门发布《可能影响未成年人身心健康的网络信息分类办法》",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32449115",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "北约将北极地区所有北欧国家纳入同一指挥体系",
           "url": "https://wallstreetcn.com/livenews/3042261",
           "source": "华尔街见闻-快讯",
@@ -686,9 +708,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
+        },
+        {
+          "title": "“赴港上市门槛收紧”传闻不实，境外上市政策没有变化",
+          "url": "https://wallstreetcn.com/livenews/3042968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "乌克兰国家电力公司通报称，23日，乌克兰所有地区都将实施停电计划。",
@@ -856,6 +889,17 @@
           "time_info": "15时33分"
         },
         {
+          "title": "两部门联合发布第二批金融领域“黑灰产”违法犯罪典型案例",
+          "url": "https://wallstreetcn.com/livenews/3042959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "日本央行：前景面临的风险包括贸易政策对海外经济体的影响、国内企业工资和定价行为，以及金融和外汇市场的发展。",
           "url": "https://flash.jin10.com/detail/20260123111206357800",
           "source": "金十数据",
@@ -925,7 +969,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "大外交｜一忍再忍只换来外交“羞辱”，欧洲需要直面欧美关系“新现实”",
@@ -950,6 +994,18 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时44分 ~ 16时41分]"
+        },
+        {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://news.ifeng.com/c/8q9KkztYYLL",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时38分 ~ 22时34分]"
         },
         {
           "title": "北约称将确保中俄无法在格陵兰岛获得立足点，外交部回应",
@@ -981,18 +1037,6 @@
           "time_info": "[16时41分 ~ 21时04分]"
         },
         {
-          "title": "特朗普称将于4月访问中国，外交部回应",
-          "url": "https://news.ifeng.com/c/8q9KkztYYLL",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时38分 ~ 21时04分]"
-        },
-        {
           "title": "TikTok成立由美方控股合资企业以在美开展业务，外交部回应",
           "url": "https://news.ifeng.com/c/8q9LqyEJAJX",
           "source": "凤凰网",
@@ -1001,8 +1045,36 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时38分 ~ 22时34分]"
+        },
+        {
+          "title": "外交部回应美调重兵前往伊朗",
+          "url": "https://www.douyin.com/hot/2377210",
+          "source": "抖音",
+          "ranks": [
+            15,
+            13,
+            12,
+            11,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时41分 ~ 22时34分]"
+        },
+        {
+          "title": "外交部回应特朗普称将于4月访华",
+          "url": "https://www.toutiao.com/trending/7597610597631033407/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时38分 ~ 21时04分]"
+          "time_info": "[18时34分 ~ 22时34分]"
         },
         {
           "title": "外交部回应美调重兵前往伊朗：希望各方珍惜和平",
@@ -1031,18 +1103,6 @@
           "time_info": "[00时44分 ~ 05时32分]"
         },
         {
-          "title": "外交部回应特朗普称将于4月访华",
-          "url": "https://www.toutiao.com/trending/7597610597631033407/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时34分 ~ 21时04分]"
-        },
-        {
           "title": "黎巴嫩总理：国际货币基金组织将于2月9日至13日期间派团来访。",
           "url": "https://flash.jin10.com/detail/20260123023229123800",
           "source": "金十数据",
@@ -1062,21 +1122,6 @@
             15,
             14,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时41分 ~ 21时04分]"
-        },
-        {
-          "title": "外交部回应美调重兵前往伊朗",
-          "url": "https://www.douyin.com/hot/2377210",
-          "source": "抖音",
-          "ranks": [
-            15,
-            13,
-            12,
-            11,
-            9
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -1130,6 +1175,19 @@
           "time_info": "15时33分"
         },
         {
+          "title": "外交部回应美调重兵前往伊朗：希望各方珍惜和平",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448676",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时28分 ~ 22时34分]"
+        },
+        {
           "title": "外交部回应美调重兵前往伊朗",
           "url": "https://www.toutiao.com/trending/7598008881004445750/",
           "source": "今日头条",
@@ -1154,18 +1212,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时09分 ~ 15时33分]"
-        },
-        {
-          "title": "外交部回应美调重兵前往伊朗：希望各方珍惜和平",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448676",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时28分 ~ 21时04分]"
         },
         {
           "title": "外交部回应特朗普称将于4月访问中国",
@@ -1322,6 +1368,17 @@
           "time_info": "02时45分"
         },
         {
+          "title": "外交部回应特朗普称4月访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B04%E6%9C%88%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "欧盟外交与安全政策高级代表卡拉斯：还没有看到美国就格陵兰岛问题达成的协议。",
           "url": "https://flash.jin10.com/detail/20260123015451883800",
           "source": "金十数据",
@@ -1350,7 +1407,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -1401,6 +1458,352 @@
       ]
     },
     {
+      "keyword_group": "科研 论文 大模型 科技 创新 成果",
+      "match_count": 30,
+      "titles": [
+        {
+          "title": "【焦点复盘】创业板指探底回升涨超1%，算力硬件股持续回暖，人气股国晟科技午后上演“地天板”",
+          "url": "https://www.cls.cn/detail/2266585",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时29分]"
+        },
+        {
+          "title": "宇树科技：2025全年人形机器人实际出货量超5500台",
+          "url": "https://www.cls.cn/detail/2266790",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时29分]"
+        },
+        {
+          "title": "【数据看盘】6.43亿元资金抢筹金风科技 顶级游资扎堆乾照光电",
+          "url": "https://www.cls.cn/detail/2267971",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时34分 ~ 22时34分]"
+        },
+        {
+          "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
+          "url": "https://wallstreetcn.com/articles/3763880",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时45分 ~ 07时29分]"
+        },
+        {
+          "title": "据港交所文件，1月23日，浙江迦智科技股份有限公司向港交所递交上市申请书。",
+          "url": "https://wallstreetcn.com/livenews/3042990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "据英国金融时报：英国金融科技公司Revolut放弃美国并购计划，转而寻求独立牌照。",
+          "url": "https://flash.jin10.com/detail/20260123130400943800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：已与美国总统特朗普讨论了用于防空的额外导弹、PAC-3和反导系统，并希望取得积极成果。",
+          "url": "https://flash.jin10.com/detail/20260123162234105800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
+          "title": "强劲数据提振风险偏好，科技七巨头普涨，美元跌至98，金银铂齐创新高",
+          "url": "https://wallstreetcn.com/articles/3763892",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "标普500指数初步收涨0.5%，电信、可选消费板块涨超1%，科技板块涨0.6%，房地产板块跌1%。 纳斯达克100指数初步收涨0.7%，成分股中，Datadog涨6.5%，Meta涨5.6%，MercadoLibre涨5%，特斯拉涨4%，奈飞跌2.3%，新思科技跌2.4%，罗斯百货跌2.6%，拉姆研究跌3.4%。 Salesforce初步收涨2.9%，3M涨2.9%，宝洁涨2.7%，美国运通涨2.1%，联合健康涨1.9%，霍尼韦尔涨1.5%，领跑道指成分股，IBM、沃尔玛、SHW、Merck则至少跌约1%。",
+          "url": "https://wallstreetcn.com/livenews/3042299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "云南大学最新 Nature 论文称「早期脊椎动物有四只眼睛」，如何理解这一研究的意义？",
+          "url": "https://www.zhihu.com/question/1997971685572310958",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "纳斯达克综合指数日内涨幅达1.0%，报23456.99点。 标普500指数涨0.67%，道指涨410点涨幅0.84%，纳斯达克100指数涨0.8%，半导体指数涨0.5%，生物科技指数涨1.9%，银行指数涨1.1%，罗素2000指数涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3042199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 01时37分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨1.02%，报26917点。 恒生科技指数主连夜盘收涨1.06%，报5830点。",
+          "url": "https://wallstreetcn.com/livenews/3042268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时32分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨1.6%。 热门中概股里，脑再生科技初步收涨42%，燃石医学涨32%，阿里巴巴、小马智行涨超5%。 ETF中，KWEB涨0.9%，CQQQ涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3042297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "北证50指数午后涨超4%，连城数控、欧普泰30cm涨停，酉立智能、流金科技、艾能聚、星图测控等涨超15%。",
+          "url": "https://wallstreetcn.com/livenews/3042581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "上交所：本周对*ST正平、*ST亚振、国晟科技、天普股份、上纬新材等波动幅度较大的股票进行重点监控",
+          "url": "https://wallstreetcn.com/livenews/3042853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "蓝思科技：商业航天领域已实现批量供货 针对太空环境极端需求已研发出超薄光伏玻璃模组等",
+          "url": "https://wallstreetcn.com/livenews/3042980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "潘功胜：中国人民银行在8000亿元科技创新和技术改造再贷款额度的基础上，再增加额度4000亿元至1.2万亿元",
+          "url": "https://wallstreetcn.com/livenews/3042684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "丹麦首相：当欧洲团结一致时，成果便显现无疑。我们已要求北约在北极地区加强存在。",
+          "url": "https://flash.jin10.com/detail/20260123012315932800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "网传公司给大族数控下了1000台超快设备订单？胜宏科技：消息不实",
+          "url": "https://wallstreetcn.com/livenews/3042681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "恒指高开0.87%，报26861.36点；恒生科技指数高开0.96%。阿里巴巴涨3.9%，京东集团、阿里健康涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3042442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时21分"
+        },
+        {
+          "title": "英特尔(INTC.O)CEO陈立武：快速部署人工智能需要软件栈的创新。",
+          "url": "https://flash.jin10.com/detail/20260123060723901800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "国晟科技：预计2025年年度净利润亏损6.5亿元到3.25亿元",
+          "url": "https://wallstreetcn.com/livenews/3042827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "我国科研团队发现一维带电晶体结构",
+          "url": "https://wallstreetcn.com/livenews/3042430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时21分"
+        },
+        {
+          "title": "A股无人驾驶概念股震荡走高，四维图新触及涨停，经纬恒润、ST赛为涨超15%，浙江世宝、汉鑫科技纷纷拉升。",
+          "url": "https://wallstreetcn.com/livenews/3042604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "金银价格再创新高 对美国资产的信心恐遭永久性动摇",
+          "url": "https://flash.jin10.com/detail/20260123142125706800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "首破100GW！中国新型储能装机创新高",
+          "url": "https://wallstreetcn.com/livenews/3042428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时21分"
+        },
+        {
+          "title": "晶方科技：预计2025年净利润同比增长44.41%至52.32%",
+          "url": "https://wallstreetcn.com/livenews/3042824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "飞沃科技：当前公司基本面未发生重大变化 存在市场情绪过热及非理性炒作的情形",
+          "url": "https://wallstreetcn.com/livenews/3042772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "纳指科技指数收涨不到1%，半导体指数涨超0.1%，生物科技指数涨超1.6%",
+          "url": "https://wallstreetcn.com/livenews/3042299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "A股商业航天概念持续走强，烽火通信、睿创微纳、西部材料、凯盛科技、润贝航科、瑞华泰涨停，中超控股、巨力索具、飞沃科技此前涨停。",
+          "url": "https://wallstreetcn.com/livenews/3042503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI Qwen DeepSeek Claude",
       "match_count": 28,
       "titles": [
@@ -1425,8 +1828,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时21分 ~ 21时04分]"
+          "appearance_count": 12,
+          "time_info": "[10时21分 ~ 22时34分]"
         },
         {
           "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
@@ -1467,8 +1870,37 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时33分 ~ 22时34分]"
+        },
+        {
+          "title": "仅用半小时！Claude Code“终结”英伟达“最强护城河”？",
+          "url": "https://wallstreetcn.com/articles/3764001",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[15时33分 ~ 21时04分]"
+          "time_info": "[16时41分 ~ 22时34分]"
+        },
+        {
+          "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
+          "url": "https://www.zhihu.com/question/1997844624513975566",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            11,
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时41分 ~ 22时34分]"
         },
         {
           "title": "DeepSeek Model 1悄然现身",
@@ -1483,34 +1915,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时45分 ~ 07时29分]"
-        },
-        {
-          "title": "仅用半小时！Claude Code“终结”英伟达“最强护城河”？",
-          "url": "https://wallstreetcn.com/articles/3764001",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时41分 ~ 21时04分]"
-        },
-        {
-          "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
-          "url": "https://www.zhihu.com/question/1997844624513975566",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            11,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时41分 ~ 21时04分]"
         },
         {
           "title": "英特尔四季度数据中心和AI营收47.4亿美元，预期44.2亿美元。预计一季度营收117亿-127亿美元，分析师预期125.6亿美元。",
@@ -1738,320 +2142,8 @@
       ]
     },
     {
-      "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 27,
-      "titles": [
-        {
-          "title": "【焦点复盘】创业板指探底回升涨超1%，算力硬件股持续回暖，人气股国晟科技午后上演“地天板”",
-          "url": "https://www.cls.cn/detail/2266585",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时29分]"
-        },
-        {
-          "title": "宇树科技：2025全年人形机器人实际出货量超5500台",
-          "url": "https://www.cls.cn/detail/2266790",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时29分]"
-        },
-        {
-          "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
-          "url": "https://wallstreetcn.com/articles/3763880",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时45分 ~ 07时29分]"
-        },
-        {
-          "title": "【数据看盘】6.43亿元资金抢筹金风科技 顶级游资扎堆乾照光电",
-          "url": "https://www.cls.cn/detail/2267971",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时34分 ~ 21时04分]"
-        },
-        {
-          "title": "据英国金融时报：英国金融科技公司Revolut放弃美国并购计划，转而寻求独立牌照。",
-          "url": "https://flash.jin10.com/detail/20260123130400943800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时36分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：已与美国总统特朗普讨论了用于防空的额外导弹、PAC-3和反导系统，并希望取得积极成果。",
-          "url": "https://flash.jin10.com/detail/20260123162234105800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "强劲数据提振风险偏好，科技七巨头普涨，美元跌至98，金银铂齐创新高",
-          "url": "https://wallstreetcn.com/articles/3763892",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "标普500指数初步收涨0.5%，电信、可选消费板块涨超1%，科技板块涨0.6%，房地产板块跌1%。 纳斯达克100指数初步收涨0.7%，成分股中，Datadog涨6.5%，Meta涨5.6%，MercadoLibre涨5%，特斯拉涨4%，奈飞跌2.3%，新思科技跌2.4%，罗斯百货跌2.6%，拉姆研究跌3.4%。 Salesforce初步收涨2.9%，3M涨2.9%，宝洁涨2.7%，美国运通涨2.1%，联合健康涨1.9%，霍尼韦尔涨1.5%，领跑道指成分股，IBM、沃尔玛、SHW、Merck则至少跌约1%。",
-          "url": "https://wallstreetcn.com/livenews/3042299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "纳斯达克综合指数日内涨幅达1.0%，报23456.99点。 标普500指数涨0.67%，道指涨410点涨幅0.84%，纳斯达克100指数涨0.8%，半导体指数涨0.5%，生物科技指数涨1.9%，银行指数涨1.1%，罗素2000指数涨1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3042199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时37分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨1.02%，报26917点。 恒生科技指数主连夜盘收涨1.06%，报5830点。",
-          "url": "https://wallstreetcn.com/livenews/3042268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时32分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨1.6%。 热门中概股里，脑再生科技初步收涨42%，燃石医学涨32%，阿里巴巴、小马智行涨超5%。 ETF中，KWEB涨0.9%，CQQQ涨0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3042297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "北证50指数午后涨超4%，连城数控、欧普泰30cm涨停，酉立智能、流金科技、艾能聚、星图测控等涨超15%。",
-          "url": "https://wallstreetcn.com/livenews/3042581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时36分"
-        },
-        {
-          "title": "上交所：本周对*ST正平、*ST亚振、国晟科技、天普股份、上纬新材等波动幅度较大的股票进行重点监控",
-          "url": "https://wallstreetcn.com/livenews/3042853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "潘功胜：中国人民银行在8000亿元科技创新和技术改造再贷款额度的基础上，再增加额度4000亿元至1.2万亿元",
-          "url": "https://wallstreetcn.com/livenews/3042684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "丹麦首相：当欧洲团结一致时，成果便显现无疑。我们已要求北约在北极地区加强存在。",
-          "url": "https://flash.jin10.com/detail/20260123012315932800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "网传公司给大族数控下了1000台超快设备订单？胜宏科技：消息不实",
-          "url": "https://wallstreetcn.com/livenews/3042681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "恒指高开0.87%，报26861.36点；恒生科技指数高开0.96%。阿里巴巴涨3.9%，京东集团、阿里健康涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3042442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时21分"
-        },
-        {
-          "title": "英特尔(INTC.O)CEO陈立武：快速部署人工智能需要软件栈的创新。",
-          "url": "https://flash.jin10.com/detail/20260123060723901800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "国晟科技：预计2025年年度净利润亏损6.5亿元到3.25亿元",
-          "url": "https://wallstreetcn.com/livenews/3042827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "我国科研团队发现一维带电晶体结构",
-          "url": "https://wallstreetcn.com/livenews/3042430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时21分"
-        },
-        {
-          "title": "A股无人驾驶概念股震荡走高，四维图新触及涨停，经纬恒润、ST赛为涨超15%，浙江世宝、汉鑫科技纷纷拉升。",
-          "url": "https://wallstreetcn.com/livenews/3042604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时47分"
-        },
-        {
-          "title": "金银价格再创新高 对美国资产的信心恐遭永久性动摇",
-          "url": "https://flash.jin10.com/detail/20260123142125706800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时47分"
-        },
-        {
-          "title": "首破100GW！中国新型储能装机创新高",
-          "url": "https://wallstreetcn.com/livenews/3042428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时21分"
-        },
-        {
-          "title": "晶方科技：预计2025年净利润同比增长44.41%至52.32%",
-          "url": "https://wallstreetcn.com/livenews/3042824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "飞沃科技：当前公司基本面未发生重大变化 存在市场情绪过热及非理性炒作的情形",
-          "url": "https://wallstreetcn.com/livenews/3042772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时38分"
-        },
-        {
-          "title": "纳指科技指数收涨不到1%，半导体指数涨超0.1%，生物科技指数涨超1.6%",
-          "url": "https://wallstreetcn.com/livenews/3042299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "A股商业航天概念持续走强，烽火通信、睿创微纳、西部材料、凯盛科技、润贝航科、瑞华泰涨停，中超控股、巨力索具、飞沃科技此前涨停。",
-          "url": "https://wallstreetcn.com/livenews/3042503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "中国首批商业太空游客公布，黄景瑜将 300 万游太空，这趟「太空之旅」技术难度有多大？市场前景如何？",
@@ -2063,8 +2155,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时47分 ~ 21时04分]"
+          "appearance_count": 9,
+          "time_info": "[14时47分 ~ 22时34分]"
         },
         {
           "title": "亲妈逼娃硬卷,争当行业精英",
@@ -2078,8 +2170,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时47分 ~ 21时04分]"
+          "appearance_count": 9,
+          "time_info": "[14时47分 ~ 22时34分]"
         },
         {
           "title": "真实程序员谈行业现状",
@@ -2088,11 +2180,23 @@
           "ranks": [
             10,
             25,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时41分 ~ 21时04分]"
+          "appearance_count": 7,
+          "time_info": "[16时41分 ~ 22时34分]"
+        },
+        {
+          "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
+          "url": "https://news.ifeng.com/c/8q9ZlzBzIxe",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 22时34分]"
         },
         {
           "title": "第二阶段6G技术试验已启动",
@@ -2110,15 +2214,15 @@
           "time_info": "[00时44分 ~ 06时32分]"
         },
         {
-          "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
-          "url": "https://news.ifeng.com/c/8q9ZlzBzIxe",
-          "source": "凤凰网",
+          "title": "中国足协再度聘任范普维尔德担任技术总监",
+          "url": "https://wallstreetcn.com/livenews/3042989",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时04分"
+          "time_info": "22时34分"
         },
         {
           "title": "上海市国资委：2026年分行业推进垂类模型和智能体落地应用",
@@ -2127,7 +2231,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -2188,6 +2292,17 @@
           "time_info": "16时41分"
         },
         {
+          "title": "“超级周期”初步验证 存储年报预增浪来袭 行业后劲还有多少？",
+          "url": "https://www.cls.cn/detail/2268164",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "英特尔(INTC.O)CEO陈立武：英特尔正积极就14A技术与潜在客户接洽，预计客户将在今年下半年就14A技术作出更坚定的决策。",
           "url": "https://flash.jin10.com/detail/20260123061857224800",
           "source": "金十数据",
@@ -2227,7 +2342,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -2361,11 +2476,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            17
+            17,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时38分 ~ 21时04分]"
+          "appearance_count": 6,
+          "time_info": "[17时38分 ~ 22时34分]"
         },
         {
           "title": "谷歌、微软回应美国参议院成员们关于（涉及人工智能/数据中心）电力需求的质询。",
@@ -2470,8 +2586,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时09分 ~ 21时04分]"
+          "appearance_count": 11,
+          "time_info": "[12时09分 ~ 22时34分]"
         },
         {
           "title": "2026算力市场开局：显卡商转行炒内存 “套牌车”混进服务器 业内驳算力泡沫论|传真",
@@ -2492,11 +2608,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时28分 ~ 21时04分]"
+          "appearance_count": 4,
+          "time_info": "[19时28分 ~ 22时34分]"
         },
         {
           "title": "为何在游戏中获得一件稀有装备后，有时我们反而更舍不得使用它了？",
