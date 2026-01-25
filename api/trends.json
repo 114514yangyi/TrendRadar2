@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T20:58:19.295830+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-01-25T21:39:24.552096+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "张又侠、刘振立被查，解放军报发布社论",
@@ -79,11 +79,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时36分 ~ 20时58分]"
+          "appearance_count": 7,
+          "time_info": "[16时36分 ~ 21时39分]"
         },
         {
           "title": "北京市将全面实施“人工智能+”行动，建设国家人工智能应用中试基地",
@@ -223,8 +224,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 20时58分]"
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 21时39分]"
         },
         {
           "title": "美国能源部：发布紧急指令以缓解冬季风暴“费恩”期间中大西洋地区的停电状况。",
@@ -307,12 +308,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "欧盟在美俄夹击下为何不选择对华合作",
+          "url": "https://www.toutiao.com/trending/7599255164997865003/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         }
       ]
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
@@ -320,11 +332,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时34分 ~ 20时58分]"
+          "appearance_count": 26,
+          "time_info": "[00时34分 ~ 21时39分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -354,8 +367,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时19分 ~ 20时58分]"
+          "appearance_count": 13,
+          "time_info": "[12时19分 ~ 21时39分]"
         },
         {
           "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
@@ -367,8 +380,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时42分 ~ 20时58分]"
+          "appearance_count": 10,
+          "time_info": "[14时42分 ~ 21时39分]"
         },
         {
           "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
@@ -376,11 +389,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时19分 ~ 20时58分]"
+          "appearance_count": 13,
+          "time_info": "[12时19分 ~ 21时39分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -484,6 +498,17 @@
           "time_info": "[16时36分 ~ 16时37分]"
         },
         {
+          "title": "AI热潮点燃金属需求 全球矿业股或迎新一轮“超级周期”",
+          "url": "https://www.cls.cn/detail/2268686",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "警惕大事小情习惯“问问AI”",
           "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95%E5%A4%A7%E4%BA%8B%E5%B0%8F%E6%83%85%E4%B9%A0%E6%83%AF%E2%80%9C%E9%97%AE%E9%97%AEAI%E2%80%9D",
           "source": "百度热搜",
@@ -501,7 +526,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         }
@@ -535,6 +560,18 @@
           "time_info": "[00时34分 ~ 07时27分]"
         },
         {
+          "title": "康诺生物制药股份有限公司-B向港交所提交上市申请书，独家保荐人为国投证券国际。",
+          "url": "https://flash.jin10.com/detail/20260125204316655800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 21时39分]"
+        },
+        {
           "title": "国际团体起诉Meta 指控其就WhatsApp隐私性作出虚假声明",
           "url": "https://flash.jin10.com/detail/20260125105257820800",
           "source": "金十数据",
@@ -547,17 +584,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时19分 ~ 16时37分]"
-        },
-        {
-          "title": "康诺生物制药股份有限公司-B向港交所提交上市申请书，独家保荐人为国投证券国际。",
-          "url": "https://flash.jin10.com/detail/20260125204316655800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
         },
         {
           "title": "国际巨星在线为U23决赛加油",
@@ -577,11 +603,12 @@
           "ranks": [
             4,
             9,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 20时58分]"
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 21时39分]"
         },
         {
           "title": "俄副外长：与美国就外交财产等问题的对话暂无进展",
@@ -589,11 +616,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时58分]"
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 21时39分]"
         },
         {
           "title": "克里姆林宫：俄罗斯永远不会与欧盟外交与安全政策高级代表卡拉斯讨论任何问题，只会等待她离职。",
@@ -601,11 +629,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时58分]"
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 21时39分]"
         },
         {
           "title": "俄副外长：与美国就外交财产等问题的对话暂无进展。",
@@ -613,11 +642,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时58分]"
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 21时39分]"
         },
         {
           "title": "俄罗斯外交部副部长里亚布科夫：美方至今仍未履行释放“马里涅拉”号油轮上两名俄罗斯船员的承诺。（央视）",
@@ -714,11 +744,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 21时39分]"
+        },
+        {
+          "title": "美联储决议+中美数据+科技巨头财报！全球市场进入“风暴眼”",
+          "url": "https://wallstreetcn.com/articles/3764002",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时58分]"
+          "time_info": "[20时58分 ~ 21时39分]"
         },
         {
           "title": "科技媒体：iPhone用户开始收到Siri隐私和解案赔偿金 总额9500万美元",
@@ -734,6 +777,19 @@
           "time_info": "[14时43分 ~ 18时31分]"
         },
         {
+          "title": "银河通用成为2026春晚指定具身大模型机器人",
+          "url": "https://flash.jin10.com/detail/20260125185356776800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 21时39分]"
+        },
+        {
           "title": "如何看待一些高校领导号召不要发中科院 2 区及以下的论文，说只有 1 区的论文才叫论文？",
           "url": "https://www.zhihu.com/question/1996868820606940794",
           "source": "知乎",
@@ -746,18 +802,6 @@
           "time_info": "[14时42分 ~ 15时29分]"
         },
         {
-          "title": "银河通用成为2026春晚指定具身大模型机器人",
-          "url": "https://flash.jin10.com/detail/20260125185356776800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时58分]"
-        },
-        {
           "title": "当学术论文走上餐桌",
           "url": "https://www.douyin.com/hot/2378488",
           "source": "抖音",
@@ -767,90 +811,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时32分 ~ 12时19分]"
-        },
-        {
-          "title": "美联储决议+中美数据+科技巨头财报！全球市场进入“风暴眼”",
-          "url": "https://wallstreetcn.com/articles/3764002",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "如何看待 2025 taptap 年度游戏大赏？",
-          "url": "https://www.zhihu.com/question/1998318537975023300",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时32分 ~ 15时29分]"
-        },
-        {
-          "title": "Epic 负责人发文阴阳 G 胖， 游艇和钻石牙齿比 Steam 用户更重要，这算是相爱相杀么?",
-          "url": "https://www.zhihu.com/question/1997811217809547965",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 19时25分]"
-        },
-        {
-          "title": "站在 2026 年这个时点，如何评价游戏《崩坏：星穹铁道》？",
-          "url": "https://www.zhihu.com/question/1993001332580307215",
-          "source": "知乎",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时36分 ~ 19时25分]"
-        },
-        {
-          "title": "开启存储下一个大机会！韩媒详解黄仁勋“神秘推理上下文内存平台”",
-          "url": "https://wallstreetcn.com/articles/3764093",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 20时58分]"
-        },
-        {
-          "title": "如果剥夺了主角光环，让你在开放世界里扮演一个没有任何特权的量产型 NPC，这游戏还能玩下去吗？",
-          "url": "https://www.zhihu.com/question/1997600546362787106",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
         }
       ]
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
@@ -910,6 +876,17 @@
           "time_info": "[14时42分 ~ 18时31分]"
         },
         {
+          "title": "中国卫星技术全球顶流",
+          "url": "https://www.douyin.com/hot/2379442",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "格陵兰岛争端标志“欧美脱钩”？欧洲准备应对“美国技术封锁”",
           "url": "https://wallstreetcn.com/articles/3764086",
           "source": "华尔街见闻",
@@ -919,6 +896,74 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时36分 ~ 19时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 steam 显卡 内存 处理器",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "如何看待 2025 taptap 年度游戏大赏？",
+          "url": "https://www.zhihu.com/question/1998318537975023300",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时32分 ~ 15时29分]"
+        },
+        {
+          "title": "Epic 负责人发文阴阳 G 胖， 游艇和钻石牙齿比 Steam 用户更重要，这算是相爱相杀么?",
+          "url": "https://www.zhihu.com/question/1997811217809547965",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 19时25分]"
+        },
+        {
+          "title": "开启存储下一个大机会！韩媒详解黄仁勋“神秘推理上下文内存平台”",
+          "url": "https://wallstreetcn.com/articles/3764093",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 21时39分]"
+        },
+        {
+          "title": "站在 2026 年这个时点，如何评价游戏《崩坏：星穹铁道》？",
+          "url": "https://www.zhihu.com/question/1993001332580307215",
+          "source": "知乎",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 19时25分]"
+        },
+        {
+          "title": "如果剥夺了主角光环，让你在开放世界里扮演一个没有任何特权的量产型 NPC，这游戏还能玩下去吗？",
+          "url": "https://www.zhihu.com/question/1997600546362787106",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 21时39分]"
         }
       ]
     },
