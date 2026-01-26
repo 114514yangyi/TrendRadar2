@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T15:36:11.360180+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-01-26T16:44:08.569518+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 28,
+      "match_count": 34,
       "titles": [
         {
           "title": "白宫发布“特朗普和企鹅漫步格陵兰岛”图，遭群嘲",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 15时36分]"
+          "appearance_count": 19,
+          "time_info": "[00时35分 ~ 16时44分]"
         },
         {
           "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
@@ -81,7 +81,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -112,13 +112,24 @@
           "time_info": "[00时35分 ~ 05时27分]"
         },
         {
+          "title": "芬兰边防局：我们正与其他波罗的海沿岸国家和欧盟委员会合作，在芬兰海湾建立海上监视中心。",
+          "url": "https://flash.jin10.com/detail/20260126160255884800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "商务部：去年对共建“一带一路”国家非金融类直接投资增长18%",
           "url": "https://wallstreetcn.com/livenews/3043779",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -134,6 +145,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时27分 ~ 07时28分]"
+        },
+        {
+          "title": "商务部：今年将大力发展服务贸易 出台扩大入境消费政策措施",
+          "url": "https://www.cls.cn/detail/2269644",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
+        },
+        {
+          "title": "为什么很多国家将黄金存放在美国",
+          "url": "https://www.toutiao.com/trending/7599529438023257650/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
         },
         {
           "title": "美国能源部：今日发布两项紧急命令，以在冬季风暴“弗恩”期间缓解新英格兰和得克萨斯州的停电风险。",
@@ -208,7 +241,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -230,7 +263,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -285,7 +318,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -312,6 +345,17 @@
           "time_info": "13时39分"
         },
         {
+          "title": "【商务部：近期将上线国家层面的海外综合服务大平台】商务部外国投资管理司负责人王亚在国新办新闻发布会上表示，近期将上线国家层面的海外综合服务大平台。该平台统筹外事、法律、财税、金融、经贸、物流、海关、贸促等领域服务资源，围绕企业出海有关的政策咨询、业务办理、国别信息、动态资讯、资源对接、风险防控等共性需求，形成一个窗口、一站式出海服务平台。",
+          "url": "https://wallstreetcn.com/livenews/3043804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "西方国家六代机进度如何",
           "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E6%96%B9%E5%9B%BD%E5%AE%B6%E5%85%AD%E4%BB%A3%E6%9C%BA%E8%BF%9B%E5%BA%A6%E5%A6%82%E4%BD%95",
           "source": "bilibili 热搜",
@@ -332,12 +376,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "【商务部：中国不仅愿做世界工厂，更愿做世界市场】1月26日，商务部对外贸易司司长王志华在国新办新闻发布会上表示，今年中国将坚定不移推进高水平对外开放，推动贸易创新发展、平衡发展。中国不仅愿做世界工厂，更愿做世界市场，超大规模市场将为各国产品服务提供更广阔机遇。",
+          "url": "https://wallstreetcn.com/livenews/3043794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "商务部：今年将大力发展服务贸易 出台扩大入境消费政策措施",
+          "url": "https://wallstreetcn.com/livenews/3043791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "图忆｜晓晓蕾蕾即将归国：跨越半世纪，中日熊猫外交回眸",
@@ -350,8 +416,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 15时36分]"
+          "appearance_count": 19,
+          "time_info": "[00时35分 ~ 16时44分]"
         },
         {
           "title": "杨德龙：国际金价下一目标价1万美元",
@@ -361,11 +427,12 @@
             18,
             4,
             5,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 15时36分]"
+          "appearance_count": 9,
+          "time_info": "[12时21分 ~ 16时44分]"
         },
         {
           "title": "美国重兵合围伊朗！“林肯”号航母打击群抵达，大批战斗机周边集结！伊朗警告：任何攻击都将被视为全面战争",
@@ -377,8 +444,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时38分 ~ 15时36分]"
+          "appearance_count": 8,
+          "time_info": "[13时38分 ~ 16时44分]"
+        },
+        {
+          "title": "外交部回应美国威胁对加拿大进口商品征收100%关税",
+          "url": "https://news.ifeng.com/c/8qEK7aK3VqF",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
         },
         {
           "title": "金十图示：2026年01月26日（周一）上海金午盘价为1142.06元/克，较国际金价(1138.03元/克)，高4.03元/克",
@@ -387,7 +465,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -435,7 +513,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -477,13 +555,35 @@
           "time_info": "[05时27分 ~ 07时28分]"
         },
         {
+          "title": "美国威胁对加拿大进口商品征收100%关税，外交部回应",
+          "url": "https://www.cls.cn/detail/2269628",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
+        },
+        {
+          "title": "外交部回应美威胁对加征100%关税",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%A8%81%E8%83%81%E5%AF%B9%E5%8A%A0%E5%BE%81100%25%E5%85%B3%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
+        },
+        {
           "title": "英国首相斯塔默本周将访华？外交部：将适时发布消息",
           "url": "https://wallstreetcn.com/livenews/3043777",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -505,7 +605,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -516,7 +616,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -527,7 +627,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -585,12 +685,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "商务部：2026年将加快国际消费中心城市培育建设",
+          "url": "https://wallstreetcn.com/livenews/3043799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
@@ -647,6 +758,21 @@
           "time_info": "[00时35分 ~ 07时28分]"
         },
         {
+          "title": "“达沃斯论AI”结语：2026年能源需求和基建将继续狂飙，核能备受关注！",
+          "url": "https://www.cls.cn/detail/2269090",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时38分 ~ 16时44分]"
+        },
+        {
           "title": "AI热潮点燃金属需求 全球矿业股或迎新一轮“超级周期”",
           "url": "https://www.cls.cn/detail/2268686",
           "source": "财联社热门",
@@ -664,11 +790,25 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时50分 ~ 15时36分]"
+          "appearance_count": 6,
+          "time_info": "[14时50分 ~ 16时44分]"
+        },
+        {
+          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时38分 ~ 16时44分]"
         },
         {
           "title": "百度APP文心助手入局春节AI战，将发放5亿现金、合作2026北京台春晚",
@@ -684,33 +824,6 @@
           "time_info": "[00时35分 ~ 06时28分]"
         },
         {
-          "title": "“达沃斯论AI”结语：2026年能源需求和基建将继续狂飙，核能备受关注！",
-          "url": "https://www.cls.cn/detail/2269090",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时38分 ~ 15时36分]"
-        },
-        {
-          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时38分 ~ 15时36分]"
-        },
-        {
           "title": "知情人士透露 deepseek 即将发布 V4 新模型，不知道各位有什么看法？",
           "url": "https://www.zhihu.com/question/1993355026530317494",
           "source": "知乎",
@@ -719,8 +832,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时50分 ~ 15时36分]"
+          "appearance_count": 6,
+          "time_info": "[14时50分 ~ 16时44分]"
         },
         {
           "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
@@ -728,11 +841,24 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时50分 ~ 16时44分]"
+        },
+        {
+          "title": "你怎么看iPhone Air降价",
+          "url": "https://www.toutiao.com/trending/7599137251189800969/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时50分 ~ 15时36分]"
+          "time_info": "[13时38分 ~ 16时44分]"
         },
         {
           "title": "网友刚买iPhoneAir第二天就降价2000元",
@@ -747,22 +873,22 @@
           "time_info": "[12时21分 ~ 13时39分]"
         },
         {
+          "title": "互联网大厂开启春节AI应用流量大战 AI应用全面加速",
+          "url": "https://www.cls.cn/detail/2269055",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
+        },
+        {
           "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
           "url": "https://www.zhihu.com/question/1993355026530317494",
           "source": "知乎",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
-        },
-        {
-          "title": "你怎么看iPhone Air降价",
-          "url": "https://www.toutiao.com/trending/7599137251189800969/",
-          "source": "今日头条",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -778,6 +904,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时50分 ~ 14时51分]"
+        },
+        {
+          "title": "贝伦贝格：2026年AI仍将是股价关键驱动因素",
+          "url": "https://flash.jin10.com/detail/20260126154144414800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "创业板指跌超1%，沪指跌0.2%，深成指跌0.81%，半导体芯片、商业航天、机器人、AI应用等方向跌幅居前，沪深京三市下跌个股近4000只。",
@@ -808,7 +945,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         }
@@ -816,7 +953,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美联储决议+中美数据+科技巨头财报！全球市场进入“风暴眼”",
@@ -828,8 +965,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 15时36分]"
+          "appearance_count": 19,
+          "time_info": "[00时35分 ~ 16时44分]"
         },
         {
           "title": "现货白银盘初再创新高，现报104.76美元/盎司，涨幅超1%。",
@@ -908,7 +1045,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -955,12 +1092,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "商务部：去年中美经贸磋商取得积极成果，给世界经济吃下了一颗“定心丸”",
+          "url": "https://wallstreetcn.com/livenews/3043788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "中国卫星技术全球顶流",
@@ -972,6 +1120,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时35分 ~ 12时21分]"
+        },
+        {
+          "title": "每经调查“陈小群”概念股炒作利益链：“交易软件+券商”龙虎榜信息造神，游资借“互联网战法”收割散户",
+          "url": "https://wallstreetcn.com/articles/3764116",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时31分 ~ 16时44分]"
         },
         {
           "title": "印度一邦暴发尼帕病毒疫情，可通过被污染的食物传播，尚无有效疗法，具体什么情况？会对哪些行业有影响？",
@@ -986,19 +1147,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时40分 ~ 07时28分]"
-        },
-        {
-          "title": "每经调查“陈小群”概念股炒作利益链：“交易软件+券商”龙虎榜信息造神，游资借“互联网战法”收割散户",
-          "url": "https://wallstreetcn.com/articles/3764116",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时31分 ~ 15时36分]"
         },
         {
           "title": "1+1+1＞3！全国首个跨省域高新技术产业开发区来了",
@@ -1045,11 +1193,12 @@
           "url": "https://www.zhihu.com/question/1997742323925264026",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时38分 ~ 15时36分]"
+          "appearance_count": 8,
+          "time_info": "[13时38分 ~ 16时44分]"
         },
         {
           "title": "中国卫星技术全球顶流",
@@ -1082,9 +1231,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "商务部：深化云计算、生物技术、外商独资医院等领域开放试点，引导外资投向服务消费领域",
+          "url": "https://wallstreetcn.com/livenews/3043821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     },
@@ -1132,11 +1292,12 @@
             21,
             17,
             25,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 15时36分]"
+          "appearance_count": 9,
+          "time_info": "[12时21分 ~ 16时44分]"
         },
         {
           "title": "三星电子将于2月向英伟达供应第四代高带宽内存。（日经新闻）",
@@ -1201,11 +1362,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            12
+            12,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时39分]"
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 16时44分]"
         }
       ]
     }
