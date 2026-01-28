@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T17:42:28.082832+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2026-01-28T18:38:33.108033+08:00",
+  "total_titles_processed": 1618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "人力资源社会保障部将有新政策",
@@ -150,6 +150,17 @@
           "time_info": "[14时49分 ~ 15时36分]"
         },
         {
+          "title": "全国多地取消固定分时电价，背后政策考量可能是什么？未来电费会涨吗？",
+          "url": "https://www.zhihu.com/question/1999744090351296730",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 18时38分]"
+        },
+        {
           "title": "巴西国家石油公司将于2月将天然气平均价格下调7.8%。",
           "url": "https://flash.jin10.com/detail/20260128002324780800",
           "source": "金十数据",
@@ -208,17 +219,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时36分]"
-        },
-        {
-          "title": "全国多地取消固定分时电价，背后政策考量可能是什么？未来电费会涨吗？",
-          "url": "https://www.zhihu.com/question/1999744090351296730",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 17时42分]"
         },
         {
           "title": "交通运输部：严格落实春节假期免收7座及以下小型客车通行费政策",
@@ -282,7 +282,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -351,6 +351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "据中央纪委国家监委网站，中国农业银行原首席专家兼浙江省分行原党委书记、行长冯建龙被开除党籍。",
+          "url": "https://wallstreetcn.com/livenews/3045500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "分析师：政治与政策双重施压，美元走弱势头料将延续",
@@ -485,6 +496,17 @@
           "time_info": "02时52分"
         },
         {
+          "title": "俄欧为何同时向印度递合作橄榄枝",
+          "url": "https://www.toutiao.com/trending/7600305895670550070/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "美联储：为期两天的FOMC货币政策会议开幕。",
           "url": "https://wallstreetcn.com/livenews/3044858",
           "source": "华尔街见闻-快讯",
@@ -499,7 +521,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "外交部回应高市早苗涉台最新言论",
@@ -522,8 +544,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时40分 ~ 17时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时40分 ~ 18时38分]"
         },
         {
           "title": "外交部回应高市早苗涉台言论",
@@ -571,8 +593,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时40分 ~ 17时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时40分 ~ 18时38分]"
         },
         {
           "title": "外交部回应“日本没有大熊猫了”",
@@ -602,6 +624,18 @@
           "time_info": "[00时40分 ~ 07时31分]"
         },
         {
+          "title": "韩称朝鲜向东部海域发射弹道导弹，外交部回应",
+          "url": "https://news.ifeng.com/c/8qHdIbzXtB0",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时35分 ~ 18时38分]"
+        },
+        {
           "title": "外交部回应加拿大出售白鲸给美国",
           "url": "https://www.toutiao.com/trending/7599947141838700550/",
           "source": "今日头条",
@@ -616,15 +650,15 @@
           "time_info": "[01时36分 ~ 10时23分]"
         },
         {
-          "title": "韩称朝鲜向东部海域发射弹道导弹，外交部回应",
-          "url": "https://news.ifeng.com/c/8qHdIbzXtB0",
+          "title": "2026年的第一场战争呼之欲出",
+          "url": "https://news.ifeng.com/c/8qHLjiEjoTq",
           "source": "凤凰网",
           "ranks": [
-            4
+            2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时35分 ~ 17时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "荷兰国际：美元或面临进一步下跌压力",
@@ -633,7 +667,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -647,6 +681,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "卜蜂集团和富达国际据悉计划作为牧原食品香港上市的投资者。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3045520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "斯塔默今日开始对中国进行为期三天访问，外交部介绍有关情况",
@@ -883,7 +928,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -990,7 +1035,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "【数据看盘】顶级游资豪掷近10亿买入平潭发展，华天科技龙虎榜资金猛抢",
@@ -1013,8 +1058,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时31分 ~ 17时42分]"
+          "appearance_count": 12,
+          "time_info": "[06时31分 ~ 18时38分]"
         },
         {
           "title": "三家A股公司实控人熊海涛被留置 旗下东材科技改制往事曾遭举报",
@@ -1080,8 +1125,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时23分 ~ 17时42分]"
+          "appearance_count": 9,
+          "time_info": "[10时23分 ~ 18时38分]"
         },
         {
           "title": "1月28日投资避雷针：东材科技等三公司同日公告 实际控制人熊海涛被立案调查并留置",
@@ -1098,6 +1143,21 @@
           "time_info": "[12时11分 ~ 16时43分]"
         },
         {
+          "title": "自然与科技健身的力量差距",
+          "url": "https://search.bilibili.com/all?keyword=%E8%87%AA%E7%84%B6%E4%B8%8E%E7%A7%91%E6%8A%80%E5%81%A5%E8%BA%AB%E7%9A%84%E5%8A%9B%E9%87%8F%E5%B7%AE%E8%B7%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            10,
+            18,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时49分 ~ 18时38分]"
+        },
+        {
           "title": "黄金再创新高",
           "url": "https://flash.jin10.com/detail/20260128040408927800",
           "source": "金十数据",
@@ -1109,6 +1169,17 @@
           "time_info": "04时32分"
         },
         {
+          "title": "宇树科技将联名宸境科技发两款机器人，搭载地瓜旭日5芯片方案",
+          "url": "https://wallstreetcn.com/livenews/3045518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 美光科技涨超5%",
           "url": "https://flash.jin10.com/detail/20260128050333486800",
           "source": "金十数据",
@@ -1118,20 +1189,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
-        },
-        {
-          "title": "自然与科技健身的力量差距",
-          "url": "https://search.bilibili.com/all?keyword=%E8%87%AA%E7%84%B6%E4%B8%8E%E7%A7%91%E6%8A%80%E5%81%A5%E8%BA%AB%E7%9A%84%E5%8A%9B%E9%87%8F%E5%B7%AE%E8%B7%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            10,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时49分 ~ 17时42分]"
         },
         {
           "title": "“耐心资本+创新保单”两端发力，险资探索服务硬科技新模式",
@@ -1218,6 +1275,29 @@
           "time_info": "[13时36分 ~ 14时49分]"
         },
         {
+          "title": "希捷科技电话会：“都卖完了！”CEO称客户更关心供货而非价格，订单已谈到2027年",
+          "url": "https://wallstreetcn.com/articles/3764309",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 18时38分]"
+        },
+        {
+          "title": "纳指科技ETF：1月29日开市起至当日10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3045465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时38分]"
+        },
+        {
           "title": "国务院国资委：将聚焦科技创新和产业创新深度融合 重点推动三方面工作",
           "url": "https://wallstreetcn.com/livenews/3045234",
           "source": "华尔街见闻-快讯",
@@ -1229,6 +1309,17 @@
           "time_info": "12时11分"
         },
         {
+          "title": "可川科技：预计2025年净利润同比减少72.90%-80.42%",
+          "url": "https://wallstreetcn.com/livenews/3045503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "标普500指数初步收涨0.4%，科技板块涨1.4%，公用事业板块涨1.2%，能源板块涨0.9%，保健板块跌1.7%。 纳斯达克100指数初步收涨0.8%，成分股中，拉姆研究收涨6.9%，美光科技涨5.4%，西部数据涨4.8%，科磊涨4.7%，希捷科技涨4.6%，Adobe跌2.5%，特许通讯跌5.5%，Roper Technologies Inc.跌9.4%。 联合健康初步收跌19.6%，耐克跌2.9%，波音、家得宝跌1.4%，领跌道指成分股，英伟达、苹果、可口可乐、强生、思科、微软、亚马逊则至少涨超1%领跑。",
           "url": "https://wallstreetcn.com/livenews/3044981",
           "source": "华尔街见闻-快讯",
@@ -1238,17 +1329,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
-        },
-        {
-          "title": "希捷科技电话会：“都卖完了！”CEO称客户更关心供货而非价格，订单已谈到2027年",
-          "url": "https://wallstreetcn.com/articles/3764309",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时43分"
         },
         {
           "title": "恒生科技指数盘中涨幅扩大至2%。阿里健康、商汤涨超4%。",
@@ -1306,17 +1386,6 @@
           "time_info": "16时43分"
         },
         {
-          "title": "纳指科技ETF：1月29日开市起至当日10:30停牌",
-          "url": "https://wallstreetcn.com/livenews/3045465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
           "title": "恒生指数收盘涨2.58%，恒生科技指数涨2.53%",
           "url": "https://wallstreetcn.com/livenews/3045407",
           "source": "华尔街见闻-快讯",
@@ -1367,7 +1436,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -1419,7 +1488,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -1432,8 +1501,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时40分 ~ 17时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时40分 ~ 18时38分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -1508,8 +1577,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时36分 ~ 17时42分]"
+          "appearance_count": 7,
+          "time_info": "[13时36分 ~ 18时38分]"
         },
         {
           "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
@@ -1521,6 +1590,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时23分 ~ 13时36分]"
+        },
+        {
+          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
+          "url": "https://www.cls.cn/detail/2272163",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时49分 ~ 18时38分]"
         },
         {
           "title": "AI与机器人热潮助推，韩国股市市值超越德国",
@@ -1545,28 +1627,15 @@
           "time_info": "10时23分"
         },
         {
-          "title": "刘强东在家乡打造了一个AI教室",
-          "url": "https://www.toutiao.com/trending/7600224231955988531/",
-          "source": "今日头条",
+          "title": "阿斯麦(ASML.O)CEO：2026年可能有更多EUV（极紫外光刻）设备出货。对先进AI芯片的需求巨大且不断增长。",
+          "url": "https://flash.jin10.com/detail/20260128181506461800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
-          "url": "https://www.cls.cn/detail/2272163",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时49分 ~ 17时42分]"
+          "time_info": "18时38分"
         },
         {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
@@ -1606,6 +1675,18 @@
           "time_info": "[00时40分 ~ 01时36分]"
         },
         {
+          "title": "刘强东在家乡打造了一个AI教室",
+          "url": "https://www.toutiao.com/trending/7600224231955988531/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时38分]"
+        },
+        {
           "title": "马云：孩子不应和AI比拼计算和记忆",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
           "source": "百度热搜",
@@ -1622,11 +1703,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 18时38分]"
         },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
@@ -1671,7 +1753,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -1762,6 +1844,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "AI将替代9200万工作岗位",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         }
       ]
     },
@@ -1939,6 +2032,148 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
+          "url": "https://wallstreetcn.com/articles/3764292",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时23分 ~ 18时38分]"
+        },
+        {
+          "title": "英国竞争和市场管理局（CMA）就谷歌相关措施征求意见，截止日期为2月25日。",
+          "url": "https://flash.jin10.com/detail/20260128181314991800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
+          "url": "https://www.cls.cn/detail/2272037",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 17时42分]"
+        },
+        {
+          "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
+          "url": "https://flash.jin10.com/detail/20260128020246054800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时36分]"
+        },
+        {
+          "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",
+          "url": "https://wallstreetcn.com/livenews/3044927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时36分]"
+        },
+        {
+          "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
+          "url": "https://flash.jin10.com/detail/20260128010307000800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时36分"
+        },
+        {
+          "title": "英国竞争和市场管理局（CMA）提议在数字法下针对谷歌搜索设置监管“护栏”措施。管理局正调查谷歌的出版商控制、公平排名以及数据可移植性选择界面。",
+          "url": "https://flash.jin10.com/detail/20260128181301813800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "谷歌：为手机推出强大的防盗保护功能。",
+          "url": "https://flash.jin10.com/detail/20260128010248348800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时36分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：（就英国竞争与市场管理局的搜索提案）任何新的监管措施都必须“避免导致用户搜索体验碎片化或混乱”。",
+          "url": "https://flash.jin10.com/detail/20260128181107541800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "谷歌对英国竞争与市场管理局的搜索提案持乐观态度，认为双方有望找到前进之路。",
+          "url": "https://flash.jin10.com/detail/20260128181013024800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "【但斌91亿元的美股持仓出炉 谷歌取代英伟达成第一重仓股】据私募排排网，美国证券交易委员会(SEC)官网披露了但斌掌舵的东方港湾旗下海外基金2025年四季度的美股持仓数据。数据显示，2025年末东方港湾共持有10只美股标的，持股市值合计13.16亿美元，折合人民币超91亿元，相比2025年三季度末约12.92亿美元的持股市值略有增长。四季度，东方港湾清仓了Coinbase、奈飞、AsteraLabs、BitMineImmersionTechnologies、博通、台积电等美股标的。此外，变化较大的是，谷歌取代英伟达，跃升为东方港湾的第一大重仓股。",
+          "url": "https://wallstreetcn.com/livenews/3045359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "英国竞争和市场管理局（CMA）提出一系列措施，以改善谷歌在英国的搜索服务。",
+          "url": "https://flash.jin10.com/detail/20260128180359377800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "github 技术 行业 软件",
       "match_count": 12,
       "titles": [
@@ -1961,11 +2196,12 @@
           "url": "https://wallstreetcn.com/livenews/3045499",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时38分]"
         },
         {
           "title": "瑞安航空CEO奥利里：随着技术进步，预计在四到五年内，所有飞机都将提供免费Wi-Fi。",
@@ -1974,7 +2210,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -1996,7 +2232,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -2062,7 +2298,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -2076,93 +2312,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
-          "url": "https://wallstreetcn.com/articles/3764292",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时23分 ~ 17时42分]"
-        },
-        {
-          "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
-          "url": "https://www.cls.cn/detail/2272037",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 17时42分]"
-        },
-        {
-          "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
-          "url": "https://flash.jin10.com/detail/20260128020246054800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时36分]"
-        },
-        {
-          "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",
-          "url": "https://wallstreetcn.com/livenews/3044927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时36分]"
-        },
-        {
-          "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
-          "url": "https://flash.jin10.com/detail/20260128010307000800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "谷歌：为手机推出强大的防盗保护功能。",
-          "url": "https://flash.jin10.com/detail/20260128010248348800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "【但斌91亿元的美股持仓出炉 谷歌取代英伟达成第一重仓股】据私募排排网，美国证券交易委员会(SEC)官网披露了但斌掌舵的东方港湾旗下海外基金2025年四季度的美股持仓数据。数据显示，2025年末东方港湾共持有10只美股标的，持股市值合计13.16亿美元，折合人民币超91亿元，相比2025年三季度末约12.92亿美元的持股市值略有增长。四季度，东方港湾清仓了Coinbase、奈飞、AsteraLabs、BitMineImmersionTechnologies、博通、台积电等美股标的。此外，变化较大的是，谷歌取代英伟达，跃升为东方港湾的第一大重仓股。",
-          "url": "https://wallstreetcn.com/livenews/3045359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时36分"
         }
       ]
     },
