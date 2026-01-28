@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T16:43:18.401868+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2026-01-28T17:42:28.082832+08:00",
+  "total_titles_processed": 1524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "人力资源社会保障部将有新政策",
@@ -71,7 +71,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -210,6 +210,17 @@
           "time_info": "[00时40分 ~ 01时36分]"
         },
         {
+          "title": "全国多地取消固定分时电价，背后政策考量可能是什么？未来电费会涨吗？",
+          "url": "https://www.zhihu.com/question/1999744090351296730",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时42分]"
+        },
+        {
           "title": "交通运输部：严格落实春节假期免收7座及以下小型客车通行费政策",
           "url": "https://m.thepaper.cn/newsDetail_forward_32471784",
           "source": "澎湃新闻",
@@ -263,6 +274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "英国国家统计局：我们计划自2026年2月起，在我们的消费者价格通胀统计中引入改进后的食品杂货数据和方法。",
+          "url": "https://flash.jin10.com/detail/20260128173322081800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "欧洲央行管委兼德国央行行长Nagel：近期没理由调整政策利率。",
@@ -419,17 +441,6 @@
           "time_info": "00时40分"
         },
         {
-          "title": "全国多地取消固定分时电价，背后政策考量可能是什么？未来电费会涨吗？",
-          "url": "https://www.zhihu.com/question/1999744090351296730",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
-        },
-        {
           "title": "立陶宛国家危机管理中心：维尔纽斯（立陶宛首都）机场因疑似来自白俄罗斯的气球干扰空域而再次暂停运营。",
           "url": "https://flash.jin10.com/detail/20260128012541841800",
           "source": "金十数据",
@@ -488,7 +499,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "外交部回应高市早苗涉台最新言论",
@@ -511,8 +522,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时40分 ~ 16时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时40分 ~ 17时42分]"
         },
         {
           "title": "外交部回应高市早苗涉台言论",
@@ -556,11 +567,12 @@
             16,
             17,
             20,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时40分 ~ 16时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时40分 ~ 17时42分]"
         },
         {
           "title": "外交部回应“日本没有大熊猫了”",
@@ -611,8 +623,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时35分 ~ 16时43分]"
+          "appearance_count": 4,
+          "time_info": "[15时35分 ~ 17时42分]"
+        },
+        {
+          "title": "荷兰国际：美元或面临进一步下跌压力",
+          "url": "https://flash.jin10.com/detail/20260128173653658800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "外交部：希望有关方正视半岛问题的根源",
@@ -761,7 +784,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -772,7 +795,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -783,7 +806,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -816,7 +839,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -827,7 +850,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -838,7 +861,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -849,9 +872,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
+        },
+        {
+          "title": "俄罗斯外交部：被扣押油轮上的两名俄罗斯船员已获释，正前往俄罗斯。",
+          "url": "https://flash.jin10.com/detail/20260128171246642800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "英国首相斯塔默：英国将继续与国际伙伴密切合作，以支持乌克兰的安全。",
@@ -893,7 +927,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -904,7 +938,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -926,7 +960,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -937,7 +971,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -956,7 +990,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "【数据看盘】顶级游资豪掷近10亿买入平潭发展，华天科技龙虎榜资金猛抢",
@@ -979,8 +1013,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时31分 ~ 16时43分]"
+          "appearance_count": 11,
+          "time_info": "[06时31分 ~ 17时42分]"
         },
         {
           "title": "三家A股公司实控人熊海涛被留置 旗下东材科技改制往事曾遭举报",
@@ -1030,8 +1064,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时49分 ~ 16时43分]"
+          "appearance_count": 5,
+          "time_info": "[14时49分 ~ 17时42分]"
         },
         {
           "title": "前瞻｜英国首相时隔8年访华：搁置争议，要从中国带回去“亮眼成果”",
@@ -1042,11 +1076,12 @@
             15,
             13,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时23分 ~ 16时43分]"
+          "appearance_count": 8,
+          "time_info": "[10时23分 ~ 17时42分]"
         },
         {
           "title": "1月28日投资避雷针：东材科技等三公司同日公告 实际控制人熊海涛被立案调查并留置",
@@ -1085,6 +1120,20 @@
           "time_info": "05时27分"
         },
         {
+          "title": "自然与科技健身的力量差距",
+          "url": "https://search.bilibili.com/all?keyword=%E8%87%AA%E7%84%B6%E4%B8%8E%E7%A7%91%E6%8A%80%E5%81%A5%E8%BA%AB%E7%9A%84%E5%8A%9B%E9%87%8F%E5%B7%AE%E8%B7%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            10,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时49分 ~ 17时42分]"
+        },
+        {
           "title": "“耐心资本+创新保单”两端发力，险资探索服务硬科技新模式",
           "url": "https://wallstreetcn.com/livenews/3045014",
           "source": "华尔街见闻-快讯",
@@ -1119,19 +1168,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时31分]"
-        },
-        {
-          "title": "自然与科技健身的力量差距",
-          "url": "https://search.bilibili.com/all?keyword=%E8%87%AA%E7%84%B6%E4%B8%8E%E7%A7%91%E6%8A%80%E5%81%A5%E8%BA%AB%E7%9A%84%E5%8A%9B%E9%87%8F%E5%B7%AE%E8%B7%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时49分 ~ 16时43分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.43%，报27186点。 恒生科技指数主连夜盘收涨0.17%，报5748点。",
@@ -1210,7 +1246,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -1232,7 +1268,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -1265,9 +1301,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
+        },
+        {
+          "title": "纳指科技ETF：1月29日开市起至当日10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3045465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "恒生指数收盘涨2.58%，恒生科技指数涨2.53%",
@@ -1276,7 +1323,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -1314,6 +1361,17 @@
           "time_info": "15时36分"
         },
         {
+          "title": "美股盘前：阿斯麦涨约5%，希捷科技涨约10%",
+          "url": "https://wallstreetcn.com/livenews/3045460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "金价冲上5230美元/盎司再创新高，多家品牌金饰克价超1600元",
           "url": "https://wallstreetcn.com/livenews/3045204",
           "source": "华尔街见闻-快讯",
@@ -1342,7 +1400,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -1361,7 +1419,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -1374,8 +1432,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时40分 ~ 16时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时40分 ~ 17时42分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -1441,17 +1499,6 @@
           "time_info": "[00时40分 ~ 07时32分]"
         },
         {
-          "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
-          "url": "https://www.cls.cn/detail/2271840",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时23分 ~ 13时36分]"
-        },
-        {
           "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
           "url": "https://www.cls.cn/detail/2272264",
           "source": "财联社热门",
@@ -1461,8 +1508,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时36分 ~ 16时43分]"
+          "appearance_count": 6,
+          "time_info": "[13时36分 ~ 17时42分]"
+        },
+        {
+          "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
+          "url": "https://www.cls.cn/detail/2271840",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 13时36分]"
         },
         {
           "title": "AI与机器人热潮助推，韩国股市市值超越德国",
@@ -1485,6 +1543,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "刘强东在家乡打造了一个AI教室",
+          "url": "https://www.toutiao.com/trending/7600224231955988531/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
+          "url": "https://www.cls.cn/detail/2272163",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时49分 ~ 17时42分]"
         },
         {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
@@ -1524,18 +1606,6 @@
           "time_info": "[00时40分 ~ 01时36分]"
         },
         {
-          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
-          "url": "https://www.cls.cn/detail/2272163",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时49分 ~ 16时43分]"
-        },
-        {
           "title": "马云：孩子不应和AI比拼计算和记忆",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
           "source": "百度热搜",
@@ -1545,6 +1615,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时36分 ~ 15时36分]"
+        },
+        {
+          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
+          "url": "https://www.cls.cn/detail/2272316",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时42分]"
         },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
@@ -1583,15 +1665,15 @@
           "time_info": "[02时52分 ~ 03时36分]"
         },
         {
-          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
-          "url": "https://www.cls.cn/detail/2272316",
-          "source": "财联社热门",
+          "title": "SK海力士拟斥资100亿美元在美成立AI公司",
+          "url": "https://flash.jin10.com/detail/20260128173103315800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时43分"
+          "time_info": "17时42分"
         },
         {
           "title": "AirPods实时翻译实用吗",
@@ -1666,7 +1748,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -1858,7 +1940,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "“今年肯定要提价！” 钨涨刀贵倒逼行业出清 头部厂家“有钱屯粮”订单周期拉长",
@@ -1875,6 +1957,28 @@
           "time_info": "[00时40分 ~ 10时23分]"
         },
         {
+          "title": "豫光金铅：公司属有色金属冶炼行业，原料自给率较低",
+          "url": "https://wallstreetcn.com/livenews/3045499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "瑞安航空CEO奥利里：随着技术进步，预计在四到五年内，所有飞机都将提供免费Wi-Fi。",
+          "url": "https://flash.jin10.com/detail/20260128173448489800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "联合声明草案显示，欧盟考虑向河内转让安全技术，并寻求基础设施投资。",
           "url": "https://flash.jin10.com/detail/20260128151103175800",
           "source": "金十数据",
@@ -1884,6 +1988,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "瑞安航空CEO奥利里：三年来，我们一直在与Wi-Fi供应商星链、亚马逊云服务和沃达丰接洽，但相关技术尚未完全成熟。",
+          "url": "https://flash.jin10.com/detail/20260128173158485800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "太空探索技术公司（SpaceX）考虑在6月中旬进行IPO，公司正寻求以约1.5万亿美元的估值募资500亿美元。（英国金融时报）",
@@ -1941,6 +2056,17 @@
           "time_info": "15时36分"
         },
         {
+          "title": "惠誉评级：法国银行业利润不受企业所得税附加费延期影响。",
+          "url": "https://flash.jin10.com/detail/20260128171727328800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "存储芯片公司业绩亮眼，行业高景气2026年仍将持续",
           "url": "https://wallstreetcn.com/livenews/3045018",
           "source": "华尔街见闻-快讯",
@@ -1966,19 +2092,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时23分 ~ 16时43分]"
+          "appearance_count": 8,
+          "time_info": "[10时23分 ~ 17时42分]"
         },
         {
           "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
           "url": "https://www.cls.cn/detail/2272037",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 16时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 17时42分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
