@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T12:11:46.024126+08:00",
-  "total_titles_processed": 981,
+  "generated_at": "2026-01-28T13:36:56.678814+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "人力资源社会保障部将有新政策",
@@ -65,6 +65,17 @@
           "time_info": "[00时40分 ~ 06时31分]"
         },
         {
+          "title": "津巴布韦能源部长：与澳大利亚企业的合作已确认1.3万亿吨的天然气储量，这些资源可进行商业开采与利用。",
+          "url": "https://flash.jin10.com/detail/20260128130853919800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
           "title": "国有企业改革深化提升行动主体任务基本完成",
           "url": "https://wallstreetcn.com/livenews/3045146",
           "source": "华尔街见闻-快讯",
@@ -89,6 +100,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时52分 ~ 07时31分]"
+        },
+        {
+          "title": "税务部门将深入推进税制改革",
+          "url": "https://www.douyin.com/hot/2381741",
+          "source": "抖音",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 13时36分]"
         },
         {
           "title": "巴西国家石油公司将于2月将天然气平均价格下调7.8%。",
@@ -184,17 +207,6 @@
           "time_info": "01时36分"
         },
         {
-          "title": "税务部门将深入推进税制改革",
-          "url": "https://www.douyin.com/hot/2381741",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
           "title": "交易员表示，阿根廷国家风险降至500个基点以下，创近八年来新低。",
           "url": "https://flash.jin10.com/detail/20260128005524832800",
           "source": "金十数据",
@@ -261,6 +273,17 @@
           "time_info": "01时36分"
         },
         {
+          "title": "津巴布韦能源部长：需要建立石油和天然气开采与生产的合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3045272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
           "title": "美国总统特朗普：如果最高法院否决关税政策，将找到其他方式来处理贸易问题。",
           "url": "https://wallstreetcn.com/livenews/3045001",
           "source": "华尔街见闻-快讯",
@@ -322,7 +345,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -363,7 +386,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "【数据看盘】顶级游资豪掷近10亿买入平潭发展，华天科技龙虎榜资金猛抢",
@@ -399,8 +422,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时31分 ~ 12时11分]"
+          "appearance_count": 6,
+          "time_info": "[06时31分 ~ 13时36分]"
         },
         {
           "title": "美股收盘：六巨头走强标普创新高 美光等存储股重拾涨势",
@@ -411,8 +434,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 12时11分]"
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 13时36分]"
         },
         {
           "title": "黄金再创新高",
@@ -424,6 +447,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
+        },
+        {
+          "title": "今年产能已售罄！数据中心需求大涨 希捷科技季度营收同比增22%",
+          "url": "https://www.cls.cn/detail/2271989",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 13时36分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 美光科技涨超5%",
@@ -461,18 +496,6 @@
           "time_info": "[05时27分 ~ 06时31分]"
         },
         {
-          "title": "今年产能已售罄！数据中心需求大涨 希捷科技季度营收同比增22%",
-          "url": "https://www.cls.cn/detail/2271989",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 12时11分]"
-        },
-        {
           "title": "恒生指数主连夜盘收涨0.43%，报27186点。 恒生科技指数主连夜盘收涨0.17%，报5748点。",
           "url": "https://wallstreetcn.com/livenews/3044948",
           "source": "华尔街见闻-快讯",
@@ -483,6 +506,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时36分 ~ 04时32分]"
+        },
+        {
+          "title": "前瞻｜英国首相时隔8年访华：搁置争议，要从中国带回去“亮眼成果”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32475047",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 13时36分]"
         },
         {
           "title": "美国副总统万斯上周在华盛顿特区威胁韩国总理。 万斯警告称，韩方勿要针对美国科技公司。 也不要针对电商Coupang。（华尔街日报）",
@@ -509,16 +545,16 @@
           "time_info": "[00时40分 ~ 01时36分]"
         },
         {
-          "title": "前瞻｜英国首相时隔8年访华：搁置争议，要从中国带回去“亮眼成果”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32475047",
-          "source": "澎湃新闻",
+          "title": "1月28日投资避雷针：东材科技等三公司同日公告 实际控制人熊海涛被立案调查并留置",
+          "url": "https://www.cls.cn/detail/2271992",
+          "source": "财联社热门",
           "ranks": [
-            17,
-            15
+            8,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时23分 ~ 12时11分]"
+          "time_info": "[12时11分 ~ 13时36分]"
         },
         {
           "title": "国务院国资委：将聚焦科技创新和产业创新深度融合 重点推动三方面工作",
@@ -527,20 +563,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
         {
-          "title": "1月28日投资避雷针：东材科技等三公司同日公告 实际控制人熊海涛被立案调查并留置",
-          "url": "https://www.cls.cn/detail/2271992",
-          "source": "财联社热门",
+          "title": "A股液冷服务器概念震荡拉升，远东股份涨停，欧陆通、鼎通科技、奕东电子涨超10%，鸿富瀚、飞龙股份、英维克等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3045283",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时11分"
+          "time_info": "13时36分"
         },
         {
           "title": "标普500指数初步收涨0.4%，科技板块涨1.4%，公用事业板块涨1.2%，能源板块涨0.9%，保健板块跌1.7%。 纳斯达克100指数初步收涨0.8%，成分股中，拉姆研究收涨6.9%，美光科技涨5.4%，西部数据涨4.8%，科磊涨4.7%，希捷科技涨4.6%，Adobe跌2.5%，特许通讯跌5.5%，Roper Technologies Inc.跌9.4%。 联合健康初步收跌19.6%，耐克跌2.9%，波音、家得宝跌1.4%，领跌道指成分股，英伟达、苹果、可口可乐、强生、思科、微软、亚马逊则至少涨超1%领跑。",
@@ -560,7 +596,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -582,7 +618,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -615,7 +651,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -637,15 +673,289 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         }
       ]
     },
     {
+      "keyword_group": "AI Qwen DeepSeek Claude",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "Clawdbot引爆整个AI agent生态",
+          "url": "https://wallstreetcn.com/articles/3764269",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 13时36分]"
+        },
+        {
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 13时36分]"
+        },
+        {
+          "title": "详解DeepSeek新模型OCR2",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 12时11分]"
+        },
+        {
+          "title": "如何评价 DeepSeek-OCR-2 模型？",
+          "url": "https://www.zhihu.com/question/1999468225642119587",
+          "source": "知乎",
+          "ranks": [
+            2,
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时32分]"
+        },
+        {
+          "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
+          "url": "https://www.cls.cn/detail/2271472",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时32分]"
+        },
+        {
+          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
+          "url": "https://www.cls.cn/detail/2271331",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时32分]"
+        },
+        {
+          "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
+          "url": "https://www.cls.cn/detail/2271840",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 13时36分]"
+        },
+        {
+          "title": "AI与机器人热潮助推，韩国股市市值超越德国",
+          "url": "https://flash.jin10.com/detail/20260128100829783800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "据The Information：C3.AI正与初创公司Automation Anywhere洽谈合并，若这笔交易最终达成，Automation Anywhere将收购C3.AI，并由此实现上市。",
+          "url": "https://flash.jin10.com/detail/20260128100804980800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 13时36分]"
+        },
+        {
+          "title": "OpenAI和Anthropic的老板们支持科技工人，也谴责移民驱逐执法在美国明尼苏达州造成的暴力事件",
+          "url": "https://wallstreetcn.com/livenews/3044891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时36分]"
+        },
+        {
+          "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
+          "url": "https://flash.jin10.com/detail/20260128021217733800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时36分]"
+        },
+        {
+          "title": "OpenAI：PRISM将很快面向使用ChatGPT商业版、团队版、企业版和教育版计划的组织开放。",
+          "url": "https://flash.jin10.com/detail/20260128021207935800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时36分]"
+        },
+        {
+          "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
+          "url": "https://wallstreetcn.com/livenews/3044925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时36分]"
+        },
+        {
+          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
+          "url": "https://www.cls.cn/detail/2272264",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "AirPods实时翻译实用吗",
+          "url": "https://search.bilibili.com/all?keyword=AirPods%E5%AE%9E%E6%97%B6%E7%BF%BB%E8%AF%91%E5%AE%9E%E7%94%A8%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
+          "url": "https://www.zhihu.com/question/1999166962421429182",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "荷兰提出银行奖金制度松绑建议的国会议员娜塔莉·范·贝尔克尔（Nathalie van Berkel）：特定IT知识、AI 专家和数据专家的需求日益增长。 如果你想让荷兰保持竞争力，那么银行就需要有能力留住并吸引合适的人才。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3044870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "马云：AI时代不要再犹豫用不用AI 而是怎么教我们的孩子去用好AI",
+          "url": "https://wallstreetcn.com/livenews/3045264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
+          "url": "https://www.zhihu.com/question/1999418734398366788",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "国资委：国资央企将更大力度推进“AI+”专项行动",
+          "url": "https://wallstreetcn.com/livenews/3045207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "马云：孩子不应和AI比拼计算和记忆",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "OpenAI推出面向科学家的全新工具Prism",
+          "url": "https://flash.jin10.com/detail/20260128043059691800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "国际 外交 战争",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "外交部回应高市早苗涉台最新言论",
@@ -668,8 +978,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 12时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 13时36分]"
         },
         {
           "title": "外交部回应高市早苗涉台言论",
@@ -699,8 +1009,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 12时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 13时36分]"
         },
         {
           "title": "外交敲警钟:春节慎去日本蹦跶",
@@ -712,8 +1022,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 12时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 13时36分]"
         },
         {
           "title": "外交部回应“日本没有大熊猫了”",
@@ -831,6 +1141,17 @@
           "time_info": "[07时31分 ~ 07时32分]"
         },
         {
+          "title": "国际货币基金组织：（就斯里兰卡问题）计划在最适宜的时机派遣国际货币基金组织代表团，以重启关于下一评估周期内经济政策的讨论。",
+          "url": "https://flash.jin10.com/detail/20260128130809435800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
           "title": "国际铜夜盘收跌1.30%，沪铜收跌1.18%，沪铝收涨0.43%，沪锌收涨0.10%，沪铅收跌0.21%，沪镍收跌1.96%，沪锡收涨0.41%。 氧化铝夜盘收涨1.62%，铝合金收涨0.20%。 不锈钢夜盘收跌2.08%。",
           "url": "https://wallstreetcn.com/livenews/3044904",
           "source": "华尔街见闻-快讯",
@@ -910,236 +1231,6 @@
       ]
     },
     {
-      "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "Clawdbot引爆整个AI agent生态",
-          "url": "https://wallstreetcn.com/articles/3764269",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 12时11分]"
-        },
-        {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 12时11分]"
-        },
-        {
-          "title": "详解DeepSeek新模型OCR2",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 12时11分]"
-        },
-        {
-          "title": "如何评价 DeepSeek-OCR-2 模型？",
-          "url": "https://www.zhihu.com/question/1999468225642119587",
-          "source": "知乎",
-          "ranks": [
-            2,
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时32分]"
-        },
-        {
-          "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
-          "url": "https://www.cls.cn/detail/2271472",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时32分]"
-        },
-        {
-          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
-          "url": "https://www.cls.cn/detail/2271331",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时32分]"
-        },
-        {
-          "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
-          "url": "https://www.cls.cn/detail/2271840",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 12时11分]"
-        },
-        {
-          "title": "AI与机器人热潮助推，韩国股市市值超越德国",
-          "url": "https://flash.jin10.com/detail/20260128100829783800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "据The Information：C3.AI正与初创公司Automation Anywhere洽谈合并，若这笔交易最终达成，Automation Anywhere将收购C3.AI，并由此实现上市。",
-          "url": "https://flash.jin10.com/detail/20260128100804980800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "OpenAI和Anthropic的老板们支持科技工人，也谴责移民驱逐执法在美国明尼苏达州造成的暴力事件",
-          "url": "https://wallstreetcn.com/livenews/3044891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
-        },
-        {
-          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 12时11分]"
-        },
-        {
-          "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
-          "url": "https://flash.jin10.com/detail/20260128021217733800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时36分]"
-        },
-        {
-          "title": "OpenAI：PRISM将很快面向使用ChatGPT商业版、团队版、企业版和教育版计划的组织开放。",
-          "url": "https://flash.jin10.com/detail/20260128021207935800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时36分]"
-        },
-        {
-          "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
-          "url": "https://wallstreetcn.com/livenews/3044925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时36分]"
-        },
-        {
-          "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
-          "url": "https://www.zhihu.com/question/1999166962421429182",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "荷兰提出银行奖金制度松绑建议的国会议员娜塔莉·范·贝尔克尔（Nathalie van Berkel）：特定IT知识、AI 专家和数据专家的需求日益增长。 如果你想让荷兰保持竞争力，那么银行就需要有能力留住并吸引合适的人才。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3044870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
-          "url": "https://www.zhihu.com/question/1999418734398366788",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "国资委：国资央企将更大力度推进“AI+”专项行动",
-          "url": "https://wallstreetcn.com/livenews/3045207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "OpenAI推出面向科学家的全新工具Prism",
-          "url": "https://flash.jin10.com/detail/20260128043059691800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 美元",
       "match_count": 14,
       "titles": [
@@ -1159,11 +1250,12 @@
           "url": "https://www.cls.cn/detail/2271889",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 13时36分]"
         },
         {
           "title": "美元指数DXY短线走低超50点，特朗普释放让美元走弱的信号。",
@@ -1311,8 +1403,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 12时11分]"
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 13时36分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -1367,7 +1459,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         }
@@ -1375,7 +1467,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“今年肯定要提价！” 钨涨刀贵倒逼行业出清 头部厂家“有钱屯粮”订单周期拉长",
@@ -1390,6 +1482,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时40分 ~ 10时23分]"
+        },
+        {
+          "title": "太空探索技术公司（SpaceX）考虑在6月中旬进行IPO，公司正寻求以约1.5万亿美元的估值募资500亿美元。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3045275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         },
         {
           "title": "行业周报：美国上周API原油库存增约25万桶",
