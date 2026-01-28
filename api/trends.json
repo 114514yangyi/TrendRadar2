@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T03:37:18.591196+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-01-29T04:41:49.892626+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 22,
+      "match_count": 31,
       "titles": [
         {
           "title": "政务应用程序管理新规发布",
@@ -19,15 +19,85 @@
           "time_info": "[00时49分 ~ 00时50分]"
         },
         {
+          "title": "全国多地取消固定分时电价，背后政策考量可能是什么？未来电费会涨吗？",
+          "url": "https://www.zhihu.com/question/1999744090351296730",
+          "source": "知乎",
+          "ranks": [
+            6,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时41分]"
+        },
+        {
+          "title": "哥伦比亚航空公司萨特纳确认，一架载有15人的商用喷气式客机在哥伦比亚-委内瑞拉边境附近失踪，正与当局合作搜寻失联飞机。",
+          "url": "https://flash.jin10.com/detail/20260129041805084800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
           "title": "美联储主席鲍威尔新闻发布会开场白：美国经济在去年按稳健的速度扩张。 进入2026年的美国经济根基是稳固的。 失业率在一定程度上出现企稳迹象。 消费者开始一直具有韧性。 企业投资继续扩大。",
           "url": "https://wallstreetcn.com/livenews/3045774",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "现货黄金涨超3%，在鲍威尔新闻发布会结束之际刷新历史高位至5341.85美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3045814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "西方国家领导人为何密集访华",
+          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E6%96%B9%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%B8%BA%E4%BD%95%E5%AF%86%E9%9B%86%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时41分]"
+        },
+        {
+          "title": "金十提示：美联储主席鲍威尔新闻发布会结束。",
+          "url": "https://flash.jin10.com/detail/20260129041737636800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "鲍威尔1月28日新闻发布会要点总结",
+          "url": "https://wallstreetcn.com/livenews/3045813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "英伟达(NVDA.O)：美国国会必须重新授权国家量子倡议。",
@@ -47,34 +117,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
         {
-          "title": "全国多地取消固定分时电价，背后政策考量可能是什么？未来电费会涨吗？",
-          "url": "https://www.zhihu.com/question/1999744090351296730",
-          "source": "知乎",
+          "title": "提醒：美联储主席鲍威尔新闻发布会结束，FOMC将于3月17-18日举行下一轮货币政策会议。",
+          "url": "https://wallstreetcn.com/livenews/3045812",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            10,
-            9
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时37分]"
-        },
-        {
-          "title": "西方国家领导人为何密集访华",
-          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E6%96%B9%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%B8%BA%E4%BD%95%E5%AF%86%E9%9B%86%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "美元走软叠加乙醇政策预期 美农产品市场迎来看涨转机",
@@ -119,7 +175,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
@@ -141,7 +197,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
@@ -168,6 +224,17 @@
           "time_info": "02时48分"
         },
         {
+          "title": "美联储主席鲍威尔：尽管贸易政策发生了重大变化，但迄今为止经济表现良好。",
+          "url": "https://flash.jin10.com/detail/20260129040735564800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
           "title": "中国代表：支持伊朗国家稳定，武力解决不了问题",
           "url": "https://wallstreetcn.com/livenews/3045730",
           "source": "华尔街见闻-快讯",
@@ -185,7 +252,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
@@ -196,7 +263,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
@@ -207,7 +274,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
@@ -218,9 +285,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "鲍威尔：关税的大部分影响已经传导至经济。 如果我们看到关税影响的峰值，表明我们可以放宽政策。",
+          "url": "https://wallstreetcn.com/livenews/3045791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "鲍威尔：我们处于中性利率区间的高端。 数据很难说明政策具有极大的限制性。 政策可能是中性的，或者在一定程度上具有限制性。 今天有许多人支持维持政策利率不变。",
+          "url": "https://wallstreetcn.com/livenews/3045789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "经济数据空窗期鲍威尔料持中立 警惕新闻发布会政治问题",
@@ -229,7 +318,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
@@ -245,13 +334,145 @@
           "time_info": "00时50分"
         },
         {
+          "title": "鲍威尔：自从12月FOMC货币政策会议以来，数据清晰地表明增速改善。 整体而言，比12月份经济预期概要（SEP）所给预测更加强劲。",
+          "url": "https://wallstreetcn.com/livenews/3045788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
           "title": "美联储主席鲍威尔将于十分钟后召开货币政策新闻发布会。",
           "url": "https://flash.jin10.com/detail/20260129032000000800",
           "source": "金十数据",
           "ranks": [
             29
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Qwen DeepSeek Claude",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
+          "url": "https://www.zhihu.com/question/1999415789258826467",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时41分]"
+        },
+        {
+          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764353",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时41分]"
+        },
+        {
+          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
+          "url": "https://www.cls.cn/detail/2272560",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时41分]"
+        },
+        {
+          "title": "AI将替代9200万工作岗位",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            13,
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时41分]"
+        },
+        {
+          "title": "刘强东给老家建了间AI教室",
+          "url": "https://news.ifeng.com/c/8qHvWO6SnwI",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时41分]"
+        },
+        {
+          "title": "马云谈AI时代教育",
+          "url": "https://www.toutiao.com/trending/7600274916425351187/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时41分]"
+        },
+        {
+          "title": "前高盛贵金属业务主管Binet-Laisne加盟Mercuria。",
+          "url": "https://wallstreetcn.com/livenews/3045737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
+          "url": "https://www.cls.cn/detail/2272316",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 00时50分]"
+        },
+        {
+          "title": "鲍威尔：短期内可能会看到人工智能（AI）消除就业岗位/AI导致岗位被淘汰。",
+          "url": "https://wallstreetcn.com/livenews/3045805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "分析师：苹果公司的AI路线图仍是投资者最关心的问题",
+          "url": "https://wallstreetcn.com/livenews/3045749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         }
@@ -269,8 +490,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时41分]"
         },
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -281,8 +502,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时41分]"
         },
         {
           "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
@@ -293,8 +514,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时41分]"
         },
         {
           "title": "【数据看盘】量化、游资激烈博弈网宿科技，“北向+机构+游资”集体出逃三维通信",
@@ -305,8 +526,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时41分]"
+        },
+        {
+          "title": "自然与科技健身的力量差距",
+          "url": "https://search.bilibili.com/all?keyword=%E8%87%AA%E7%84%B6%E4%B8%8E%E7%A7%91%E6%8A%80%E5%81%A5%E8%BA%AB%E7%9A%84%E5%8A%9B%E9%87%8F%E5%B7%AE%E8%B7%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时41分]"
         },
         {
           "title": "美联储决议公布前，现货黄金站上5320美元/盎司，再创新高，日内涨2.71%。",
@@ -326,22 +560,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
-        },
-        {
-          "title": "自然与科技健身的力量差距",
-          "url": "https://search.bilibili.com/all?keyword=%E8%87%AA%E7%84%B6%E4%B8%8E%E7%A7%91%E6%8A%80%E5%81%A5%E8%BA%AB%E7%9A%84%E5%8A%9B%E9%87%8F%E5%B7%AE%E8%B7%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时37分]"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”活动上讲话：（在获得捐款后）赞赏戴尔科技。",
@@ -382,115 +603,6 @@
       ]
     },
     {
-      "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
-          "url": "https://www.zhihu.com/question/1999415789258826467",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时37分]"
-        },
-        {
-          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764353",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时37分]"
-        },
-        {
-          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
-          "url": "https://www.cls.cn/detail/2272560",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时37分]"
-        },
-        {
-          "title": "前高盛贵金属业务主管Binet-Laisne加盟Mercuria。",
-          "url": "https://wallstreetcn.com/livenews/3045737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
-          "title": "AI将替代9200万工作岗位",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            13,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时37分]"
-        },
-        {
-          "title": "刘强东给老家建了间AI教室",
-          "url": "https://news.ifeng.com/c/8qHvWO6SnwI",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时37分]"
-        },
-        {
-          "title": "马云谈AI时代教育",
-          "url": "https://www.toutiao.com/trending/7600274916425351187/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时37分]"
-        },
-        {
-          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
-          "url": "https://www.cls.cn/detail/2272316",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
-        },
-        {
-          "title": "分析师：苹果公司的AI路线图仍是投资者最关心的问题",
-          "url": "https://wallstreetcn.com/livenews/3045749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "国际 外交 战争",
       "match_count": 6,
       "titles": [
@@ -502,8 +614,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时41分]"
         },
         {
           "title": "外交敲警钟:春节慎去日本蹦跶",
@@ -513,8 +625,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时41分]"
         },
         {
           "title": "分析师：市场对美伊战争风险定价仍然不足",
@@ -564,7 +676,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "可回收火箭的三大技术挑战",
@@ -575,8 +687,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时41分]"
         },
         {
           "title": "特朗普政府将召集高管，讨论加密货币立法。 白宫将于下周一会见银行业高管和加密货币行业高管。（路透）",
@@ -585,7 +697,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
@@ -596,7 +708,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
@@ -610,6 +722,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "美联储主席鲍威尔：短期内，我们可能会看到一些工作岗位因人工智能技术的应用而被取代，但尚不清楚整体影响。",
+          "url": "https://flash.jin10.com/detail/20260129040407090800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         }
       ]
     },
@@ -624,7 +747,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
@@ -635,7 +758,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
