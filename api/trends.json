@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T01:41:14.323137+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-01-31T02:56:43.665548+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "吴清：全力巩固资本市场稳中向好势头，聚焦持续深化资本市场投融资综合改革、提高制度包容性适应性",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时56分]"
         },
         {
           "title": "宝可梦发布中日双语道歉，称活动信息被错误刊登，将杜绝，作为宝可梦粉丝你觉得这样道歉能体现诚意吗？",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时56分]"
         },
         {
           "title": "多地GDP数据发布 数字之外怎么看",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时56分]"
         },
         {
           "title": "欧盟高官抱怨：更多国家想靠近中国，美国犯大错",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时56分]"
         },
         {
           "title": "最能体现沃什政策主张的一场对话：通胀是美联储的一种选择",
@@ -59,19 +59,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时56分]"
+        },
+        {
+          "title": "美联储穆萨莱姆：预计在信贷条件和财政政策的推动下，经济将继续以高于趋势水平的速度增长。",
+          "url": "https://flash.jin10.com/detail/20260131023214261800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         },
         {
           "title": "美国参议院Warren计划美东时间13:30就美联储举行新闻发布会。",
           "url": "https://wallstreetcn.com/livenews/3047513",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时56分]"
         },
         {
           "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
@@ -81,19 +93,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时56分]"
         },
         {
           "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
           "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时56分]"
+        },
+        {
+          "title": "美国总统特朗普赞赏1月30日发布的“惊人”数字。",
+          "url": "https://wallstreetcn.com/livenews/3047506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时56分]"
         },
         {
           "title": "伊朗最高领袖顾问：欧盟国家军队将被视为恐怖组织",
@@ -108,15 +133,27 @@
           "time_info": "[00时51分 ~ 01时41分]"
         },
         {
-          "title": "美国总统特朗普赞赏1月30日发布的“惊人”数字。",
-          "url": "https://wallstreetcn.com/livenews/3047506",
-          "source": "华尔街见闻-快讯",
+          "title": "卡拉彼丘无名之汐EP发布",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%A1%E6%8B%89%E5%BD%BC%E4%B8%98%E6%97%A0%E5%90%8D%E4%B9%8B%E6%B1%90EP%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 02时56分]"
+        },
+        {
+          "title": "美联储穆萨莱姆：进一步降息并不可取，当前政策已属中性，经济无需刺激。风险总体平衡，只有在就业市场恶化或通胀下行时才需要进一步降息。",
+          "url": "https://flash.jin10.com/detail/20260131023152058800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时41分"
+          "time_info": "02时56分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.2%，报389.16点。 在十个板块中，北欧信息技术板块涨幅最大。 诺基亚涨5.7%，对指数（的表现）贡献最大，并在一众北欧个股里领跑。",
@@ -125,9 +162,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "2028年FOMC票委、圣路易联储主席穆萨莱姆将于十分钟后就美国经济和货币政策发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260131022000001800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         },
         {
           "title": "白宫经济顾问哈塞特：美国财政部奉行强美元政策",
@@ -163,17 +211,6 @@
           "time_info": "00时51分"
         },
         {
-          "title": "卡拉彼丘无名之汐EP发布",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%A1%E6%8B%89%E5%BD%BC%E4%B8%98%E6%97%A0%E5%90%8D%E4%B9%8B%E6%B1%90EP%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
           "title": "消息人士：本周美国军方向伊拉克转移“伊斯兰国”在押人员的步伐有所放缓。伊拉克希望有时间筹备监狱，并与其他国家就遣返被拘留者事宜展开谈判。",
           "url": "https://flash.jin10.com/detail/20260130235753815800",
           "source": "金十数据",
@@ -188,7 +225,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "外交部回应巴拿马涉港口裁决",
@@ -198,8 +235,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时56分]"
         },
         {
           "title": "中方希望斯塔默向日本传递何种信息？外交部表态",
@@ -209,8 +246,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时56分]"
         },
         {
           "title": "外交部回应巴拿马涉港口有关裁决",
@@ -220,8 +257,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时56分]"
         },
         {
           "title": "外交部回应巴拿马涉港口有关裁决",
@@ -229,11 +266,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时56分]"
         },
         {
           "title": "外交部回应巴拿马涉港口有关裁决：将坚决维护中企权益",
@@ -244,8 +282,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时56分]"
         },
         {
           "title": "外交部回应巴拿马涉港口有关裁决",
@@ -253,11 +291,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时56分]"
         },
         {
           "title": "国际金银价格坐上“过山车”",
@@ -270,6 +309,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时51分 ~ 01时41分]"
+        },
+        {
+          "title": "古巴宣布因美国威胁进入国际紧急状态",
+          "url": "https://wallstreetcn.com/livenews/3047524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "伊朗总统：绝不欢迎战争，坚决回击侵犯",
+          "url": "https://wallstreetcn.com/livenews/3047520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         },
         {
           "title": "墨西哥总统辛鲍姆：墨西哥将寻求外交选项，并与美国国务院联系。",
@@ -319,8 +380,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时56分]"
         },
         {
           "title": "299吃科技,尘白菜品全预制",
@@ -330,8 +391,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时56分]"
         },
         {
           "title": "美联储理事米兰：沃什一贯富有创新精神。",
@@ -367,11 +428,12 @@
           "url": "https://wallstreetcn.com/articles/3764423",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时56分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -381,8 +443,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时56分]"
         },
         {
           "title": "白宫顾问哈塞特：原材料价格上涨是因为AI和数据中心开支的缘故。",
@@ -406,11 +468,12 @@
           "url": "https://www.zhihu.com/question/2000222256375227441",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 02时56分]"
         }
       ]
     },
@@ -425,7 +488,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         }
@@ -440,11 +503,12 @@
           "url": "https://search.bilibili.com/all?keyword=3D%E5%81%B6%E5%83%8F%E6%B8%B8%E6%88%8FV%20Project%E9%A6%96%E6%9B%9D",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 02时56分]"
         }
       ]
     }
