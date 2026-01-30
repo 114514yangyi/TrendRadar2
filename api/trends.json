@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T10:40:53.410574+08:00",
-  "total_titles_processed": 901,
+  "generated_at": "2026-01-30T12:47:47.107502+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "要做主权国家还是美国跟班？英国选择重启中英“黄金时代”",
@@ -68,6 +68,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 06时36分]"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普将于美国东部时间周五下午2点（北京时间次日凌晨3点）参加一场政策会议。",
+          "url": "https://flash.jin10.com/detail/20260130123023173800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "当地时间1月29日，布基纳法索国家元首特拉奥雷主持会议，通过法令要求解散该国所有政党和组织。",
@@ -195,6 +206,40 @@
           "time_info": "[00时54分 ~ 01时44分]"
         },
         {
+          "title": "特朗普宣布国家紧急状态",
+          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 12时47分]"
+        },
+        {
+          "title": "国防部表示所谓「击沉」中国军舰动画纯属自嗨，发言人用英文说「You wish」，那些自嗨国家听懂了吗？",
+          "url": "https://www.zhihu.com/question/2000246601516590129",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 12时47分]"
+        },
+        {
+          "title": "1月30日投资避雷针：奥特迅、国中水务等公司发布年报预告 称股票交易可能被实施ST",
+          "url": "https://www.cls.cn/detail/2274999",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 12时47分]"
+        },
+        {
           "title": "委内瑞拉石油法改革草案拟允许油田运营外包。",
           "url": "https://flash.jin10.com/detail/20260130000950093800",
           "source": "金十数据",
@@ -228,35 +273,13 @@
           "time_info": "00时54分"
         },
         {
-          "title": "特朗普宣布国家紧急状态",
-          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "国防部表示所谓「击沉」中国军舰动画纯属自嗨，发言人用英文说「You wish」，那些自嗨国家听懂了吗？",
-          "url": "https://www.zhihu.com/question/2000246601516590129",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
           "title": "2025 年我国出入境人次创历史新高，免签入境外国人同比上升 49.5%，除政策红利还有哪些因素推动？",
           "url": "https://www.zhihu.com/question/1999787144869340056",
           "source": "知乎",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -267,7 +290,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -303,17 +326,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
-        },
-        {
-          "title": "1月30日投资避雷针：奥特迅、国中水务等公司发布年报预告 称股票交易可能被实施ST",
-          "url": "https://www.cls.cn/detail/2274999",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
         },
         {
           "title": "美国财政部外国资产控制办公室发布委内瑞拉通用许可证。",
@@ -410,7 +422,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         }
@@ -418,7 +430,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -445,8 +457,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 10时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 12时47分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -454,11 +466,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 10时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 12时47分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -492,8 +505,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时35分 ~ 10时40分]"
+          "appearance_count": 3,
+          "time_info": "[07时35分 ~ 12时47分]"
         },
         {
           "title": "OpenAI下架（retiring）GPT-4o、GPT-4.1，GPT-4.1 mini，以及OpenAI o4-mini。",
@@ -573,6 +586,18 @@
           "time_info": "[01时44分 ~ 03时38分]"
         },
         {
+          "title": "SpaceX被曝拟合并xAI剑指超级IPO “数据中心上天”蓝图浮现",
+          "url": "https://www.cls.cn/detail/2274899",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 12时47分]"
+        },
+        {
           "title": "黑石总裁：AI颠覆传统产业是当前最大的风险",
           "url": "https://wallstreetcn.com/livenews/3046598",
           "source": "华尔街见闻-快讯",
@@ -583,6 +608,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时44分]"
+        },
+        {
+          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 12时47分]"
         },
         {
           "title": "据英国《金融时报》：苹果收购以色列初创公司Q.AI，交易估值接近20亿美元。",
@@ -620,17 +657,6 @@
           "time_info": "06时36分"
         },
         {
-          "title": "SpaceX被曝拟合并xAI剑指超级IPO “数据中心上天”蓝图浮现",
-          "url": "https://www.cls.cn/detail/2274899",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
           "title": "消息人士称，OpenAI已聘请新高管，以帮助为IPO做准备，OpenAI计划在第四季度进行IPO，以在上市竞争中击败Anthropic。",
           "url": "https://flash.jin10.com/detail/20260130070522656800",
           "source": "金十数据",
@@ -651,6 +677,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "苹果(AAPL.O)CEO库克：客户对AirPods Pro 3反应积极。",
@@ -697,15 +734,15 @@
           "time_info": "05时36分"
         },
         {
-          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
-          "source": "澎湃新闻",
+          "title": "Ai 编程时代，Rust 会不会未盛先衰？",
+          "url": "https://www.zhihu.com/question/1979722947267671278",
+          "source": "知乎",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "12时47分"
         },
         {
           "title": "微软市值单日蒸发3600亿美元，AI支出多到投资者不安",
@@ -788,7 +825,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "【焦点复盘】科创50跌超3%，半导体等硬科技方向低迷，贵州茅台大涨近9%收复1400元大关",
@@ -803,18 +840,6 @@
           "time_info": "[00时54分 ~ 07时35分]"
         },
         {
-          "title": "Sci揭底!东大包办9成废论文",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349900&amp;topic_name=Sci%E6%8F%AD%E5%BA%95%21%E4%B8%9C%E5%A4%A7%E5%8C%85%E5%8A%9E9%E6%88%90%E5%BA%9F%E8%AE%BA%E6%96%87",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 10时40分]"
-        },
-        {
           "title": "1美元vs10亿美元前沿科技",
           "url": "https://search.bilibili.com/all?keyword=1%E7%BE%8E%E5%85%83vs10%E4%BA%BF%E7%BE%8E%E5%85%83%E5%89%8D%E6%B2%BF%E7%A7%91%E6%8A%80",
           "source": "bilibili 热搜",
@@ -824,11 +849,36 @@
             10,
             6,
             20,
-            24
+            24,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 07时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 12时47分]"
+        },
+        {
+          "title": "Sci揭底!东大包办9成废论文",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349900&amp;topic_name=Sci%E6%8F%AD%E5%BA%95%21%E4%B8%9C%E5%A4%A7%E5%8C%85%E5%8A%9E9%E6%88%90%E5%BA%9F%E8%AE%BA%E6%96%87",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 12时47分]"
+        },
+        {
+          "title": "当论文“无痕撤稿”成为一门生意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32484337",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时36分 ~ 12时47分]"
         },
         {
           "title": "英国首相：在华会谈取得实质性成果",
@@ -845,15 +895,15 @@
           "time_info": "[00时54分 ~ 05时36分]"
         },
         {
-          "title": "当论文“无痕撤稿”成为一门生意",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32484337",
-          "source": "澎湃新闻",
+          "title": "299吃科技,尘白菜品全预制",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349919&amp;topic_name=299%E5%90%83%E7%A7%91%E6%8A%80%2C%E5%B0%98%E7%99%BD%E8%8F%9C%E5%93%81%E5%85%A8%E9%A2%84%E5%88%B6",
+          "source": "贴吧",
           "ranks": [
             2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时36分 ~ 10时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "香港恒生科技指数下跌2%至5,723.89点。",
@@ -862,7 +912,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -894,6 +944,29 @@
           "time_info": "[03时38分 ~ 05时36分]"
         },
         {
+          "title": "涉赴华免签、威士忌关税！斯塔默在故宫谈中英会谈成果(图)",
+          "url": "https://news.ifeng.com/c/8qKQWKa5M2w",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 12时47分]"
+        },
+        {
+          "title": "碾压预期！苹果上季营收和iPhone销售均创新高，在华收入劲增近40% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764518",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 12时47分]"
+        },
+        {
           "title": "自然与科技健身的力量差距",
           "url": "https://search.bilibili.com/all?keyword=%E8%87%AA%E7%84%B6%E4%B8%8E%E7%A7%91%E6%8A%80%E5%81%A5%E8%BA%AB%E7%9A%84%E5%8A%9B%E9%87%8F%E5%B7%AE%E8%B7%9D",
           "source": "bilibili 热搜",
@@ -905,17 +978,6 @@
           "time_info": "[04时40分 ~ 04时41分]"
         },
         {
-          "title": "涉赴华免签、威士忌关税！斯塔默在故宫谈中英会谈成果(图)",
-          "url": "https://news.ifeng.com/c/8qKQWKa5M2w",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
           "title": "标普500指数初步收跌0.1%，科技板块跌2%，可选消费板块跌0.6%，能源板块涨1.1%，电信板块涨3%。 纳斯达克100指数初步收跌0.5%，成分股中，Atlassian、微软、Strategy初步收跌约10%，表现最差，新思科技跌6%，铿腾电子跌5.7%，阿斯麦ADR涨2%，Meta涨10.8%。 Salesforce初步收跌6.3%，波音跌3%，和微软领跌道指成分股，摩根大通则涨1.6%，霍尼韦尔涨4.9%，IBM涨约5%。",
           "url": "https://wallstreetcn.com/livenews/3046681",
           "source": "华尔街见闻-快讯",
@@ -925,17 +987,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
-        },
-        {
-          "title": "碾压预期！苹果上季营收和iPhone销售均创新高，在华收入劲增近40% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764518",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
         },
         {
           "title": "券商锚定“硬科技”发力私募股权投资",
@@ -980,12 +1031,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "今年交通运输部将建设100个前瞻性部级科技创新平台",
+          "url": "https://wallstreetcn.com/livenews/3046951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         }
       ]
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "2026 年一月，中国连续接待韩国、爱尔兰、加拿大、英国等外国元首，全球外交局势发生了哪些变化？",
@@ -1037,6 +1099,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时54分 ~ 05时36分]"
+        },
+        {
+          "title": "印尼首席经济部长：将采取更加开放的措施和更完善的治理，使证券交易所市场更加稳定，并符合国际标准。",
+          "url": "https://flash.jin10.com/detail/20260130122719150800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "伊朗外交部声明：以最强烈措辞谴责欧盟对革命卫队作出“非法且毫无根据”的认定。将一国官方军事机构列为“恐怖组织”是危险之举。伊朗人民保留对其采取对等措施以回应欧盟决定的合法权利。",
@@ -1157,7 +1230,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         }
@@ -1165,8 +1238,19 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "LPL 热度暴跌，涅槃战队队服需胶带粘补，这反映了电竞行业哪些问题？",
+          "url": "https://www.zhihu.com/question/2000001111336171273",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 12时47分]"
+        },
         {
           "title": "爱奇艺宣布 2026 年 2 月 1 日起全面实行「收入分账」模式，对影视行业和观众有何影响？",
           "url": "https://www.zhihu.com/question/1997414292409050897",
@@ -1192,17 +1276,6 @@
           "time_info": "06时36分"
         },
         {
-          "title": "LPL 热度暴跌，涅槃战队队服需胶带粘补，这反映了电竞行业哪些问题？",
-          "url": "https://www.zhihu.com/question/2000001111336171273",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
           "title": "美国参议院农业委员会推进自己版本的数字资产市场架构的立法程序。 根据该方案，美国商品期货交易委员会（CFTC）有望成为数字资产行业的主要监管方。",
           "url": "https://wallstreetcn.com/livenews/3046636",
           "source": "华尔街见闻-快讯",
@@ -1222,7 +1295,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -1238,13 +1311,24 @@
           "time_info": "07时35分"
         },
         {
+          "title": "印度NIFTY信息技术指数下跌1.5%。",
+          "url": "https://flash.jin10.com/detail/20260130115113423800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "伦敦金属交易所：由于技术问题，LMEselect开盘出现延迟。",
           "url": "https://flash.jin10.com/detail/20260130094918606800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         }
@@ -1283,7 +1367,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -1305,7 +1389,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -1366,7 +1450,7 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "2025年国产游戏销量榜",
@@ -1397,6 +1481,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 10时40分]"
+        },
+        {
+          "title": "游戏驿站首席执行官表示，正瞄准一家大型上市公司进行收购，目标是将市值提升至1000亿美元。(华尔街日报)",
+          "url": "https://wallstreetcn.com/livenews/3046949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         }
       ]
     },
@@ -1411,7 +1506,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         }
