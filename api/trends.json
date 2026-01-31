@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T17:36:52.479215+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2026-01-31T18:34:50.732723+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "宝可梦发布中日双语道歉，称活动信息被错误刊登，将杜绝，作为宝可梦粉丝你觉得这样道歉能体现诚意吗？",
@@ -53,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时51分 ~ 17时36分]"
+          "appearance_count": 22,
+          "time_info": "[00时51分 ~ 18时34分]"
         },
         {
           "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
@@ -125,11 +125,12 @@
             14,
             16,
             17,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时40分 ~ 17时36分]"
+          "appearance_count": 9,
+          "time_info": "[12时40分 ~ 18时34分]"
         },
         {
           "title": "国家统计局：1月制造业采购经理指数有所下降，生产继续保持扩张",
@@ -174,6 +175,22 @@
           "time_info": "[10时35分 ~ 14时52分]"
         },
         {
+          "title": "斯塔默回击特朗普涉中英合作言论：忽视中国是“不明智的”",
+          "url": "https://wallstreetcn.com/livenews/3047643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            9,
+            17,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时45分 ~ 18时34分]"
+        },
+        {
           "title": "美联储穆萨莱姆：进一步降息并不可取，当前政策已属中性，经济无需刺激。风险总体平衡，只有在就业市场恶化或通胀下行时才需要进一步降息。",
           "url": "https://flash.jin10.com/detail/20260131023152058800",
           "source": "金十数据",
@@ -201,21 +218,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时36分 ~ 16时40分]"
-        },
-        {
-          "title": "斯塔默回击特朗普涉中英合作言论：忽视中国是“不明智的”",
-          "url": "https://wallstreetcn.com/livenews/3047643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8,
-            9,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时45分 ~ 17时36分]"
         },
         {
           "title": "美联储理事鲍曼：期待与美国总统特朗普的美联储主席提名人凯文·沃什合作。",
@@ -275,11 +277,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时36分]"
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 18时34分]"
         },
         {
           "title": "美联储理事米兰：我将继续担任理事，直至国会山确认接替我位置的人。 仍然认为FOMC利率太具有限制性。 就业还没有企稳到足以消除担忧。 认为美联储主席提名人沃什能够说服（国会山/美联储的）人们接受他的观点。 要缩减美联储资产负债表，我们需要监管改革。 美联储主席鲍威尔值得所有美国人的感谢。 鲍威尔帮助美国避免陷入第二次大萧条。",
@@ -292,6 +295,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 05时36分]"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：丰田汽车工程与制造公司召回161,268辆美国车辆，因为后视摄像头图像无法显示会导致驾驶员对车辆后方视野受限，从而增加发生碰撞的风险。",
+          "url": "https://flash.jin10.com/detail/20260131160716286800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 18时34分]"
         },
         {
           "title": "美国参议院Warren计划美东时间13:30就美联储举行新闻发布会。",
@@ -316,18 +332,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 05时36分]"
-        },
-        {
-          "title": "美国国家公路交通安全管理局：丰田汽车工程与制造公司召回161,268辆美国车辆，因为后视摄像头图像无法显示会导致驾驶员对车辆后方视野受限，从而增加发生碰撞的风险。",
-          "url": "https://flash.jin10.com/detail/20260131160716286800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时36分]"
         },
         {
           "title": "卡拉彼丘无名之汐EP发布",
@@ -400,6 +404,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 03时39分]"
+        },
+        {
+          "title": "财政部、税务总局发布《关于增值税征税具体范围有关事项的公告》",
+          "url": "https://wallstreetcn.com/livenews/3047667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.2%，报389.16点。 在十个板块中，北欧信息技术板块涨幅最大。 诺基亚涨5.7%，对指数（的表现）贡献最大，并在一众北欧个股里领跑。",
@@ -482,7 +497,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "中方希望斯塔默向日本传递何种信息？外交部表态",
@@ -626,11 +641,24 @@
           "source": "金十数据",
           "ranks": [
             1,
-            7
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 18时34分]"
+        },
+        {
+          "title": "古巴宣布进入国际紧急状态",
+          "url": "https://www.douyin.com/hot/2384823",
+          "source": "抖音",
+          "ranks": [
+            10,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时36分]"
+          "time_info": "[17时36分 ~ 18时34分]"
         },
         {
           "title": "据国际文传电讯社：哈萨克斯坦田吉兹（Tengiz）油田产量恢复。",
@@ -638,11 +666,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时36分]"
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 18时34分]"
         },
         {
           "title": "立陶宛的外交与经济困局",
@@ -679,15 +708,15 @@
           "time_info": "[03时39分 ~ 04时40分]"
         },
         {
-          "title": "古巴宣布进入国际紧急状态",
-          "url": "https://www.douyin.com/hot/2384823",
-          "source": "抖音",
+          "title": "俄罗斯外交部：俄制定对日政策时将考虑日方不友好言论",
+          "url": "https://wallstreetcn.com/livenews/3047668",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时36分"
+          "time_info": "18时34分"
         },
         {
           "title": "古巴宣布因美国威胁进入国际紧急状态",
@@ -764,11 +793,12 @@
             8,
             12,
             26,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时40分 ~ 17时36分]"
+          "appearance_count": 9,
+          "time_info": "[12时40分 ~ 18时34分]"
         },
         {
           "title": "OpenAI 计划今年第四季度 IPO，目标抢在 Anthropic 之前，如何解读？",
@@ -797,6 +827,19 @@
           "time_info": "[03时39分 ~ 05时36分]"
         },
         {
+          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
+          "url": "https://www.cls.cn/detail/2275533",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时52分 ~ 18时34分]"
+        },
+        {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
           "url": "https://wallstreetcn.com/livenews/3047621",
           "source": "华尔街见闻-快讯",
@@ -810,19 +853,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时36分 ~ 15时36分]"
-        },
-        {
-          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
-          "url": "https://www.cls.cn/detail/2275533",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时52分 ~ 17时36分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850455&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://flash-scdn.jin10.com/fd96b6fe-677f-47dc-b581-479d7d254553.png\" height=\"120\" /></a>",
@@ -843,11 +873,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时36分]"
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 18时34分]"
         },
         {
           "title": "白宫顾问哈塞特：原材料价格上涨是因为AI和数据中心开支的缘故。",
@@ -888,8 +919,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时35分 ~ 17时36分]"
+          "appearance_count": 11,
+          "time_info": "[10时35分 ~ 18时34分]"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
@@ -1016,11 +1047,25 @@
             19,
             21,
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时51分 ~ 17时36分]"
+          "appearance_count": 22,
+          "time_info": "[00时51分 ~ 18时34分]"
+        },
+        {
+          "title": "我国有哪些顶尖科技",
+          "url": "https://www.toutiao.com/trending/7601070236545187886/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时41分 ~ 18时34分]"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（2026-01-31）",
@@ -1036,18 +1081,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时36分 ~ 15时36分]"
-        },
-        {
-          "title": "我国有哪些顶尖科技",
-          "url": "https://www.toutiao.com/trending/7601070236545187886/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时41分 ~ 16时40分]"
         },
         {
           "title": "美联储理事米兰：美联储主席提名人凯文·沃什一贯富有创新精神。 我会假设沃什将接替我的美联储理事职位。 预计美联储官员们也会很好地接纳沃什。 沃什有说服力，他的大量观点都是正确的。 必须继续实施规模正确的监管。 去监管会允许美联储缩表。 美联储（经济预期概要/SEP）预测可能会被现代化。 美联储的指引可能已经推迟了加息周期。",
@@ -1133,8 +1166,24 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "美国联邦政府多个部门陷入“技术性停摆”",
+          "url": "https://wallstreetcn.com/livenews/3047645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            7,
+            15,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时45分 ~ 18时34分]"
+        },
         {
           "title": "找不到工作的 985 毕业生扎堆演短剧，如何看待这种现象? 吸引他们进入此行业的原因与优势有哪些？",
           "url": "https://www.zhihu.com/question/2000163679547647285",
@@ -1147,19 +1196,15 @@
           "time_info": "[10时35分 ~ 10时36分]"
         },
         {
-          "title": "美国联邦政府多个部门陷入“技术性停摆”",
-          "url": "https://wallstreetcn.com/livenews/3047645",
-          "source": "华尔街见闻-快讯",
+          "title": "乌克兰能源部长：连接乌克兰、摩尔多瓦和罗马尼亚的电力线路于周六遭遇技术故障。",
+          "url": "https://flash.jin10.com/detail/20260131181815507800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            6,
-            7,
-            15,
-            18
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时45分 ~ 17时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "加拿大股市收跌3.3%，矿业股、信息技术概念股领跌",
@@ -1271,7 +1316,7 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "3D偶像游戏V Project首曝",
@@ -1285,6 +1330,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时40分 ~ 04时40分]"
+        },
+        {
+          "title": "为什么英特尔的下一代处理器取消了超线程？",
+          "url": "https://www.zhihu.com/question/695613109",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         }
       ]
     }
