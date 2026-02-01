@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T15:45:24.173910+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-02-01T16:42:17.068203+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "“降息+缩表+改革”！沃什的“美联储三板斧”真不真，很快见分晓",
@@ -34,6 +34,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时39分 ~ 11时18分]"
+        },
+        {
+          "title": "西方国家领导人为何密集访华？BBC记者解读很到位",
+          "url": "https://news.ifeng.com/c/8qMysiNz3zD",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时31分 ~ 16时42分]"
         },
         {
           "title": "春节假期前夜火车票今日开抢，误购车票限时免费退等政策已推出",
@@ -71,18 +83,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时39分 ~ 07时31分]"
-        },
-        {
-          "title": "西方国家领导人为何密集访华？BBC记者解读很到位",
-          "url": "https://news.ifeng.com/c/8qMysiNz3zD",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时31分 ~ 15时45分]"
         },
         {
           "title": "广西关键金属研究院启动座谈会暨合作签约仪式在南宁举行",
@@ -124,17 +124,6 @@
           "time_info": "[00时39分 ~ 07时31分]"
         },
         {
-          "title": "伊朗议长：伊朗将所有欧盟国家军队视为“恐怖组织”",
-          "url": "https://wallstreetcn.com/livenews/3047764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时45分]"
-        },
-        {
           "title": "英商界人士：找不到不和中国合作理由",
           "url": "https://www.toutiao.com/trending/7601515279701753898/",
           "source": "今日头条",
@@ -157,6 +146,46 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时31分 ~ 13时25分]"
+        },
+        {
+          "title": "伊朗议长：伊朗将所有欧盟国家军队视为“恐怖组织”",
+          "url": "https://wallstreetcn.com/livenews/3047764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 16时42分]"
+        },
+        {
+          "title": "国家税务总局明确起征点标准等增值税征管事项",
+          "url": "https://wallstreetcn.com/livenews/3047747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 16时42分]"
+        },
+        {
+          "title": "以旧换新政策带动消费需求释放，部分地区家电订单量同比增64%",
+          "url": "https://wallstreetcn.com/livenews/3047744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 16时42分]"
         },
         {
           "title": "中指研究院发布2026年1月中国房地产企业销售业绩排行榜。",
@@ -183,17 +212,16 @@
           "time_info": "[00时39分 ~ 04时35分]"
         },
         {
-          "title": "国家税务总局明确起征点标准等增值税征管事项",
-          "url": "https://wallstreetcn.com/livenews/3047747",
-          "source": "华尔街见闻-快讯",
+          "title": "工行、建行等多家银行发布风险提示",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E8%A1%8C%E3%80%81%E5%BB%BA%E8%A1%8C%E7%AD%89%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            13,
-            17
+            27,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 15时45分]"
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 16时42分]"
         },
         {
           "title": "伊朗议长宣布欧洲国家军队将被视为“恐怖组织”",
@@ -201,24 +229,24 @@
           "source": "金十数据",
           "ranks": [
             5,
-            17
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 16时42分]"
+        },
+        {
+          "title": "西方国家为何开始密集访华",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E6%96%B9%E5%9B%BD%E5%AE%B6%E4%B8%BA%E4%BD%95%E5%BC%80%E5%A7%8B%E5%AF%86%E9%9B%86%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时45分]"
-        },
-        {
-          "title": "以旧换新政策带动消费需求释放，部分地区家电订单量同比增64%",
-          "url": "https://wallstreetcn.com/livenews/3047744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 15时45分]"
+          "time_info": "[15时01分 ~ 16时42分]"
         },
         {
           "title": "印度预算案：拟就银行改革成立高级别银行委员会。将为企业债券市场引入总收益互换工具。",
@@ -245,26 +273,26 @@
           "time_info": "[11时18分 ~ 13时25分]"
         },
         {
-          "title": "西方国家为何开始密集访华",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E6%96%B9%E5%9B%BD%E5%AE%B6%E4%B8%BA%E4%BD%95%E5%BC%80%E5%A7%8B%E5%AF%86%E9%9B%86%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
+          "title": "副攻杨涵玉能进国家队吗",
+          "url": "https://www.toutiao.com/trending/7601734170751008818/",
+          "source": "今日头条",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时01分"
-        },
-        {
-          "title": "工行、建行等多家银行发布风险提示",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E8%A1%8C%E3%80%81%E5%BB%BA%E8%A1%8C%E7%AD%89%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
-          "source": "百度热搜",
-          "ranks": [
-            27
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时45分"
+          "time_info": "16时42分"
+        },
+        {
+          "title": "乌拉圭友人：中国是我们最大合作伙伴",
+          "url": "https://www.toutiao.com/trending/7601771602425954367/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "印度预算案：为保持改革势头，应聚焦稳健的金融体系和新兴技术。联邦政府正与各邦政府合作推进放松监管，以减轻合规负担。",
@@ -316,8 +344,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 15时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 16时42分]"
+        },
+        {
+          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
+          "url": "https://wallstreetcn.com/articles/3764675",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 16时42分]"
         },
         {
           "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
@@ -381,16 +422,19 @@
           "time_info": "[00时39分 ~ 07时31分]"
         },
         {
-          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
-          "url": "https://wallstreetcn.com/articles/3764675",
+          "title": "中国AI交易：不确定“谁是最终赢家”，押注“AI应用大战”的受益者",
+          "url": "https://wallstreetcn.com/articles/3764665",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            8,
             5,
-            3
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 15时45分]"
+          "appearance_count": 6,
+          "time_info": "[11时17分 ~ 16时42分]"
         },
         {
           "title": "爆火AI助手数小时两度改名",
@@ -407,20 +451,6 @@
           "time_info": "[01时31分 ~ 07时31分]"
         },
         {
-          "title": "中国AI交易：不确定“谁是最终赢家”，押注“AI应用大战”的受益者",
-          "url": "https://wallstreetcn.com/articles/3764665",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时17分 ~ 15时45分]"
-        },
-        {
           "title": "马斯克帝国大合并？AI太烧钱，首富也得“翻遍每一个口袋”",
           "url": "https://wallstreetcn.com/articles/3764648",
           "source": "华尔街见闻",
@@ -430,8 +460,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时17分 ~ 15时45分]"
+          "appearance_count": 6,
+          "time_info": "[11时17分 ~ 16时42分]"
         },
         {
           "title": "SpaceX 申请发射百万颗卫星，建太空 AI 数据中心，为何硅谷巨头都热衷建太空 AI 数据中心？",
@@ -440,11 +470,12 @@
           "ranks": [
             6,
             13,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 15时45分]"
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 16时42分]"
         },
         {
           "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
@@ -505,6 +536,118 @@
       ]
     },
     {
+      "keyword_group": "国际 外交 战争",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "伊朗新年将至市场冷清，民众：我不担心战争，更担心未来",
+          "url": "https://news.ifeng.com/c/8qNjxkFtr6T",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时17分 ~ 16时42分]"
+        },
+        {
+          "title": "大外交｜超越“盲人摸象”：斯塔默访华收官，中英关系迈入“务实新周期”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32500787",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时31分]"
+        },
+        {
+          "title": "国际原子能机构：切尔诺贝利核电站现场曾短暂失去所有场外电源。乌克兰正努力稳定电网并恢复发电；预计对核安全无直接影响。",
+          "url": "https://flash.jin10.com/detail/20260131204649068800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时31分]"
+        },
+        {
+          "title": "国际原子能机构：今晨，由于电网技术问题影响输电线路，乌克兰核电站暂时降低发电量。",
+          "url": "https://flash.jin10.com/detail/20260131204505719800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 07时31分]"
+        },
+        {
+          "title": "伊朗革命卫队：伊武装部队准备就绪 状态远超“12日战争”时期",
+          "url": "https://flash.jin10.com/detail/20260201160413399800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "伊朗革命卫队：伊武装部队准备就绪 状态远超“12日战争”时期",
+          "url": "https://wallstreetcn.com/livenews/3047783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "伊朗总统：战争既不符合伊朗也不符合美国利益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509366",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 16时42分]"
+        },
+        {
+          "title": "伊朗总统称战争不符合伊美两国利益",
+          "url": "https://www.toutiao.com/trending/7601496044257886234/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "国际金价银价继续大幅下跌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32503143",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时31分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "github 技术 行业 软件",
       "match_count": 9,
       "titles": [
@@ -538,11 +681,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时45分]"
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 16时42分]"
         },
         {
           "title": "印度预算案：将采取措施支持人工智能技术。",
@@ -550,11 +694,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时45分]"
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 16时42分]"
         },
         {
           "title": "印度纺织股上涨3%至6.5%，此前印度政府预算案拟提振该行业。",
@@ -611,95 +756,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国际 外交 战争",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "伊朗新年将至市场冷清，民众：我不担心战争，更担心未来",
-          "url": "https://news.ifeng.com/c/8qNjxkFtr6T",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时17分 ~ 15时45分]"
-        },
-        {
-          "title": "大外交｜超越“盲人摸象”：斯塔默访华收官，中英关系迈入“务实新周期”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32500787",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            15,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时31分]"
-        },
-        {
-          "title": "国际原子能机构：切尔诺贝利核电站现场曾短暂失去所有场外电源。乌克兰正努力稳定电网并恢复发电；预计对核安全无直接影响。",
-          "url": "https://flash.jin10.com/detail/20260131204649068800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 07时31分]"
-        },
-        {
-          "title": "国际原子能机构：今晨，由于电网技术问题影响输电线路，乌克兰核电站暂时降低发电量。",
-          "url": "https://flash.jin10.com/detail/20260131204505719800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 07时31分]"
-        },
-        {
-          "title": "伊朗总统：战争既不符合伊朗也不符合美国利益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509366",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 15时45分]"
-        },
-        {
-          "title": "伊朗总统称战争不符合伊美两国利益",
-          "url": "https://www.toutiao.com/trending/7601496044257886234/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 11时18分]"
-        },
-        {
-          "title": "国际金价银价继续大幅下跌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32503143",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时31分]"
         }
       ]
     },
@@ -778,7 +834,7 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "为什么近期 CPU 、内存、硬盘涨价特别厉害，是什么原因引起这么高的涨幅？",
@@ -786,11 +842,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            17
+            17,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 15时45分]"
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 16时42分]"
         },
         {
           "title": "如果给游戏中的角色加入勇气值，玩家操作的角色还能不能一往无前？",
@@ -800,8 +857,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 15时45分]"
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 16时42分]"
+        },
+        {
+          "title": "有哪些游戏里的词在现实里却完全是另外一个意思？",
+          "url": "https://www.zhihu.com/question/1997042430449575528",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "内存条变身“电子黄金”背后",
