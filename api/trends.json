@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-05T05:41:33.941524+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-02-05T06:38:22.575332+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
       "match_count": 29,
       "titles": [
-        {
-          "title": "中央广播电视总台《2026年春节联欢晚会》主持人阵容发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32530327",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时41分]"
-        },
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
           "url": "https://www.cls.cn/detail/2280661",
@@ -26,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
+        },
+        {
+          "title": "中央广播电视总台《2026年春节联欢晚会》主持人阵容发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32530327",
+          "source": "澎湃新闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
         },
         {
           "title": "2026年NBA全明星球衣发布",
@@ -40,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
         },
         {
           "title": "国家医保局：对精神疾病类医保定点医疗机构开展集体约谈",
@@ -53,8 +54,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
         },
         {
           "title": "改期！美国劳工部下周三将发布1月非农就业报告",
@@ -212,7 +213,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -340,8 +341,196 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "谷歌母公司Alphabet ：我们大约50%的代码由AI代理编写。",
+          "url": "https://wallstreetcn.com/livenews/3050126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
+          "url": "https://flash.jin10.com/detail/20260205051339983800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时38分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)盘后逆转6%的跌幅，现涨1%。",
+          "url": "https://flash.jin10.com/detail/20260205050944063800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时38分]"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)：谷歌云收入增长48%至177亿美元，主要得益于企业对AI基础设施（GCP）及AI解决方案的需求增长，核心GCP产品亦表现强劲。",
+          "url": "https://flash.jin10.com/detail/20260205050807413800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时38分]"
+        },
+        {
+          "title": "谷歌A美股盘后转涨，此前一度重挫超7%。",
+          "url": "https://wallstreetcn.com/livenews/3050110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时38分]"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)：Q4谷歌服务营收增长了14%，达到959亿美元，主要由Google搜索及其他业务（增长17%）、订阅与平台设备业务（增长17%）及YouTube广告业务（增长9%）驱动。",
+          "url": "https://flash.jin10.com/detail/20260205050719759800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时38分]"
+        },
+        {
+          "title": "谷歌营收业绩超预期，2026年资本开支超预期",
+          "url": "https://wallstreetcn.com/livenews/3050103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时38分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet研发（R&D）开支增长42%，受到AI人才和无人驾驶部门的驱动。 科技基础设施投资中，60%投入服务器、40%投入数据中心。 科技基建（投资）的增幅在2025年收缩38%。 谷歌云（订单）积压同比超过翻倍，至2400亿美元。 Alphabet在Waymo本轮融资中贡献重大。",
+          "url": "https://wallstreetcn.com/livenews/3050124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "微软CEO Nadella在内部备忘录中宣布：任命谷歌Hayete Gallot为新的安全事务主管。 原安全主管Charlie Bell（2021年从亚马逊跳槽而来）将转岗至新的工程质量岗位。",
+          "url": "https://wallstreetcn.com/livenews/3050028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "谷歌(GOOG.O)美股盘后跌超6%。",
+          "url": "https://flash.jin10.com/detail/20260205050408864800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)2025年Q4谷歌广告收入822.84亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205050350375800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)2025年Q4谷歌云收入176.6亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205050325162800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
+          "url": "https://wallstreetcn.com/livenews/3050117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "谷歌母公司Alphabet：谷歌Gemini服务部门成本较2025年下调78%。 YouTube年收入突破600亿美元。 Alphabet按优先云供应商的身份与苹果公司合作。 Gemini企业用户超过12万，同比增幅65%。 AI Solutions收入同比增长超过300%。 12月份，自动驾驶部门Waymo出行次数超过2000万。 直播间设备商Podcast观众较2025年增长75%。",
+          "url": "https://wallstreetcn.com/livenews/3050115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)高管：谷歌云的积压订单环比增长55%，同比增长一倍多，截至第四季度末达到2400亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205055948666800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)CEO皮查伊：苹果(AAPL.O)选择谷歌云作为其首选云服务提供商。",
+          "url": "https://flash.jin10.com/detail/20260205055519813800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "国际 外交 战争",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "克宫：发展与中国的关系是俄罗斯外交政策优先事项",
@@ -351,19 +540,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
         },
         {
           "title": "重启外交接触，委美现在到底什么关系？",
           "url": "https://news.ifeng.com/c/8qTXN5dazhr",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
         },
         {
           "title": "外交部回应欧盟调查中国风电巨头",
@@ -374,8 +564,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
         },
         {
           "title": "乌克兰总统泽连斯基表示，谈判必须带来真正的和平，而不能为俄罗斯继续发动战争提供机会。",
@@ -436,13 +626,24 @@
           "time_info": "03时02分"
         },
         {
+          "title": "阿根廷外交部称，阿根廷和美国就关键矿产达成协议。",
+          "url": "https://flash.jin10.com/detail/20260205060352855800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
           "title": "国际原油结算价涨超3%",
           "url": "https://flash.jin10.com/detail/20260205045736552800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -504,118 +705,113 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "keyword_group": "AI Qwen DeepSeek Claude",
+      "match_count": 9,
       "titles": [
         {
-          "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
-          "url": "https://flash.jin10.com/detail/20260205051339983800",
-          "source": "金十数据",
+          "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
         },
         {
-          "title": "谷歌(GOOG.O)盘后逆转6%的跌幅，现涨1%。",
-          "url": "https://flash.jin10.com/detail/20260205050944063800",
-          "source": "金十数据",
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时41分]"
         },
         {
-          "title": "Alphabet(GOOGL.O)：谷歌云收入增长48%至177亿美元，主要得益于企业对AI基础设施（GCP）及AI解决方案的需求增长，核心GCP产品亦表现强劲。",
-          "url": "https://flash.jin10.com/detail/20260205050807413800",
-          "source": "金十数据",
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
           "ranks": [
+            3,
+            7,
+            5,
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
         },
         {
-          "title": "谷歌A美股盘后转涨，此前一度重挫超7%。",
-          "url": "https://wallstreetcn.com/livenews/3050110",
-          "source": "华尔街见闻-快讯",
+          "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
+          "url": "https://wallstreetcn.com/articles/3764960",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            9,
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
         },
         {
-          "title": "Alphabet(GOOGL.O)：Q4谷歌服务营收增长了14%，达到959亿美元，主要由Google搜索及其他业务（增长17%）、订阅与平台设备业务（增长17%）及YouTube广告业务（增长9%）驱动。",
-          "url": "https://flash.jin10.com/detail/20260205050719759800",
-          "source": "金十数据",
+          "title": "国民党代表团参访清华大学，了解大陆AI技术",
+          "url": "https://news.ifeng.com/c/8qTccGGdcdv",
+          "source": "凤凰网",
           "ranks": [
-            5
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
         },
         {
-          "title": "微软CEO Nadella在内部备忘录中宣布：任命谷歌Hayete Gallot为新的安全事务主管。 原安全主管Charlie Bell（2021年从亚马逊跳槽而来）将转岗至新的工程质量岗位。",
-          "url": "https://wallstreetcn.com/livenews/3050028",
+          "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
+          "url": "https://wallstreetcn.com/articles/3764903",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
+        },
+        {
+          "title": "Arm控股CEO：AI软件抛售是一个“微观的歇斯底里”（Micro hysteria）。",
+          "url": "https://wallstreetcn.com/livenews/3050122",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时57分"
+          "time_info": "06时38分"
         },
         {
-          "title": "谷歌营收业绩超预期，2026年资本开支超预期",
-          "url": "https://wallstreetcn.com/livenews/3050103",
+          "title": "德国财政部长：AI中心将增强数字主权",
+          "url": "https://wallstreetcn.com/livenews/3050094",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
         {
-          "title": "谷歌(GOOG.O)美股盘后跌超6%。",
-          "url": "https://flash.jin10.com/detail/20260205050408864800",
+          "title": "Alphabet(GOOG.O)CEO皮查伊：自AI模式推出以来，观察到每位用户的每日AI模式查询量翻倍。",
+          "url": "https://flash.jin10.com/detail/20260205054238420800",
           "source": "金十数据",
           "ranks": [
-            11
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "Alphabet(GOOGL.O)2025年Q4谷歌广告收入822.84亿美元。",
-          "url": "https://flash.jin10.com/detail/20260205050350375800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "Alphabet(GOOGL.O)2025年Q4谷歌云收入176.6亿美元。",
-          "url": "https://flash.jin10.com/detail/20260205050325162800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
+          "time_info": "06时38分"
         }
       ]
     },
@@ -642,8 +838,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
         },
         {
           "title": "“2025年中国考古新成果”揭晓，6个项目入选",
@@ -688,7 +884,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -717,157 +913,8 @@
       ]
     },
     {
-      "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时41分]"
-        },
-        {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时41分]"
-        },
-        {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
-          "ranks": [
-            3,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时41分]"
-        },
-        {
-          "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
-          "url": "https://wallstreetcn.com/articles/3764960",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时41分]"
-        },
-        {
-          "title": "国民党代表团参访清华大学，了解大陆AI技术",
-          "url": "https://news.ifeng.com/c/8qTccGGdcdv",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时41分]"
-        },
-        {
-          "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
-          "url": "https://wallstreetcn.com/articles/3764903",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时41分]"
-        },
-        {
-          "title": "德国财政部长：AI中心将增强数字主权",
-          "url": "https://wallstreetcn.com/livenews/3050094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "github 技术 行业 软件",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时41分]"
-        },
-        {
-          "title": "砸崩周二软件股的Anthropic新工具，为什么威力这么大？",
-          "url": "https://wallstreetcn.com/articles/3764887",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时41分]"
-        },
-        {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时41分]"
-        },
-        {
-          "title": "中国光伏行业协会：太空光伏技术仍处于探索和验证的初期阶段",
-          "url": "https://www.cls.cn/detail/2280775",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时41分]"
-        },
-        {
-          "title": "券商2月金股出炉：电子行业最热，有色、汽车减配居前",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32524952",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时01分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 美元",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "周三（2月4日）纽约尾盘，ICE美元指数涨0.21%，报97.640点，日内交投区间为97.309-97.730点，北京时间16:00-01:00持续上扬。 彭博美元指数涨0.33%，报1191.55点，日内交投区间为1187.30-1192.37点，16:00以来也持续走高。",
@@ -882,24 +929,36 @@
           "time_info": "[04时44分 ~ 05时41分]"
         },
         {
+          "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
+          "url": "https://wallstreetcn.com/livenews/3050096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时38分]"
+        },
+        {
+          "title": "（美股）费城金银指数收跌0.23%，报397.53点。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.55%，报2830.82点。 （美股）原材料指数收涨0.57%，（美股）金属与矿业指数收跌1.61%。",
+          "url": "https://wallstreetcn.com/livenews/3050123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌1.95%，报7461.61点，美股早盘显著下跌，北京时间23:00以来低位震荡。 热门中概股里，亿珑能源初步反弹64%，晶科能源涨8%，百胜中国涨4.6%，再鼎医药涨3.7%，阿特斯太阳能涨3.3%，理想涨2.2%，网易跌5.3%，世纪互联跌5.6%，文远知行跌6.3%。",
           "url": "https://wallstreetcn.com/livenews/3050099",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
-          "url": "https://wallstreetcn.com/livenews/3050096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -913,6 +972,93 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.95%，报7461.61点，美股早盘显著下跌，北京时间23:00以来低位震荡。 热门中概股里，亿珑能源初步反弹64%，晶科能源涨8%，百胜中国涨4.6%，再鼎医药涨3.7%，阿特斯太阳能涨3.3%，理想涨2.2%，网易跌5.3%，世纪互联跌5.6%，文远知行跌6.3%。 ETF中，中国科技指数ETF（CQQQ）收跌3.17%，中概互联网指数ETF（KWEB）收跌2.91%。 XtrackersHarvest中证50（ASHS）收涨0.09%，德银嘉实沪深300指数ETF（ASHR）收涨0.72%。",
+          "url": "https://wallstreetcn.com/livenews/3050099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "github 技术 行业 软件",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
+        },
+        {
+          "title": "砸崩周二软件股的Anthropic新工具，为什么威力这么大？",
+          "url": "https://wallstreetcn.com/articles/3764887",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
+        },
+        {
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
+        },
+        {
+          "title": "中国光伏行业协会：太空光伏技术仍处于探索和验证的初期阶段",
+          "url": "https://www.cls.cn/detail/2280775",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
+        },
+        {
+          "title": "券商2月金股出炉：电子行业最热，有色、汽车减配居前",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32524952",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 01时01分]"
+        },
+        {
+          "title": "Arm(ARM.O)CFO：预计第四季度专利授权收入同比将增长10%-15%，技术许可收入同比将增长15%-20%。",
+          "url": "https://flash.jin10.com/detail/20260205061918393800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
         }
       ]
     },
@@ -927,11 +1073,12 @@
           "ranks": [
             1,
             2,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
         },
         {
           "title": "三国题材的游戏为啥很少做 「三国后期」 的剧情？",
@@ -953,7 +1100,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         }
