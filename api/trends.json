@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-04T15:05:02.432871+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2026-02-04T16:55:00.228271+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时41分 ~ 16时55分]"
+        },
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
           "url": "https://wallstreetcn.com/articles/3764779",
@@ -35,17 +47,6 @@
           "time_info": "[01时09分 ~ 07时36分]"
         },
         {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时41分 ~ 15时05分]"
-        },
-        {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
           "url": "https://www.zhihu.com/question/2002302871203440223",
           "source": "知乎",
@@ -54,8 +55,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时47分 ~ 15时05分]"
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 16时55分]"
         },
         {
           "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
@@ -104,6 +105,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时09分 ~ 07时36分]"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时04分 ~ 16时55分]"
         },
         {
           "title": "英伟达拟向OpenAI投资200亿美元 交易细节尚未敲定",
@@ -163,15 +176,15 @@
           "time_info": "[12时47分 ~ 15时05分]"
         },
         {
-          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
+          "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
+          "url": "https://www.cls.cn/detail/2280128",
+          "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时04分 ~ 15时05分]"
+          "time_info": "[16时54分 ~ 16时55分]"
         },
         {
           "title": "印度官员Jaishankar：2月3日在华盛顿特区会见美国财政部长贝森特。 讨论美国经济合作伙伴关系与协同。",
@@ -234,6 +247,17 @@
           "time_info": "[04时48分 ~ 05时43分]"
         },
         {
+          "title": "【午报】创业板指半日跌1.74%，太空光伏概念持续活跃，AI应用方向陷入调整",
+          "url": "https://www.cls.cn/detail/2280058",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 16时55分]"
+        },
+        {
           "title": "报道称OpenAI对英伟达AI芯片不满意，寻求推理芯片替代",
           "url": "https://wallstreetcn.com/articles/3764782",
           "source": "华尔街见闻",
@@ -243,6 +267,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时05分 ~ 03时06分]"
+        },
+        {
+          "title": "私募巨头阿波罗警告：“软件已死”！AI正重塑4400亿美元估值逻辑",
+          "url": "https://wallstreetcn.com/articles/3764867",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 16时55分]"
         },
         {
           "title": "AMD的CEO苏姿丰：服务器CPU需求“非常强劲”。 AI业务正在加速。 十大人工智能公司中有八家使用Instinct芯片来支持生产工作负载。 超大规模企业正扩展基础设施，以满足人工智能领域不断增长的云服务需求。 数据中心、游戏和个人电脑领域的需求加速增长。",
@@ -255,6 +290,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时36分]"
+        },
+        {
+          "title": "R星称GTA6不用生成式AI",
+          "url": "https://search.bilibili.com/all?keyword=R%E6%98%9F%E7%A7%B0GTA6%E4%B8%8D%E7%94%A8%E7%94%9F%E6%88%90%E5%BC%8FAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 16时55分]"
         },
         {
           "title": "CenterView高管Blair Effron：在（并购/M&A）交易方面，我们的确面临大量的尾部风险。 经济、受抑的需求、监管都帮助推进并购。",
@@ -579,7 +625,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 41,
+      "match_count": 50,
       "titles": [
         {
           "title": "2026年中央一号文件发布",
@@ -626,6 +672,17 @@
           "time_info": "[01时09分 ~ 07时36分]"
         },
         {
+          "title": "中央一号文件发布：整治农村高额彩礼，今年有了新要求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32523740",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时41分 ~ 16时55分]"
+        },
+        {
           "title": "中国有色金属工业协会：研究将“铜精矿”纳入国家储备",
           "url": "https://wallstreetcn.com/articles/3764840",
           "source": "华尔街见闻",
@@ -637,19 +694,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时10分 ~ 15时05分]"
-        },
-        {
-          "title": "中央一号文件发布：整治农村高额彩礼，今年有了新要求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32523740",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时41分 ~ 15时05分]"
+          "appearance_count": 14,
+          "time_info": "[01时10分 ~ 16时55分]"
         },
         {
           "title": "2026年中央一号文件发布，部署扎实推进乡村全面振兴",
@@ -662,6 +708,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时09分 ~ 15时05分]"
+        },
+        {
+          "title": "总台2026年春晚主持人阵容发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%BB%E5%8F%B02026%E5%B9%B4%E6%98%A5%E6%99%9A%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%98%B5%E5%AE%B9%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 16时55分]"
         },
         {
           "title": "【早报】中央一号文件发布；深夜，黄金白银大反攻",
@@ -688,18 +746,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时09分 ~ 07时36分]"
-        },
-        {
-          "title": "总台2026年春晚主持人阵容发布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%BB%E5%8F%B02026%E5%B9%B4%E6%98%A5%E6%99%9A%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%98%B5%E5%AE%B9%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时47分 ~ 15时05分]"
         },
         {
           "title": "挪威国家石油公司（Equinor）第四季度调整后税后营业收入为15.5亿美元，市场预期为15.9亿美元。",
@@ -822,6 +868,17 @@
           "time_info": "[12时47分 ~ 13时56分]"
         },
         {
+          "title": "中央广播电视总台《2026年春节联欢晚会》主持人阵容发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32530327",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 16时55分]"
+        },
+        {
           "title": "韩美外长同意在核电、核潜艇、造船和美国投资领域开展合作。",
           "url": "https://flash.jin10.com/detail/20260204062155955800",
           "source": "金十数据",
@@ -846,6 +903,28 @@
           "time_info": "[12时47分 ~ 13时56分]"
         },
         {
+          "title": "2026 年央视春晚主持阵容发布，由任鲁豫、撒贝宁、尼格买提、龙洋、马凡舒、刘心悦组成，你期待谁的表现？",
+          "url": "https://www.zhihu.com/question/2002334980534200202",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 16时55分]"
+        },
+        {
+          "title": "瑞典央行行长特登：瑞典克朗从当前水平快速、大幅且持续升值可能会使货币政策审议变得复杂。",
+          "url": "https://flash.jin10.com/detail/20260204163932100800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数涨0.3%，连续三个交易日走高，报394.43点。 在十个板块中，北欧工业板块涨幅最大。 博利登Boliden AB收涨5.3%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3049234",
           "source": "华尔街见闻-快讯",
@@ -855,6 +934,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "广东：加快建设国家人工智能应用中试基地，积极布局省级中试平台",
+          "url": "https://wallstreetcn.com/livenews/3049725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "瑞典央行行长特登：因此，我认为几乎没有理由调整货币政策的方向。",
+          "url": "https://flash.jin10.com/detail/20260204163705078800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "美股减肥药概念股周二哀鸿遍野，诺和诺德发布了最新业绩报告。 诺和诺德ADR收跌14.64%，硕迪生物跌6.75%，Goodrx跌5.26%，礼来跌3.9%，平价减肥药供应商Hims & Hers跌3.4%，辉瑞制药跌3.34%，阿斯利康跌2.17%，制药ETF跌1.86%，Viking Therapeutics跌1.7%，福泰制药跌1.36%，渤健BIIB跌1.3%。",
@@ -885,7 +986,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -934,6 +1035,28 @@
           "time_info": "04时48分"
         },
         {
+          "title": "瑞典央行行长特登：目前我评估货币政策正沿着一条稳定且合理的路线前进。",
+          "url": "https://flash.jin10.com/detail/20260204163407573800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "瑞典央行行长特登：如果长期通胀预期降至2%以下，那么很可能有充分理由放松货币政策。",
+          "url": "https://flash.jin10.com/detail/20260204163351866800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
           "title": "诺和诺德(NVO.N)发布2026年销售和营业利润展望，预计2026年调整后销售额增长率为-5%至-13%（按恒定汇率计算）。",
           "url": "https://flash.jin10.com/detail/20260204004146506800",
           "source": "金十数据",
@@ -962,7 +1085,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -1017,9 +1140,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
+        },
+        {
+          "title": "光洋股份：与深圳市玄创机器人有限公司、黄山光洋机器人有限公司签署了《战略合作协议书》，针对深圳玄创特种具身全系列、全型号的产品展开全方位的战略合作，三方通过深度绑定与协同创新，共同开发、生产和销售满足高端特种具身产品。",
+          "url": "https://wallstreetcn.com/livenews/3049698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "美国总统特朗普在Truth Social平台上发布白宫宴会厅效果图。",
@@ -1053,12 +1187,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        },
+        {
+          "title": "我国发布88项汽车安全相关强制性国家标准",
+          "url": "https://wallstreetcn.com/livenews/3049684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         }
       ]
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "美希望中国也加入核军控谈判，外交部：不公平，也不合理",
@@ -1118,6 +1263,28 @@
           "time_info": "[12时47分 ~ 15时05分]"
         },
         {
+          "title": "高市早苗扬言将自卫队写入宪法，外交部回应",
+          "url": "https://news.ifeng.com/c/8qTGU8wdLkx",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 16时55分]"
+        },
+        {
+          "title": "欧盟宣布调查金风科技 外交部回应",
+          "url": "https://www.cls.cn/detail/2280238",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 16时55分]"
+        },
+        {
           "title": "伊朗方面表示，感谢所有为创造形成外交进程条件而作出努力的友好国家。",
           "url": "https://flash.jin10.com/detail/20260204043037843800",
           "source": "金十数据",
@@ -1149,6 +1316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "荷兰国际：白银历史性抛售后强势反弹 市场流动性偏紧放大波动",
+          "url": "https://flash.jin10.com/detail/20260204164318592800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "特朗普外交斡旋遭遇空袭挑战 普京极限施压意在逼和",
@@ -1207,6 +1385,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时41分 ~ 13时56分]"
+        },
+        {
+          "title": "外交部回应美方涉巴拿马港口言论",
+          "url": "https://www.toutiao.com/trending/7602220742322847763/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 16时55分]"
         },
         {
           "title": "印度外交部长苏杰生：已与美国财长贝森特就推进印美经济伙伴关系和战略合作进行了讨论。",
@@ -1303,7 +1492,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -1344,18 +1533,30 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
           "url": "https://wallstreetcn.com/articles/3764793",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时36分 ~ 15时05分]"
+          "appearance_count": 8,
+          "time_info": "[07时36分 ~ 16时55分]"
+        },
+        {
+          "title": "砸崩周二软件股的Anthropic新工具，为什么威力这么大？",
+          "url": "https://wallstreetcn.com/articles/3764887",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时41分 ~ 16时55分]"
         },
         {
           "title": "黄金牛市还在吗？华尔街坚定看多：技术性回调不要怕，中国买家已成黄金市场强劲支柱！",
@@ -1370,15 +1571,17 @@
           "time_info": "[01时10分 ~ 10时41分]"
         },
         {
-          "title": "砸崩周二软件股的Anthropic新工具，为什么威力这么大？",
-          "url": "https://wallstreetcn.com/articles/3764887",
-          "source": "华尔街见闻",
+          "title": "脑机海河实验室：全国首个“中医脑机接口”装备落地 相关技术已搭载神舟系列载人飞船开展天基实验",
+          "url": "https://www.cls.cn/detail/2279996",
+          "source": "财联社热门",
           "ranks": [
-            4
+            6,
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时41分 ~ 15时05分]"
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 16时55分]"
         },
         {
           "title": "同咖不同价,女星狠批行业不公",
@@ -1392,16 +1595,17 @@
           "time_info": "[01时09分 ~ 07时36分]"
         },
         {
-          "title": "脑机海河实验室：全国首个“中医脑机接口”装备落地 相关技术已搭载神舟系列载人飞船开展天基实验",
-          "url": "https://www.cls.cn/detail/2279996",
-          "source": "财联社热门",
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            5
+            10,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时47分 ~ 15时05分]"
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 16时55分]"
         },
         {
           "title": "本田汽车计划与总部位于美国得州的技术公司Mythic共同为其软件定义汽车(SDV)开发系统级芯片。",
@@ -1426,16 +1630,15 @@
           "time_info": "13时56分"
         },
         {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
+          "title": "商业航天首个卫星测发技术厂房诞生 未来可将单箭发射效率提升100%",
+          "url": "https://www.cls.cn/detail/2280180",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时47分 ~ 15时05分]"
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 16时55分]"
         },
         {
           "title": "美国总统特朗普重申对医疗保险行业的批零。",
@@ -1456,7 +1659,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -1511,7 +1714,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -1558,12 +1761,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "《黄金行业“十五五”发展规划（讨论稿）》专家研讨会在北京召开：持续推进新一轮找矿突破战略行动",
+          "url": "https://wallstreetcn.com/livenews/3049687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         }
       ]
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "江苏某高校要求教学老师像行政老师一样「朝九晚五」，为什么要这样做？负责教学科研的老师有必要「坐班」吗？",
@@ -1590,6 +1804,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时41分 ~ 13时56分]"
+        },
+        {
+          "title": "瑞银CEO：政治动荡将持续多年 科技股估值需再校准",
+          "url": "https://flash.jin10.com/detail/20260204164053862800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至2%，标普跌1.22%，道指跌0.82%，纳指跌1.94%，半导体指数跌3.18%。 纳斯达克金龙中国指数跌超2%，万得中概科技龙头指数跌3.55%。热门中概股大全新能源跌逾8%，哔哩哔哩、文远知行跌逾5%，金山云、阿里巴巴、爱奇艺跌逾4%。",
@@ -1621,7 +1846,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -1635,6 +1860,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
+        },
+        {
+          "title": "国晟科技：公司目前不涉及太空光伏业务。",
+          "url": "https://wallstreetcn.com/livenews/3049720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨0.05%，恒生科技指数收跌1.84%",
+          "url": "https://wallstreetcn.com/livenews/3049715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "芯片设计公司芯科科技盘后大涨40%，据英国金融时报报道，德州仪器正就收购芯科科技进行深入谈判，交易金额约70亿美元。",
@@ -1670,6 +1917,28 @@
           "time_info": "05时43分"
         },
         {
+          "title": "中国央行：着力支持扩大内需、科技创新、中小微企业等重点领域",
+          "url": "https://wallstreetcn.com/livenews/3049709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "中国人工智能产业发展联盟：突破算力芯片、工业大模型等关键技术 做优应用生态",
+          "url": "https://wallstreetcn.com/livenews/3049706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
           "title": "恒生指数主连夜盘收跌0.85%，报26590点。 恒生科技指数主连夜盘收跌1.28，报5392点。",
           "url": "https://wallstreetcn.com/livenews/3049288",
           "source": "华尔街见闻-快讯",
@@ -1701,6 +1970,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        },
+        {
+          "title": "“人工智能+电影虚拟拍摄融合创新实验室”揭牌",
+          "url": "https://wallstreetcn.com/livenews/3049685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         }
       ]
     },
@@ -1804,7 +2084,7 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "游戏里搞游行,我的世界夹私货",
@@ -1840,6 +2120,39 @@
           "time_info": "10时41分"
         },
         {
+          "title": "如何看待「游戏行业税率可能从 6% 调高至 32%」的传言？你认为游戏行业目前的税率合理吗？",
+          "url": "https://www.zhihu.com/question/2002317275429037967",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 16时55分]"
+        },
+        {
+          "title": "女孩玩游戏被诈骗锁门转账被爸爸制止",
+          "url": "https://www.toutiao.com/trending/7602691942799474731/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 16时55分]"
+        },
+        {
+          "title": "不死身游戏 哈基米",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E6%AD%BB%E8%BA%AB%E6%B8%B8%E6%88%8F%20%E5%93%88%E5%9F%BA%E7%B1%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 16时55分]"
+        },
+        {
           "title": "AMD(AMD.O)CEO苏姿丰：数据中心、游戏和个人电脑领域的需求加速增长。",
           "url": "https://flash.jin10.com/detail/20260204061009848800",
           "source": "金十数据",
@@ -1866,8 +2179,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时10分 ~ 15时05分]"
+          "appearance_count": 14,
+          "time_info": "[01时10分 ~ 16时55分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
