@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T16:56:31.443684+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2026-02-05T17:56:16.996041+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 53,
+      "match_count": 58,
       "titles": [
         {
           "title": "中央广播电视总台《2026年春节联欢晚会》主持人阵容发布",
@@ -31,6 +31,17 @@
           "time_info": "[00时59分 ~ 07时36分]"
         },
         {
+          "title": "B站与春晚官宣二次合作",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时43分 ~ 17时56分]"
+        },
+        {
           "title": "国家医保局：对精神疾病类医保定点医疗机构开展集体约谈",
           "url": "https://m.thepaper.cn/newsDetail_forward_32532261",
           "source": "澎湃新闻",
@@ -43,19 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时59分 ~ 16时56分]"
-        },
-        {
-          "title": "B站与春晚官宣二次合作",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时43分 ~ 16时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时59分 ~ 17时56分]"
         },
         {
           "title": "2026年NBA全明星球衣发布",
@@ -79,11 +79,12 @@
             12,
             5,
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 16时56分]"
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 17时56分]"
         },
         {
           "title": "宁波发布小洛熙事件处理结果",
@@ -92,9 +93,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 17时56分]"
+        },
+        {
+          "title": "英大使向爱泼斯坦泄密，斯塔默：很愤怒，他背叛了国家",
+          "url": "https://news.ifeng.com/c/8qUWO1gjv33",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时43分 ~ 17时56分]"
         },
         {
           "title": "改期！美国劳工部下周三将发布1月非农就业报告",
@@ -150,18 +163,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
-        },
-        {
-          "title": "英大使向爱泼斯坦泄密，斯塔默：很愤怒，他背叛了国家",
-          "url": "https://news.ifeng.com/c/8qUWO1gjv33",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时43分 ~ 16时56分]"
         },
         {
           "title": "政策利好消息+板块轮动 欧洲化工板块创4年来最大单日涨幅",
@@ -249,6 +250,18 @@
           "time_info": "[12时55分 ~ 14时02分]"
         },
         {
+          "title": "贾跃亭发布人形机器人",
+          "url": "https://www.cls.cn/detail/2281103",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 17时56分]"
+        },
+        {
           "title": "美国财长贝森特声称：我们往往会支持一个强势美元政策。",
           "url": "https://wallstreetcn.com/livenews/3050016",
           "source": "华尔街见闻-快讯",
@@ -285,6 +298,17 @@
           "time_info": "[01时01分 ~ 01时57分]"
         },
         {
+          "title": "国家网信办等11部门联合印发《关于提升境外人员入境数字化服务便利性的实施意见》",
+          "url": "https://wallstreetcn.com/livenews/3050543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "美国劳工部：拟按原定计划于周四发布周度失业金申请报告。",
           "url": "https://flash.jin10.com/detail/20260205034233200800",
           "source": "金十数据",
@@ -313,9 +337,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
+        },
+        {
+          "title": "涉及脑机接口技术等 中国提出多项APEC合作项目",
+          "url": "https://www.cls.cn/detail/2281441",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "财政部等三部门发布《关于海南自由贸易港岛内居民消费的进境商品“零关税”政策的通知》",
@@ -373,15 +408,15 @@
           "time_info": "01时57分"
         },
         {
-          "title": "贾跃亭发布人形机器人",
-          "url": "https://www.cls.cn/detail/2281103",
-          "source": "财联社热门",
+          "title": "武汉光谷发布首批400项创新应用场景清单",
+          "url": "https://wallstreetcn.com/livenews/3050536",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时56分"
+          "time_info": "17时56分"
         },
         {
           "title": "据联合声明，贸易倡议可能包括协调一致的贸易政策、价格下限、基于标准的市场、价格差额补贴或购货协议等。",
@@ -393,6 +428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯将对战略稳定采取负责任且审慎的态度，并以国家利益为指导。",
+          "url": "https://flash.jin10.com/detail/20260205172124224800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "贾跃亭发布人形机器人 19990美元起",
@@ -456,7 +502,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -478,7 +524,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -503,6 +549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "马士基首席执行官：我担忧许多国家庞大的财政赤字；经济正处于“强效刺激”状态，这种状况可能会产生反效果。",
+          "url": "https://flash.jin10.com/detail/20260205171016423800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "美国劳工统计局：将1月份CPI报告发布日期重新安排至2月13日发布。",
@@ -618,7 +675,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "克宫：发展与中国的关系是俄罗斯外交政策优先事项",
@@ -678,6 +735,18 @@
           "time_info": "[10时43分 ~ 15时54分]"
         },
         {
+          "title": "立陶宛新总理公开承认对中国「犯了大错」，这种外交决策的转向说明了什么？后续中立关系会如何？",
+          "url": "https://www.zhihu.com/question/2002689754945250515",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时02分 ~ 17时56分]"
+        },
+        {
           "title": "俄总统助理称普京拟于今年上半年访华，外交部回应",
           "url": "https://wallstreetcn.com/livenews/3050450",
           "source": "华尔街见闻-快讯",
@@ -695,21 +764,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
         {
-          "title": "立陶宛新总理公开承认对中国「犯了大错」，这种外交决策的转向说明了什么？后续中立关系会如何？",
-          "url": "https://www.zhihu.com/question/2002689754945250515",
-          "source": "知乎",
+          "title": "俄罗斯外交部宣布德国一名外交官为不受欢迎人士。",
+          "url": "https://flash.jin10.com/detail/20260205173800382800",
+          "source": "金十数据",
           "ranks": [
-            7,
             3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 16时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "外交部：中国现阶段不参加核裁军谈判",
+          "url": "https://www.cls.cn/detail/2281554",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "国际团队发现 146 光年外有一颗「冰冻地球」，称有不小可能是潜在人类宜居星球，这颗星球有何特别之处？",
@@ -792,9 +871,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
+        },
+        {
+          "title": "俄罗斯外交部：传唤德国大使。",
+          "url": "https://flash.jin10.com/detail/20260205173710527800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "国际铜夜盘收跌2.19%，沪铜收跌2.22%，沪铝收跌0.92%，沪锌收跌0.26%，沪铅收涨0.12%，沪镍收跌0.25%，沪锡收跌3.41%。 氧化铝夜盘收跌0.85%，铝合金收跌0.58%。 不锈钢夜盘收涨0.84%。",
@@ -819,6 +909,17 @@
           "time_info": "10时43分"
         },
         {
+          "title": "印度外交部：正与马来西亚就半导体领域建立多层次政府间合作。",
+          "url": "https://flash.jin10.com/detail/20260205172925920800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "据知情人士透露，法国总统的首席外交官于周二前往莫斯科，与俄罗斯官员举行了会谈。",
           "url": "https://flash.jin10.com/detail/20260205021918669800",
           "source": "金十数据",
@@ -836,9 +937,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
+        },
+        {
+          "title": "克里姆林宫：（回应马克龙首席外交官访莫斯科的报道）我们既不确认也不否认。",
+          "url": "https://flash.jin10.com/detail/20260205172050110800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "商品期货收盘，沪银、碳酸锂主力合约跌超10%，铂、沪锡跌超7%，沪铜、国际铜、BR橡胶跌超3%。集运欧线涨超3%，LU燃油、燃料油、原油涨超1%。",
@@ -957,26 +1069,38 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
+        },
+        {
+          "title": "普京拟于今年上半年访华？外交部回应",
+          "url": "https://www.toutiao.com/trending/7603159013165023275/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3764994",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时43分 ~ 16时56分]"
+          "appearance_count": 6,
+          "time_info": "[10时43分 ~ 17时56分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -990,6 +1114,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时43分 ~ 16时56分]"
+        },
+        {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 17时56分]"
         },
         {
           "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
@@ -1064,16 +1201,16 @@
           "time_info": "[05时41分 ~ 06时38分]"
         },
         {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 16时56分]"
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 17时56分]"
         },
         {
           "title": "谷歌母公司Alphabet研发（R&D）开支增长42%，受到AI人才和无人驾驶部门的驱动。 科技基础设施投资中，60%投入服务器、40%投入数据中心。 科技基建（投资）的增幅在2025年收缩38%。 谷歌云（订单）积压同比超过翻倍，至2400亿美元。 Alphabet在Waymo本轮融资中贡献重大。",
@@ -1086,18 +1223,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时36分]"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 16时56分]"
         },
         {
           "title": "谷歌营收业绩超预期，2026年资本开支超预期",
@@ -1171,6 +1296,17 @@
           "time_info": "01时57分"
         },
         {
+          "title": "明星科技股美股盘前涨跌不一，英伟达涨超1%；谷歌跌超1%，Q4云收入猛增48%，今年支出指引接近翻倍大超预期；存储板块反弹，闪迪涨超3%，美光科技涨近2%，博通涨超5%；高通跌超11%，公司二季度营收指引不及市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3050540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "周四亚太盘初，纳指期货涨超0.3%，标普股指期货与罗素2000股指期货涨超0.2%，道指期货微跌不到0.1%。 当前（美股盘后），博通涨5.67%，美光科技涨3.05%，Snap涨2.37%，AMD反弹2.19%，英伟达、台积电涨超1%，恩智浦跌约0.4%，微软跌超0.7%，谷歌A跌1.2%，高通跌9.2%。",
           "url": "https://wallstreetcn.com/livenews/3050140",
           "source": "华尔街见闻-快讯",
@@ -1240,7 +1376,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -1268,6 +1404,17 @@
           "time_info": "[00时59分 ~ 07时36分]"
         },
         {
+          "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时36分 ~ 17时56分]"
+        },
+        {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
           "url": "https://wallstreetcn.com/articles/3764882",
           "source": "华尔街见闻",
@@ -1287,22 +1434,12 @@
             8,
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时59分 ~ 16时56分]"
-        },
-        {
-          "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时36分 ~ 16时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时59分 ~ 17时56分]"
         },
         {
           "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
@@ -1328,6 +1465,42 @@
           "time_info": "[00时59分 ~ 07时36分]"
         },
         {
+          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
+          "url": "https://www.cls.cn/detail/2281373",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 17时56分]"
+        },
+        {
+          "title": "腾讯游戏发布寒假限玩日历，推出3款AI工具降低家长管控门槛",
+          "url": "https://wallstreetcn.com/livenews/3050550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "比DeepSeek风暴还惨烈！一文读懂：华尔街“抛AI”妖风祸从何来？",
+          "url": "https://www.cls.cn/detail/2281407",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 17时56分]"
+        },
+        {
           "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
           "url": "https://www.cls.cn/detail/2281019",
           "source": "财联社热门",
@@ -1342,30 +1515,6 @@
           "time_info": "[10时43分 ~ 16时56分]"
         },
         {
-          "title": "比DeepSeek风暴还惨烈！一文读懂：华尔街“抛AI”妖风祸从何来？",
-          "url": "https://www.cls.cn/detail/2281407",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 16时56分]"
-        },
-        {
-          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
-          "url": "https://www.cls.cn/detail/2281373",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 16时56分]"
-        },
-        {
           "title": "Arm控股CEO：AI软件抛售是一个“微观的歇斯底里”（Micro hysteria）。",
           "url": "https://wallstreetcn.com/livenews/3050122",
           "source": "华尔街见闻-快讯",
@@ -1376,6 +1525,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时36分]"
+        },
+        {
+          "title": "复星医药：控股子公司复宏汉霖与Eisai签订《许可协议》，由复宏汉霖授予Eisai于许可区域（即日本）及领域（即用于肿瘤适应症治疗）开发、生产及商业化斯鲁利单抗注射液的权利。根据约定，Eisai应就许可产品向复宏汉霖支付至多1.55亿美元不可退还的首付款、监管里程碑款项。",
+          "url": "https://wallstreetcn.com/livenews/3050517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 17时56分]"
         },
         {
           "title": "腾讯元宝红包微信分享遭限制，AI入口之争遇挫了吗？",
@@ -1400,17 +1561,6 @@
           "time_info": "10时43分"
         },
         {
-          "title": "复星医药：控股子公司复宏汉霖与Eisai签订《许可协议》，由复宏汉霖授予Eisai于许可区域（即日本）及领域（即用于肿瘤适应症治疗）开发、生产及商业化斯鲁利单抗注射液的权利。根据约定，Eisai应就许可产品向复宏汉霖支付至多1.55亿美元不可退还的首付款、监管里程碑款项。",
-          "url": "https://wallstreetcn.com/livenews/3050517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
           "title": "德国财政部长：AI中心将增强数字主权",
           "url": "https://wallstreetcn.com/livenews/3050094",
           "source": "华尔街见闻-快讯",
@@ -1428,7 +1578,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -1439,7 +1589,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -1519,6 +1669,17 @@
           "time_info": "[00时59分 ~ 05时41分]"
         },
         {
+          "title": "科技股大跌蔓延，存储芯片巨头遭“集体踩踏”！闪迪跌超10%",
+          "url": "https://wallstreetcn.com/articles/3764989",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时43分 ~ 17时56分]"
+        },
+        {
           "title": "节前港股市场风格切换 部分公募基金从高估值科技板块向防御型资产转移",
           "url": "https://wallstreetcn.com/livenews/3050152",
           "source": "华尔街见闻-快讯",
@@ -1550,17 +1711,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
-        },
-        {
-          "title": "科技股大跌蔓延，存储芯片巨头遭“集体踩踏”！闪迪跌超10%",
-          "url": "https://wallstreetcn.com/articles/3764989",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时43分 ~ 16时56分]"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（2月5日）",
@@ -1682,7 +1832,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -1712,7 +1862,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -1781,11 +1931,12 @@
           "url": "https://wallstreetcn.com/livenews/3050530",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 17时56分]"
         },
         {
           "title": "白银LOF估值风暴：高溢价狂欢下的补款之痛与行业反思",
@@ -1814,6 +1965,30 @@
           "time_info": "[06时38分 ~ 07时36分]"
         },
         {
+          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
+          "url": "https://www.cls.cn/detail/2281312",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 17时56分]"
+        },
+        {
+          "title": "软件股恐慌蔓延至全球股市，韩股收跌3.9%，白银暴跌17%，铁矿石下探至100美元",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 17时56分]"
+        },
+        {
           "title": "券商2月金股出炉：电子行业最热，有色、汽车减配居前",
           "url": "https://m.thepaper.cn/newsDetail_forward_32524952",
           "source": "澎湃新闻",
@@ -1825,26 +2000,15 @@
           "time_info": "[00时59分 ~ 01时01分]"
         },
         {
-          "title": "软件股恐慌蔓延至全球股市，韩股收跌3.9%，白银暴跌17%，铁矿石下探至100美元",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
+          "title": "欧盟委员会：批准30亿欧元的德国政府补贴，以支持清洁技术制造能力。",
+          "url": "https://flash.jin10.com/detail/20260205173022755800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
-          "url": "https://www.cls.cn/detail/2281312",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
+          "time_info": "17时56分"
         },
         {
           "title": "日本首相高市早苗：用于自动驾驶汽车和机器人技术的3纳米芯片对经济安全具有重大意义。",
@@ -1872,7 +2036,7 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "如何看待「游戏行业税率可能从 6% 调高至 32%」的传言？你认为游戏行业目前的税率合理吗？",
@@ -1913,6 +2077,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时55分 ~ 14时02分]"
+        },
+        {
+          "title": "如何评价 2 月 4 号《异环》三测的游戏表现？",
+          "url": "https://www.zhihu.com/question/2002340436161873464",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "索尼：正在与供应商洽谈以获得更多内存供应。 已为今年假期销售季备妥了用于PS5的内存。 与内存相关的市场放缓对传感器业务影响有限。",
