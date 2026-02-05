@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T12:55:55.235672+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-02-05T14:02:59.589040+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "中央广播电视总台《2026年春节联欢晚会》主持人阵容发布",
@@ -42,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时59分 ~ 12时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 14时02分]"
         },
         {
           "title": "2026年NBA全明星球衣发布",
@@ -67,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 14时02分]"
         },
         {
           "title": "改期！美国劳工部下周三将发布1月非农就业报告",
@@ -93,6 +93,17 @@
           "time_info": "07时36分"
         },
         {
+          "title": "甘肃调整住房公积金贷款政策 放宽新就业毕业生贷款条件",
+          "url": "https://wallstreetcn.com/livenews/3050384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "美国财长贝森特：已有超过100万美国家庭为2025年至2028年出生的儿童注册了“特朗普账户”。",
           "url": "https://flash.jin10.com/detail/20260205011600614800",
           "source": "金十数据",
@@ -104,15 +115,17 @@
           "time_info": "01时57分"
         },
         {
-          "title": "B站与总台春晚二度合作，直播春晚将开放真弹幕互动",
-          "url": "https://wallstreetcn.com/livenews/3050342",
-          "source": "华尔街见闻-快讯",
+          "title": "政策利好消息+板块轮动 欧洲化工板块创4年来最大单日涨幅",
+          "url": "https://www.cls.cn/detail/2280925",
+          "source": "财联社热门",
           "ranks": [
-            5
+            8,
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 14时02分]"
         },
         {
           "title": "美国劳工统计局：将于2月5日发布12月职位空缺和劳动力流动报告。",
@@ -127,6 +140,18 @@
           "time_info": "[01时01分 ~ 01时57分]"
         },
         {
+          "title": "19990美元起！贾跃亭发布人形机器人",
+          "url": "https://www.toutiao.com/trending/7602939814740754441/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 14时02分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基表示，乌克兰的西方国家伙伴必须准备好向俄罗斯施压，并为基辅提供保障。",
           "url": "https://flash.jin10.com/detail/20260205025105297800",
           "source": "金十数据",
@@ -139,16 +164,39 @@
           "time_info": "[03时02分 ~ 04时44分]"
         },
         {
-          "title": "政策利好消息+板块轮动 欧洲化工板块创4年来最大单日涨幅",
-          "url": "https://www.cls.cn/detail/2280925",
+          "title": "三部门：海南自由贸易港岛内居民消费进境商品实行“零关税”政策",
+          "url": "https://www.cls.cn/detail/2281276",
           "source": "财联社热门",
           "ranks": [
-            8,
+            12,
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时43分 ~ 12时55分]"
+          "time_info": "[12时55分 ~ 14时02分]"
+        },
+        {
+          "title": "B站与总台春晚二度合作，直播春晚将开放真弹幕互动",
+          "url": "https://wallstreetcn.com/livenews/3050342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 14时02分]"
+        },
+        {
+          "title": "英大使向爱泼斯坦泄密，斯塔默：很愤怒，他背叛了国家",
+          "url": "https://news.ifeng.com/c/8qUWO1gjv33",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 14时02分]"
         },
         {
           "title": "美国贸易代表格里尔宣布：在关键矿物问题上与欧盟和日本合作。",
@@ -163,15 +211,16 @@
           "time_info": "[01时57分 ~ 03时02分]"
         },
         {
-          "title": "英大使向爱泼斯坦泄密，斯塔默：很愤怒，他背叛了国家",
-          "url": "https://news.ifeng.com/c/8qUWO1gjv33",
-          "source": "凤凰网",
+          "title": "胡润中国500强非国有企业发布：台积电、腾讯、字节位列前三",
+          "url": "https://wallstreetcn.com/livenews/3050340",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            6,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时43分 ~ 12时55分]"
+          "time_info": "[12时55分 ~ 14时02分]"
         },
         {
           "title": "美国财长贝森特声称：我们往往会支持一个强势美元政策。",
@@ -210,17 +259,6 @@
           "time_info": "[01时01分 ~ 01时57分]"
         },
         {
-          "title": "胡润中国500强非国有企业发布：台积电、腾讯、字节位列前三",
-          "url": "https://wallstreetcn.com/livenews/3050340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
           "title": "美国劳工部：拟按原定计划于周四发布周度失业金申请报告。",
           "url": "https://flash.jin10.com/detail/20260205034233200800",
           "source": "金十数据",
@@ -238,18 +276,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "三部门：海南自由贸易港岛内居民消费进境商品实行“零关税”政策",
-          "url": "https://www.cls.cn/detail/2281276",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -298,6 +325,17 @@
           "time_info": "01时57分"
         },
         {
+          "title": "贾跃亭发布人形机器人 19990美元起",
+          "url": "https://www.baidu.com/s?wd=%E8%B4%BE%E8%B7%83%E4%BA%AD%E5%8F%91%E5%B8%83%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA+19990%E7%BE%8E%E5%85%83%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "高通(QCOM.O)盘后财报发布后下跌1.6%。",
           "url": "https://flash.jin10.com/detail/20260205050153659800",
           "source": "金十数据",
@@ -331,17 +369,6 @@
           "time_info": "01时57分"
         },
         {
-          "title": "19990美元起！贾跃亭发布人形机器人",
-          "url": "https://www.toutiao.com/trending/7602939814740754441/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
           "title": "美国贸易代表办公室（USTR）：我们正在努力制定有关关键矿产的协调贸易政策，并与志同道合的国家达成多边协议。",
           "url": "https://flash.jin10.com/detail/20260205010326400800",
           "source": "金十数据",
@@ -370,7 +397,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -487,6 +514,274 @@
       ]
     },
     {
+      "keyword_group": "国际 外交 战争",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "克宫：发展与中国的关系是俄罗斯外交政策优先事项",
+          "url": "https://news.ifeng.com/c/8qTWr6Z36pA",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时36分]"
+        },
+        {
+          "title": "重启外交接触，委美现在到底什么关系？",
+          "url": "https://news.ifeng.com/c/8qTXN5dazhr",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时36分]"
+        },
+        {
+          "title": "外交部回应欧盟调查中国风电巨头",
+          "url": "https://www.toutiao.com/trending/7602924447137382436/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时36分]"
+        },
+        {
+          "title": "中国外交一次前所未有的举动",
+          "url": "https://news.ifeng.com/c/8qUPazVT5PS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 14时02分]"
+        },
+        {
+          "title": "美伊谈判一度“濒临破裂”又峰回路转 国际油价晕头转向",
+          "url": "https://www.cls.cn/detail/2280957",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 14时02分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基表示，谈判必须带来真正的和平，而不能为俄罗斯继续发动战争提供机会。",
+          "url": "https://flash.jin10.com/detail/20260205025114995800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 04时44分]"
+        },
+        {
+          "title": "俄外交部：俄美不再受《新削减战略武器条约》任何义务约束",
+          "url": "https://wallstreetcn.com/livenews/3050064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 04时44分]"
+        },
+        {
+          "title": "国际团队发现 146 光年外有一颗「冰冻地球」，称有不小可能是潜在人类宜居星球，这颗星球有何特别之处？",
+          "url": "https://www.zhihu.com/question/2000486513306253031",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 14时02分]"
+        },
+        {
+          "title": "高市早苗明确表达将自卫队写入宪法意愿，外交部：敦促日方深刻反省侵略历史",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32531802",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 14时02分]"
+        },
+        {
+          "title": "俄外交部：俄美不再受《新削减战略武器条约》任何义务约束",
+          "url": "https://flash.jin10.com/detail/20260205023619593800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 04时44分]"
+        },
+        {
+          "title": "阿根廷外交部称，阿根廷和美国就关键矿产达成协议。",
+          "url": "https://flash.jin10.com/detail/20260205060352855800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时36分]"
+        },
+        {
+          "title": "立陶宛新总理公开承认对中国「犯了大错」，这种外交决策的转向说明了什么？后续中立关系会如何？",
+          "url": "https://www.zhihu.com/question/2002689754945250515",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "国际铜夜盘收跌2.19%，沪铜收跌2.22%，沪铝收跌0.92%，沪锌收跌0.26%，沪铅收涨0.12%，沪镍收跌0.25%，沪锡收跌3.41%。 氧化铝夜盘收跌0.85%，铝合金收跌0.58%。 不锈钢夜盘收涨0.84%。",
+          "url": "https://wallstreetcn.com/livenews/3050027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "金十图示：2026年02月05日（周四）上海金早盘价为1108.05元/克，较国际金价(1101.77元/克)，高6.28元/克",
+          "url": "https://flash.jin10.com/detail/20260205102602585800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "据知情人士透露，法国总统的首席外交官于周二前往莫斯科，与俄罗斯官员举行了会谈。",
+          "url": "https://flash.jin10.com/detail/20260205021918669800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "国际原油结算价涨超3%",
+          "url": "https://flash.jin10.com/detail/20260205045736552800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "消息人士：日本国际协力银行正考虑向新日铁提供约64亿美元贷款。据悉新日铁正考虑发行高达32亿美元的可转换债券。",
+          "url": "https://flash.jin10.com/detail/20260205125055360800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "俄罗斯外交部：俄罗斯仍愿在平等对话基础上寻求稳定战略局势的途径。",
+          "url": "https://flash.jin10.com/detail/20260205020404571800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "俄罗斯外交部：美国对俄罗斯关于新削减战略武器条约倡议的立场是错误且令人遗憾的。",
+          "url": "https://flash.jin10.com/detail/20260205020352329800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "俄罗斯外交部：俄罗斯打算在新削减战略武器条约到期后以负责任和审慎的方式行事。",
+          "url": "https://flash.jin10.com/detail/20260205020259396800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "俄罗斯外交部就即将到期的新削减战略武器条约发表声明，俄罗斯认为，该协议各方不再受相关义务和对等声明的约束。",
+          "url": "https://flash.jin10.com/detail/20260205020246363800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "俄罗斯外交部就即将到期的新削减战略武器条约发表声明，俄罗斯尚未收到来自美国的正式答复。俄罗斯已准备好采取果断的军事技术反制措施，以应对可能对国家安全构成的额外威胁。",
+          "url": "https://flash.jin10.com/detail/20260205020156791800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少，沪银跌近12%，碳酸锂跌近11%，铂跌超9%，沪锡跌超7%，钯跌超5%，BR橡胶、菜籽跌超4%，国际铜、沪铜跌超3%，焦煤、沪金、铁矿石跌超2%。涨幅方面，集运欧线涨超4%，燃料油、低硫燃料油、SC原油涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260205113057642800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 22,
       "titles": [
@@ -498,8 +793,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 14时02分]"
         },
         {
           "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
@@ -582,8 +877,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 14时02分]"
         },
         {
           "title": "谷歌母公司Alphabet研发（R&D）开支增长42%，受到AI人才和无人驾驶部门的驱动。 科技基础设施投资中，60%投入服务器、40%投入数据中心。 科技基建（投资）的增幅在2025年收缩38%。 谷歌云（订单）积压同比超过翻倍，至2400亿美元。 Alphabet在Waymo本轮融资中贡献重大。",
@@ -608,6 +903,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时38分]"
+        },
+        {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 14时02分]"
         },
         {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
@@ -702,17 +1008,6 @@
           "time_info": "05时41分"
         },
         {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
           "title": "Alphabet(GOOGL.O)2025年Q4谷歌云收入176.6亿美元。",
           "url": "https://flash.jin10.com/detail/20260205050325162800",
           "source": "金十数据",
@@ -748,253 +1043,8 @@
       ]
     },
     {
-      "keyword_group": "国际 外交 战争",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "克宫：发展与中国的关系是俄罗斯外交政策优先事项",
-          "url": "https://news.ifeng.com/c/8qTWr6Z36pA",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时36分]"
-        },
-        {
-          "title": "重启外交接触，委美现在到底什么关系？",
-          "url": "https://news.ifeng.com/c/8qTXN5dazhr",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时36分]"
-        },
-        {
-          "title": "外交部回应欧盟调查中国风电巨头",
-          "url": "https://www.toutiao.com/trending/7602924447137382436/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时36分]"
-        },
-        {
-          "title": "中国外交一次前所未有的举动",
-          "url": "https://news.ifeng.com/c/8qUPazVT5PS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 12时55分]"
-        },
-        {
-          "title": "美伊谈判一度“濒临破裂”又峰回路转 国际油价晕头转向",
-          "url": "https://www.cls.cn/detail/2280957",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 12时55分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基表示，谈判必须带来真正的和平，而不能为俄罗斯继续发动战争提供机会。",
-          "url": "https://flash.jin10.com/detail/20260205025114995800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时44分]"
-        },
-        {
-          "title": "俄外交部：俄美不再受《新削减战略武器条约》任何义务约束",
-          "url": "https://wallstreetcn.com/livenews/3050064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时44分]"
-        },
-        {
-          "title": "国际团队发现 146 光年外有一颗「冰冻地球」，称有不小可能是潜在人类宜居星球，这颗星球有何特别之处？",
-          "url": "https://www.zhihu.com/question/2000486513306253031",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 12时55分]"
-        },
-        {
-          "title": "俄外交部：俄美不再受《新削减战略武器条约》任何义务约束",
-          "url": "https://flash.jin10.com/detail/20260205023619593800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时44分]"
-        },
-        {
-          "title": "高市早苗明确表达将自卫队写入宪法意愿，外交部：敦促日方深刻反省侵略历史",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32531802",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 12时55分]"
-        },
-        {
-          "title": "阿根廷外交部称，阿根廷和美国就关键矿产达成协议。",
-          "url": "https://flash.jin10.com/detail/20260205060352855800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时36分]"
-        },
-        {
-          "title": "国际铜夜盘收跌2.19%，沪铜收跌2.22%，沪铝收跌0.92%，沪锌收跌0.26%，沪铅收涨0.12%，沪镍收跌0.25%，沪锡收跌3.41%。 氧化铝夜盘收跌0.85%，铝合金收跌0.58%。 不锈钢夜盘收涨0.84%。",
-          "url": "https://wallstreetcn.com/livenews/3050027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "金十图示：2026年02月05日（周四）上海金早盘价为1108.05元/克，较国际金价(1101.77元/克)，高6.28元/克",
-          "url": "https://flash.jin10.com/detail/20260205102602585800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "据知情人士透露，法国总统的首席外交官于周二前往莫斯科，与俄罗斯官员举行了会谈。",
-          "url": "https://flash.jin10.com/detail/20260205021918669800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "国际原油结算价涨超3%",
-          "url": "https://flash.jin10.com/detail/20260205045736552800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "俄罗斯外交部：俄罗斯仍愿在平等对话基础上寻求稳定战略局势的途径。",
-          "url": "https://flash.jin10.com/detail/20260205020404571800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "俄罗斯外交部：美国对俄罗斯关于新削减战略武器条约倡议的立场是错误且令人遗憾的。",
-          "url": "https://flash.jin10.com/detail/20260205020352329800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "俄罗斯外交部：俄罗斯打算在新削减战略武器条约到期后以负责任和审慎的方式行事。",
-          "url": "https://flash.jin10.com/detail/20260205020259396800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "俄罗斯外交部就即将到期的新削减战略武器条约发表声明，俄罗斯认为，该协议各方不再受相关义务和对等声明的约束。",
-          "url": "https://flash.jin10.com/detail/20260205020246363800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "俄罗斯外交部就即将到期的新削减战略武器条约发表声明，俄罗斯尚未收到来自美国的正式答复。俄罗斯已准备好采取果断的军事技术反制措施，以应对可能对国家安全构成的额外威胁。",
-          "url": "https://flash.jin10.com/detail/20260205020156791800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约跌多涨少，沪银跌近12%，碳酸锂跌近11%，铂跌超9%，沪锡跌超7%，钯跌超5%，BR橡胶、菜籽跌超4%，国际铜、沪铜跌超3%，焦煤、沪金、铁矿石跌超2%。涨幅方面，集运欧线涨超4%，燃料油、低硫燃料油、SC原油涨超1%。",
-          "url": "https://flash.jin10.com/detail/20260205113057642800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "南向资金追踪｜净流入约134亿港元创近两周新高 大举加仓多只科技龙头",
@@ -1085,8 +1135,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 14时02分]"
         },
         {
           "title": "2月5日投资避雷针：双良节能、国晟科技等人气股密集澄清 目前未涉及太空光伏业务",
@@ -1095,9 +1145,20 @@
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 14时02分]"
+        },
+        {
+          "title": "A股电网设备股持续走弱，金盘科技跌超10%，此前四方股份跌停，伊戈尔、三变科技、白云电器、中国西电、保变电气等多股跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3050370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时55分"
+          "time_info": "14时02分"
         },
         {
           "title": "恒生指数主连夜盘收跌1.17%，报26534点。 恒生科技指数主连夜盘收跌1.53%，报5281点。",
@@ -1120,6 +1181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "阿里巴巴大模型品牌统一为千问",
+          "url": "https://wallstreetcn.com/livenews/3050366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "贵金属板块震荡走低，湖南白银触及跌停，晓程科技、四川黄金、湖南黄金、招金黄金、山东黄金跟跌。",
@@ -1161,7 +1233,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         }
@@ -1169,7 +1241,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -1219,8 +1291,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时59分 ~ 12时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 14时02分]"
         },
         {
           "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
@@ -1253,8 +1325,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时36分 ~ 12时55分]"
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 14时02分]"
         },
         {
           "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
@@ -1262,11 +1334,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 14时02分]"
         },
         {
           "title": "Arm控股CEO：AI软件抛售是一个“微观的歇斯底里”（Micro hysteria）。",
@@ -1314,6 +1387,17 @@
           "time_info": "06时38分"
         },
         {
+          "title": "腾讯元宝红包微信分享遭限制，AI入口之争遇挫了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32532785",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "据The Information：OpenAI正在招聘数百名“前沿部署工程师”以赢得大型企业业务。",
           "url": "https://flash.jin10.com/detail/20260205101900383800",
           "source": "金十数据",
@@ -1331,7 +1415,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         }
@@ -1416,6 +1500,18 @@
           "time_info": "[06时38分 ~ 07时36分]"
         },
         {
+          "title": "白银LOF估值风暴：高溢价狂欢下的补款之痛与行业反思",
+          "url": "https://www.cls.cn/detail/2281028",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 14时02分]"
+        },
+        {
           "title": "券商2月金股出炉：电子行业最热，有色、汽车减配居前",
           "url": "https://m.thepaper.cn/newsDetail_forward_32524952",
           "source": "澎湃新闻",
@@ -1425,17 +1521,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时59分 ~ 01时01分]"
-        },
-        {
-          "title": "白银LOF估值风暴：高溢价狂欢下的补款之痛与行业反思",
-          "url": "https://www.cls.cn/detail/2281028",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
         },
         {
           "title": "日本首相高市早苗：用于自动驾驶汽车和机器人技术的3纳米芯片对经济安全具有重大意义。",
@@ -1573,11 +1658,12 @@
           "url": "https://www.zhihu.com/question/2001660645570021372",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 14时02分]"
         },
         {
           "title": "高通(QCOM.O)：近期手机市场前景受到全行业内存供应短缺的影响。",
@@ -1597,7 +1683,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         }
@@ -1616,8 +1702,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 14时02分]"
         }
       ]
     }
