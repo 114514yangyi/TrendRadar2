@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T15:02:09.576999+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2026-02-08T16:42:41.393902+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "教育部：将有序推进中考改革",
@@ -76,8 +76,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 15时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 16时42分]"
         },
         {
           "title": "美国联邦通信委员会（FCC）官员Carr谈及总统特朗普力挺Nexstar收购Tegna的交易，宣称：像康卡斯特和迪士尼这样的国家级网络已经聚集了太大的权力。 让我们完成这笔交易，给他们带去真正的竞争。",
@@ -133,6 +133,20 @@
           "time_info": "[13时28分 ~ 15时02分]"
         },
         {
+          "title": "专访｜“众院选举结果可能改变日本国家形态，进入相当危险阶段”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32557042",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 16时42分]"
+        },
+        {
           "title": "英国财政大臣Reeves呼吁（预算管理部门）勿要发布春季（预算）声明。（英国每日电讯报）",
           "url": "https://wallstreetcn.com/livenews/3051753",
           "source": "华尔街见闻-快讯",
@@ -153,35 +167,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 15时02分]"
-        },
-        {
-          "title": "陈茂波：香港抓紧十五五机遇更积极融入国家发展大局",
-          "url": "https://wallstreetcn.com/livenews/3051778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "专访｜“众院选举结果可能改变日本国家形态，进入相当危险阶段”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32557042",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 15时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 16时42分]"
         },
         {
           "title": "江苏省政府召开房地产从业人员座谈会，研究稳定提振房地产市场政策举措",
@@ -190,11 +181,24 @@
           "ranks": [
             5,
             13,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 16时42分]"
+        },
+        {
+          "title": "陈茂波：香港抓紧十五五机遇更积极融入国家发展大局",
+          "url": "https://wallstreetcn.com/livenews/3051778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 15时02分]"
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 16时42分]"
         },
         {
           "title": "与美接触后，伊朗外长划定国家核心利益的两条“红线”",
@@ -209,6 +213,28 @@
           "time_info": "[00时40分 ~ 01时34分]"
         },
         {
+          "title": "泽连斯基：俄对美抛出12万亿美元经济合作方案",
+          "url": "https://news.ifeng.com/c/8qZdxbO9vTa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 16时42分]"
+        },
+        {
+          "title": "美防长：军官从哈佛回来满脑子都是全球主义！将终止合作",
+          "url": "https://news.ifeng.com/c/8qZkT6AQGBS",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 16时42分]"
+        },
+        {
           "title": "1.6T光模块，Tower与英伟达新合作",
           "url": "https://wallstreetcn.com/articles/3765223",
           "source": "华尔街见闻",
@@ -219,28 +245,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 13时28分]"
-        },
-        {
-          "title": "泽连斯基：俄对美抛出12万亿美元经济合作方案",
-          "url": "https://news.ifeng.com/c/8qZdxbO9vTa",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时02分]"
-        },
-        {
-          "title": "美防长：军官从哈佛回来满脑子都是全球主义！将终止合作",
-          "url": "https://news.ifeng.com/c/8qZkT6AQGBS",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时02分]"
         },
         {
           "title": "预制菜国标征求意见稿发布，对餐饮行业有何影响？按此标准，哪些品牌已经步入预制菜行列了？",
@@ -254,6 +258,17 @@
           "time_info": "[00时40分 ~ 00时41分]"
         },
         {
+          "title": "韩国庆州市发生山火 消防部门下达国家消防动员令",
+          "url": "https://flash.jin10.com/detail/20260208152741738800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "港府斥责巴拿马自毁国家信用",
           "url": "https://www.toutiao.com/trending/7603796365961101331/",
           "source": "今日头条",
@@ -263,12 +278,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "赛力斯：与重庆市沙坪坝区政府签署合作协议",
+          "url": "https://wallstreetcn.com/livenews/3051785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "国家疾控局：我国大部分地区流感降至中低流行水平",
+          "url": "https://wallstreetcn.com/livenews/3051781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         }
       ]
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
@@ -290,8 +327,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 15时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 16时42分]"
         },
         {
           "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
@@ -322,8 +359,20 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 15时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 16时42分]"
+        },
+        {
+          "title": "UP主用AI做影游融合沉浸式科普",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时28分 ~ 16时42分]"
         },
         {
           "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
@@ -365,28 +414,17 @@
           "time_info": "[00时41分 ~ 07时39分]"
         },
         {
-          "title": "UP主用AI做影游融合沉浸式科普",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 15时02分]"
-        },
-        {
           "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
           "url": "https://wallstreetcn.com/articles/3765241",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时28分 ~ 16时42分]"
         },
         {
           "title": "你认为AI会替代软件开发吗",
@@ -402,6 +440,18 @@
           "time_info": "[02时48分 ~ 07时39分]"
         },
         {
+          "title": "人民日报：孩子用AI写作业，你怎么看？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 16时42分]"
+        },
+        {
           "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
           "url": "https://flash.jin10.com/detail/20260208081050471800",
           "source": "金十数据",
@@ -413,6 +463,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时23分 ~ 15时02分]"
+        },
+        {
+          "title": "“AI.com”域名卖出7000万美元",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9CAI.com%E2%80%9D%E5%9F%9F%E5%90%8D%E5%8D%96%E5%87%BA7000%E4%B8%87%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 16时42分]"
         },
         {
           "title": "高盛解读本周市场焦点：“AI-SaaS”之争",
@@ -449,17 +511,6 @@
           "time_info": "[07时39分 ~ 11时23分]"
         },
         {
-          "title": "人民日报：孩子用AI写作业，你怎么看？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时02分]"
-        },
-        {
           "title": "从“AI红包大战”透视互联网流量重构：留存才是真正的考验",
           "url": "https://m.thepaper.cn/newsDetail_forward_32556126",
           "source": "澎湃新闻",
@@ -471,21 +522,32 @@
           "time_info": "[00时40分 ~ 00时41分]"
         },
         {
-          "title": "“AI.com”域名卖出7000万美元",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9CAI.com%E2%80%9D%E5%9F%9F%E5%90%8D%E5%8D%96%E5%87%BA7000%E4%B8%87%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
+          "source": "华尔街见闻",
           "ranks": [
-            24
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "吃上AI主理人的席了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%83%E4%B8%8AAI%E4%B8%BB%E7%90%86%E4%BA%BA%E7%9A%84%E5%B8%AD%E4%BA%86%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         }
       ]
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "罗斯柴尔德家族真的像《货币战争》中描述的那么厉害吗？",
@@ -570,6 +632,17 @@
           "time_info": "[00时41分 ~ 07时39分]"
         },
         {
+          "title": "外交部回应巴基斯坦爆炸事件",
+          "url": "https://www.douyin.com/hot/2393701",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "2026 年 3 月白银会爆发史诗级「交割战争」吗？",
           "url": "https://www.zhihu.com/question/2003403337194817403",
           "source": "知乎",
@@ -578,19 +651,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 15时02分]"
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 16时42分]"
         },
         {
           "title": "国际观察丨美伊谈判能否解除中东“战争警报”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32559521",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时28分 ~ 16时42分]"
         },
         {
           "title": "歼-35新加坡之行为何引发国际关注",
@@ -618,39 +692,8 @@
       ]
     },
     {
-      "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "高校教师心理健康受关注，代表建议多元考核、精简非教学科研事项",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32558898",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时39分 ~ 15时02分]"
-        },
-        {
-          "title": "山西山阴生物科技公司爆炸已致8人遇难 企业法人代表被控制",
-          "url": "https://wallstreetcn.com/livenews/3051765",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 15时02分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
@@ -660,8 +703,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 15时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 16时42分]"
         },
         {
           "title": "国内首款「汽车飞机二合一」首飞成功，在技术上克服了哪些难点？未来有哪些应用空间？",
@@ -675,6 +718,78 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时40分 ~ 07时39分]"
+        },
+        {
+          "title": "本周美国市场大波动背后：对冲基金\"做空一切\"、周四软件股开始有买盘、周五\"残酷逼空\"",
+          "url": "https://wallstreetcn.com/articles/3765247",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "新技术可长时间“监控”细胞的基因活动",
+          "url": "https://wallstreetcn.com/livenews/3051782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科研 论文 大模型 科技 创新 成果",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "高校教师心理健康受关注，代表建议多元考核、精简非教学科研事项",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32558898",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时39分 ~ 16时42分]"
+        },
+        {
+          "title": "山西山阴生物科技公司爆炸已致8人遇难 企业法人代表被控制",
+          "url": "https://wallstreetcn.com/livenews/3051765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 16时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
+          "url": "https://wallstreetcn.com/articles/3765245",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         }
       ]
     },
@@ -691,8 +806,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 15时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 16时42分]"
         }
       ]
     },
@@ -709,11 +824,12 @@
             1,
             7,
             10,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 15时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 16时42分]"
         }
       ]
     }
