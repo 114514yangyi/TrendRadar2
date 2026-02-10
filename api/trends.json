@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T07:47:27.775443+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-02-10T11:16:38.067863+08:00",
+  "total_titles_processed": 895,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "乘势而上｜专访史晋川：要让民营经济的发展，从政策红利转到法治红利",
@@ -20,6 +20,21 @@
           "time_info": "[00时07分 ~ 07时47分]"
         },
         {
+          "title": "百大厨神年夜饭菜谱发布",
+          "url": "https://www.douyin.com/hot/2394539",
+          "source": "抖音",
+          "ranks": [
+            26,
+            20,
+            18,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 11时16分]"
+        },
+        {
           "title": "与企业共同出海 讲中国发展故事 界面财联社发布全链路中企出海服务矩阵",
           "url": "https://www.cls.cn/detail/2284640",
           "source": "财联社热门",
@@ -32,18 +47,15 @@
           "time_info": "[00时07分 ~ 07时47分]"
         },
         {
-          "title": "百大厨神年夜饭菜谱发布",
-          "url": "https://www.douyin.com/hot/2394539",
-          "source": "抖音",
+          "title": "涉316种常用药品！1至8批国家集采药品接续采购开标",
+          "url": "https://wallstreetcn.com/livenews/3052681",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26,
-            20,
-            18,
-            14
+            2
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 07时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "拉加德呼吁改革以增强欧洲经济韧性",
@@ -55,6 +67,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "检察机关依法对国家国防科工局原副局长张建华涉嫌受贿、利用影响力受贿案提起公诉。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3052678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "俄外长：若欧洲国家发动攻击，俄方将用一切手段进行军事回应",
@@ -104,6 +127,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时56分 ~ 03时27分]"
+        },
+        {
+          "title": "江苏多地发布今年春秋假安排，与清明小长假连休形成6天假期",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32566947",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 11时16分]"
         },
         {
           "title": "2027年FOMC票委、亚特兰大联储主席博斯蒂克将于十分钟后就货币政策和经济前景发表讲话。",
@@ -159,7 +194,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -197,15 +232,15 @@
           "time_info": "04时53分"
         },
         {
-          "title": "江苏多地发布今年春秋假安排，与清明小长假连休形成6天假期",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32566947",
-          "source": "澎湃新闻",
+          "title": "日本财务大臣片山皋月：日本一直以来都在将外汇特别账户资金用于各项政策。 关于是否动用外汇特别账户资金进行减税，目前尚无立场。 高市早苗不会改变“在两年内结束减税”的观点。",
+          "url": "https://wallstreetcn.com/livenews/3052659",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时47分"
+          "time_info": "11时16分"
         },
         {
           "title": "文件显示，智利国家铜业公司（Codelco）预计2026年直接生产成本为每磅2202美元，该项预测基于每磅4.90美元的铜价估算。",
@@ -288,7 +323,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
@@ -339,40 +374,30 @@
           "time_info": "[00时07分 ~ 07时47分]"
         },
         {
-          "title": "不要对AI说谢谢",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E8%A6%81%E5%AF%B9AI%E8%AF%B4%E8%B0%A2%E8%B0%A2",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 07时47分]"
-        },
-        {
           "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
           "url": "https://wallstreetcn.com/articles/3765271",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 07时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 11时16分]"
         },
         {
-          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
-          "url": "https://www.cls.cn/detail/2284689",
-          "source": "财联社热门",
+          "title": "不要对AI说谢谢",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E8%A6%81%E5%AF%B9AI%E8%AF%B4%E8%B0%A2%E8%B0%A2",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            13
+            16,
+            2,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 07时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 11时16分]"
         },
         {
           "title": "AIGC整活新春联欢会",
@@ -384,7 +409,20 @@
             25,
             23,
             13,
-            26
+            26,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 11时16分]"
+        },
+        {
+          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
+          "url": "https://www.cls.cn/detail/2284689",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -413,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "不要对AI说谢谢",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%AF%B9AI%E8%AF%B4%E8%B0%A2%E8%B0%A2%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "AI工具引发颠覆担忧 美国保险经纪股周一遭重挫",
@@ -450,6 +499,28 @@
           "time_info": "[00时07分 ~ 03时27分]"
         },
         {
+          "title": "Seedance2.0 对AI应用意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765320",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "美软件股危机未除！花旗：AI冲击或让终端价值蒸发三分之一",
+          "url": "https://wallstreetcn.com/articles/3765297",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
           "title": "微软不到一周内评级两度遭下调，Melius警告AI相关风险",
           "url": "https://wallstreetcn.com/livenews/3052446",
           "source": "华尔街见闻-快讯",
@@ -459,6 +530,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "AI 恐怖",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E6%81%90%E6%80%96&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "OpenAI推出首个在网络安全方面设定为高等级的模型GPT-5.3-Codex",
@@ -478,9 +560,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "韩国一公司用AI开发诊疗平台 可预防心脏病发作",
+          "url": "https://wallstreetcn.com/livenews/3052637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "标普：下调Raizen七档，至垃圾级。",
@@ -496,8 +589,241 @@
       ]
     },
     {
+      "keyword_group": "科研 论文 大模型 科技 创新 成果",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "习近平：建设社会主义现代化强国，关键在科技自立自强",
+          "url": "https://www.cls.cn/detail/2285089",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 11时16分]"
+        },
+        {
+          "title": "科技股反弹提振市场，标普逼近历史高位，微软反弹3%，黄金重回5000美元，白银涨超7%",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时49分 ~ 06时48分]"
+        },
+        {
+          "title": "科技股反弹提振市场，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，白银涨超7%",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "外资机构密集调研A股公司，科技赛道成关注重点",
+          "url": "https://wallstreetcn.com/livenews/3052553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "习近平在北京考察科技创新工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32565800",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时47分 ~ 11时16分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.39%，报27221点。 恒生科技指数主连夜盘收涨0.48%，报5458点。",
+          "url": "https://wallstreetcn.com/livenews/3052479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 04时53分]"
+        },
+        {
+          "title": "加皇银行：警惕科技行业重新定价冲击债市",
+          "url": "https://flash.jin10.com/detail/20260210054520696800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时47分]"
+        },
+        {
+          "title": "科技行业收涨超1.5%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3052518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时48分]"
+        },
+        {
+          "title": "习近平：建设社会主义现代化强国，关键在科技自立自强",
+          "url": "https://wallstreetcn.com/articles/3765328",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "金十图示：2026年02月10日（周二）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20260210105548493800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "恒生生物科技指数日内涨超4%，石药集团涨超7%，信达生物涨近7%，药明生物、中国生物制药涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3052670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "金十图示：2026年02月10日（周二）中国科技互联网公司市值排名TOP 50一览",
+          "url": "https://flash.jin10.com/detail/20260210105050944800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "亚洲股市周二有望再度走高 追随美股科技股反弹势头",
+          "url": "https://flash.jin10.com/detail/20260210065424099800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "Doinb 称 Dota 英雄多变，LoL 流量下降才创新，你如何看待这一观点？",
+          "url": "https://www.zhihu.com/question/2003126310864704081",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "传媒板块涨势扩大，读客文化冲击20cm涨停，捷成股份、荣信文化、风语筑、人民网、掌阅科技等十余股封涨停板。",
+          "url": "https://wallstreetcn.com/livenews/3052662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "云深处科技新专利可提高人形机器人跌倒恢复能力",
+          "url": "https://wallstreetcn.com/livenews/3052660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "近一个月调研逾560家上市公司，科技股成券商“春耕”重点",
+          "url": "https://wallstreetcn.com/livenews/3052537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "恒指日内涨幅扩大至1%，恒生生物科技指数涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3052641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至1.3%，快手涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3052635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "国际 外交 战争",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "外交部回应高市早苗涉参拜靖国神社言论",
@@ -518,23 +844,12 @@
             4,
             8,
             9,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 07时47分]"
-        },
-        {
-          "title": "高市早苗称正营造能参拜靖国神社的环境，外交部：否认罪责意味着重犯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32566283",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 07时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 11时16分]"
         },
         {
           "title": "希望高市早苗政府奉行怎样的外交政策？外交部回应",
@@ -543,7 +858,20 @@
           "ranks": [
             15,
             17,
-            18
+            18,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 11时16分]"
+        },
+        {
+          "title": "高市早苗称正营造能参拜靖国神社的环境，外交部：否认罪责意味着重犯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32566283",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -589,6 +917,17 @@
           "time_info": "[05时49分 ~ 06时48分]"
         },
         {
+          "title": "金十图示：2026年02月10日（周二）上海金早盘价为1121.71元/克，较国际金价(1118.54元/克)，高3.17元/克",
+          "url": "https://flash.jin10.com/detail/20260210110132564800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
           "title": "玻利维亚财政部长：玻利维亚计划动用不断增长的国际储备，以支付即将到期、需向私人债权人偿付的美元债务。此举旨在稳定经济。",
           "url": "https://flash.jin10.com/detail/20260210025118002800",
           "source": "金十数据",
@@ -600,6 +939,17 @@
           "time_info": "03时27分"
         },
         {
+          "title": "白宫哈塞特预告就业转差，金银多头占比仍居高位，国际现货白银隔夜大涨7%，多头占比高达96%，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260210104317938800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
           "title": "欧盟外交与安全政策高级代表办公室文件显示，欧盟拟在第20轮制裁中将包括图阿普谢在内的八家俄罗斯炼油厂列入制裁名单。",
           "url": "https://flash.jin10.com/detail/20260210010527840800",
           "source": "金十数据",
@@ -609,6 +959,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "外交部回应日本自民党胜选",
+          "url": "https://www.douyin.com/hot/2394913",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "立陶宛认错背后的外交启示",
@@ -631,128 +992,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "习近平：建设社会主义现代化强国，关键在科技自立自强",
-          "url": "https://www.cls.cn/detail/2285089",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 07时47分]"
-        },
-        {
-          "title": "科技股反弹提振市场，标普逼近历史高位，微软反弹3%，黄金重回5000美元，白银涨超7%",
-          "url": "https://wallstreetcn.com/articles/3765262",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时49分 ~ 06时48分]"
-        },
-        {
-          "title": "科技股反弹提振市场，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，白银涨超7%",
-          "url": "https://wallstreetcn.com/articles/3765262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
-          "title": "外资机构密集调研A股公司，科技赛道成关注重点",
-          "url": "https://wallstreetcn.com/livenews/3052553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
-          "title": "习近平在北京考察科技创新工作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32565800",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时47分 ~ 07时47分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.39%，报27221点。 恒生科技指数主连夜盘收涨0.48%，报5458点。",
-          "url": "https://wallstreetcn.com/livenews/3052479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时27分 ~ 04时53分]"
-        },
-        {
-          "title": "加皇银行：警惕科技行业重新定价冲击债市",
-          "url": "https://flash.jin10.com/detail/20260210054520696800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时48分 ~ 07时47分]"
-        },
-        {
-          "title": "科技行业收涨超1.5%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3052518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时48分]"
-        },
-        {
-          "title": "亚洲股市周二有望再度走高 追随美股科技股反弹势头",
-          "url": "https://flash.jin10.com/detail/20260210065424099800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
-          "title": "近一个月调研逾560家上市公司，科技股成券商“春耕”重点",
-          "url": "https://wallstreetcn.com/livenews/3052537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
         }
       ]
     },
@@ -783,6 +1022,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时49分 ~ 07时47分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
+          "url": "https://www.cls.cn/detail/2285220",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 11时16分]"
         },
         {
           "title": "美元指数9日下跌",
@@ -846,17 +1097,6 @@
           "time_info": "[05时49分 ~ 06时48分]"
         },
         {
-          "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
-          "url": "https://www.cls.cn/detail/2285220",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
           "title": "半导体ETF跌0.88%，网络股指数ETF跌0.87%，可选消费ETF跌0.83%，在美股盘初领跌行业ETF，能源业ETF涨0.13%。",
           "url": "https://wallstreetcn.com/livenews/3052393",
           "source": "华尔街见闻-快讯",
@@ -870,8 +1110,85 @@
       ]
     },
     {
+      "keyword_group": "github 技术 行业 软件",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "自嗨锅头部品牌濒临破产，75 亿估值灰飞烟灭，曾经大热的自嗨锅为什么不行了？为新消费行业带来哪些警示？",
+          "url": "https://www.zhihu.com/question/2004201422498001915",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时56分 ~ 11时16分]"
+        },
+        {
+          "title": "星展银行：泰国“技术官僚式政府”料推动未来数年的经济治理",
+          "url": "https://flash.jin10.com/detail/20260210105035041800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "美联储理事米兰：有理由说“2008年之前的银行业是监管不足的”。",
+          "url": "https://wallstreetcn.com/livenews/3052541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：目标在夏季前就“削减消费税”讨论提交报告。 受技术性问题影响，减税措施的落地尚需时日。",
+          "url": "https://wallstreetcn.com/livenews/3052658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "高盛称对冲基金创纪录增持美股空头头寸，信息技术板块成抛售重灾区",
+          "url": "https://wallstreetcn.com/livenews/3052438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "美国副总统万斯：将向亚美尼亚出售价值110亿美元的无人机技术。",
+          "url": "https://flash.jin10.com/detail/20260209233310723800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求。（彭博）",
@@ -883,6 +1200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
+          "url": "https://www.cls.cn/detail/2285182",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "市场消息：谷歌与Entrust将合作推出基于人工智能的身份验证服务。",
@@ -920,73 +1248,48 @@
       ]
     },
     {
-      "keyword_group": "github 技术 行业 软件",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "自嗨锅头部品牌濒临破产，75 亿估值灰飞烟灭，曾经大热的自嗨锅为什么不行了？为新消费行业带来哪些警示？",
-          "url": "https://www.zhihu.com/question/2004201422498001915",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 07时47分]"
-        },
-        {
-          "title": "美联储理事米兰：有理由说“2008年之前的银行业是监管不足的”。",
-          "url": "https://wallstreetcn.com/livenews/3052541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
-          "title": "高盛称对冲基金创纪录增持美股空头头寸，信息技术板块成抛售重灾区",
-          "url": "https://wallstreetcn.com/livenews/3052438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "美国副总统万斯：将向亚美尼亚出售价值110亿美元的无人机技术。",
-          "url": "https://flash.jin10.com/detail/20260209233310723800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "内存价格飙升90%",
           "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%AD%98%E4%BB%B7%E6%A0%BC%E9%A3%99%E5%8D%8790%25",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 11时16分]"
+        },
+        {
+          "title": "消息称英伟达今年将推出一款定位高于 GeForce RTX 5090 的新显卡，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2004134720611510191",
+          "source": "知乎",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时47分"
+          "time_info": "11时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "热点",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260210103839309800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         }
       ]
     }
