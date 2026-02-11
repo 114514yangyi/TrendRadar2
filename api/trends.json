@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T21:28:11.328379+08:00",
-  "total_titles_processed": 1587,
+  "generated_at": "2026-02-11T23:02:53.808992+08:00",
+  "total_titles_processed": 1718,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
@@ -58,6 +58,21 @@
           "time_info": "[10时57分 ~ 21时28分]"
         },
         {
+          "title": "国家统计局：今年1月份居民消费价格同比上涨0.2%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32581427",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时10分 ~ 23时02分]"
+        },
+        {
           "title": "中国央行第四季度货币政策执行报告：继续实施好适度宽松的货币政策，将常态化开展国债买卖操作",
           "url": "https://wallstreetcn.com/articles/3765415",
           "source": "华尔街见闻",
@@ -108,20 +123,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时47分 ~ 15时14分]"
-        },
-        {
-          "title": "国家统计局：今年1月份居民消费价格同比上涨0.2%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32581427",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时10分 ~ 21时28分]"
         },
         {
           "title": "国新办发布《“一国两制”下香港维护国家安全的实践》白皮书",
@@ -399,7 +400,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -479,6 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "微博发布2025年十大热搜“互联网人物” 雷军、罗永浩、刘强东位列前三",
+          "url": "https://wallstreetcn.com/livenews/3053788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：为提振欧盟生产基地，有必要优先考虑欧洲制造的商品，但政策不应一刀切，而应在分析后量身定制。",
@@ -608,7 +620,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -688,6 +700,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "德云社三十周年新闻发布会举办",
+          "url": "https://www.toutiao.com/trending/7604646091614584868/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美联储洛根：官方部门完成国债韧性改革工作至关重要。",
@@ -770,7 +793,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 36,
+      "match_count": 42,
       "titles": [
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -782,8 +805,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时57分 ~ 21时28分]"
+          "appearance_count": 12,
+          "time_info": "[10时57分 ~ 23时02分]"
         },
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -806,8 +829,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时57分 ~ 21时28分]"
+          "appearance_count": 12,
+          "time_info": "[10时57分 ~ 23时02分]"
         },
         {
           "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
@@ -820,6 +843,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时10分 ~ 19时52分]"
+        },
+        {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时10分 ~ 23时02分]"
         },
         {
           "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
@@ -850,21 +886,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时12分 ~ 21时28分]"
-        },
-        {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时10分 ~ 21时28分]"
+          "appearance_count": 19,
+          "time_info": "[01时12分 ~ 23时02分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -909,6 +932,32 @@
           "time_info": "[10时57分 ~ 15时14分]"
         },
         {
+          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
+          "url": "https://www.zhihu.com/question/2004971546536585165",
+          "source": "知乎",
+          "ranks": [
+            15,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时51分 ~ 23时02分]"
+        },
+        {
+          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
+          "url": "https://www.zhihu.com/question/2004565156580049390",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时59分 ~ 23时02分]"
+        },
+        {
           "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
           "url": "https://www.zhihu.com/question/2004629058894389561",
           "source": "知乎",
@@ -934,29 +983,15 @@
           "time_info": "[21时27分 ~ 21时28分]"
         },
         {
-          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
-          "url": "https://www.zhihu.com/question/2004971546536585165",
-          "source": "知乎",
+          "title": "最癫的AI赛博榨菜",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E7%99%AB%E7%9A%84AI%E8%B5%9B%E5%8D%9A%E6%A6%A8%E8%8F%9C",
+          "source": "bilibili 热搜",
           "ranks": [
-            15,
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时51分 ~ 21时28分]"
-        },
-        {
-          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
-          "url": "https://www.zhihu.com/question/2004565156580049390",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时59分 ~ 21时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -969,6 +1004,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时12分 ~ 06时51分]"
+        },
+        {
+          "title": "UP主实测DeepSeek新模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
+          "url": "https://www.cls.cn/detail/2287578",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
@@ -995,6 +1052,29 @@
           "time_info": "[03时16分 ~ 05时53分]"
         },
         {
+          "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
+          "url": "https://wallstreetcn.com/articles/3765457",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 23时02分]"
+        },
+        {
+          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 23时02分]"
+        },
+        {
           "title": "AI制图骗局",
           "url": "https://s.weibo.com/weibo?q=AI%E5%88%B6%E5%9B%BE%E9%AA%97%E5%B1%80&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -1005,17 +1085,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时16分 ~ 04时55分]"
-        },
-        {
-          "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
-          "url": "https://wallstreetcn.com/articles/3765457",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 21时28分]"
         },
         {
           "title": "UP主自己的AI音乐春晚",
@@ -1051,17 +1120,6 @@
           "time_info": "[16时59分 ~ 18时04分]"
         },
         {
-          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 21时28分]"
-        },
-        {
           "title": "财富管理公司全线暴跌，新AI工具引发对行业前景忧虑",
           "url": "https://wallstreetcn.com/livenews/3053195",
           "source": "华尔街见闻-快讯",
@@ -1085,6 +1143,17 @@
           "time_info": "[19时51分 ~ 19时52分]"
         },
         {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "AI拉动，阿里云市场份额扩大至36%",
           "url": "https://wallstreetcn.com/livenews/3053393",
           "source": "华尔街见闻-快讯",
@@ -1105,6 +1174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
+        },
+        {
+          "title": "中美AI“隔空开打”",
+          "url": "https://www.toutiao.com/trending/7605571340929601066/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美国最大风投押注“AI伴侣”赛道 AI应用有望在陪伴场景率先爆发",
@@ -1151,6 +1231,17 @@
           "time_info": "13时10分"
         },
         {
+          "title": "MiniMax最新大模型M2.5上线Agent平台。 （硬AI）",
+          "url": "https://wallstreetcn.com/livenews/3053783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "美国克利夫兰联储主席Hammack：实现2%通胀目标具有至关重要的意义。 现在判断人工智能（AI）对经济的影响还言之过早。",
           "url": "https://wallstreetcn.com/livenews/3053191",
           "source": "华尔街见闻-快讯",
@@ -1190,7 +1281,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -1224,6 +1315,17 @@
           "time_info": "[01时12分 ~ 07时47分]"
         },
         {
+          "title": "美国无端指责中国开展核爆炸试验，外交部驳斥",
+          "url": "https://news.ifeng.com/c/8qet1tlIjJ7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时51分 ~ 23时02分]"
+        },
+        {
           "title": "中方回应对日外交政策",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%AF%B9%E6%97%A5%E5%A4%96%E4%BA%A4%E6%94%BF%E7%AD%96",
           "source": "bilibili 热搜",
@@ -1243,15 +1345,18 @@
           "time_info": "[01时12分 ~ 15时14分]"
         },
         {
-          "title": "美国无端指责中国开展核爆炸试验，外交部驳斥",
-          "url": "https://news.ifeng.com/c/8qet1tlIjJ7",
-          "source": "凤凰网",
+          "title": "美国指责中国开展核爆炸试验，外交部驳斥",
+          "url": "https://www.cls.cn/detail/2287126",
+          "source": "财联社热门",
           "ranks": [
-            1
+            9,
+            6,
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时51分 ~ 21时28分]"
+          "appearance_count": 7,
+          "time_info": "[16时59分 ~ 23时02分]"
         },
         {
           "title": "外交部：中菲同意妥善处理涉海分歧",
@@ -1267,19 +1372,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时12分 ~ 06时51分]"
-        },
-        {
-          "title": "美国指责中国开展核爆炸试验，外交部驳斥",
-          "url": "https://www.cls.cn/detail/2287126",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时59分 ~ 21时28分]"
         },
         {
           "title": "中芯国际：2025年第四季度净利润12.23亿元 同比增长23.2%",
@@ -1367,13 +1459,26 @@
           "time_info": "15时14分"
         },
         {
+          "title": "【数据看盘】游资联手量化抢筹国际复材，机构连续两日出逃协鑫集成",
+          "url": "https://www.cls.cn/detail/2287308",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时51分 ~ 23时02分]"
+        },
+        {
           "title": "商品期货夜盘开盘，沪银主力合约涨近6%，沪锡涨超3%，燃料油、国际铜、沪镍涨超2%，原油、LU燃油、沪铜、不锈钢等涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3053757",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -1387,19 +1492,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
-        },
-        {
-          "title": "【数据看盘】游资联手量化抢筹国际复材，机构连续两日出逃协鑫集成",
-          "url": "https://www.cls.cn/detail/2287308",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时51分 ~ 21时28分]"
         },
         {
           "title": "外交部回应高市涉华言论",
@@ -1426,6 +1518,18 @@
           "time_info": "[18时04分 ~ 19时52分]"
         },
         {
+          "title": "外交部：日本军国主义强征“慰安妇”铁证如山不容否认",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582946",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 23时02分]"
+        },
+        {
           "title": "中国机器人亮相 外交官们举手机拍照",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8+%E5%A4%96%E4%BA%A4%E5%AE%98%E4%BB%AC%E4%B8%BE%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7",
           "source": "百度热搜",
@@ -1450,17 +1554,6 @@
           "time_info": "[05时53分 ~ 06时51分]"
         },
         {
-          "title": "外交部：日本军国主义强征“慰安妇”铁证如山不容否认",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32582946",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 21时28分]"
-        },
-        {
           "title": "复星国际旗下保险公司Fidelidade的IPO估值据悉或超30亿欧元。",
           "url": "https://flash.jin10.com/detail/20260211191152211800",
           "source": "金十数据",
@@ -1478,7 +1571,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -1544,7 +1637,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -1618,7 +1711,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -1637,11 +1730,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 21时28分]"
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 23时02分]"
         },
         {
           "title": "海致科技港股IPO定价每股27.06港元，接近指导区间高端。（IFR）",
@@ -1726,6 +1820,28 @@
           "time_info": "19时52分"
         },
         {
+          "title": "美光科技盘前涨幅扩大至6%，该公司管理层出席一场活动。",
+          "url": "https://wallstreetcn.com/livenews/3053793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "影石创新CEO刘靖康年会发言：2025年营收创历史新高，双摄云台相机定名“Luna”",
+          "url": "https://wallstreetcn.com/livenews/3053790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "丘钛科技：1月摄像头模组销售数量同比增长22.8％，手机摄像头模组销售数量同比增长19.5％。",
           "url": "https://wallstreetcn.com/livenews/3053633",
           "source": "华尔街见闻-快讯",
@@ -1801,12 +1917,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "美光科技(MU.O)盘前涨幅扩大至6%，此前管理层于会议上发表演讲。",
+          "url": "https://flash.jin10.com/detail/20260211220021536800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         }
       ]
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "Seedance 2.0 将对视频行业带来怎样的冲击与颠覆？为什么冯骥称深感震撼的同时也有一丝迷茫？",
@@ -1954,6 +2081,17 @@
           "time_info": "19时52分"
         },
         {
+          "title": "法国外贸银行：非农就业增长仍然集中在私立教育和医疗保健服务行业，14个行业中只有一半实现了增长。这值得深思。",
+          "url": "https://flash.jin10.com/detail/20260211220517738800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "雷军揭秘小米电机突破两万转背后技术",
           "url": "https://www.toutiao.com/trending/7605078925622919178/",
           "source": "今日头条",
@@ -1979,7 +2117,7 @@
     },
     {
       "keyword_group": "美股 美元",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
@@ -2005,6 +2143,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时47分 ~ 15时14分]"
+        },
+        {
+          "title": "非农就业意外强劲，美股指期货短线拉升，美元指数走高，美债承压，黄金一度突破5100美元大关",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美元指数10日下跌",
@@ -2096,8 +2245,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时12分 ~ 21时28分]"
+          "appearance_count": 19,
+          "time_info": "[01时12分 ~ 23时02分]"
         },
         {
           "title": "网易(09999.HK)第四季度游戏及相关增值服务收入为220亿元人民币，市场预期212亿元人民币。",
