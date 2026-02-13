@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-14T05:45:00.685478+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2026-02-14T06:42:00.062332+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
       "match_count": 19,
       "titles": [
-        {
-          "title": "小伙5个月用AI做120多个App",
-          "url": "https://www.toutiao.com/trending/7605526928975659054/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时45分]"
-        },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
           "url": "https://wallstreetcn.com/articles/3765553",
@@ -26,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时42分]"
+        },
+        {
+          "title": "小伙5个月用AI做120多个App",
+          "url": "https://www.toutiao.com/trending/7605526928975659054/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时42分]"
         },
         {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
@@ -36,11 +37,12 @@
           "ranks": [
             4,
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时42分]"
         },
         {
           "title": "老码农裁员理由+1:被AI优化",
@@ -50,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时42分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -62,8 +64,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时42分]"
         },
         {
           "title": "AI整活无底线,赛文演员急了",
@@ -73,30 +75,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时45分]"
-        },
-        {
-          "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
-          "url": "https://wallstreetcn.com/livenews/3055377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时42分]"
         },
         {
           "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
           "url": "https://wallstreetcn.com/articles/3765637",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时42分]"
         },
         {
           "title": "一个2.6万亿AI独角兽诞生",
@@ -108,8 +100,44 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时42分]"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2026年2月13日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32603983",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时50分 ~ 06时42分]"
+        },
+        {
+          "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
+          "url": "https://wallstreetcn.com/livenews/3055377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时42分]"
+        },
+        {
+          "title": "OpenSpec 最近火了，规范驱动开发是 AI 编程的未来吗？",
+          "url": "https://www.zhihu.com/question/1969140298404853132",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时44分 ~ 06时42分]"
         },
         {
           "title": "Seedance2.0展示中国AI潜力",
@@ -124,17 +152,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时58分 ~ 04时50分]"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2026年2月13日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32603983",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时50分 ~ 05时45分]"
         },
         {
           "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
@@ -159,17 +176,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 04时50分]"
-        },
-        {
-          "title": "OpenSpec 最近火了，规范驱动开发是 AI 编程的未来吗？",
-          "url": "https://www.zhihu.com/question/1969140298404853132",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 05时45分]"
         },
         {
           "title": "软件股风声鹤唳之际，高盛推出“抗AI替代”主题股票篮子",
@@ -241,8 +247,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时50分 ~ 05时45分]"
+          "appearance_count": 5,
+          "time_info": "[04时50分 ~ 06时42分]"
         },
         {
           "title": "消息人士：北约正在筹备对其防空系统进行全面改革，以期在7月峰会前吸取俄乌冲突的教训。这项改革将使北约的框架从空中巡逻转向防空，更专注于应对导弹和无人机入侵或袭击。",
@@ -254,6 +260,44 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "中国系统重要性银行名单发布 共21家",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%B3%BB%E7%BB%9F%E9%87%8D%E8%A6%81%E6%80%A7%E9%93%B6%E8%A1%8C%E5%90%8D%E5%8D%95%E5%8F%91%E5%B8%83+%E5%85%B121%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            14,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时49分 ~ 06时42分]"
+        },
+        {
+          "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时50分 ~ 06时42分]"
+        },
+        {
+          "title": "国台办：任何分裂国家、抗拒统一的图谋都是痴心妄想",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32603614",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时50分 ~ 06时42分]"
         },
         {
           "title": "湖北发布精神卫生医疗机构调查通报",
@@ -294,41 +338,6 @@
           "time_info": "[00时58分 ~ 01时49分]"
         },
         {
-          "title": "中国系统重要性银行名单发布 共21家",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%B3%BB%E7%BB%9F%E9%87%8D%E8%A6%81%E6%80%A7%E9%93%B6%E8%A1%8C%E5%90%8D%E5%8D%95%E5%8F%91%E5%B8%83+%E5%85%B121%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 05时45分]"
-        },
-        {
-          "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时50分 ~ 05时45分]"
-        },
-        {
-          "title": "国台办：任何分裂国家、抗拒统一的图谋都是痴心妄想",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32603614",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时50分 ~ 05时45分]"
-        },
-        {
           "title": "明晟公司MSCI北欧国家指数跌0.2%，报385.34点。 在十个板块中，北欧金融板块跌幅最大。 挪威海德鲁公司（Norsk Hydro ASA）跌5.9%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3055301",
           "source": "华尔街见闻-快讯",
@@ -339,6 +348,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 01时49分]"
+        },
+        {
+          "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
+          "url": "https://wallstreetcn.com/livenews/3055361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时42分]"
         },
         {
           "title": "美国银行策略师们认为：美国达拉斯联储主席Lorie Logan（2026年FOMC票委）对于“货币政策利率与准备金余额利率（IORB）”关系的措辞发生大幅变化，可能意味着她对理想的利率的看法出现变化。",
@@ -362,17 +383,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
-        },
-        {
-          "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
-          "url": "https://wallstreetcn.com/livenews/3055361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
         },
         {
           "title": "美国民主党参议员敦促特朗普政府放弃拟对免签赴美访客实施的社交媒体审查政策。",
@@ -399,8 +409,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时42分]"
         },
         {
           "title": "外交部回应日本扣押中国渔船",
@@ -410,11 +420,12 @@
             2,
             8,
             15,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时42分]"
         },
         {
           "title": "国际货币基金组织：巴基斯坦电力部门的欠款已在计划目标范围内得到控制，重点在于款项回收和损失防范。",
@@ -424,8 +435,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时45分]"
+          "appearance_count": 3,
+          "time_info": "[04时50分 ~ 06时42分]"
+        },
+        {
+          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
+          "url": "https://www.zhihu.com/question/2005568531748648323",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时42分]"
         },
         {
           "title": "国际货币基金组织：巴基斯坦电力部门改革进展顺利；配电和发电公司私有化稳步推进；输电重组正在推进。",
@@ -435,8 +457,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时45分]"
+          "appearance_count": 3,
+          "time_info": "[04时50分 ~ 06时42分]"
         },
         {
           "title": "国际货币基金组织：巴基斯坦拟议的电价调整仍至关重要，应避免对中低收入家庭造成不成比例的负担。",
@@ -446,8 +468,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时45分]"
+          "appearance_count": 3,
+          "time_info": "[04时50分 ~ 06时42分]"
+        },
+        {
+          "title": "国际货币基金组织：正在评估巴基斯坦电力价格修订是否符合有效汇率框架，及其对宏观稳定和通胀的影响。",
+          "url": "https://flash.jin10.com/detail/20260214034620297800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时50分 ~ 06时42分]"
+        },
+        {
+          "title": "国际货币基金组织：工作人员正在讨论巴基斯坦电力价格调整；相关会谈将于三月底的EFF审议期间继续进行。",
+          "url": "https://flash.jin10.com/detail/20260214034453974800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时50分 ~ 06时42分]"
         },
         {
           "title": "外交部：希望日方严格遵守《中日渔业协定》，公正执法",
@@ -462,37 +506,16 @@
           "time_info": "[00时58分 ~ 04时50分]"
         },
         {
-          "title": "国际货币基金组织：正在评估巴基斯坦电力价格修订是否符合有效汇率框架，及其对宏观稳定和通胀的影响。",
-          "url": "https://flash.jin10.com/detail/20260214034620297800",
-          "source": "金十数据",
+          "title": "日本扣押一中国渔船并逮捕船长，外交部：望日方严格遵守有关协定、公正执法",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448613",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时45分]"
-        },
-        {
-          "title": "国际货币基金组织：工作人员正在讨论巴基斯坦电力价格调整；相关会谈将于三月底的EFF审议期间继续进行。",
-          "url": "https://flash.jin10.com/detail/20260214034453974800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时45分]"
-        },
-        {
-          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
-          "url": "https://www.zhihu.com/question/2005568531748648323",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时45分]"
+          "appearance_count": 5,
+          "time_info": "[04时50分 ~ 06时42分]"
         },
         {
           "title": "据国际文传电讯社：俄罗斯总统特使德米特里耶夫将于近期在日内瓦与美国代表举行会谈。",
@@ -507,22 +530,95 @@
           "time_info": "[00时58分 ~ 01时49分]"
         },
         {
-          "title": "日本扣押一中国渔船并逮捕船长，外交部：望日方严格遵守有关协定、公正执法",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448613",
-          "source": "澎湃新闻",
+          "title": "国际首套零碳复温天然气压差发电系统正式投运",
+          "url": "https://wallstreetcn.com/livenews/3055284",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "13F报告显示：巴克莱四季度增持美光科技、谷歌C、吉利德科学、应用材料、Kenvue。 减持英伟达、微软、摩根大通、百事、苹果。 重仓英伟达、微软、苹果、亚马逊、谷歌A。",
+          "url": "https://wallstreetcn.com/livenews/3055390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "谷歌 Gemini 3 Deep Think 深度思考大模型升级，相比前代有哪些提升？",
+          "url": "https://www.zhihu.com/question/2005579925827130176",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时50分 ~ 05时45分]"
         },
         {
-          "title": "国际首套零碳复温天然气压差发电系统正式投运",
-          "url": "https://wallstreetcn.com/livenews/3055284",
+          "title": "13F报告显示：Harvard Management四季度建仓做多Union Pacifit/isha以太坊信托ETF、以及Figma。 增持谷歌A、博通、台积电、Booking、以及Meta。 清仓Lighter & Wonder、PureCycle、以及Maze Therapeutics。 减持iShares比特币信托ETF、微软、亚马逊、英伟达、以及SPDR黄金Shares。 重仓资产包括iShares比特币信托ETF、谷歌A、SPDR黄金Shares、微软、以及Booking。",
+          "url": "https://wallstreetcn.com/livenews/3055387",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "美国国土安全部（DHS）围绕移民与海关执法局（ICE）追踪问题传唤谷歌、Meta、Reddit、以及Discord。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3055385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "13F报告显示：索罗斯四季度建仓做多Dayforce、New Gold等。 增持微软、台积电、艺电、亚马逊。 减持Snowflake、Invesco标普500 平权ETF。 清仓Aramark、KKR、iShares 7-10年期美国国债ETF等。 重仓亚马逊、谷歌A、Salesforce、TKO、微软。",
+          "url": "https://wallstreetcn.com/livenews/3055379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)和谷歌(GOOG.O)再次在针对美国专利审查政策的法庭挑战中败诉。",
+          "url": "https://flash.jin10.com/detail/20260214005013634800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "Gemini3深度思考模型重磅升级",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83%E6%A8%A1%E5%9E%8B%E9%87%8D%E7%A3%85%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -551,22 +647,24 @@
           "url": "https://wallstreetcn.com/livenews/3055367",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时42分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.10%，报7591.86点，本周累计下跌2.77%，周一至周三高位持稳，周四美股盘初显著下跌，后续低位震荡，整体形成Z形走势。 热门中概股里，新东方初步收跌2.3%，阿里巴巴跌2.1%，小马智行跌2%，理想、京东、比亚迪、百度至多跌1.8%，蔚来大致收平，腾讯涨0.9%，小鹏、文远知行、网易至多涨1.8%，小米涨2.1%，百胜中国涨3.3%。 ETF中，中概互联网指数ETF（KWEB）收平，本周累跌4.44%，延续此前两周先后跌1.44%和3.02%的表现； 中国科技指数ETF（CQQQ）收1.06%，本周累跌1.19%，此前两周先后跌3.39%和3.58%。",
           "url": "https://wallstreetcn.com/livenews/3055365",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时42分]"
         },
         {
           "title": "中概指数在美股早盘实现V形反转",
@@ -582,48 +680,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌 Gemini 3 Deep Think 深度思考大模型升级，相比前代有哪些提升？",
-          "url": "https://www.zhihu.com/question/2005579925827130176",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时50分 ~ 05时45分]"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)和谷歌(GOOG.O)再次在针对美国专利审查政策的法庭挑战中败诉。",
-          "url": "https://flash.jin10.com/detail/20260214005013634800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
-        },
-        {
-          "title": "Gemini3深度思考模型重磅升级",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83%E6%A8%A1%E5%9E%8B%E9%87%8D%E7%A3%85%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【数据看盘】一线游资扎堆深科技，多路资金联手抢筹光线传媒",
@@ -634,8 +692,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时42分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.11%，报26560点。 恒生科技指数主连夜盘收涨0.39%，报5369点。",
@@ -656,15 +714,26 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        },
+        {
+          "title": "纳指科技指数收跌超0.6%，本周跌超2.2%，银行指数跌超5.5%",
+          "url": "https://wallstreetcn.com/livenews/3055363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         }
       ]
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国银行业围绕上诉货币监理署（OCC）监管行动提出新的路径。（Blaw）",
@@ -677,6 +746,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 01时49分]"
+        },
+        {
+          "title": "公用事业ETF收跌超2.7%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3055368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         }
       ]
     }
