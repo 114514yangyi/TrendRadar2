@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T10:54:04.634646+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2026-02-13T13:01:22.929003+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
@@ -96,8 +96,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 10时54分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 13时01分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -109,11 +109,12 @@
             30,
             25,
             17,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 10时54分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 13时01分]"
         },
         {
           "title": "2026春节：中国AI的“两弹一星”时刻",
@@ -162,18 +163,6 @@
           "time_info": "[00时01分 ~ 06时40分]"
         },
         {
-          "title": "DeepSeek变冷淡了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时38分 ~ 10时54分]"
-        },
-        {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
           "url": "https://wallstreetcn.com/articles/3765553",
           "source": "华尔街见闻",
@@ -181,8 +170,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 13时01分]"
         },
         {
           "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
@@ -192,8 +181,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 13时01分]"
         },
         {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
@@ -203,8 +192,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 13时01分]"
+        },
+        {
+          "title": "DeepSeek变冷淡了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时38分 ~ 13时01分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
@@ -224,7 +226,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -323,6 +325,40 @@
           "time_info": "[00时01分 ~ 02时01分]"
         },
         {
+          "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
+          "url": "https://www.cls.cn/detail/2288921",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 13时01分]"
+        },
+        {
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 13时01分]"
+        },
+        {
+          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
+          "url": "https://wallstreetcn.com/articles/3765622",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 13时01分]"
+        },
+        {
           "title": "哈尔滨小哥为早回家过年找AI替班",
           "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%8F%E5%93%A5%E4%B8%BA%E6%97%A9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%89%BEAI%E6%9B%BF%E7%8F%AD",
           "source": "百度热搜",
@@ -333,17 +369,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时00分 ~ 03时17分]"
-        },
-        {
-          "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
-          "url": "https://www.cls.cn/detail/2288921",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
         },
         {
           "title": "市场消息：OpenAI 正在发布 GPT-5.3-Codex-Spark 的研究预览版。",
@@ -368,28 +393,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 05时42分]"
-        },
-        {
-          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
-          "url": "https://wallstreetcn.com/articles/3765624",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
-        },
-        {
-          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
-          "url": "https://wallstreetcn.com/articles/3765622",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
         },
         {
           "title": "AI引发的资本市场大溃逃 美股商业地产遭遇“黑色星期四”",
@@ -520,7 +523,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -561,7 +564,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 23,
+      "match_count": 31,
       "titles": [
         {
           "title": "一图看懂｜关乎国家命运关键选择，孟加拉国大选有何看点？",
@@ -596,11 +599,34 @@
             17,
             18,
             20,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 10时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 13时01分]"
+        },
+        {
+          "title": "中投：平衡好功能性和盈利性的关系，围绕重点领域加强支持，更好彰显金融“国家队”作用",
+          "url": "https://wallstreetcn.com/livenews/3054908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "小川淳也当选日本“中道改革联合”新任党代表。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3054907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "德国国防部长：FCAS战斗机项目尚未失败，即便失败，也不会是法德合作的终结。",
@@ -620,7 +646,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -630,11 +656,24 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时38分 ~ 13时01分]"
+        },
+        {
+          "title": "国家卫健委：鼓励有条件的基层医疗卫生机构单独设置儿科",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32592086",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时38分 ~ 10时54分]"
+          "time_info": "[00时01分 ~ 13时01分]"
         },
         {
           "title": "顶级学者入局澳洲联储 加息预期下的政策“定心丸”",
@@ -673,24 +712,13 @@
           "time_info": "[05时42分 ~ 06时40分]"
         },
         {
-          "title": "国家卫健委：鼓励有条件的基层医疗卫生机构单独设置儿科",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32592086",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
-        },
-        {
           "title": "日本财务大臣片山皋月：相信海外金融主管已经理解我们的政策。",
           "url": "https://flash.jin10.com/detail/20260213101905116800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -712,7 +740,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -734,9 +762,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "华为Mate80官宣春晚竖屏直播合作伙伴",
+          "url": "https://wallstreetcn.com/livenews/3054897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "挪威首相：美国政策使挪威面临“高度严峻”局面",
@@ -761,6 +800,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "日本央行审议委员田村直树：即使日本央行进一步提高政策利率，货币环境仍将保持宽松。",
+          "url": "https://flash.jin10.com/detail/20260213114829917800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数跌1.8%，报385.57点。 在十个板块中，北欧工业板块跌幅最大。 DSV A/S跌10.5%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3054640",
           "source": "华尔街见闻-快讯",
@@ -778,7 +828,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -789,9 +839,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "日本央行审议委员田村直树：日本央行必须避免过早收紧货币政策，但也必须避免持续出现无法被描述为“温和”的物价上涨。",
+          "url": "https://flash.jin10.com/detail/20260213114343773800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "日本央行审议委员田村直树：一旦日本央行的政策利率超过1%，其政策的刺激效将逐渐减弱。",
+          "url": "https://flash.jin10.com/detail/20260213114106203800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "提醒：北京时间23:00，将发布美国1月成屋销售总数年化。",
@@ -805,6 +877,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "日本央行审议委员田村直树：当前的利率距离中性利率水平还很遥远。 我之前曾说过中性利率至少在1%左右。 目前为止加息对经济的影响极其有限。 一旦日本央行政策利率超过1%，其政策的刺激效果将逐渐减弱。 日本央行必须避免过早收紧货币政策，但也必须避免物价持续出现“不温和”的上涨。",
+          "url": "https://wallstreetcn.com/livenews/3054885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "德国总理默茨：德国不想为欧洲其他国家买单。",
           "url": "https://flash.jin10.com/detail/20260213025949909800",
           "source": "金十数据",
@@ -814,6 +897,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "马达加斯加宣布进入国家灾难状态",
+          "url": "https://www.douyin.com/hot/2398283",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "美国能源部长赖特：美委合作“前途无量”。",
@@ -830,7 +924,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "全球首颗！“港中大一号”卫星把大模型搬上太空",
@@ -874,6 +968,17 @@
           "time_info": "[00时01分 ~ 07时38分]"
         },
         {
+          "title": "路透社：特朗普访华前暂停对华科技禁令",
+          "url": "https://news.ifeng.com/c/8qhwigwSERf",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "2500亿龙头大涨14%再创新高",
           "url": "https://www.toutiao.com/trending/7605880063175983147/",
           "source": "今日头条",
@@ -914,7 +1019,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -925,7 +1030,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -947,7 +1052,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         }
@@ -966,8 +1071,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时40分 ~ 10时54分]"
+          "appearance_count": 5,
+          "time_info": "[06时40分 ~ 13时01分]"
         },
         {
           "title": "美股存储芯片指数收涨不到1.4%",
@@ -1139,8 +1244,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 10时54分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 13时01分]"
         },
         {
           "title": "特朗普将于4月初访华？外交部回应",
@@ -1180,8 +1285,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时43分 ~ 10时54分]"
+          "appearance_count": 8,
+          "time_info": "[04时43分 ~ 13时01分]"
         },
         {
           "title": "乌克兰国防部长：阻止“每一辆俄罗斯油轮”是遏制其战争机器的最快途径。",
