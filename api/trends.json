@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T15:15:32.309840+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2026-02-16T17:01:09.508433+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 15时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 17时01分]"
         },
         {
           "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
@@ -61,11 +61,12 @@
           "ranks": [
             5,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 15时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 17时01分]"
         },
         {
           "title": "从“玩具”到“工具”，AI是否正在逼近影视生产力拐点？",
@@ -79,8 +80,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 15时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 17时01分]"
         },
         {
           "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
@@ -94,8 +95,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 15时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 17时01分]"
         },
         {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
@@ -108,8 +109,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 15时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 17时01分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -146,11 +147,12 @@
             18,
             25,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 15时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 17时01分]"
         },
         {
           "title": "AI无视版权,老外集火围殴",
@@ -208,11 +210,12 @@
           "url": "https://wallstreetcn.com/articles/3765773",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时15分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 17时01分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -220,11 +223,36 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时35分 ~ 17时01分]"
+        },
+        {
+          "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
+          "url": "https://wallstreetcn.com/articles/3765774",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
+        },
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时35分 ~ 15时15分]"
+          "time_info": "[13时06分 ~ 17时01分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -258,23 +286,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 15时15分]"
-        },
-        {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
             9,
-            8
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时06分 ~ 15时15分]"
+          "time_info": "[13时07分 ~ 17时01分]"
+        },
+        {
+          "title": "如何看待字节跳动也开始做 AI 芯片？",
+          "url": "https://www.zhihu.com/question/397296807",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 17时01分]"
         },
         {
           "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
@@ -287,6 +316,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时06分 ~ 15时15分]"
+        },
+        {
+          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 17时01分]"
         },
         {
           "title": "OpenAI宣布聘请OpenClaw创始人 以推动下一代个人智能体的研发",
@@ -313,6 +354,39 @@
           "time_info": "[05时33分 ~ 06时34分]"
         },
         {
+          "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
+          "url": "https://wallstreetcn.com/articles/3765769",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
+        },
+        {
+          "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
+        },
+        {
+          "title": "UP主联合手搓AI春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E6%89%8B%E6%90%93AI%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
+        },
+        {
           "title": "AI定制祝福语惊艳你的朋友圈",
           "url": "https://www.baidu.com/s?wd=AI%E5%AE%9A%E5%88%B6%E7%A5%9D%E7%A6%8F%E8%AF%AD%E6%83%8A%E8%89%B3%E4%BD%A0%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88",
           "source": "百度热搜",
@@ -324,17 +398,6 @@
           "time_info": "[13时06分 ~ 13时07分]"
         },
         {
-          "title": "如何看待字节跳动也开始做 AI 芯片？",
-          "url": "https://www.zhihu.com/question/397296807",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        },
-        {
           "title": "阿里除夕夜将开源新一代千问Qwen3.5模型",
           "url": "https://flash.jin10.com/detail/20260216101027699800",
           "source": "金十数据",
@@ -344,17 +407,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
-        },
-        {
-          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时15分"
         },
         {
           "title": "仅凭 AI 真的能做好复杂项目吗？",
@@ -388,12 +440,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "OpenAI联合创始人Greg Brockman：Codex的势头强劲，许多人都感受到了5.3版本的巨大飞跃。如果您的组织还没有尝试过Codex，那么值得重新考虑一下。",
+          "url": "https://flash.jin10.com/detail/20260216153508680800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：Codex的周活跃用户数量自年初以来增长了两倍多。",
+          "url": "https://flash.jin10.com/detail/20260216153347079800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         }
       ]
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "联合国秘书长呼吁发达国家效仿中国",
@@ -416,8 +490,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时50分 ~ 15时15分]"
+          "appearance_count": 6,
+          "time_info": "[10时50分 ~ 17时01分]"
         },
         {
           "title": "鲁比奥谈中美关系：避免冲突，在利益一致领域可合作",
@@ -429,6 +503,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时33分]"
+        },
+        {
+          "title": "今晚见！央视总台《2026年春节联欢晚会》节目单发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32620957",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
+        },
+        {
+          "title": "保利集团发布严正声明",
+          "url": "https://www.cls.cn/detail/2290639",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时50分 ~ 17时01分]"
         },
         {
           "title": "俄议员介绍国家杜马赴美谈判代表团组成",
@@ -448,9 +544,67 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "MiniMax发布HighSpeed Coding Plan 股价创2026年港股单价纪录",
+          "url": "https://flash.jin10.com/detail/20260216162220696800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "日本央行行长植田和男：日本首相高市早苗未提出具体政策请求。 与首相讨论了经济问题。 此次会面仅为总体交换意见。",
+          "url": "https://wallstreetcn.com/livenews/3055701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "日本央行行长植田和男：日本首相高市早苗未提出具体政策请求。",
+          "url": "https://flash.jin10.com/detail/20260216161953227800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
+          "url": "https://www.cls.cn/detail/2290769",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 17时01分]"
+        },
+        {
+          "title": "大疆前销售副总裁涉嫌非国家工作人员受贿罪被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32616651",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时06分 ~ 17时01分]"
         },
         {
           "title": "中国将对加拿大、英国实施免签政策",
@@ -479,17 +633,6 @@
           "time_info": "[00时40分 ~ 04时36分]"
         },
         {
-          "title": "保利集团发布严正声明",
-          "url": "https://www.cls.cn/detail/2290639",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时50分 ~ 15时15分]"
-        },
-        {
           "title": "联合国秘书长呼吁发达国家效仿中国",
           "url": "https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%91%BC%E5%90%81%E5%8F%91%E8%BE%BE%E5%9B%BD%E5%AE%B6%E6%95%88%E4%BB%BF%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
@@ -500,18 +643,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时35分 ~ 13时07分]"
-        },
-        {
-          "title": "大疆前销售副总裁涉嫌非国家工作人员受贿罪被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32616651",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时06分 ~ 15时15分]"
         },
         {
           "title": "日本防卫大臣炒作俄朝军事合作威胁",
@@ -525,15 +656,15 @@
           "time_info": "[13时06分 ~ 13时07分]"
         },
         {
-          "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
-          "url": "https://www.cls.cn/detail/2290769",
-          "source": "财联社热门",
+          "title": "市场消息：Anthropic在班加罗尔开设办事处，并宣布在印度各地建立新的合作伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260216161228324800",
+          "source": "金十数据",
           "ranks": [
-            8
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时15分"
+          "time_info": "17时01分"
         },
         {
           "title": "日本执政联盟小党“维新会”领袖：日本央行应自行决定何时加息，政府不应干预货币政策。",
@@ -586,7 +717,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -668,6 +799,19 @@
           "time_info": "[00时40分 ~ 07时35分]"
         },
         {
+          "title": "国际雪联：未削减谷爱凌训练次数，她已获得额外测试训练邀请",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32617140",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时35分 ~ 17时01分]"
+        },
+        {
           "title": "美国战争部：昨夜，美军对（超大型原油运输船）“维罗妮卡三号”实施了登临检查、海上拦截和登船行动。该船从加勒比海被一路追踪至印度洋，其试图违抗检疫指令。",
           "url": "https://flash.jin10.com/detail/20260215194716674800",
           "source": "金十数据",
@@ -700,7 +844,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -714,19 +858,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
-        },
-        {
-          "title": "国际雪联：未削减谷爱凌训练次数，她已获得额外测试训练邀请",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32617140",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时35分 ~ 15时15分]"
         },
         {
           "title": "外交部：对加拿大、英国持普通护照人员实施免签政策",
@@ -758,7 +889,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -769,7 +900,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -788,7 +919,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "据港交所文件，2月15日，上海商米科技集团股份有限公司通过港交所上市聆讯。",
@@ -840,6 +971,19 @@
           "time_info": "[10时50分 ~ 15时15分]"
         },
         {
+          "title": "韩文秀：推动科技创新和产业创新深度融合，因地制宜发展新质生产力",
+          "url": "https://wallstreetcn.com/livenews/3055675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时07分 ~ 17时01分]"
+        },
+        {
           "title": "蛇年最后一个交易日，港股低开，恒生指数翻红，智谱涨7.6%股价创新高，MINIMAX-WP涨10%",
           "url": "https://wallstreetcn.com/articles/3765773",
           "source": "华尔街见闻",
@@ -851,18 +995,6 @@
           "time_info": "[13时06分 ~ 13时07分]"
         },
         {
-          "title": "韩文秀：推动科技创新和产业创新深度融合，因地制宜发展新质生产力",
-          "url": "https://wallstreetcn.com/livenews/3055675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 15时15分]"
-        },
-        {
           "title": "金十数据整理：每日科技要闻速递（2月16日）",
           "url": "https://flash.jin10.com/detail/20260216065605815800",
           "source": "金十数据",
@@ -872,6 +1004,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "英国富时100指数金融板块开盘上涨1.2%；科技板块开盘上涨0.7%，公用事业板块开盘下跌0.9%。",
+          "url": "https://flash.jin10.com/detail/20260216160256702800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "美团(03690.HK)盘中下跌2.0%再创新低，此前公司发出亏损预警。",
@@ -959,11 +1102,12 @@
           "url": "https://wallstreetcn.com/articles/3765768",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时06分 ~ 15时15分]"
+          "appearance_count": 5,
+          "time_info": "[13时06分 ~ 17时01分]"
         }
       ]
     },
@@ -981,8 +1125,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 15时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 17时01分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -1014,8 +1158,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时06分 ~ 15时15分]"
+          "appearance_count": 5,
+          "time_info": "[13时06分 ~ 17时01分]"
         }
       ]
     }
