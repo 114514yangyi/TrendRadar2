@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T03:08:30.437318+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-02-18T04:50:04.710312+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时50分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -27,41 +27,44 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时50分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
           "url": "https://www.cls.cn/detail/2290650",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时50分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时50分]"
         },
         {
           "title": "王菲化妆师改口问就是AI",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%8C%96%E5%A6%86%E5%B8%88%E6%94%B9%E5%8F%A3%E9%97%AE%E5%B0%B1%E6%98%AFAI%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 04时50分]"
         },
         {
           "title": "业内：AI仍是投资主线",
@@ -76,6 +79,42 @@
           "time_info": "[00时01分 ~ 01时13分]"
         },
         {
+          "title": "美联储理事Barr：AI繁荣对货币政策并不敏感。",
+          "url": "https://wallstreetcn.com/livenews/3056090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时50分]"
+        },
+        {
+          "title": "Anthropic发布新AI模型，强化电脑操作与编程能力",
+          "url": "https://wallstreetcn.com/livenews/3056082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时50分]"
+        },
+        {
+          "title": "报道：苹果大改AI眼镜等三款可穿戴设备",
+          "url": "https://wallstreetcn.com/livenews/3056080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时50分]"
+        },
+        {
           "title": "摩根大通：AI带来的扰动将推动小型银行合并",
           "url": "https://wallstreetcn.com/livenews/3056057",
           "source": "华尔街见闻-快讯",
@@ -87,15 +126,26 @@
           "time_info": "01时13分"
         },
         {
-          "title": "美联储理事Barr：AI繁荣对货币政策并不敏感。",
-          "url": "https://wallstreetcn.com/livenews/3056090",
+          "title": "美国旧金山联储主席戴利：达到中性利率之前，我们大约还有75个基点的空间。 官员们应该等待关于人工智能（AI）影响的信号。 美联储在研究中使用AI技术，但在做FOMC货币政策决定时不会。",
+          "url": "https://wallstreetcn.com/livenews/3056106",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "04时50分"
+        },
+        {
+          "title": "微软(MSFT.O)：CLAUDE SONNET 4.6今日在Microsoft Foundry上线。",
+          "url": "https://flash.jin10.com/detail/20260218040855556800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "Anthropic发布新一代AI模型Claude Sonnet 4.6",
@@ -104,18 +154,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "Anthropic发布新AI模型，强化电脑操作与编程能力",
-          "url": "https://wallstreetcn.com/livenews/3056082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -129,17 +168,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
-        },
-        {
-          "title": "报道：苹果大改AI眼镜等三款可穿戴设备",
-          "url": "https://wallstreetcn.com/livenews/3056080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
         },
         {
           "title": "阿达尼集团将对可再生能源支持的AI数据中心投资1000亿美元",
@@ -159,7 +187,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -170,7 +198,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -192,7 +220,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -211,7 +239,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -221,8 +249,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时50分]"
         },
         {
           "title": "如何评价张艺谋执导的首部当代国家安全题材影片《惊蛰无声》？",
@@ -249,26 +277,52 @@
           "time_info": "01时13分"
         },
         {
+          "title": "苹果春季发布会落地上海",
+          "url": "https://www.douyin.com/hot/2403646",
+          "source": "抖音",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时50分]"
+        },
+        {
+          "title": "朱一龙以真实案例呼吁维护国家安全",
+          "url": "https://www.toutiao.com/trending/7606762792884158500/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            18,
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时50分]"
+        },
+        {
           "title": "马斯克：Grok 4.2公测版现已可用，需手动选择使用。诚邀反馈。与前代不同，Grok 4.2具备快速学习能力，将每周更新迭代并发布说明。",
           "url": "https://flash.jin10.com/detail/20260218024102986800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
         {
-          "title": "马斯克：Grok 4.2候选版现已开放公测，需手动选择使用。 诚邀反馈。 与前代不同，Grok 4.2具备快速学习能力，将每周更新迭代并发布说明。",
-          "url": "https://wallstreetcn.com/livenews/3056096",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储戴利：人工智能是帮助我们应对通胀的一种机制，但它也是一种限制性政策。",
+          "url": "https://flash.jin10.com/detail/20260218042137521800",
+          "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "04时50分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.2%，报386.38点。 在十个板块中，北欧医疗保健板块涨幅最大。 Genmab A/S涨4.4%，在一众北欧个股里领跑。",
@@ -282,29 +336,16 @@
           "time_info": "01时13分"
         },
         {
-          "title": "苹果春季发布会落地上海",
-          "url": "https://www.douyin.com/hot/2403646",
-          "source": "抖音",
+          "title": "马斯克：Grok 4.2候选版现已开放公测，需手动选择使用。 诚邀反馈。 与前代不同，Grok 4.2具备快速学习能力，将每周更新迭代并发布说明。",
+          "url": "https://wallstreetcn.com/livenews/3056096",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            13
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
-        },
-        {
-          "title": "朱一龙以真实案例呼吁维护国家安全",
-          "url": "https://www.toutiao.com/trending/7606762792884158500/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时50分]"
         },
         {
           "title": "美联储理事巴尔：美联储在货币政策上可以从容不迫。",
@@ -313,7 +354,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -346,7 +387,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -357,7 +398,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         }
@@ -365,7 +406,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -375,8 +416,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时50分]"
         },
         {
           "title": "科技赋能年味浓 马年新春添新潮",
@@ -386,8 +427,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时50分]"
         },
         {
           "title": "美国三大股指开盘涨跌不一，科技股普跌，黄金跌破4900，白银暴跌7.5%",
@@ -397,8 +438,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时50分]"
         },
         {
           "title": "宇树科技春晚节目技术难点解析",
@@ -408,8 +449,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时50分]"
         },
         {
           "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
@@ -419,8 +460,33 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时50分]"
+        },
+        {
+          "title": "硬科技组团花式整活儿，马年春晚有多硬核？｜新春万象录",
+          "url": "https://www.cls.cn/detail/2290994",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时50分]"
+        },
+        {
+          "title": "城市年鉴2025｜科技产业：“速度”和 “泡沫”中找平衡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32565573",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时50分]"
         },
         {
           "title": "伊朗总统：伊方希望谈判能带来“切实成果”",
@@ -435,28 +501,16 @@
           "time_info": "[00时01分 ~ 01时13分]"
         },
         {
-          "title": "硬科技组团花式整活儿，马年春晚有多硬核？｜新春万象录",
-          "url": "https://www.cls.cn/detail/2290994",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
-        },
-        {
-          "title": "城市年鉴2025｜科技产业：“速度”和 “泡沫”中找平衡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32565573",
+          "title": "马上来沪｜上海科技馆大年初一试开放，市民游客体验如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32625456",
           "source": "澎湃新闻",
           "ranks": [
             20,
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[03时08分 ~ 04时50分]"
         },
         {
           "title": "Palantir将总部迁至美国迈阿密，科技企业加速布局佛州",
@@ -492,33 +546,33 @@
           "time_info": "00时01分"
         },
         {
-          "title": "马上来沪｜上海科技馆大年初一试开放，市民游客体验如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32625456",
-          "source": "澎湃新闻",
+          "title": "亚马逊(AMZN.O)推出适用于亚马逊云科技（AWS）的代理插件。",
+          "url": "https://flash.jin10.com/detail/20260218032447012800",
+          "source": "金十数据",
           "ranks": [
-            20
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "04时50分"
+        },
+        {
+          "title": "老虎环球Q4减持台积电、微软、英伟达等科技巨头",
+          "url": "https://flash.jin10.com/detail/20260218030727602800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         }
       ]
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "燃料紧缺迫使谢里特国际暂停古巴镍钴矿业务",
-          "url": "https://wallstreetcn.com/livenews/3056093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
         {
           "title": "视频丨俄罗斯外交部发言人用中文送上新春祝福",
           "url": "https://m.thepaper.cn/newsDetail_forward_32625470",
@@ -529,8 +583,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时50分]"
+        },
+        {
+          "title": "燃料紧缺迫使谢里特国际暂停古巴镍钴矿业务",
+          "url": "https://wallstreetcn.com/livenews/3056093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时50分]"
+        },
+        {
+          "title": "美国副总统万斯：无论采取外交手段还是其他选项，特朗普都想找到解决方案。",
+          "url": "https://flash.jin10.com/detail/20260218042000423800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "阿曼外交部：美伊日内瓦谈判取得了“切实进展”",
@@ -555,6 +632,17 @@
           "time_info": "00时01分"
         },
         {
+          "title": "市场消息：伊朗外交部召见德国大使。",
+          "url": "https://flash.jin10.com/detail/20260218032808122800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
           "title": "阿曼外交部长：“仍有大量工作要做”，伊朗和美国在下次会晤前已就“明确的下一步行动”达成共识。",
           "url": "https://flash.jin10.com/detail/20260217230833478800",
           "source": "金十数据",
@@ -568,60 +656,31 @@
       ]
     },
     {
-      "keyword_group": "github 技术 行业 软件",
-      "match_count": 4,
+      "keyword_group": "美股 美元",
+      "match_count": 5,
       "titles": [
         {
-          "title": "春晚绝活升级背后：中国人形机器人技术有了哪些新突破？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32624494",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
-        },
-        {
-          "title": "伊美技术层面谈判已开始，伊朗军演进行中",
-          "url": "https://news.ifeng.com/c/8qp2Kff4127",
-          "source": "凤凰网",
+          "title": "周二（2月17日）纽约尾盘，ICE美元指数涨0.25%，报97.161点，整体处于上涨状态，北京时间20:00-02:00出现——波冲高回落行情23:42达到97.546点。 彭博美元指数涨0.05%，报1183.53点，日内交投区间为1182.91-1187.83点。",
+          "url": "https://wallstreetcn.com/livenews/3056112",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时01分"
+          "time_info": "04时50分"
         },
         {
-          "title": "宇树机器人春晚武术表演再炸场，王兴兴：高动态高协同集群控制技术全球首秀",
-          "url": "https://wallstreetcn.com/articles/3765800",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
-        },
-        {
-          "title": "农机制造商CNH：预计行业复苏将推迟至2027年",
-          "url": "https://wallstreetcn.com/livenews/3056076",
+          "title": "新兴市场ETFs连续第17周获得资金流入。 2月13日当周，在美上市新兴市场ETFs流入40亿美元，较之前一周11亿美元的规模显著增长。 2026年迄今，明晟公司MSCI新兴市场股票指数已经累计上涨超过10%。",
+          "url": "https://wallstreetcn.com/livenews/3056104",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 美元",
-      "match_count": 3,
-      "titles": [
+          "time_info": "04时50分"
+        },
         {
           "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌1.4%，全球科技股指数ETF跌近1%，全球航空业ETF涨近2%，银行业ETF涨1.3%。",
           "url": "https://wallstreetcn.com/livenews/3056022",
@@ -651,7 +710,69 @@
           "ranks": [
             29
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "github 技术 行业 软件",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "春晚绝活升级背后：中国人形机器人技术有了哪些新突破？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32624494",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时50分]"
+        },
+        {
+          "title": "宇树机器人春晚武术表演再炸场，王兴兴：高动态高协同集群控制技术全球首秀",
+          "url": "https://wallstreetcn.com/articles/3765800",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时50分]"
+        },
+        {
+          "title": "美联储戴利：除了医疗和教育，美国经济中大部分行业都面临失业。",
+          "url": "https://flash.jin10.com/detail/20260218042225616800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "伊美技术层面谈判已开始，伊朗军演进行中",
+          "url": "https://news.ifeng.com/c/8qp2Kff4127",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时01分"
+        },
+        {
+          "title": "农机制造商CNH：预计行业复苏将推迟至2027年",
+          "url": "https://wallstreetcn.com/livenews/3056076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         }
@@ -659,7 +780,7 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "手机游戏性能大横评",
@@ -668,11 +789,12 @@
           "ranks": [
             16,
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时50分]"
         },
         {
           "title": "如何评价极客湾视频《手机游戏性能大横评：厂商作弊太疯狂！》？",
@@ -681,11 +803,23 @@
           "ranks": [
             7,
             6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时50分]"
+        },
+        {
+          "title": "为什么游戏里的难度选项往往只是调整敌人伤害，而不是让敌人变聪明或变蠢？",
+          "url": "https://www.zhihu.com/question/2006713868894901535",
+          "source": "知乎",
+          "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 04时50分]"
         },
         {
           "title": "Steam擦边,恭喜发财变发春",
@@ -696,14 +830,14 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时50分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Gemini Space Station（GEMI）：本公司美国IPO之后，首席财务官（CFO）Dan Chen、首席运营官（COO）Marshall Beard、首席法务官（CLO）Tyler Meade离职。",
@@ -715,6 +849,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "13F报告显示：Tiger Global Management LLC.在四季度增持Coupang、Black、ServiceNOW等。 清仓MongoDB等。 减持Sea、微软、Applovin、Meta、Reddit。 重仓谷歌母公司Alphabet、微软、亚马逊、英伟达、Sea。",
+          "url": "https://wallstreetcn.com/livenews/3056102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "Alphabet旗下谷歌公司计划从可再生能源公司Ormat Technologies获取电力供应，来支持自家在美国内华达州的一系列数据中心的运作。 根据协议，Ormat将向谷歌供应至多150 MW的电力。",
