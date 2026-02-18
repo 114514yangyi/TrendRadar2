@@ -1,438 +1,11 @@
 {
-  "generated_at": "2026-02-18T15:56:57.000208+08:00",
-  "total_titles_processed": 1209,
+  "generated_at": "2026-02-18T16:57:12.444973+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 36,
-      "titles": [
-        {
-          "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
-          "url": "https://www.cls.cn/detail/2290959",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 15时56分]"
-        },
-        {
-          "title": "疑似ai?鹰角整活六指琴魔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 15时56分]"
-        },
-        {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 15时56分]"
-        },
-        {
-          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
-          "url": "https://wallstreetcn.com/articles/3765810",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时50分 ~ 15时56分]"
-        },
-        {
-          "title": "王菲化妆师改口问就是AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%8C%96%E5%A6%86%E5%B8%88%E6%94%B9%E5%8F%A3%E9%97%AE%E5%B0%B1%E6%98%AFAI%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 10时50分]"
-        },
-        {
-          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
-          "url": "https://www.cls.cn/detail/2290650",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时43分]"
-        },
-        {
-          "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
-          "url": "https://wallstreetcn.com/articles/3765830",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时50分 ~ 15时56分]"
-        },
-        {
-          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
-          "url": "https://www.cls.cn/detail/2291068",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时41分 ~ 15时56分]"
-        },
-        {
-          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
-          "url": "https://wallstreetcn.com/articles/3765810",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "AI大战:鹅厂阿里双双出局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        },
-        {
-          "title": "Meta与英伟达打造AI基础设施。Meta将加大部署英伟达CPU。 英伟达宣布，与对方达成持续多年的合作伙伴关系。 英伟达美股盘后涨1.1%，AMD跌幅扩大至3.6%。",
-          "url": "https://wallstreetcn.com/livenews/3056135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时41分]"
-        },
-        {
-          "title": "化妆师回应王菲春晚妆造：问就是AI",
-          "url": "https://www.toutiao.com/trending/7607001857601257508/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 15时56分]"
-        },
-        {
-          "title": "业内：AI仍是投资主线",
-          "url": "https://www.toutiao.com/trending/7607839279741406766/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时13分]"
-        },
-        {
-          "title": "如今 AI 崛起，能完成大量文字工作，那学习是否还有意义？",
-          "url": "https://www.zhihu.com/question/11260916280",
-          "source": "知乎",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 14时13分]"
-        },
-        {
-          "title": "美联储理事Barr：AI繁荣对货币政策并不敏感。",
-          "url": "https://wallstreetcn.com/livenews/3056090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 04时50分]"
-        },
-        {
-          "title": "股价还能再涨55%！英国对冲基金押注：全球最大马桶制造商TOTO将是AI芯片隐形赢家",
-          "url": "https://wallstreetcn.com/articles/3765811",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时50分 ~ 13时01分]"
-        },
-        {
-          "title": "美国旧金山联储主席戴利：达到中性利率之前，我们大约还有75个基点的空间。 官员们应该等待关于人工智能（AI）影响的信号。 美联储在研究中使用AI技术，但在做FOMC货币政策决定时不会。",
-          "url": "https://wallstreetcn.com/livenews/3056106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时43分]"
-        },
-        {
-          "title": "Anthropic发布新AI模型，强化电脑操作与编程能力",
-          "url": "https://wallstreetcn.com/livenews/3056082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 04时50分]"
-        },
-        {
-          "title": "报道：苹果大改AI眼镜等三款可穿戴设备",
-          "url": "https://wallstreetcn.com/livenews/3056080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 04时50分]"
-        },
-        {
-          "title": "监管审查压力下，特斯拉在英国和欧洲车载系统中加入Grok AI聊天机器人",
-          "url": "https://wallstreetcn.com/livenews/3056193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时50分 ~ 13时01分]"
-        },
-        {
-          "title": "摩根大通：AI带来的扰动将推动小型银行合并",
-          "url": "https://wallstreetcn.com/livenews/3056057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "千问3.5引爆全球AI产业链，英伟达、华为昇腾、AMD、苹果等第一时间适配",
-          "url": "https://wallstreetcn.com/livenews/3056241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        },
-        {
-          "title": "微软(MSFT.O)：CLAUDE SONNET 4.6今日在Microsoft Foundry上线。",
-          "url": "https://flash.jin10.com/detail/20260218040855556800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "高通将向印度AI战略基金投资至多1.5亿美元",
-          "url": "https://flash.jin10.com/detail/20260218123104216800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "国内大模型“新品潮”引爆预期 港股AI概念股再度爆发",
-          "url": "https://www.cls.cn/detail/2290780",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "Anthropic发布新一代AI模型Claude Sonnet 4.6",
-          "url": "https://flash.jin10.com/detail/20260218021512170800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "摩尔线程快速完成对Qwen3.5模型全面适配",
-          "url": "https://wallstreetcn.com/livenews/3056023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "化妆师回应王菲春晚妆造：问就是AI",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%96%E5%A6%86%E5%B8%88%E5%9B%9E%E5%BA%94%E7%8E%8B%E8%8F%B2%E6%98%A5%E6%99%9A%E5%A6%86%E9%80%A0%EF%BC%9A%E9%97%AE%E5%B0%B1%E6%98%AFAI",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        },
-        {
-          "title": "阿达尼集团将对可再生能源支持的AI数据中心投资1000亿美元",
-          "url": "https://wallstreetcn.com/livenews/3056047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "美联储理事、原来负责金融监管事务的副主席Barr：在一段时期内按兵不动可能是适宜的。 望看到证据表明美国通胀显著下降，然后再继续降息。 1月就业数据表明，劳动力市场正在趋于稳定。 短期而言，人工智能（AI）可能会深度干扰就业市场；其长期效果可能基本上偏正面。 AI可能会推高中性利率，意味着更高的政策背景。",
-          "url": "https://wallstreetcn.com/livenews/3056079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "美国副总统万斯：对AI监控、隐私、政治倾向感到忧心忡忡。",
-          "url": "https://wallstreetcn.com/livenews/3056118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "印度AI峰会差评如潮",
-          "url": "https://www.toutiao.com/trending/7607984521316797978/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "苹果加速布局AI穿戴设备 三款新品细节曝光",
-          "url": "https://flash.jin10.com/detail/20260218020812842800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "腾讯发布元宝10亿红包活动报告：全网抽奖36亿次，完成AI创作10亿次",
-          "url": "https://wallstreetcn.com/livenews/3056016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "市场消息：Anthropic推出Claude Sonnet 4.6模型。",
-          "url": "https://flash.jin10.com/detail/20260218020029302800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "风投公司Thrive Capital募资逾100亿美元 加码AI等前沿领域",
-          "url": "https://wallstreetcn.com/livenews/3056010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -443,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 15时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 16时57分]"
         },
         {
           "title": "苹果春季发布会落地上海",
@@ -522,15 +95,26 @@
           "time_info": "03时08分"
         },
         {
-          "title": "美政府移民政策支持率创新低 国土安全部发言人离职",
-          "url": "https://wallstreetcn.com/livenews/3056250",
+          "title": "日本首相办公室：高市早苗在正式连任首相后，将于格林尼治时间13:10（北京时间21:10）召开新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260218162138271800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "欧洲央行管委兼法国央行行长Villeroy：提前离职是个人决定。 欧洲央行已成功战胜通胀。 法国通胀因暂时因素而低于预期。 政策处于有利地位，但并非一成不变。 政策应以灵活务实为导向。 通胀下行风险大于上行风险。 2026年法国GDP应至少增长1%。",
+          "url": "https://wallstreetcn.com/livenews/3056263",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时56分"
+          "time_info": "16时57分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.2%，报386.38点。 在十个板块中，北欧医疗保健板块涨幅最大。 Genmab A/S涨4.4%，在一众北欧个股里领跑。",
@@ -566,6 +150,18 @@
           "time_info": "07时38分"
         },
         {
+          "title": "“我到底属啥”竟然是有国家标准的",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E5%88%B0%E5%BA%95%E5%B1%9E%E5%95%A5%E2%80%9D%E7%AB%9F%E7%84%B6%E6%98%AF%E6%9C%89%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E7%9A%84",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时56分 ~ 16时57分]"
+        },
+        {
           "title": "马斯克：Grok 4.2候选版现已开放公测，需手动选择使用。 诚邀反馈。 与前代不同，Grok 4.2具备快速学习能力，将每周更新迭代并发布说明。",
           "url": "https://wallstreetcn.com/livenews/3056096",
           "source": "华尔街见闻-快讯",
@@ -576,6 +172,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 04时50分]"
+        },
+        {
+          "title": "美政府移民政策支持率创新低 国土安全部发言人离职",
+          "url": "https://wallstreetcn.com/livenews/3056250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 16时57分]"
         },
         {
           "title": "新西兰联储主席：未来路径反映更强劲的经济前景。 纽元升值将抑制可贸易品通胀。 劳动力市场正趋于稳定。 如果前景发生变化，货币政策委员会将调整立场。",
@@ -689,6 +297,18 @@
           "time_info": "[13时01分 ~ 14时13分]"
         },
         {
+          "title": "家乐福与Vusion达成合作，将在法国大规模部署智能商店",
+          "url": "https://wallstreetcn.com/livenews/3056240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 16时57分]"
+        },
+        {
           "title": "阿里发布新一代基模千问3.5，每百万Token低至0.8元",
           "url": "https://www.cls.cn/detail/2290936",
           "source": "财联社热门",
@@ -698,6 +318,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时38分]"
+        },
+        {
+          "title": "老君山等景区发布紧急通知",
+          "url": "https://www.toutiao.com/trending/7607803162812153902/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 16时57分]"
         },
         {
           "title": "英伟达(NVDA.O)：正合作部署英伟达VERA-CPU，有可能在2027年实现大规模部署。",
@@ -755,17 +386,6 @@
           "time_info": "00时01分"
         },
         {
-          "title": "家乐福与Vusion达成合作，将在法国大规模部署智能商店",
-          "url": "https://wallstreetcn.com/livenews/3056240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        },
-        {
           "title": "乌克兰国家安全与国防委员会秘书乌梅罗夫：俄罗斯、乌克兰和美国之间的三边会谈首日已结束。会谈聚焦于实际问题和可能决策的机制。",
           "url": "https://flash.jin10.com/detail/20260218021817157800",
           "source": "金十数据",
@@ -783,7 +403,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         },
@@ -841,23 +461,466 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Qwen DeepSeek Claude",
+      "match_count": 38,
+      "titles": [
+        {
+          "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
+          "url": "https://www.cls.cn/detail/2290959",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 16时57分]"
         },
         {
-          "title": "“我到底属啥”竟然是有国家标准的",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E5%88%B0%E5%BA%95%E5%B1%9E%E5%95%A5%E2%80%9D%E7%AB%9F%E7%84%B6%E6%98%AF%E6%9C%89%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E7%9A%84",
+          "title": "疑似ai?鹰角整活六指琴魔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4,
+            6,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 16时57分]"
+        },
+        {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 16时57分]"
+        },
+        {
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时50分 ~ 16时57分]"
+        },
+        {
+          "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
+          "url": "https://wallstreetcn.com/articles/3765830",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时50分 ~ 16时57分]"
+        },
+        {
+          "title": "王菲化妆师改口问就是AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%8C%96%E5%A6%86%E5%B8%88%E6%94%B9%E5%8F%A3%E9%97%AE%E5%B0%B1%E6%98%AFAI%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时12分 ~ 10时50分]"
+        },
+        {
+          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
+          "url": "https://www.cls.cn/detail/2291068",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时41分 ~ 16时57分]"
+        },
+        {
+          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
+          "url": "https://www.cls.cn/detail/2290650",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 05时43分]"
+        },
+        {
+          "title": "AI大战:鹅厂阿里双双出局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时56分 ~ 16时57分]"
+        },
+        {
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "化妆师回应王菲春晚妆造：问就是AI",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%96%E5%A6%86%E5%B8%88%E5%9B%9E%E5%BA%94%E7%8E%8B%E8%8F%B2%E6%98%A5%E6%99%9A%E5%A6%86%E9%80%A0%EF%BC%9A%E9%97%AE%E5%B0%B1%E6%98%AFAI",
           "source": "百度热搜",
           "ranks": [
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时56分 ~ 16时57分]"
+        },
+        {
+          "title": "化妆师回应王菲春晚妆造：问就是AI",
+          "url": "https://www.toutiao.com/trending/7607001857601257508/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            19,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 16时57分]"
+        },
+        {
+          "title": "Meta与英伟达打造AI基础设施。Meta将加大部署英伟达CPU。 英伟达宣布，与对方达成持续多年的合作伙伴关系。 英伟达美股盘后涨1.1%，AMD跌幅扩大至3.6%。",
+          "url": "https://wallstreetcn.com/livenews/3056135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时41分]"
+        },
+        {
+          "title": "业内：AI仍是投资主线",
+          "url": "https://www.toutiao.com/trending/7607839279741406766/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时13分]"
+        },
+        {
+          "title": "如今 AI 崛起，能完成大量文字工作，那学习是否还有意义？",
+          "url": "https://www.zhihu.com/question/11260916280",
+          "source": "知乎",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 14时13分]"
+        },
+        {
+          "title": "美联储理事Barr：AI繁荣对货币政策并不敏感。",
+          "url": "https://wallstreetcn.com/livenews/3056090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时50分]"
+        },
+        {
+          "title": "股价还能再涨55%！英国对冲基金押注：全球最大马桶制造商TOTO将是AI芯片隐形赢家",
+          "url": "https://wallstreetcn.com/articles/3765811",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 13时01分]"
+        },
+        {
+          "title": "美国旧金山联储主席戴利：达到中性利率之前，我们大约还有75个基点的空间。 官员们应该等待关于人工智能（AI）影响的信号。 美联储在研究中使用AI技术，但在做FOMC货币政策决定时不会。",
+          "url": "https://wallstreetcn.com/livenews/3056106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时43分]"
+        },
+        {
+          "title": "千问3.5引爆全球AI产业链，英伟达、华为昇腾、AMD、苹果等第一时间适配",
+          "url": "https://wallstreetcn.com/livenews/3056241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
             23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 16时57分]"
+        },
+        {
+          "title": "Anthropic发布新AI模型，强化电脑操作与编程能力",
+          "url": "https://wallstreetcn.com/livenews/3056082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时50分]"
+        },
+        {
+          "title": "报道：苹果大改AI眼镜等三款可穿戴设备",
+          "url": "https://wallstreetcn.com/livenews/3056080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时50分]"
+        },
+        {
+          "title": "监管审查压力下，特斯拉在英国和欧洲车载系统中加入Grok AI聊天机器人",
+          "url": "https://wallstreetcn.com/livenews/3056193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 13时01分]"
+        },
+        {
+          "title": "OpenAI与印度多所大学合作，培养具备AI技能的人才。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3056259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时56分"
+          "time_info": "16时57分"
+        },
+        {
+          "title": "摩根大通：AI带来的扰动将推动小型银行合并",
+          "url": "https://wallstreetcn.com/livenews/3056057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "阿里千问：Qwen 3.5 Plus现在可以在AI Gateway上使用了。",
+          "url": "https://flash.jin10.com/detail/20260218155737801800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "微软(MSFT.O)：CLAUDE SONNET 4.6今日在Microsoft Foundry上线。",
+          "url": "https://flash.jin10.com/detail/20260218040855556800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "高通将向印度AI战略基金投资至多1.5亿美元",
+          "url": "https://flash.jin10.com/detail/20260218123104216800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "国内大模型“新品潮”引爆预期 港股AI概念股再度爆发",
+          "url": "https://www.cls.cn/detail/2290780",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "Anthropic发布新一代AI模型Claude Sonnet 4.6",
+          "url": "https://flash.jin10.com/detail/20260218021512170800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "摩尔线程快速完成对Qwen3.5模型全面适配",
+          "url": "https://wallstreetcn.com/livenews/3056023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时01分"
+        },
+        {
+          "title": "阿达尼集团将对可再生能源支持的AI数据中心投资1000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3056047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "美联储理事、原来负责金融监管事务的副主席Barr：在一段时期内按兵不动可能是适宜的。 望看到证据表明美国通胀显著下降，然后再继续降息。 1月就业数据表明，劳动力市场正在趋于稳定。 短期而言，人工智能（AI）可能会深度干扰就业市场；其长期效果可能基本上偏正面。 AI可能会推高中性利率，意味着更高的政策背景。",
+          "url": "https://wallstreetcn.com/livenews/3056079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "美国副总统万斯：对AI监控、隐私、政治倾向感到忧心忡忡。",
+          "url": "https://wallstreetcn.com/livenews/3056118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "印度AI峰会差评如潮",
+          "url": "https://www.toutiao.com/trending/7607984521316797978/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "苹果加速布局AI穿戴设备 三款新品细节曝光",
+          "url": "https://flash.jin10.com/detail/20260218020812842800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "腾讯发布元宝10亿红包活动报告：全网抽奖36亿次，完成AI创作10亿次",
+          "url": "https://wallstreetcn.com/livenews/3056016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时01分"
+        },
+        {
+          "title": "市场消息：Anthropic推出Claude Sonnet 4.6模型。",
+          "url": "https://flash.jin10.com/detail/20260218020029302800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "风投公司Thrive Capital募资逾100亿美元 加码AI等前沿领域",
+          "url": "https://wallstreetcn.com/livenews/3056010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时01分"
         }
       ]
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "科技赋能年味浓 马年新春添新潮",
@@ -880,8 +943,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 15时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 16时57分]"
         },
         {
           "title": "宇树科技春晚节目技术难点解析",
@@ -931,8 +994,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 15时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 16时57分]"
         },
         {
           "title": "马上来沪｜上海科技馆大年初一试开放，市民游客体验如何？",
@@ -944,11 +1007,23 @@
             17,
             18,
             16,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时08分 ~ 15时56分]"
+          "appearance_count": 12,
+          "time_info": "[03时08分 ~ 16时57分]"
+        },
+        {
+          "title": "岛国纯幻想!国产科技已杀疯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350768&amp;topic_name=%E5%B2%9B%E5%9B%BD%E7%BA%AF%E5%B9%BB%E6%83%B3%21%E5%9B%BD%E4%BA%A7%E7%A7%91%E6%8A%80%E5%B7%B2%E6%9D%80%E7%96%AF",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 16时57分]"
         },
         {
           "title": "城市年鉴2025｜科技产业：“速度”和 “泡沫”中找平衡",
@@ -991,11 +1066,12 @@
           "url": "https://www.toutiao.com/trending/7608072816927182374/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时56分 ~ 16时57分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.10%，报7584点。 热门中概股里，腾讯音乐初步收跌3.2%，大全新能源跌2.6%，金山云、小马智行跌超2%，万国数据跌1.9%，华住则涨2.9%，携程涨3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.21%，中国科技指数ETF（CQQQ）收涨0.19%。 德银嘉实沪深300指数ETF（ASHR）收涨0.53%，XtrackersHarvest中证50（ASHS）收涨0.56%。",
@@ -1059,7 +1135,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         },
@@ -1100,7 +1176,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "视频丨俄罗斯外交部发言人用中文送上新春祝福",
@@ -1118,6 +1194,42 @@
           "time_info": "[00时01分 ~ 14时13分]"
         },
         {
+          "title": "国际货币基金组织向日本发出三重警示",
+          "url": "https://news.ifeng.com/c/8qqUi7r46tA",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 16时57分]"
+        },
+        {
+          "title": "春启新程｜朱家角船工眼中的古镇之变：更年轻，更有国际范儿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32616727",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 16时57分]"
+        },
+        {
+          "title": "印度外交部发言人：印度总理莫迪今日与塞尔维亚总统在“人工智能影响峰会”的间隙举行了双边会谈。两位领导人探讨了加强双边在贸易与投资、人工智能、金融科技、教育、农业、旅游以及人文交流等方面合作的途径。他们还就双方共同关心的地区及全球性问题交换了意见。",
+          "url": "https://flash.jin10.com/detail/20260218161742110800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "燃料紧缺迫使谢里特国际暂停古巴镍钴矿业务",
           "url": "https://wallstreetcn.com/livenews/3056093",
           "source": "华尔街见闻-快讯",
@@ -1128,19 +1240,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 04时50分]"
-        },
-        {
-          "title": "春启新程｜朱家角船工眼中的古镇之变：更年轻，更有国际范儿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32616727",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 15时56分]"
         },
         {
           "title": "美国副总统万斯：无论采取外交手段还是其他选项，特朗普都想找到解决方案。",
@@ -1186,6 +1285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
+        },
+        {
+          "title": "国际货币基金组织向日本发出三重警示",
+          "url": "https://flash.jin10.com/detail/20260218153151730800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "美国能源部长指责国际能源署，威胁“退群”",
@@ -1260,6 +1370,18 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时50分 ~ 16时57分]"
+        },
+        {
           "title": "周二（2月17日）纽约尾盘，ICE美元指数涨0.25%，报97.161点，整体处于上涨状态，北京时间20:00-02:00出现——波冲高回落行情23:42达到97.546点。 彭博美元指数涨0.05%，报1183.53点，日内交投区间为1182.91-1187.83点。",
           "url": "https://wallstreetcn.com/livenews/3056112",
           "source": "华尔街见闻-快讯",
@@ -1270,18 +1392,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时43分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
-          "url": "https://www.cls.cn/detail/2291354",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时50分 ~ 15时56分]"
         },
         {
           "title": "（美股）费城金银指数收跌3.14%，报406.62点。 （全球时段）纽约证交所ARCA金矿开采商指数跌2.83%，报2884.06点，亚太盘初至北京时间22:30窄幅震荡于于2960点附近——维持微幅下跌的状态，美股开盘时“跳空”下挫，23:14刷新日低至2811.85点，随后逐步收复失地。 （美股）原材料指数收跌1.66%，金属与矿业指数收跌1.37%。",
@@ -1349,6 +1459,120 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 steam 显卡 内存 处理器",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "手机游戏性能大横评",
+          "url": "https://www.douyin.com/hot/2403740",
+          "source": "抖音",
+          "ranks": [
+            16,
+            2,
+            1,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时38分]"
+        },
+        {
+          "title": "如何评价极客湾视频《手机游戏性能大横评：厂商作弊太疯狂！》？",
+          "url": "https://www.zhihu.com/question/2006523831091733383",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            5,
+            4,
+            12,
+            13,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 14时13分]"
+        },
+        {
+          "title": "Steam擦边,恭喜发财变发春",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350738&amp;topic_name=Steam%E6%93%A6%E8%BE%B9%2C%E6%81%AD%E5%96%9C%E5%8F%91%E8%B4%A2%E5%8F%98%E5%8F%91%E6%98%A5",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19,
+            20,
+            22,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 16时57分]"
+        },
+        {
+          "title": "为什么游戏里的难度选项往往只是调整敌人伤害，而不是让敌人变聪明或变蠢？",
+          "url": "https://www.zhihu.com/question/2006713868894901535",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时49分 ~ 07时38分]"
+        },
+        {
+          "title": "年度独立游戏大赏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E5%BA%A6%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E5%A4%A7%E8%B5%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 16时57分]"
+        },
+        {
+          "title": "解读游戏背后的博弈论",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E6%B8%B8%E6%88%8F%E8%83%8C%E5%90%8E%E7%9A%84%E5%8D%9A%E5%BC%88%E8%AE%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时13分 ~ 16时57分]"
+        },
+        {
+          "title": "《三国志》游戏里李儒智力能有 93 是不是高了?",
+          "url": "https://www.zhihu.com/question/1939251192048890498",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "战神斯巴达之子游戏评测",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E7%A5%9E%E6%96%AF%E5%B7%B4%E8%BE%BE%E4%B9%8B%E5%AD%90%E6%B8%B8%E6%88%8F%E8%AF%84%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         }
       ]
     },
@@ -1450,107 +1674,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "手机游戏性能大横评",
-          "url": "https://www.douyin.com/hot/2403740",
-          "source": "抖音",
-          "ranks": [
-            16,
-            2,
-            1,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时38分]"
-        },
-        {
-          "title": "如何评价极客湾视频《手机游戏性能大横评：厂商作弊太疯狂！》？",
-          "url": "https://www.zhihu.com/question/2006523831091733383",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            5,
-            4,
-            12,
-            13,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 14时13分]"
-        },
-        {
-          "title": "Steam擦边,恭喜发财变发春",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350738&amp;topic_name=Steam%E6%93%A6%E8%BE%B9%2C%E6%81%AD%E5%96%9C%E5%8F%91%E8%B4%A2%E5%8F%98%E5%8F%91%E6%98%A5",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19,
-            20,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 15时56分]"
-        },
-        {
-          "title": "为什么游戏里的难度选项往往只是调整敌人伤害，而不是让敌人变聪明或变蠢？",
-          "url": "https://www.zhihu.com/question/2006713868894901535",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时49分 ~ 07时38分]"
-        },
-        {
-          "title": "《三国志》游戏里李儒智力能有 93 是不是高了?",
-          "url": "https://www.zhihu.com/question/1939251192048890498",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "战神斯巴达之子游戏评测",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E7%A5%9E%E6%96%AF%E5%B7%B4%E8%BE%BE%E4%B9%8B%E5%AD%90%E6%B8%B8%E6%88%8F%E8%AF%84%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        },
-        {
-          "title": "解读游戏背后的博弈论",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E6%B8%B8%E6%88%8F%E8%83%8C%E5%90%8E%E7%9A%84%E5%8D%9A%E5%BC%88%E8%AE%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
         }
       ]
     },
