@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T05:41:53.122025+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-02-20T06:40:58.499962+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "俄外交部：日本若不反省，则二战罪行仍在持续",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 06时40分]"
         },
         {
           "title": "国际雪联主席评苏翊鸣冬奥再夺冠：对中国滑雪发展意义重大",
@@ -27,8 +27,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 06时40分]"
         },
         {
           "title": "美国总统特朗普：我很乐意让俄罗斯参与（伊朗谈判的）外交事务。",
@@ -48,7 +48,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -114,7 +114,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -163,6 +163,17 @@
           "time_info": "01时06分"
         },
         {
+          "title": "【报道：特朗普考虑有限打击逼伊朗达成协议】据美国《华尔街日报》报道，当地时间2月19日，美国总统特朗普正考虑对伊朗实施一次“有限规模”的军事打击，以迫使其接受美国提出的核协议要求。知情人士称，若获授权，该行动可能在数日内展开，目标将锁定伊朗“少数军事或政府设施”，意在施压，而非立即发动全面战争——相关方案被视为分阶段行动的第一步。报道指出，如果伊朗仍拒绝按特朗普要求停止铀浓缩活动，美国可能进一步扩大打击范围，甚至“不排除以动摇伊朗政权为目标”。 (CCTV国际时讯)",
+          "url": "https://wallstreetcn.com/livenews/3056787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
           "title": "加沙国际安全部队司令：印度尼西亚已接受国际安全部队副司令官职位。",
           "url": "https://flash.jin10.com/detail/20260219234158946800",
           "source": "金十数据",
@@ -188,7 +199,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -198,8 +209,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 06时40分]"
+        },
+        {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 06时40分]"
         },
         {
           "title": "Deepseek神回复",
@@ -213,17 +237,60 @@
           "time_info": "01时06分"
         },
         {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
-          "source": "财联社热门",
+          "title": "西方跳脚:东大AI惹怒上帝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "source": "贴吧",
           "ranks": [
-            5,
-            6,
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 06时40分]"
+        },
+        {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 06时40分]"
+        },
+        {
+          "title": "终末地建模,AI偷偷加料",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 06时40分]"
+        },
+        {
+          "title": "AI大战:鹅厂阿里双双出局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 06时40分]"
+        },
+        {
+          "title": "疑似ai?鹰角整活六指琴魔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 06时40分]"
         },
         {
           "title": "微软：XAI Grok 4.1快速版现已在Microsoft Copilot Studio中可用。",
@@ -236,61 +303,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 05时41分]"
-        },
-        {
-          "title": "西方跳脚:东大AI惹怒上帝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时41分]"
-        },
-        {
-          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
-          "url": "https://wallstreetcn.com/articles/3765864",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时41分]"
-        },
-        {
-          "title": "终末地建模,AI偷偷加料",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时41分]"
-        },
-        {
-          "title": "AI大战:鹅厂阿里双双出局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时41分]"
-        },
-        {
-          "title": "疑似ai?鹰角整活六指琴魔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时41分]"
         },
         {
           "title": "印度AI峰会出现尴尬一幕：OpenAI与Anthropic的老板们拒绝牵手",
@@ -329,6 +341,17 @@
           "time_info": "[04时59分 ~ 05时41分]"
         },
         {
+          "title": "什么样的软件会被AI淘汰？",
+          "url": "https://wallstreetcn.com/articles/3765860",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
           "url": "https://flash.jin10.com/detail/20260220020324756800",
           "source": "金十数据",
@@ -365,7 +388,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "黄仁勋：将在3月发布“世界前所未见”的全新芯片",
@@ -376,8 +399,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 06时40分]"
+        },
+        {
+          "title": "美媒爆料：美国正推动北约政策“恢复出厂设置”",
+          "url": "https://news.ifeng.com/c/8qsBz1kTjhm",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 06时40分]"
         },
         {
           "title": "提醒：北京时间01:00，美国能源信息署（EIA）将发布政府版原油库存周报，数据发布时间因周一休市而推后了一天。",
@@ -390,17 +424,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时06分 ~ 03时02分]"
-        },
-        {
-          "title": "美媒爆料：美国正推动北约政策“恢复出厂设置”",
-          "url": "https://news.ifeng.com/c/8qsBz1kTjhm",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时41分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.3%，报390.13点。 在十个板块中，北欧金融板块跌幅最大。 Swedish Orphan Biovitrum AB跌4.6%，在一众北欧个股里表现最差。",
@@ -427,6 +450,39 @@
           "time_info": "[04时59分 ~ 05时41分]"
         },
         {
+          "title": "特朗普：美委能源合作进展“非常顺利”。",
+          "url": "https://flash.jin10.com/detail/20260220055356682800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "特朗普：我们的政策是让外包更艰难。",
+          "url": "https://flash.jin10.com/detail/20260220055037928800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "加沙国家行政委员会主席：恢复安全是加沙当务之急",
+          "url": "https://wallstreetcn.com/livenews/3056798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
           "title": "俄国家原子能集团总经理：北方海航道货运量增长近四分之一",
           "url": "https://flash.jin10.com/detail/20260220015242734800",
           "source": "金十数据",
@@ -436,6 +492,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "美国总统特朗普谈及最高法院对其关税政策的审判，宣称：我一直都在等待（判决结果）。",
+          "url": "https://wallstreetcn.com/livenews/3056791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "特朗普：如果没有关税，这个国家现在会陷入非常大的麻烦。",
+          "url": "https://flash.jin10.com/detail/20260220054228167800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "卢旺达国家银行货币政策委员会实施将近三年来最大幅度的加息——从6.75%提高至7.25%，希望能在短期内抑制通胀。",
@@ -474,7 +552,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
@@ -484,8 +562,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 06时40分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -493,11 +571,23 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 06时40分]"
+        },
+        {
+          "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "岛国纯幻想!国产科技已杀疯",
@@ -507,8 +597,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 06时40分]"
+        },
+        {
+          "title": "我国哪些高校科研实力非常突出",
+          "url": "https://www.toutiao.com/trending/7608234693494063145/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 06时40分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.4%。 热门中概股里，晶科能源初步收跌2.4%，携程跌2.2%，百胜中国、奇富科技、文远知行跌超1%，阿里巴巴跌0.9%，百度跌0.7%，万国数据、金山云、大全新能源至少涨0.6%，华住涨1.6%。",
@@ -517,7 +619,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -528,20 +630,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "我国哪些高校科研实力非常突出",
-          "url": "https://www.toutiao.com/trending/7608234693494063145/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时59分"
+          "time_info": "05时41分"
         },
         {
           "title": "美国大模型“双雄”当众拒绝握手",
@@ -558,7 +649,7 @@
     },
     {
       "keyword_group": "美股 美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -580,8 +671,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 06时40分]"
         },
         {
           "title": "周四（2月19日）纽约尾盘，ICE美元指数涨0.20%，报97.894点，北京时间17:08跌至97.572点刷新日低，随后逐步上扬，22:25刷新日高至98.074点。 彭博美元指数涨0.16%，报1191.07点，日内交投区间为1188.01-1192.71点。",
@@ -605,6 +696,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时06分 ~ 03时02分]"
+        },
+        {
+          "title": "周四（2月19日）纽约尾盘，现货黄金涨0.42%，报4998.50美元/盎司。 COMEX黄金期货涨0.09%，报5014美元/盎司。 现货白银涨1.32%，报78.2375美元/盎司。 COMEX白银期货涨0.82%。 COMEX铜期货跌0.67%，报5.8240美元/磅。 现货铂金跌0.32%，现货钯金跌1.45%。 （美股）费城金银指数收涨1.51%，报422.69点。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.26%，报2982.07点。 （美股）原材料指数收跌0.09%，金属与矿业指数收跌0.17%。",
+          "url": "https://wallstreetcn.com/livenews/3056799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         }
       ]
     },
@@ -649,6 +751,63 @@
       ]
     },
     {
+      "keyword_group": "游戏 steam 显卡 内存 处理器",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国总统特朗普：钢铁关税改变了游戏规则。",
+          "url": "https://wallstreetcn.com/livenews/3056780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时40分]"
+        },
+        {
+          "title": "特朗普：钢铁关税改变了游戏规则。",
+          "url": "https://flash.jin10.com/detail/20260220052040360800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "github 技术 行业 软件",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "航空业ETF收跌将近4%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3056775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "美国总统特朗普赞赏私人行业的就业增长。",
+          "url": "https://wallstreetcn.com/livenews/3056792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "热点",
       "match_count": 2,
       "titles": [
@@ -661,8 +820,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 05时41分]"
+          "appearance_count": 3,
+          "time_info": "[04时59分 ~ 06时40分]"
         },
         {
           "title": "美国总统特朗普：“和平委员会”可能会有助于化解世界上的“（那些）热点”问题。",
@@ -674,40 +833,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国总统特朗普：钢铁关税改变了游戏规则。",
-          "url": "https://wallstreetcn.com/livenews/3056780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "github 技术 行业 软件",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "航空业ETF收跌将近4%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3056775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
         }
       ]
     }
