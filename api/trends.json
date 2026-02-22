@@ -1,144 +1,11 @@
 {
-  "generated_at": "2026-02-23T06:34:33.829486+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-02-23T07:34:39.457773+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "国际 外交 战争",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "中东睿评｜美以与伊朗博弈的混沌状态只能靠战争才能打破吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32639434",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时34分]"
-        },
-        {
-          "title": "傅莹：在2026年慕安会现场感受国际秩序变化的律动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32639268",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时34分]"
-        },
-        {
-          "title": "美国贸易代表格里尔：在关税方面，美国目前并不具备《国际紧急经济权力法》（IEEPA）所提供的同等灵活性。 乐于就贸易问题与国会展开对话。 美国可以使用国会此前在贸易方面已经赋予的权力。 本周末已与欧盟同行就贸易问题进行了沟通。",
-          "url": "https://wallstreetcn.com/livenews/3057275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            13,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时34分]"
-        },
-        {
-          "title": "欧洲议会国际贸易委员会主席Bernd Lange提议推迟批准欧盟-美国贸易协议。",
-          "url": "https://wallstreetcn.com/livenews/3057266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            16,
-            22,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时34分]"
-        },
-        {
-          "title": "俄外交部就韩国可能向乌提供武器发出警告",
-          "url": "https://wallstreetcn.com/livenews/3057264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            17,
-            23,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时34分]"
-        },
-        {
-          "title": "伊朗外交部：伊朗外长与伊拉克外长通话",
-          "url": "https://flash.jin10.com/detail/20260223055620146800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "伊朗外交部：伊朗和阿曼外长通话 就下一轮谈判的安排进行了磋商",
-          "url": "https://flash.jin10.com/detail/20260223044644545800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时34分]"
-        },
-        {
-          "title": "阿曼外交大臣：美伊下一轮谈判将于26日在日内瓦举行",
-          "url": "https://flash.jin10.com/detail/20260223042530300800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时34分]"
-        },
-        {
-          "title": "据纽约时报：知情人士透露，特朗普已告知顾问，如果外交手段或初步的针对性打击未能迫使伊朗屈服，将考虑在未来数月内发动更大规模攻击。",
-          "url": "https://flash.jin10.com/detail/20260223053236773800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "傅莹：在慕安会现场感受国际秩序变化",
-          "url": "https://www.toutiao.com/trending/7609632616056098323/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -148,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时34分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -159,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时34分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -171,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时34分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -182,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时34分]"
         },
         {
           "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
@@ -197,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时34分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -208,8 +75,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时34分]"
         },
         {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
@@ -219,8 +86,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时34分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -246,14 +113,165 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时34分]"
+        },
+        {
+          "title": "机构：AI担忧加剧 英伟达财报或难提振股价",
+          "url": "https://flash.jin10.com/detail/20260223064004274800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国际 外交 战争",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "中东睿评｜美以与伊朗博弈的混沌状态只能靠战争才能打破吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32639434",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时34分]"
+        },
+        {
+          "title": "傅莹：在2026年慕安会现场感受国际秩序变化的律动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32639268",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时34分]"
+        },
+        {
+          "title": "美国贸易代表格里尔：在关税方面，美国目前并不具备《国际紧急经济权力法》（IEEPA）所提供的同等灵活性。 乐于就贸易问题与国会展开对话。 美国可以使用国会此前在贸易方面已经赋予的权力。 本周末已与欧盟同行就贸易问题进行了沟通。",
+          "url": "https://wallstreetcn.com/livenews/3057275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7,
+            13,
+            15,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时34分]"
+        },
+        {
+          "title": "欧洲议会国际贸易委员会主席Bernd Lange提议推迟批准欧盟-美国贸易协议。",
+          "url": "https://wallstreetcn.com/livenews/3057266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            16,
+            22,
+            24,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时34分]"
+        },
+        {
+          "title": "俄外交部就韩国可能向乌提供武器发出警告",
+          "url": "https://wallstreetcn.com/livenews/3057264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            17,
+            23,
+            25,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时34分]"
+        },
+        {
+          "title": "伊朗外交部：伊朗和阿曼外长通话 就下一轮谈判的安排进行了磋商",
+          "url": "https://flash.jin10.com/detail/20260223044644545800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时34分]"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长与伊拉克外长通话",
+          "url": "https://flash.jin10.com/detail/20260223055620146800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时34分]"
+        },
+        {
+          "title": "阿曼外交大臣：美伊下一轮谈判将于26日在日内瓦举行",
+          "url": "https://flash.jin10.com/detail/20260223042530300800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时34分]"
+        },
+        {
+          "title": "据纽约时报：知情人士透露，特朗普已告知顾问，如果外交手段或初步的针对性打击未能迫使伊朗屈服，将考虑在未来数月内发动更大规模攻击。",
+          "url": "https://flash.jin10.com/detail/20260223053236773800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时34分]"
+        },
+        {
+          "title": "傅莹：在慕安会现场感受国际秩序变化",
+          "url": "https://www.toutiao.com/trending/7609632616056098323/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时34分]"
         }
       ]
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "智谱发布GLM-5技术细节：工程级智能，适配国产算力",
@@ -264,8 +282,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时34分]"
         },
         {
           "title": "韩美军方发生分歧，军演发布会被推迟",
@@ -275,8 +293,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时34分]"
         },
         {
           "title": "智谱发布GLM-5技术报告，技术细节全公开",
@@ -330,6 +348,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时40分 ~ 01时33分]"
+        },
+        {
+          "title": "以总理内塔尼亚胡被曝对美方伊朗政策存疑",
+          "url": "https://flash.jin10.com/detail/20260223065937219800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "谷爱凌发布会落泪：刚得知外婆去世，我向她保证过会勇敢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32643518",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "墨西哥毒枭在军方抓捕行动中身亡 美国发布安全警告",
+          "url": "https://flash.jin10.com/detail/20260223062439780800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         }
       ]
     },
@@ -345,8 +396,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时34分]"
         },
         {
           "title": "伊朗提议，让美国企业参与（伊朗的）能源行业。（路透）",
@@ -354,11 +405,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时34分 ~ 06时34分]"
+          "appearance_count": 5,
+          "time_info": "[03时34分 ~ 07时34分]"
         },
         {
           "title": "韩媒：韩二次电池技术水平被中国反超",
@@ -386,19 +438,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时34分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
           "url": "https://wallstreetcn.com/articles/3765941",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时34分]"
         }
       ]
     },
@@ -411,11 +464,12 @@
           "url": "https://www.zhihu.com/question/2003062708547843506",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时34分]"
         }
       ]
     }
