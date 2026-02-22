@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T07:32:46.209312+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-02-22T10:50:30.245872+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "泰国智库批特朗普关税政策：别人在搭桥，美国在筑墙",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 07时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 10时50分]"
         },
         {
           "title": "关税政策被判违法后，特朗普称将加征10%全球进口关税",
@@ -51,11 +51,24 @@
           "url": "https://flash.jin10.com/detail/20260221224152170800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 07时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 10时50分]"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：克服敌人不公正行为的方式在于恢复国家团结与凝聚力，我们将克服这些动荡，最终的胜利将属于伊朗人民。",
+          "url": "https://flash.jin10.com/detail/20260221222723330800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 10时50分]"
         },
         {
           "title": "印度巴西签署矿产合作协议",
@@ -64,17 +77,6 @@
           "ranks": [
             8,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 07时32分]"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：克服敌人不公正行为的方式在于恢复国家团结与凝聚力，我们将克服这些动荡，最终的胜利将属于伊朗人民。",
-          "url": "https://flash.jin10.com/detail/20260221222723330800",
-          "source": "金十数据",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -132,28 +134,74 @@
           "url": "https://wallstreetcn.com/livenews/3057209",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 10时50分]"
         },
         {
           "title": "伊朗将所有欧盟国家海军和空军列为“恐怖组织”",
           "url": "https://wallstreetcn.com/livenews/3057208",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 10时50分]"
+        },
+        {
+          "title": "伊朗将所有欧盟国家海军和空军列为“恐怖组织”",
+          "url": "https://news.ifeng.com/c/8qwZFHEpvsB",
+          "source": "凤凰网",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "10时50分"
+        },
+        {
+          "title": "德国总理：将协调欧盟立场后赴美与特朗普讨论美关税政策",
+          "url": "https://flash.jin10.com/detail/20260222084309762800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "据华尔街日报：纽约市自2017年以来首次发布暴风雪预警。",
+          "url": "https://flash.jin10.com/detail/20260222081250346800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "伊朗将所有欧盟国家海军和空军列为“恐怖组织”",
+          "url": "https://flash.jin10.com/detail/20260222081201154800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         }
       ]
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -163,19 +211,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 07时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 10时50分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
           "url": "https://www.cls.cn/detail/2292326",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 07时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 10时50分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -183,11 +232,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 07时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 10时50分]"
         },
         {
           "title": "阿里千问推出Qwen Coding Plan",
@@ -200,6 +250,61 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时40分 ~ 07时32分]"
+        },
+        {
+          "title": "Seedance2.0重写全球AI版图",
+          "url": "https://www.douyin.com/hot/2407569",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
+          "url": "https://www.cls.cn/detail/2292342",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "光谷重点企业春节不停工，开足马力忙生产，AI高速光模块订单排到四季度",
+          "url": "https://wallstreetcn.com/livenews/3057217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
+          "url": "https://www.zhihu.com/question/2004982651719812885",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "央视军事最新AI大片发布",
+          "url": "https://www.toutiao.com/trending/7608653159187300415/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "印度AI峰会为何引发全球群嘲",
@@ -216,7 +321,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗外交消息人士确认，核材料不会被转移出伊朗。",
@@ -263,42 +368,141 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时33分 ~ 03时32分]"
+        },
+        {
+          "title": "专家：俄罗斯人的战争逻辑与众不同",
+          "url": "https://www.toutiao.com/trending/7608857666928148522/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "作家刘震云获意大利国际南北文学奖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32639467",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "中东睿评｜美以与伊朗博弈的混沌状态只能靠战争才能打破吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32639434",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         }
       ]
     },
     {
-      "keyword_group": "美股 美元",
-      "match_count": 2,
+      "keyword_group": "github 技术 行业 软件",
+      "match_count": 4,
       "titles": [
         {
-          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2292233",
-          "source": "财联社热门",
+          "title": "中信建投：原生多模态与世界模型技术共同演进将重塑多个产业格局",
+          "url": "https://wallstreetcn.com/livenews/3057183",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            4
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 07时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时32分]"
         },
         {
-          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2291935",
-          "source": "财联社热门",
+          "title": "大一计算机新生怎么合理利用 GitHub？",
+          "url": "https://www.zhihu.com/question/11379810074",
+          "source": "知乎",
           "ranks": [
-            7,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 07时32分]"
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "王兴兴：机器人技术接近10岁孩子水平",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%85%B4%E5%85%B4%EF%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF%E6%8E%A5%E8%BF%9110%E5%B2%81%E5%AD%A9%E5%AD%90%E6%B0%B4%E5%B9%B3",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "王兴兴：机器人技术接近10岁孩子水平",
+          "url": "https://www.toutiao.com/trending/7608349146072285225/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "实测Gemini 3.1 Pro",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            10,
+            9,
+            8,
+            12,
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 10时50分]"
+        },
+        {
+          "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
+          "url": "https://wallstreetcn.com/articles/3765938",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
+          "url": "https://wallstreetcn.com/articles/3765927",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         }
       ]
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
@@ -322,12 +526,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时40分 ~ 07时32分]"
+        },
+        {
+          "title": "2月21日蔚来换电17.6万次，连续四日创新高",
+          "url": "https://wallstreetcn.com/livenews/3057222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         }
       ]
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "报告称 8GB 显卡阻碍游戏画面进步，这一说法合理吗？",
@@ -357,63 +572,54 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时32分 ~ 07时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "github 技术 行业 软件",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中信建投：原生多模态与世界模型技术共同演进将重塑多个产业格局",
-          "url": "https://wallstreetcn.com/livenews/3057183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 07时32分]"
         },
         {
-          "title": "大一计算机新生怎么合理利用 GitHub？",
-          "url": "https://www.zhihu.com/question/11379810074",
+          "title": "怎么惩罚玩游戏充钱的孩子？",
+          "url": "https://www.zhihu.com/question/2007897897904140822",
           "source": "知乎",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "10时50分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "keyword_group": "美股 美元",
+      "match_count": 2,
       "titles": [
         {
-          "title": "实测Gemini 3.1 Pro",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
-          "source": "bilibili 热搜",
+          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2292233",
+          "source": "财联社热门",
           "ranks": [
-            13,
-            10,
-            9,
-            8,
-            12,
-            6
+            3,
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 07时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 10时50分]"
+        },
+        {
+          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2291935",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 10时50分]"
         }
       ]
     },
     {
       "keyword_group": "热点",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
@@ -425,6 +631,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时39分 ~ 07时32分]"
+        },
+        {
+          "title": "让孩子上交压岁钱何以成为争论热点",
+          "url": "https://www.toutiao.com/trending/7609459570338958902/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         }
       ]
     }
