@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T10:50:30.245872+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-02-22T12:56:51.507659+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
@@ -154,46 +154,49 @@
           "time_info": "[07时32分 ~ 10时50分]"
         },
         {
-          "title": "伊朗将所有欧盟国家海军和空军列为“恐怖组织”",
-          "url": "https://news.ifeng.com/c/8qwZFHEpvsB",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
           "title": "德国总理：将协调欧盟立场后赴美与特朗普讨论美关税政策",
           "url": "https://flash.jin10.com/detail/20260222084309762800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 12时56分]"
         },
         {
           "title": "据华尔街日报：纽约市自2017年以来首次发布暴风雪预警。",
           "url": "https://flash.jin10.com/detail/20260222081250346800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 12时56分]"
         },
         {
           "title": "伊朗将所有欧盟国家海军和空军列为“恐怖组织”",
           "url": "https://flash.jin10.com/detail/20260222081201154800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            25
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 12时56分]"
+        },
+        {
+          "title": "伊朗将所有欧盟国家海军和空军列为“恐怖组织”",
+          "url": "https://news.ifeng.com/c/8qwZFHEpvsB",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         }
@@ -201,18 +204,19 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
           "url": "https://www.cls.cn/detail/2292111",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 10时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 12时56分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -223,8 +227,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 10时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 12时56分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -236,8 +240,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 10时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 12时56分]"
         },
         {
           "title": "阿里千问推出Qwen Coding Plan",
@@ -256,33 +260,36 @@
           "url": "https://www.douyin.com/hot/2407569",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 12时56分]"
         },
         {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
           "url": "https://www.cls.cn/detail/2292342",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 12时56分]"
         },
         {
           "title": "光谷重点企业春节不停工，开足马力忙生产，AI高速光模块订单排到四季度",
           "url": "https://wallstreetcn.com/livenews/3057217",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 12时56分]"
         },
         {
           "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
@@ -291,9 +298,20 @@
           "ranks": [
             16
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 12时56分]"
+        },
+        {
+          "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
+          "url": "https://wallstreetcn.com/articles/3765936",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "12时56分"
         },
         {
           "title": "央视军事最新AI大片发布",
@@ -302,7 +320,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -321,7 +339,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗外交消息人士确认，核材料不会被转移出伊朗。",
@@ -370,15 +388,16 @@
           "time_info": "[01时33分 ~ 03时32分]"
         },
         {
-          "title": "专家：俄罗斯人的战争逻辑与众不同",
-          "url": "https://www.toutiao.com/trending/7608857666928148522/",
-          "source": "今日头条",
+          "title": "中东睿评｜美以与伊朗博弈的混沌状态只能靠战争才能打破吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32639434",
+          "source": "澎湃新闻",
           "ranks": [
+            10,
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 12时56分]"
         },
         {
           "title": "作家刘震云获意大利国际南北文学奖",
@@ -387,26 +406,37 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 12时56分]"
+        },
+        {
+          "title": "专家：俄罗斯人的战争逻辑与众不同",
+          "url": "https://www.toutiao.com/trending/7608857666928148522/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
         {
-          "title": "中东睿评｜美以与伊朗博弈的混沌状态只能靠战争才能打破吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32639434",
-          "source": "澎湃新闻",
+          "title": "阿联酋、埃及、约旦等14国及国际组织发表联合声明，谴责美国驻以色列大使“危险且具有煽动性”的言论",
+          "url": "https://wallstreetcn.com/livenews/3057233",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "12时56分"
         }
       ]
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中信建投：原生多模态与世界模型技术共同演进将重塑多个产业格局",
@@ -421,6 +451,30 @@
           "time_info": "[00时40分 ~ 07时32分]"
         },
         {
+          "title": "王兴兴：机器人技术接近10岁孩子水平",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%85%B4%E5%85%B4%EF%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF%E6%8E%A5%E8%BF%9110%E5%B2%81%E5%AD%A9%E5%AD%90%E6%B0%B4%E5%B9%B3",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 12时56分]"
+        },
+        {
+          "title": "王兴兴：机器人技术接近10岁孩子水平",
+          "url": "https://www.toutiao.com/trending/7608349146072285225/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 12时56分]"
+        },
+        {
           "title": "大一计算机新生怎么合理利用 GitHub？",
           "url": "https://www.zhihu.com/question/11379810074",
           "source": "知乎",
@@ -432,26 +486,15 @@
           "time_info": "07时32分"
         },
         {
-          "title": "王兴兴：机器人技术接近10岁孩子水平",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%85%B4%E5%85%B4%EF%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF%E6%8E%A5%E8%BF%9110%E5%B2%81%E5%AD%A9%E5%AD%90%E6%B0%B4%E5%B9%B3",
-          "source": "百度热搜",
+          "title": "大摩评价MiniMax“全球顶尖基座模型稀缺资产”，高估值核心逻辑在于“技术决定天花板、全球化决定估值”",
+          "url": "https://wallstreetcn.com/articles/3765947",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "王兴兴：机器人技术接近10岁孩子水平",
-          "url": "https://www.toutiao.com/trending/7608349146072285225/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "12时56分"
         }
       ]
     },
@@ -473,19 +516,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 10时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 12时56分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
           "url": "https://wallstreetcn.com/articles/3765938",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 12时56分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -494,7 +538,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         }
@@ -532,11 +576,12 @@
           "url": "https://wallstreetcn.com/livenews/3057222",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 12时56分]"
         }
       ]
     },
@@ -580,7 +625,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         }
@@ -600,8 +645,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 10时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 12时56分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -612,8 +657,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 10时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 12时56分]"
         }
       ]
     },
@@ -639,7 +684,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         }
