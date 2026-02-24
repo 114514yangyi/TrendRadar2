@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T19:47:06.829986+08:00",
-  "total_titles_processed": 1543,
+  "generated_at": "2026-02-24T21:24:40.335409+08:00",
+  "total_titles_processed": 1665,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 53,
+      "match_count": 58,
       "titles": [
         {
           "title": "美最高法为何裁定关税政策不合法",
@@ -18,11 +18,12 @@
             30,
             9,
             8,
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时47分 ~ 19时47分]"
+          "appearance_count": 11,
+          "time_info": "[10时47分 ~ 21时24分]"
         },
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -90,6 +91,18 @@
           "time_info": "[00时37分 ~ 07时40分]"
         },
         {
+          "title": "美国、加拿大、英国、法国、俄罗斯，发布“安全警告”",
+          "url": "https://news.ifeng.com/c/8r0R9181ylh",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时59分 ~ 21时24分]"
+        },
+        {
           "title": "市场消息：美国反垄断机构正在征求公众意见，以制定新的指导方针，确保企业能够更好地了解同一行业内竞争对手之间何时可以合作，包括何时可以共享数据或定价信息。",
           "url": "https://flash.jin10.com/detail/20260224072010365800",
           "source": "金十数据",
@@ -99,17 +112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
-        },
-        {
-          "title": "美国、加拿大、英国、法国、俄罗斯，发布“安全警告”",
-          "url": "https://news.ifeng.com/c/8r0R9181ylh",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时59分 ~ 19时47分]"
         },
         {
           "title": "标普全球：关税裁决使政策风险依然存在。",
@@ -123,6 +125,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "白宫新闻秘书莱维特：美国总统特朗普今晚将发表几项政策声明。 美国正敦促墨西哥采取更多行动。 美国国务院正向在墨西哥的美国公民提供支持。",
+          "url": "https://wallstreetcn.com/livenews/3058150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "吉尔吉斯斯坦中央银行表示将政策利率设定为12.0%。",
           "url": "https://flash.jin10.com/detail/20260224120658443800",
           "source": "金十数据",
@@ -132,6 +145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "合肥发布系列举措支持创新创业",
+          "url": "https://wallstreetcn.com/livenews/3058149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "美拟以国家安全为由推出新关税",
@@ -145,6 +169,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时59分 ~ 17时00分]"
+        },
+        {
+          "title": "财捷美股盘前涨超6%，公司和ANTHROPIC宣布建立多年合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3058148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "中央气象台发布暴雪、寒潮、大风、沙尘暴预警",
@@ -333,6 +368,17 @@
           "time_info": "10时48分"
         },
         {
+          "title": "美联储古尔斯比：通胀进展已停止，美联储政策是否仍具紧缩性尚不明确。",
+          "url": "https://flash.jin10.com/detail/20260224210422483800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "联邦快递起诉美国，在最高法院推翻总统特朗普关税政策之后寻求政府全额退款。",
           "url": "https://wallstreetcn.com/livenews/3057695",
           "source": "华尔街见闻-快讯",
@@ -383,7 +429,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -460,7 +506,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -575,6 +621,17 @@
           "time_info": "18时15分"
         },
         {
+          "title": "市场消息：叙利亚与乌克兰就地雷行动及未爆弹药领域的合作展开磋商。",
+          "url": "https://flash.jin10.com/detail/20260224204730522800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "王毅：没有哪个国家能充当人权教师",
           "url": "https://www.toutiao.com/trending/7609928535788503046/",
           "source": "今日头条",
@@ -622,19 +679,8 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
-        {
-          "title": "中国将与美国进行军控会谈？外交部回应",
-          "url": "https://news.ifeng.com/c/8r0VIgXcpnx",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 19时47分]"
-        },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
           "url": "https://www.cls.cn/detail/2293557",
@@ -644,8 +690,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时59分 ~ 19时47分]"
+          "appearance_count": 6,
+          "time_info": "[16时59分 ~ 21时24分]"
+        },
+        {
+          "title": "中国将与美国进行军控会谈？外交部回应",
+          "url": "https://news.ifeng.com/c/8r0VIgXcpnx",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 21时24分]"
+        },
+        {
+          "title": "美官员称“中国只需打一个电话就能结束俄乌冲突”，外交部驳斥",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32646531",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时56分 ~ 21时24分]"
         },
         {
           "title": "外交部回应巴拿马接管长和2座港口",
@@ -678,21 +748,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
-        },
-        {
-          "title": "美官员称“中国只需打一个电话就能结束俄乌冲突”，外交部驳斥",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32646531",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时56分 ~ 19时47分]"
         },
         {
           "title": "中方驳斥美声称“中国全面助长战争”",
@@ -718,6 +776,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 21时24分]"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：与美国的关系遭受重创。",
@@ -800,20 +871,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 19时47分]"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 19时47分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 21时24分]"
         },
         {
           "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
@@ -821,11 +880,24 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 21时24分]"
+        },
+        {
+          "title": "外交部谈乌危机：不拱火渔利，也不接受甩锅",
+          "url": "https://v.ifeng.com/c/8r0f81uNU2q",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时15分 ~ 19时47分]"
+          "time_info": "[19时46分 ~ 21时24分]"
         },
         {
           "title": "外交部：中方在巴拿马有关港口问题上的立场是明确的",
@@ -850,17 +922,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时15分 ~ 19时47分]"
-        },
-        {
-          "title": "外交部谈乌危机：不拱火渔利，也不接受甩锅",
-          "url": "https://v.ifeng.com/c/8r0f81uNU2q",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时46分 ~ 19时47分]"
         },
         {
           "title": "欧盟外交官Kallas：与美国的关系遭受“沉重打击”。",
@@ -985,7 +1046,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -1100,6 +1161,17 @@
           "time_info": "15时56分"
         },
         {
+          "title": "埃及外交部： 今天开罗举办了一场重要会议。埃及传达的信息十分明确，支持黎巴嫩军队、安全部队和国家机构是保护黎巴嫩主权和恢复其稳定的根本支柱。埃及将继续努力，以使黎巴嫩政府能够对所有黎巴嫩领土实施有效控制。",
+          "url": "https://flash.jin10.com/detail/20260224205813690800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "恒生科技指数日内跌2%，金蝶国际跌超8%，腾讯音乐跌超4%，商汤跌近2%。",
           "url": "https://wallstreetcn.com/livenews/3057779",
           "source": "华尔街见闻-快讯",
@@ -1142,6 +1214,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "伊朗国防部长：若战争被强加于我们，我们将给敌人一个刻骨铭心的教训。",
+          "url": "https://flash.jin10.com/detail/20260224204828380800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "荷兰国际：若英国央行行长暗示将于三月降息，英镑或会下跌",
@@ -1191,7 +1274,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1202,8 +1285,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时47分 ~ 19时47分]"
+          "appearance_count": 11,
+          "time_info": "[10时47分 ~ 21时24分]"
         },
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -1227,23 +1310,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时47分 ~ 19时47分]"
-        },
-        {
-          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
-          "url": "https://wallstreetcn.com/articles/3765997",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时04分 ~ 19时47分]"
+          "appearance_count": 11,
+          "time_info": "[10时47分 ~ 21时24分]"
         },
         {
           "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
@@ -1258,6 +1326,22 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时37分 ~ 07时40分]"
+        },
+        {
+          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
+          "url": "https://wallstreetcn.com/articles/3765997",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[06时04分 ~ 21时24分]"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
@@ -1287,18 +1371,6 @@
           "time_info": "[00时37分 ~ 12时59分]"
         },
         {
-          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
-          "url": "https://www.cls.cn/detail/2293343",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时56分 ~ 19时47分]"
-        },
-        {
           "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
           "url": "https://www.cls.cn/detail/2293346",
           "source": "财联社热门",
@@ -1307,11 +1379,24 @@
             6,
             8,
             7,
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时08分 ~ 21时24分]"
+        },
+        {
+          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
+          "url": "https://www.cls.cn/detail/2293343",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[14时08分 ~ 19时47分]"
+          "time_info": "[15时56分 ~ 21时24分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -1351,6 +1436,19 @@
           "time_info": "[16时59分 ~ 19时47分]"
         },
         {
+          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
+          "url": "https://www.zhihu.com/question/2009566964868150665",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时56分 ~ 21时24分]"
+        },
+        {
           "title": "如何看待 Anthropic 指控 DeepSeek 、 Kimi 和 MiniMax 「蒸馏攻击」其模型?",
           "url": "https://www.zhihu.com/question/2009538062087123054",
           "source": "知乎",
@@ -1387,18 +1485,6 @@
           "time_info": "[10时47分 ~ 17时00分]"
         },
         {
-          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
-          "url": "https://www.zhihu.com/question/2009566964868150665",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时56分 ~ 19时47分]"
-        },
-        {
           "title": "IBM成AI最新受害者！受Anthropic编程语言威胁，股价暴跌11%",
           "url": "https://wallstreetcn.com/livenews/3057634",
           "source": "华尔街见闻-快讯",
@@ -1430,6 +1516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
+          "url": "https://wallstreetcn.com/articles/3766010",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时46分 ~ 21时24分]"
         },
         {
           "title": "中方回应美称DeepSeek违反出口管制",
@@ -1478,17 +1575,6 @@
           "time_info": "[19时46分 ~ 19时47分]"
         },
         {
-          "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
-          "url": "https://wallstreetcn.com/articles/3766010",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时46分 ~ 19时47分]"
-        },
-        {
           "title": "英伟达(NVDA.O)：与Akamai、Forescout、Palo Alto Networks、Xage Security、西门子展开合作，将加速推进计算和人工智能引入工业控制系统（OT）网络安全。",
           "url": "https://flash.jin10.com/detail/20260224000737522800",
           "source": "金十数据",
@@ -1513,6 +1599,18 @@
           "time_info": "[06时52分 ~ 07时40分]"
         },
         {
+          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
+          "url": "https://www.zhihu.com/question/41253586",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 21时24分]"
+        },
+        {
           "title": "IBM创2000年以来最大日跌幅，Anthropic宣称AI工具可助COBOL现代化改造",
           "url": "https://wallstreetcn.com/livenews/3057653",
           "source": "华尔街见闻-快讯",
@@ -1531,7 +1629,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -1586,7 +1684,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -1600,6 +1698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
+        },
+        {
+          "title": "Arini创始人：无需颠覆真正发生 对AI的忧虑便足以引发软件公司违约",
+          "url": "https://wallstreetcn.com/livenews/3058136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "Anthropic：Claude Code能自动Cobol现代化。",
@@ -1635,17 +1744,6 @@
           "time_info": "17时00分"
         },
         {
-          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
-          "url": "https://www.zhihu.com/question/41253586",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
           "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
           "url": "https://flash.jin10.com/detail/20260224015302070800",
           "source": "金十数据",
@@ -1657,6 +1755,28 @@
           "time_info": "03时16分"
         },
         {
+          "title": "AMD美股盘前涨超15%，Meta与AMD达成重磅协议，斥资数百亿美元采购AI设备。",
+          "url": "https://wallstreetcn.com/livenews/3058124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "Meta与AMD达成重磅协议 斥资数百亿美元采购AI设备",
+          "url": "https://wallstreetcn.com/livenews/3058122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "Anthropic CEO将与美国防部长会面，讨论AI模型在国防部的使用",
           "url": "https://wallstreetcn.com/livenews/3057583",
           "source": "华尔街见闻-快讯",
@@ -1666,6 +1786,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "李佳薇JKAI声乐大师课",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "Altman为AI资源消耗辩护：耗水担忧是“假的”，且“人类也消耗能量”",
@@ -1682,7 +1813,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "航天科研人员赵学军出国被策反，才到国外就被盯上，请吃烧烤一步步拉下水，此案件有何警示作用？",
@@ -1692,8 +1823,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时47分 ~ 19时47分]"
+          "appearance_count": 11,
+          "time_info": "[10时47分 ~ 21时24分]"
         },
         {
           "title": "恒生科技大涨超3%，美团涨超5%，“大模型双雄”智谱、MINIMAX明显回调",
@@ -1720,15 +1851,15 @@
           "time_info": "[14时08分 ~ 19时47分]"
         },
         {
-          "title": "金十数据整理：每日科技要闻速递（2月24日）",
-          "url": "https://flash.jin10.com/detail/20260224071550805800",
-          "source": "金十数据",
+          "title": "合肥：将设立三大百亿基金群支持创新创业",
+          "url": "https://wallstreetcn.com/livenews/3058152",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时40分"
+          "time_info": "21时24分"
         },
         {
           "title": "资源大时代2.0：当铜金屡创新高，谁是下一个战略级品种？",
@@ -1738,8 +1869,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时59分 ~ 19时47分]"
+          "appearance_count": 6,
+          "time_info": "[16时59分 ~ 21时24分]"
+        },
+        {
+          "title": "春运单日旅客发送量创新高",
+          "url": "https://www.douyin.com/hot/2410776",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（2月24日）",
+          "url": "https://flash.jin10.com/detail/20260224071550805800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         },
         {
           "title": "科技亮点频出，资金流入格局不改，机构看好A股马年开局行情",
@@ -1858,6 +2011,17 @@
           "time_info": "14时08分"
         },
         {
+          "title": "我国未来产业创新攻坚成效突出 人形机器人全球销量份额占比超80%",
+          "url": "https://wallstreetcn.com/livenews/3058140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "港股风向标｜恒指重回27000点 科技股及资源板块反复轮动",
           "url": "https://www.cls.cn/detail/2292947",
           "source": "财联社热门",
@@ -1963,7 +2127,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -1982,7 +2146,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
@@ -2051,6 +2215,18 @@
           "time_info": "[00时37分 ~ 07时40分]"
         },
         {
+          "title": "美国考虑对约六个行业加征新一轮关税，可能涵盖大型电池等",
+          "url": "https://wallstreetcn.com/articles/3766022",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时59分 ~ 21时24分]"
+        },
+        {
           "title": "谷爱凌称或考虑进入其他行业，不会一辈子当滑雪运动员，目前来说她有哪些潜力？运动员的职业规划都是怎样的？",
           "url": "https://www.zhihu.com/question/2009549907170653762",
           "source": "知乎",
@@ -2070,7 +2246,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -2079,23 +2255,12 @@
           "url": "https://wallstreetcn.com/livenews/3058114",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时47分"
-        },
-        {
-          "title": "美国考虑对约六个行业加征新一轮关税，可能涵盖大型电池等",
-          "url": "https://wallstreetcn.com/articles/3766022",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
+            3,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时59分 ~ 19时47分]"
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 21时24分]"
         },
         {
           "title": "谷爱凌或考虑进入其他行业",
@@ -2146,6 +2311,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "刘强东宣布进军游艇行业",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BC%BA%E4%B8%9C%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%86%9B%E6%B8%B8%E8%89%87%E8%A1%8C%E4%B8%9A%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "跨境和行业ETF逆势“吸金”",
           "url": "https://wallstreetcn.com/livenews/3057684",
           "source": "华尔街见闻-快讯",
@@ -2155,6 +2331,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "刘强东宣布投资50亿进军游艇行业",
+          "url": "https://www.toutiao.com/trending/7610380823962959898/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "长芯博创：拟收购上海鸿辉光联通讯技术有限公司93.8108%股权",
+          "url": "https://wallstreetcn.com/livenews/3058121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "最高检：我国技术外流风险加剧，检察机关依法从严打击商业间谍犯罪",
@@ -2171,7 +2369,7 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "游戏机被没收,男孩枪杀养父",
@@ -2188,8 +2386,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 19时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时37分 ~ 21时24分]"
         },
         {
           "title": "moba 游戏的英雄设计，你心中的 top1 是谁，可以从技能，人设等各方面来说说看为什么？",
@@ -2212,6 +2410,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时47分 ~ 10时48分]"
+        },
+        {
+          "title": "波比的游戏时间第五章剧情讲解",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%A2%E6%AF%94%E7%9A%84%E6%B8%B8%E6%88%8F%E6%97%B6%E9%97%B4%E7%AC%AC%E4%BA%94%E7%AB%A0%E5%89%A7%E6%83%85%E8%AE%B2%E8%A7%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         }
       ]
     },
