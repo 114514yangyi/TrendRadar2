@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T12:59:23.026639+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2026-02-24T14:08:37.699980+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -32,8 +32,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 12时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 14时08分]"
+        },
+        {
+          "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
+          "url": "https://www.cls.cn/detail/2293072",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 14时08分]"
         },
         {
           "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
@@ -45,17 +56,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时37分 ~ 07时40分]"
-        },
-        {
-          "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
-          "url": "https://www.cls.cn/detail/2293072",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 12时59分]"
         },
         {
           "title": "市场消息：美国反垄断机构正在征求公众意见，以制定新的指导方针，确保企业能够更好地了解同一行业内竞争对手之间何时可以合作，包括何时可以共享数据或定价信息。",
@@ -80,27 +80,28 @@
           "time_info": "03时16分"
         },
         {
+          "title": "美最高法为何裁定关税政策不合法",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%9C%80%E9%AB%98%E6%B3%95%E4%B8%BA%E4%BD%95%E8%A3%81%E5%AE%9A%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E4%B8%8D%E5%90%88%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 14时08分]"
+        },
+        {
           "title": "吉尔吉斯斯坦中央银行表示将政策利率设定为12.0%。",
           "url": "https://flash.jin10.com/detail/20260224120658443800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
-        },
-        {
-          "title": "美最高法为何裁定关税政策不合法",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%9C%80%E9%AB%98%E6%B3%95%E4%B8%BA%E4%BD%95%E8%A3%81%E5%AE%9A%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E4%B8%8D%E5%90%88%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 12时59分]"
         },
         {
           "title": "中央气象台发布暴雪、寒潮、大风、沙尘暴预警",
@@ -149,6 +150,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时55分]"
+        },
+        {
+          "title": "国家是否应开办字节大学、腾讯大学、阿里大学、拼多多大学、美团大学等高校教书育人?",
+          "url": "https://www.zhihu.com/question/2008512004835526546",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 14时08分]"
+        },
+        {
+          "title": "美拟以国家安全为由推出新关税",
+          "url": "https://www.cls.cn/detail/2293143",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 14时08分]"
         },
         {
           "title": "欧盟方面警告称，特朗普的新关税政策违反了现有的贸易协定。",
@@ -221,6 +246,17 @@
           "time_info": "[10时47分 ~ 10时48分]"
         },
         {
+          "title": "琼州海峡发布轮渡过海最新提示：已启动应急疏运预案，将视情增加航班",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32646137",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 14时08分]"
+        },
+        {
           "title": "欧洲央行行长拉加德：美联储主席提名人沃什面临的最大挑战将是专注于其在美联储的职责；欧洲央行将逐次会议决定政策，且必须保持灵活性。",
           "url": "https://flash.jin10.com/detail/20260224023347282800",
           "source": "金十数据",
@@ -274,28 +310,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
-        },
-        {
-          "title": "美拟以国家安全为由推出新关税",
-          "url": "https://www.cls.cn/detail/2293143",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "国家是否应开办字节大学、腾讯大学、阿里大学、拼多多大学、美团大学等高校教书育人?",
-          "url": "https://www.zhihu.com/question/2008512004835526546",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
         },
         {
           "title": "欧盟警告称特朗普的新关税政策违反了贸易协定",
@@ -370,20 +384,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
         {
-          "title": "琼州海峡发布轮渡过海最新提示：已启动应急疏运预案，将视情增加航班",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32646137",
-          "source": "澎湃新闻",
+          "title": "日本首相高市早苗：将在关注市场趋势的同时推进政策。",
+          "url": "https://wallstreetcn.com/livenews/3057875",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时59分"
+          "time_info": "14时08分"
         },
         {
           "title": "先为达生物：与辉瑞中国达成商业化战略合作协议，双方就新一代偏向型GLP-1达成商业化战略合作协议，公司将有权获得辉瑞支付的最高可达4.95亿美元付款总额。",
@@ -392,7 +406,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -425,7 +439,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -444,7 +458,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -499,6 +513,43 @@
           "time_info": "[00时37分 ~ 12时59分]"
         },
         {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 14时08分]"
+        },
+        {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 14时08分]"
+        },
+        {
+          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
+          "url": "https://wallstreetcn.com/articles/3765997",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时04分 ~ 14时08分]"
+        },
+        {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
           "url": "https://wallstreetcn.com/articles/3765966",
           "source": "华尔街见闻",
@@ -508,17 +559,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时04分 ~ 07时40分]"
-        },
-        {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 12时59分]"
         },
         {
           "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
@@ -533,32 +573,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时10分 ~ 10时48分]"
-        },
-        {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 12时59分]"
-        },
-        {
-          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
-          "url": "https://wallstreetcn.com/articles/3765997",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时04分 ~ 12时59分]"
         },
         {
           "title": "摩根大通CEO戴蒙在摩根大通投资者日发表讲话：考虑到人工智能，已制定重新部署员工的计划。关于AI导致大规模裁员的讨论，目前其实并没有发生。",
@@ -605,6 +619,18 @@
           "time_info": "04时55分"
         },
         {
+          "title": "Hirai为何当选韩国亚运会LOL队教练",
+          "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 14时08分]"
+        },
+        {
           "title": "OpenAI：已解决企业客户ChatGPT对话错误率偏高的问题。",
           "url": "https://flash.jin10.com/detail/20260224001507325800",
           "source": "金十数据",
@@ -615,17 +641,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时10分]"
-        },
-        {
-          "title": "Hirai为何当选韩国亚运会LOL队教练",
-          "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
         },
         {
           "title": "英伟达(NVDA.O)：与Akamai、Forescout、Palo Alto Networks、Xage Security、西门子展开合作，将加速推进计算和人工智能引入工业控制系统（OT）网络安全。",
@@ -664,13 +679,24 @@
           "time_info": "[06时04分 ~ 06时52分]"
         },
         {
+          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
+          "url": "https://www.cls.cn/detail/2293346",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
           "title": "外资们也在频繁提AI，如何看2026年行情？",
           "url": "https://www.cls.cn/detail/2292944",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -739,6 +765,260 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科研 论文 大模型 科技 创新 成果",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "恒生科技大涨超3%，美团涨超5%，“大模型双雄”智谱、MINIMAX明显回调",
+          "url": "https://wallstreetcn.com/articles/3765968",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时40分]"
+        },
+        {
+          "title": "航天科研人员赵学军出国被策反，才到国外就被盯上，请吃烧烤一步步拉下水，此案件有何警示作用？",
+          "url": "https://www.zhihu.com/question/2009302738945668703",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 14时08分]"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（2月24日）",
+          "url": "https://flash.jin10.com/detail/20260224071550805800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "科技亮点频出，资金流入格局不改，机构看好A股马年开局行情",
+          "url": "https://wallstreetcn.com/livenews/3057682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时40分]"
+        },
+        {
+          "title": "据悉特朗普要求科技企业高管承诺承担数据中心相关费用",
+          "url": "https://flash.jin10.com/detail/20260224123615325800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 14时08分]"
+        },
+        {
+          "title": "香港恒生指数日内跌2%，恒生生物科技指数跌4%。",
+          "url": "https://wallstreetcn.com/livenews/3057857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 14时08分]"
+        },
+        {
+          "title": "2026 春节前后多款大模型更新，你的使用体验如何？",
+          "url": "https://www.zhihu.com/question/2003058990418978299",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 14时08分]"
+        },
+        {
+          "title": "科研员出国被策反：对方多次请吃烧烤",
+          "url": "https://www.baidu.com/s?wd=%E7%A7%91%E7%A0%94%E5%91%98%E5%87%BA%E5%9B%BD%E8%A2%AB%E7%AD%96%E5%8F%8D%EF%BC%9A%E5%AF%B9%E6%96%B9%E5%A4%9A%E6%AC%A1%E8%AF%B7%E5%90%83%E7%83%A7%E7%83%A4",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 00时38分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.95%，报7478.41点。 热门中概股里，网易初步收跌1.7%，百度、小马智行、新东方至少跌约1%，阿里跌0.8%，腾讯、拼多多、小米、理想则至多涨0.9%，比亚迪、美团、百胜中国、文远知行、蔚来至多涨4.5%。 ETF中，中概互联网指数ETF（KWEB）收跌1.28%，中国科技指数ETF（CQQQ）收跌0.50%。 德银嘉实沪深300指数ETF（ASHR）收跌0.26%，XtrackersHarvest中证50（ASHS）收涨0.07%。",
+          "url": "https://wallstreetcn.com/livenews/3057650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 06时52分]"
+        },
+        {
+          "title": "道指收盘重挫超800点，纳指科技指数跌超1.4%，费城银行指数重挫4.4%",
+          "url": "https://wallstreetcn.com/livenews/3057648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 06时52分]"
+        },
+        {
+          "title": "科研员出国被策反：对方多次请吃烧烤",
+          "url": "https://www.toutiao.com/trending/7609939489301364782/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时40分]"
+        },
+        {
+          "title": "广东省委书记黄坤明：最大限度为技术创新和市场探索“松绑” 让低空经济“飞”起来、自动驾驶“跑”起来、具身智能“用”起来",
+          "url": "https://www.cls.cn/detail/2293320",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "魔法原子投资成立机器人科技公司",
+          "url": "https://wallstreetcn.com/livenews/3057889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "A股电网设备板块午后持续走强，白云电器涨停，明阳电气触及20cm涨停，此前保变电气、森源电气、汉缆股份涨停，安靠智电、大连电瓷、亿能电力、三变科技涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3057886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "港股风向标｜恒指重回27000点 科技股及资源板块反复轮动",
+          "url": "https://www.cls.cn/detail/2292947",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.75%，报26869点。 恒生科技指数主连夜盘收跌0.93%，报5330点。",
+          "url": "https://wallstreetcn.com/livenews/3057620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "广东省委书记黄坤明：最大限度为技术创新和市场探索“松绑”，让低空经济“飞”起来、自动驾驶“跑”起来、具身智能“用”起来",
+          "url": "https://wallstreetcn.com/livenews/3057847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）中国科技互联网公司市值排行TOP50",
+          "url": "https://flash.jin10.com/detail/20260224113748938800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "国产大模型霸榜OpenRouter 智谱盘中涨超19%",
+          "url": "https://wallstreetcn.com/livenews/3057841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20260224113650197800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "A股机器人概念股开盘活跃，百达精工2连板，利亚德涨超10%，露笑科技、天奇股份、亨通光电等纷纷高开，据报道，2026年春节联欢晚会一系列精彩的机器人表演引爆社交网络。",
+          "url": "https://wallstreetcn.com/livenews/3057773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "恒指低开0.62%，报26913.68点；恒生科技指数跌1.02%。腾讯音乐跌超3%，哔哩哔哩跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3057763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         }
       ]
     },
@@ -869,6 +1149,18 @@
           "time_info": "[06时04分 ~ 06时52分]"
         },
         {
+          "title": "俄乌冲突已成国际体系内部变革加速器",
+          "url": "https://www.toutiao.com/trending/7610251232858344970/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 14时08分]"
+        },
+        {
           "title": "外交部回应“高市早苗最新涉华言论”",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%9C%80%E6%96%B0%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA%E2%80%9D",
           "source": "百度热搜",
@@ -897,7 +1189,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -922,17 +1214,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
-        },
-        {
-          "title": "俄乌冲突已成国际体系内部变革加速器",
-          "url": "https://www.toutiao.com/trending/7610251232858344970/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：如果欧盟向乌克兰提供的900亿欧元贷款不起作用，我们可以再次研究动用被冻结资产。",
@@ -988,225 +1269,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "恒生科技大涨超3%，美团涨超5%，“大模型双雄”智谱、MINIMAX明显回调",
-          "url": "https://wallstreetcn.com/articles/3765968",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 07时40分]"
-        },
-        {
-          "title": "航天科研人员赵学军出国被策反，才到国外就被盯上，请吃烧烤一步步拉下水，此案件有何警示作用？",
-          "url": "https://www.zhihu.com/question/2009302738945668703",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 12时59分]"
-        },
-        {
-          "title": "据悉特朗普要求科技企业高管承诺承担数据中心相关费用",
-          "url": "https://flash.jin10.com/detail/20260224123615325800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（2月24日）",
-          "url": "https://flash.jin10.com/detail/20260224071550805800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "科技亮点频出，资金流入格局不改，机构看好A股马年开局行情",
-          "url": "https://wallstreetcn.com/livenews/3057682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时40分]"
-        },
-        {
-          "title": "科研员出国被策反：对方多次请吃烧烤",
-          "url": "https://www.baidu.com/s?wd=%E7%A7%91%E7%A0%94%E5%91%98%E5%87%BA%E5%9B%BD%E8%A2%AB%E7%AD%96%E5%8F%8D%EF%BC%9A%E5%AF%B9%E6%96%B9%E5%A4%9A%E6%AC%A1%E8%AF%B7%E5%90%83%E7%83%A7%E7%83%A4",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 00时38分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.95%，报7478.41点。 热门中概股里，网易初步收跌1.7%，百度、小马智行、新东方至少跌约1%，阿里跌0.8%，腾讯、拼多多、小米、理想则至多涨0.9%，比亚迪、美团、百胜中国、文远知行、蔚来至多涨4.5%。 ETF中，中概互联网指数ETF（KWEB）收跌1.28%，中国科技指数ETF（CQQQ）收跌0.50%。 德银嘉实沪深300指数ETF（ASHR）收跌0.26%，XtrackersHarvest中证50（ASHS）收涨0.07%。",
-          "url": "https://wallstreetcn.com/livenews/3057650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时04分 ~ 06时52分]"
-        },
-        {
-          "title": "道指收盘重挫超800点，纳指科技指数跌超1.4%，费城银行指数重挫4.4%",
-          "url": "https://wallstreetcn.com/livenews/3057648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时04分 ~ 06时52分]"
-        },
-        {
-          "title": "科研员出国被策反：对方多次请吃烧烤",
-          "url": "https://www.toutiao.com/trending/7609939489301364782/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时40分]"
-        },
-        {
-          "title": "港股风向标｜恒指重回27000点 科技股及资源板块反复轮动",
-          "url": "https://www.cls.cn/detail/2292947",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "香港恒生指数日内跌2%，恒生生物科技指数跌4%。",
-          "url": "https://wallstreetcn.com/livenews/3057857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.75%，报26869点。 恒生科技指数主连夜盘收跌0.93%，报5330点。",
-          "url": "https://wallstreetcn.com/livenews/3057620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "2026 春节前后多款大模型更新，你的使用体验如何？",
-          "url": "https://www.zhihu.com/question/2003058990418978299",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "广东省委书记黄坤明：最大限度为技术创新和市场探索“松绑”，让低空经济“飞”起来、自动驾驶“跑”起来、具身智能“用”起来",
-          "url": "https://wallstreetcn.com/livenews/3057847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "金十图示：2026年02月24日（周二）中国科技互联网公司市值排行TOP50",
-          "url": "https://flash.jin10.com/detail/20260224113748938800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "国产大模型霸榜OpenRouter 智谱盘中涨超19%",
-          "url": "https://wallstreetcn.com/livenews/3057841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "金十图示：2026年02月24日（周二）全球主要科技与互联网公司市值变化",
-          "url": "https://flash.jin10.com/detail/20260224113650197800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "A股机器人概念股开盘活跃，百达精工2连板，利亚德涨超10%，露笑科技、天奇股份、亨通光电等纷纷高开，据报道，2026年春节联欢晚会一系列精彩的机器人表演引爆社交网络。",
-          "url": "https://wallstreetcn.com/livenews/3057773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "恒指低开0.62%，报26913.68点；恒生科技指数跌1.02%。腾讯音乐跌超3%，哔哩哔哩跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3057763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
         }
       ]
     },
@@ -1286,11 +1348,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 14时08分]"
         },
         {
           "title": "谷爱凌或考虑进入其他行业",
@@ -1301,8 +1364,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 14时08分]"
         },
         {
           "title": "区域银行ETF和银行业ETF收跌超4.3%，领跌美股行业ETF",
@@ -1345,7 +1408,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         }
@@ -1365,8 +1428,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 12时59分]"
+          "appearance_count": 5,
+          "time_info": "[07时40分 ~ 14时08分]"
         },
         {
           "title": "周一（2月23日）纽约尾盘，ICE美元指数跌0.10%，报97.702点，日内交投区间为97.853-97.355点，亚太盘初“跳空低开”，北京时间14:30之前低位震荡，随后逐步收复失地、曾在20:00过后短暂地微幅转涨。 彭博美元指数涨0.06%，报1189.31点，日内交投区间为1185-1190.08点。",
@@ -1392,11 +1455,12 @@
           "ranks": [
             10,
             14,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 12时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 14时08分]"
         },
         {
           "title": "内存高位横盘持续一个月",
