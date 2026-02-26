@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T00:01:43.452658+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-27T01:14:52.626269+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "“有些国家要加15%，中国不加”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "整治幽灵外卖新规发布",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "邮政联动黄游,国家队压抑了",
@@ -37,19 +37,55 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "受贿3407万余元，国家烟草专卖局原副局长张天峰一审被判十二年",
           "url": "https://m.thepaper.cn/newsDetail_forward_32659827",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
+        },
+        {
+          "title": "整治幽灵外卖新规发布",
+          "url": "https://www.baidu.com/s?wd=%E6%95%B4%E6%B2%BB%E5%B9%BD%E7%81%B5%E5%A4%96%E5%8D%96%E6%96%B0%E8%A7%84%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
+        },
+        {
+          "title": "林俊杰方文山合作逐玉主题曲",
+          "url": "https://www.douyin.com/hot/2412556",
+          "source": "抖音",
+          "ranks": [
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨0.2%，报383.97点。 在十个板块中，北欧电信服务板块涨幅最大。 流媒体音乐公司Spotify Technology涨5.3%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3059690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时01分"
+          "time_info": "01时14分"
         },
         {
           "title": "美国财政部发布修订后的涉俄通用许可证。",
@@ -96,6 +132,17 @@
           "time_info": "00时01分"
         },
         {
+          "title": "据CGTN：乌拉圭成为首个批准欧盟-南美贸易协定的国家。",
+          "url": "https://flash.jin10.com/detail/20260227001618743800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
           "title": "Nutanix Inc.涨10%，创4月份以来最大盘中涨幅，AMD将从这家新合作伙伴购买1.5亿美元股票。",
           "url": "https://wallstreetcn.com/livenews/3059643",
           "source": "华尔街见闻-快讯",
@@ -107,26 +154,15 @@
           "time_info": "00时01分"
         },
         {
-          "title": "林俊杰方文山合作逐玉主题曲",
-          "url": "https://www.douyin.com/hot/2412556",
-          "source": "抖音",
+          "title": "德总理体验中德合作辅助驾驶系统",
+          "url": "https://www.toutiao.com/trending/7610248611271622698/",
+          "source": "今日头条",
           "ranks": [
-            24
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "整治幽灵外卖新规发布",
-          "url": "https://www.baidu.com/s?wd=%E6%95%B4%E6%B2%BB%E5%B9%BD%E7%81%B5%E5%A4%96%E5%8D%96%E6%96%B0%E8%A7%84%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "time_info": "01时14分"
         },
         {
           "title": "墨西哥总统辛鲍姆：墨西哥石化投资将采取公私合作模式。",
@@ -143,7 +179,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -153,30 +189,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
           "url": "https://wallstreetcn.com/articles/3766208",
           "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "纳斯达克综合指数、纳斯达克100指数跌超2%。 标普500指数跌超1.2%，道指下跌超200点、跌幅超过0.4%。 半导体指数跌超4.6%，生物科技指数跌2%，罗素2000指数跌0.4%。 北美科技软件股指数ETF涨幅一度收窄至不足1.0%，Salesforce涨幅一度从3.9%收窄至1.5%。 人工智能（AI）基建概念股西部数据一度下跌大约7%，Lumentum控股一度跌约8.5%，希捷科技一度跌约6.7%。",
-          "url": "https://wallstreetcn.com/livenews/3059673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            3,
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
+        },
+        {
+          "title": "强劲财报难解AI担忧，英伟达跌超5%，纳指跌幅扩大至2%，芯片股承压，金涨银跌，油价反弹",
+          "url": "https://wallstreetcn.com/articles/3766225",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时01分"
+          "time_info": "01时14分"
         },
         {
           "title": "强劲财报难解AI担忧，英伟达跌超4%，纳指跌幅扩大至1%，芯片股承压，金涨银跌，WTI原油一度跌逾2%",
@@ -190,6 +227,18 @@
           "time_info": "00时01分"
         },
         {
+          "title": "纳斯达克综合指数、纳斯达克100指数跌超2%。 标普500指数跌超1.2%，道指下跌超200点、跌幅超过0.4%。 半导体指数跌超4.6%，生物科技指数跌2%，罗素2000指数跌0.4%。 北美科技软件股指数ETF涨幅一度收窄至不足1.0%，Salesforce涨幅一度从3.9%收窄至1.5%。 人工智能（AI）基建概念股西部数据一度下跌大约7%，Lumentum控股一度跌约8.5%，希捷科技一度跌约6.7%。",
+          "url": "https://wallstreetcn.com/livenews/3059673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
+        },
+        {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3766259",
           "source": "华尔街见闻",
@@ -197,19 +246,42 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "椭圆变速版see you again",
           "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
+        },
+        {
+          "title": "挪威主权财富基金：AI发现了他人遗漏的风险",
+          "url": "https://wallstreetcn.com/livenews/3059691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时01分"
+          "time_info": "01时14分"
+        },
+        {
+          "title": "科技巨头2万亿美元豪赌AI",
+          "url": "https://www.toutiao.com/trending/7611122303522311734/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时14分"
         },
         {
           "title": "Ithina组建全球人工智能（AI）操作平台。",
@@ -243,6 +315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "中国AI调用量首次超过美国",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时14分"
         }
       ]
     },
@@ -258,8 +341,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "2025全球汽车销量TOP10出炉！中国品牌“三强聚首” 比亚迪排名创新高",
@@ -269,19 +352,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
           "url": "https://wallstreetcn.com/articles/3766102",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "【焦点复盘】沪指探底回升几乎平收，硬科技方向全线走强，环保板块午后异动",
@@ -291,41 +375,44 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "如何看待「五粮液白酒而非乙醇可降低斑马鱼血栓模型中的心血管疾病风险」这一研究论文？",
           "url": "https://www.zhihu.com/question/2008157354970093059",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "2 月 26 日恒生科技指数大跌 2.87%，互联网科技股普遍走低，如何看待？怎样理解其近期走势？",
           "url": "https://www.zhihu.com/question/2010395085326480507",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "标普500指数跌幅扩大至超过1.1%，科技板块跌超2.5%，电信板块跌1.6%，原材料板块跌1.1%。 道指跌超0.3%，纳指跌超1.8%，半导体指数跌超4.6%。 北美科技软件股指数ETF涨幅收窄至不到1.4%。",
           "url": "https://wallstreetcn.com/livenews/3059663",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         }
       ]
     },
@@ -341,19 +428,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "如何看待消息称 2026 年中国手机行业将正式迎来全面涨价潮，3 月起新品最低涨 1000，老款也将调价？",
           "url": "https://www.zhihu.com/question/2010317954231788192",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
@@ -363,41 +451,44 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "中国锂电池核心技术新突破",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%94%82%E7%94%B5%E6%B1%A0%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E6%96%B0%E7%AA%81%E7%A0%B4",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "日本队动作不当裁判吹郭士强技术犯规",
           "url": "https://www.toutiao.com/trending/7610300251941552166/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产，两案获利近200亿美元",
           "url": "https://m.thepaper.cn/newsDetail_forward_32657978",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "报道：五角大楼已就使用Anthropic人工智能技术发出最终报价",
@@ -421,11 +512,12 @@
           "url": "https://wallstreetcn.com/livenews/3059666",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "北美科技软件股指数ETF涨约2.7%，刷新日高至83.06美元。",
@@ -475,7 +567,7 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "送游戏被当舔狗,吧友狂挽尊",
@@ -485,8 +577,31 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
+        },
+        {
+          "title": "一盒内存条堪比一套房",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%9B%92%E5%86%85%E5%AD%98%E6%9D%A1%E5%A0%AA%E6%AF%94%E4%B8%80%E5%A5%97%E6%88%BF%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时01分"
+          "time_info": "01时14分"
+        },
+        {
+          "title": "男子网吧包间打游戏遭陌生女子猥亵",
+          "url": "https://www.toutiao.com/trending/7609940843651186724/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "离谱!内存涨价逼死魅族",
@@ -496,19 +611,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "男子网吧包间打游戏遭陌生女子猥亵",
-          "url": "https://www.toutiao.com/trending/7609940843651186724/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "血亏!4090显卡4千元被秒",
@@ -518,14 +622,14 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         }
       ]
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如美发动攻击，中俄会否联手支援伊朗？外交部回应",
@@ -535,19 +639,59 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
         },
         {
           "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32653060",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时14分]"
+        },
+        {
+          "title": "叙利亚外交部：外长阿萨德·哈桑·阿尔-希巴尼先生在首都大马士革接见了欧盟外交代表团。会议讨论了双方关系发展的前景，代表团确认欧盟将继续支持叙利亚政府的努力，并预计不久将提升欧盟驻大马士革使团的外交代表级别。",
+          "url": "https://flash.jin10.com/detail/20260227001437850800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时01分"
+          "time_info": "01时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌：推出更快版本的最新图像模型Nano Banana 2，并将在谷歌旗下各产品中逐步上线。",
+          "url": "https://wallstreetcn.com/livenews/3059680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "谷歌推出最新图像模型Nano Banana 2",
+          "url": "https://flash.jin10.com/detail/20260227001845830800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时14分"
         }
       ]
     },
