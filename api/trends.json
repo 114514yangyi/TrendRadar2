@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-03-01T00:36:39.396295+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-01T01:28:41.094730+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "阿曼外交大臣：伊朗已同意不拥有“可制造核弹的核材料”",
+          "url": "https://wallstreetcn.com/articles/3766403",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
+        },
+        {
+          "title": "当地时间2月28日晚，以色列军方称，监测到伊朗第九轮导弹射向以色列。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3060946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
         {
           "title": "科威特国际机场遭到无人机袭击",
           "url": "https://flash.jin10.com/detail/20260301000127306800",
@@ -19,15 +41,26 @@
           "time_info": "00时36分"
         },
         {
-          "title": "从伊朗方面获悉，航行在该地区的船只正在接收来自伊朗伊斯兰革命卫队的高频率反复信息，声明任何船只均无权通过霍尔木兹海峡。（CCTV国际时讯）",
-          "url": "https://wallstreetcn.com/livenews/3060930",
-          "source": "华尔街见闻-快讯",
+          "title": "孟加拉国外交部：政府对中东地区本国公民的安危深表关切。",
+          "url": "https://flash.jin10.com/detail/20260301012333703800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "土耳其总统埃尔多安：我们将加快外交努力，促使各方重返谈判桌。",
+          "url": "https://flash.jin10.com/detail/20260301012220032800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "01时28分"
         },
         {
           "title": "国际原子能机构：将继续监测局势并及时通报。",
@@ -35,17 +68,6 @@
           "source": "金十数据",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "阿曼外交大臣：伊朗已同意不拥有“可制造核弹的核材料”",
-          "url": "https://wallstreetcn.com/articles/3766403",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -63,6 +85,63 @@
           "time_info": "00时36分"
         },
         {
+          "title": "从伊朗方面获悉，航行在该地区的船只正在接收来自伊朗伊斯兰革命卫队的高频率反复信息，声明任何船只均无权通过霍尔木兹海峡。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3060930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
+        },
+        {
+          "title": "伊朗要求国际原子能机构召开紧急特别理事会会议",
+          "url": "https://wallstreetcn.com/livenews/3060925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
+        },
+        {
+          "title": "胡锡进：战争烈度空前，绝对你死我活",
+          "url": "https://news.ifeng.com/c/8r7OC8YDYPQ",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
+        },
+        {
+          "title": "外交部回应美以打击伊朗",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E4%BB%A5%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
+        },
+        {
+          "title": "外交部回应美以军事打击伊朗：高度关切，呼吁立即停止军事行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32674154",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
+        },
+        {
           "title": "国际原子能机构：正密切关注中东局势发展，并敦促各方保持克制，以避免对该地区民众造成任何核安全风险。",
           "url": "https://flash.jin10.com/detail/20260228235712437800",
           "source": "金十数据",
@@ -74,37 +153,26 @@
           "time_info": "00时36分"
         },
         {
-          "title": "伊朗要求国际原子能机构召开紧急特别理事会会议",
-          "url": "https://wallstreetcn.com/livenews/3060925",
+          "title": "伊朗外交部：遇袭小学150至160人死亡",
+          "url": "https://wallstreetcn.com/livenews/3060937",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "01时28分"
         },
         {
-          "title": "胡锡进：战争烈度空前，绝对你死我活",
-          "url": "https://news.ifeng.com/c/8r7OC8YDYPQ",
-          "source": "凤凰网",
+          "title": "英国外交、联邦及发展事务部（FCDO）建议在沙特阿拉伯的英国公民留在家中。",
+          "url": "https://flash.jin10.com/detail/20260301011027969800",
+          "source": "金十数据",
           "ranks": [
-            10
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "外交部回应美以打击伊朗",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E4%BB%A5%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "01时28分"
         },
         {
           "title": "伊朗要求国际原子能机构召开紧急特别理事会会议",
@@ -112,17 +180,6 @@
           "source": "金十数据",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "外交部回应美以军事打击伊朗：高度关切，呼吁立即停止军事行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32674154",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -154,7 +211,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "3月1日起一批国家标准开始实施",
@@ -164,8 +221,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
         },
         {
           "title": "3月起一批国家标准开始实施",
@@ -175,8 +232,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
         },
         {
           "title": "我国首个国家级人形机器人与具身智能标准体系发布",
@@ -186,8 +243,31 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
+        },
+        {
+          "title": "土耳其总统埃尔多安：我们认为伊朗对兄弟般的海湾国家发动的无人机和导弹袭击是不可接受的。",
+          "url": "https://flash.jin10.com/detail/20260301012404078800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "01时28分"
+        },
+        {
+          "title": "小米发布会",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
         },
         {
           "title": "事关人形机器人！我国首个国家级标准体系发布 产业迫近临界点",
@@ -197,19 +277,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "小米发布会",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
         },
         {
           "title": "伊朗军队正在对美国中东地区的军事基地实施打击，战火会蔓延至其他国家吗？中东各国有何反应？",
@@ -219,52 +288,56 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "伊朗政府新闻发言人办公室发布1号公告",
-          "url": "https://www.cls.cn/detail/2298419",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "中国驻伊朗大使馆发布关于目前部分伊朗陆地边境口岸情况通报",
-          "url": "https://wallstreetcn.com/livenews/3060921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
         },
         {
           "title": "2026年考研国家线公布",
           "url": "https://search.bilibili.com/all?keyword=2026%E5%B9%B4%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF%E5%85%AC%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
+        },
+        {
+          "title": "伊朗政府新闻发言人办公室发布1号公告",
+          "url": "https://www.cls.cn/detail/2298419",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
+        },
+        {
+          "title": "中国驻伊朗大使馆发布关于目前部分伊朗陆地边境口岸情况通报",
+          "url": "https://wallstreetcn.com/livenews/3060921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
         },
         {
           "title": "2026年考研国家线公布",
           "url": "https://www.douyin.com/hot/2414105",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
         },
         {
           "title": "国家发对象,兵哥哥有福了",
@@ -274,8 +347,52 @@
             27
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
+        },
+        {
+          "title": "人形机器人进入宝马工厂，合作方为瑞典公司Hexagon",
+          "url": "https://wallstreetcn.com/livenews/3060936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "01时28分"
+        },
+        {
+          "title": "加拿大总理卡尼：加拿大和印度都是正在发展的经济体，在能源、科技和人工智能领域有着雄心壮志。我和塔塔集团主席在孟买会面，讨论我们两国如何在这些领域合作，为两国人民创造更大的安全和繁荣。",
+          "url": "https://flash.jin10.com/detail/20260301011542582800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "巴基斯坦总理：今天晚上，我与沙特王储穆罕默德·本·萨勒曼进行了交谈，表达了巴基斯坦对以色列袭击伊朗后，随之而来的海湾地区严重升级的强烈谴责。巴基斯坦在这个艰难时刻将全力支持沙特阿拉伯和海湾国家。我们随时准备发挥建设性作用以促进和平，并祈愿斋月为我们的地区带来安宁与稳定。",
+          "url": "https://flash.jin10.com/detail/20260301011112994800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "巴基斯坦总理：我们强烈谴责以色列今天早些时候对伊朗的攻击所引发的严重地区升级，而随后对卡塔尔以及其他海湾国家的攻击令人遗憾。",
+          "url": "https://flash.jin10.com/detail/20260301010723325800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
         },
         {
           "title": "中国驻伊朗大使馆发布关于目前部分伊朗陆地边境口岸情况通报",
@@ -287,12 +404,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "科威特国家通讯社：科威特多家医院接收了12名在伊朗空袭中受伤的人员。",
+          "url": "https://flash.jin10.com/detail/20260301005512662800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
         }
       ]
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI冲击之下，新一轮“次贷危机”来了？",
@@ -302,8 +430,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
         },
         {
           "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
@@ -313,19 +441,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
         },
         {
           "title": "春节 AI 大战几十亿烧完，谁赢了？这场红包雨究竟是抢到了 AI 入口的门票，还是只买到了一波短期日活脉冲？",
@@ -337,12 +466,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "最新AI军事模拟：95%对局发射核弹",
+          "url": "https://www.toutiao.com/trending/7611738738124656170/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
         }
       ]
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国政府「首次封杀」全球头部大模型企业，美联邦机构停用 Anthropic 产品，会对市场造成何种影响？",
@@ -352,25 +492,48 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
+        },
+        {
+          "title": "宇树科技机器人都被谁买走了",
+          "url": "https://www.toutiao.com/trending/7611752443377897011/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "01时28分"
         }
       ]
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "学生会不讲理,显卡算电器",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351144&amp;topic_name=%E5%AD%A6%E7%94%9F%E4%BC%9A%E4%B8%8D%E8%AE%B2%E7%90%86%2C%E6%98%BE%E5%8D%A1%E7%AE%97%E7%94%B5%E5%99%A8",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
+        },
+        {
+          "title": "玩出名堂的抓人游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%87%BA%E5%90%8D%E5%A0%82%E7%9A%84%E6%8A%93%E4%BA%BA%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "01时28分"
         }
       ]
     },
@@ -386,8 +549,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
         }
       ]
     }
