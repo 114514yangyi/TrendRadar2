@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T13:01:51.458027+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-03-01T14:57:25.833668+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
         {
           "title": "阿曼外交大臣：伊朗已同意不拥有“可制造核弹的核材料”",
@@ -28,11 +28,12 @@
             14,
             8,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 13时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 14时57分]"
         },
         {
           "title": "胡锡进：战争烈度空前，绝对你死我活",
@@ -182,6 +183,19 @@
           "time_info": "[03时27分 ~ 06时31分]"
         },
         {
+          "title": "美以空袭伊朗，阿拉伯国家联盟发声：“阿拉伯-以色列冲突升级为全面地区战争的时刻”",
+          "url": "https://wallstreetcn.com/livenews/3061054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 14时57分]"
+        },
+        {
           "title": "从伊朗方面获悉，航行在该地区的船只正在接收来自伊朗伊斯兰革命卫队的高频率反复信息，声明任何船只均无权通过霍尔木兹海峡。（CCTV国际时讯）",
           "url": "https://wallstreetcn.com/livenews/3060930",
           "source": "华尔街见闻-快讯",
@@ -195,16 +209,16 @@
           "time_info": "[00时36分 ~ 02时43分]"
         },
         {
-          "title": "美以空袭伊朗，阿拉伯国家联盟发声：“阿拉伯-以色列冲突升级为全面地区战争的时刻”",
-          "url": "https://wallstreetcn.com/livenews/3061054",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/articles/3766454",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            13
+            7,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时57分 ~ 13时01分]"
+          "time_info": "[13时01分 ~ 14时57分]"
         },
         {
           "title": "美国驻联合国大使就伊朗问题表示，在缺乏真正停止侵略的意愿的情况下，外交不可能取得成功。",
@@ -217,6 +231,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
+          "url": "https://www.cls.cn/detail/2298666",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 14时57分]"
         },
         {
           "title": "伊朗外交部：遇袭小学150至160人死亡",
@@ -244,6 +271,31 @@
           "time_info": "[07时30分 ~ 10时57分]"
         },
         {
+          "title": "新华每日电讯：战争成瘾，祸端无尽！四问美以袭击伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32676542",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 14时57分]"
+        },
+        {
+          "title": "外交部和中国驻伊朗使领馆提醒在伊朗中国公民尽快撤离。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3061062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 14时57分]"
+        },
+        {
           "title": "伊朗要求国际原子能机构召开紧急特别理事会会议",
           "url": "https://wallstreetcn.com/livenews/3060925",
           "source": "华尔街见闻-快讯",
@@ -254,18 +306,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时28分]"
-        },
-        {
-          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
-          "url": "https://www.cls.cn/detail/2298666",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 13时01分]"
         },
         {
           "title": "俄罗斯驻联合国大使：伊朗虽有意愿开展外交，却仍遭“背后一击”。",
@@ -280,6 +320,18 @@
           "time_info": "[06时31分 ~ 07时31分]"
         },
         {
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/livenews/3061056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 14时57分]"
+        },
+        {
           "title": "伊朗外交部发言人称伊朗最高领袖和总统“安然无恙”",
           "url": "https://wallstreetcn.com/livenews/3060992",
           "source": "华尔街见闻-快讯",
@@ -292,16 +344,16 @@
           "time_info": "[06时31分 ~ 07时31分]"
         },
         {
-          "title": "新华每日电讯：战争成瘾，祸端无尽！四问美以袭击伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32676542",
-          "source": "澎湃新闻",
+          "title": "外交部提醒在伊朗中国公民尽快撤离",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB",
+          "source": "百度热搜",
           "ranks": [
-            19,
-            17
+            17,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时57分 ~ 13时01分]"
+          "time_info": "[13时01分 ~ 14时57分]"
         },
         {
           "title": "国际原子能机构：正密切关注中东局势发展，并敦促各方保持克制，以避免对该地区民众造成任何核安全风险。",
@@ -324,28 +376,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "外交部和中国驻伊朗使领馆提醒在伊朗中国公民尽快撤离。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3061062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
-          "url": "https://wallstreetcn.com/articles/3766454",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
         },
         {
           "title": "据Politico：美国国防部将于周日向参议院外交关系委员会工作人员作简报。",
@@ -403,15 +433,15 @@
           "time_info": "07时31分"
         },
         {
-          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
-          "url": "https://wallstreetcn.com/livenews/3061056",
-          "source": "华尔街见闻-快讯",
+          "title": "美国加州州长纽森：特朗普对美国人民撒谎。他发动的鲁莽和非法的战争没有关于如何收场的描述，也没有对生存威胁的解释。",
+          "url": "https://flash.jin10.com/detail/20260301142743809800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "14时57分"
         },
         {
           "title": "国际足联希望所有球队安全参加世界杯",
@@ -420,7 +450,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -447,6 +477,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "交易商与船商纷纷避开霍尔木兹海峡 国际海运遭遇“急性危机”",
+          "url": "https://flash.jin10.com/detail/20260301141701268800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
           "title": "英国外交、联邦及发展事务部（FCDO）建议在沙特阿拉伯的英国公民留在家中。",
           "url": "https://flash.jin10.com/detail/20260301011027969800",
           "source": "金十数据",
@@ -456,17 +497,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
-        },
-        {
-          "title": "外交部提醒在伊朗中国公民尽快撤离",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
         },
         {
           "title": "挪威首相：我们与国际社会一样，对伊朗的核武器计划深表关切。",
@@ -486,7 +516,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -662,7 +692,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -714,7 +744,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "3月1日起一批国家标准开始实施",
@@ -749,8 +779,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 13时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 14时57分]"
         },
         {
           "title": "我国首个国家级人形机器人与具身智能标准体系发布",
@@ -760,22 +790,6 @@
             4,
             5,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 10时57分]"
-        },
-        {
-          "title": "2026年考研国家线公布",
-          "url": "https://search.bilibili.com/all?keyword=2026%E5%B9%B4%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF%E5%85%AC%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            9,
-            10,
-            15,
-            3,
-            5
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -796,6 +810,23 @@
           "time_info": "[00时36分 ~ 07时31分]"
         },
         {
+          "title": "2026年考研国家线公布",
+          "url": "https://search.bilibili.com/all?keyword=2026%E5%B9%B4%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF%E5%85%AC%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            9,
+            10,
+            15,
+            3,
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 14时57分]"
+        },
+        {
           "title": "伊朗军队正在对美国中东地区的军事基地实施打击，战火会蔓延至其他国家吗？中东各国有何反应？",
           "url": "https://www.zhihu.com/question/2011129557315511537",
           "source": "知乎",
@@ -812,11 +843,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 13时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 14时57分]"
         },
         {
           "title": "国家发对象,兵哥哥有福了",
@@ -834,22 +866,12 @@
           "url": "https://www.cls.cn/detail/2298678",
           "source": "财联社热门",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 13时01分]"
-        },
-        {
-          "title": "哈梅内伊身亡，伊朗官媒称总统正领导国家",
-          "url": "https://news.ifeng.com/c/8r8R1IPHibM",
-          "source": "凤凰网",
-          "ranks": [
+            2,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 14时57分]"
         },
         {
           "title": "土耳其总统埃尔多安：我们认为伊朗对兄弟般的海湾国家发动的无人机和导弹袭击是不可接受的。",
@@ -880,7 +902,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -894,6 +916,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "全国政协十四届四次会议新闻发布会3月3日举行",
+          "url": "https://wallstreetcn.com/livenews/3061077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "哈梅内伊身亡，伊朗官媒称总统正领导国家",
+          "url": "https://news.ifeng.com/c/8r8R1IPHibM",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 14时57分]"
         },
         {
           "title": "中国驻以色列使馆发布关于近期在以中国游客和临时出差人员离境方式的提醒",
@@ -1052,6 +1097,17 @@
           "time_info": "[10时57分 ~ 13时01分]"
         },
         {
+          "title": "伊朗最高国家安全委员会负责人：伊朗今天的打击力度要强于昨天。临时领导委员会将于周日召开会议。",
+          "url": "https://wallstreetcn.com/livenews/3061073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
           "title": "伊朗国家媒体发布视频称，阿联酋杰贝阿里港遭到袭击。",
           "url": "https://flash.jin10.com/detail/20260301040858702800",
           "source": "金十数据",
@@ -1069,7 +1125,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -1096,6 +1152,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队发布6号公告，27个美国基地及以色列总司令部等均遭到袭击",
+          "url": "https://wallstreetcn.com/livenews/3061068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
           "title": "加拿大总理卡尼：加拿大和印度都是正在发展的经济体，在能源、科技和人工智能领域有着雄心壮志。我和塔塔集团主席在孟买会面，讨论我们两国如何在这些领域合作，为两国人民创造更大的安全和繁荣。",
           "url": "https://flash.jin10.com/detail/20260301011542582800",
           "source": "金十数据",
@@ -1113,7 +1180,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -1135,7 +1202,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -1179,7 +1246,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -1223,7 +1290,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -1286,7 +1353,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "AI冲击之下，新一轮“次贷危机”来了？",
@@ -1310,8 +1377,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 13时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 14时57分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -1324,11 +1391,12 @@
             19,
             10,
             9,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 13时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 14时57分]"
         },
         {
           "title": "最新AI军事模拟：95%对局发射核弹",
@@ -1345,6 +1413,18 @@
           "time_info": "[01时28分 ~ 07时31分]"
         },
         {
+          "title": "如果百度当年梭哈 AI，现在的市值能达到腾讯、阿里的水平吗？",
+          "url": "https://www.zhihu.com/question/1950611259528549544",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 14时57分]"
+        },
+        {
           "title": "如果百度当年梭哈 ai，现在的市值能达到腾讯、阿里的水平吗？",
           "url": "https://www.zhihu.com/question/1950611259528549544",
           "source": "知乎",
@@ -1354,17 +1434,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
-        },
-        {
-          "title": "如果百度当年梭哈 AI，现在的市值能达到腾讯、阿里的水平吗？",
-          "url": "https://www.zhihu.com/question/1950611259528549544",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
         },
         {
           "title": "Block 裁员近半并称「大多数公司动作太慢」，AI 技术变革是否正加速行业洗牌？",
@@ -1391,6 +1460,19 @@
           "time_info": "[06时31分 ~ 07时31分]"
         },
         {
+          "title": "美政府罕见封杀本国AI企业Anthropic",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%94%BF%E5%BA%9C%E7%BD%95%E8%A7%81%E5%B0%81%E6%9D%80%E6%9C%AC%E5%9B%BDAI%E4%BC%81%E4%B8%9AAnthropic",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 14时57分]"
+        },
+        {
           "title": "春节 AI 大战几十亿烧完，谁赢了？这场红包雨究竟是抢到了 AI 入口的门票，还是只买到了一波短期日活脉冲？",
           "url": "https://www.zhihu.com/question/2010359733668832775",
           "source": "知乎",
@@ -1402,18 +1484,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时36分 ~ 06时31分]"
-        },
-        {
-          "title": "美政府罕见封杀本国AI企业Anthropic",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%94%BF%E5%BA%9C%E7%BD%95%E8%A7%81%E5%B0%81%E6%9D%80%E6%9C%AC%E5%9B%BDAI%E4%BC%81%E4%B8%9AAnthropic",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 13时01分]"
         },
         {
           "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
@@ -1460,6 +1530,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "马斯克：我一点也不信任OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260301141148179800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
           "title": "OpenAI就与美国国防部达成的协议表示，保留对安全机制的完全自主权，经审查的OpenAI人员参与其中，并拥有强有力的合同保护。",
           "url": "https://flash.jin10.com/detail/20260301045126214800",
           "source": "金十数据",
@@ -1477,7 +1558,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -1561,11 +1642,12 @@
             17,
             18,
             21,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 13时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 14时57分]"
         },
         {
           "title": "玩出名堂的抓人游戏",
@@ -1576,22 +1658,24 @@
             21,
             23,
             25,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时28分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[01时28分 ~ 14时57分]"
         },
         {
           "title": "童年钥匙,4399通往Steam",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351156&amp;topic_name=%E7%AB%A5%E5%B9%B4%E9%92%A5%E5%8C%99%2C4399%E9%80%9A%E5%BE%80Steam",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 14时57分]"
         },
         {
           "title": "Steam 新品节到底是独立游戏的龙门，还是把几千个梦想扔进算法绞肉机里的万人坑？",
@@ -1643,8 +1727,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 14时57分]"
         },
         {
           "title": "挪威首相：正与挪威各企业保持密切联系，其中包括受霍尔木兹海峡及周边局势影响的海事行业。",
@@ -1672,7 +1756,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国政府「首次封杀」全球头部大模型企业，美联邦机构停用 Anthropic 产品，会对市场造成何种影响？",
@@ -1695,6 +1779,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时28分 ~ 04时35分]"
+        },
+        {
+          "title": "苏州市智能算力产业创新中心正式成立",
+          "url": "https://wallstreetcn.com/livenews/3061069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         }
       ]
     }
