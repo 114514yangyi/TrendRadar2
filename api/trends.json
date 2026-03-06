@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T10:41:12.858952+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2026-03-06T12:48:58.985815+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "美以伊战争最新动态｜谢锋答引毛泽东诗词谈当前局势",
@@ -85,6 +85,17 @@
           "time_info": "[02时14分 ~ 07时12分]"
         },
         {
+          "title": "美以伊战争最新动态｜对话被困霍尔木兹的中国船员",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
           "title": "法国总统马克龙：我敦促伊朗官员不要进一步将黎巴嫩卷入一场与他们无关的战争中。",
           "url": "https://flash.jin10.com/detail/20260306014910255800",
           "source": "金十数据",
@@ -124,7 +135,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -133,11 +144,12 @@
           "url": "https://news.ifeng.com/c/8rGBpfxkioU",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 10时41分]"
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 12时48分]"
         },
         {
           "title": "委内瑞拉证实：同意与美国恢复外交和领事关系",
@@ -147,35 +159,61 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 10时41分]"
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 12时48分]"
         },
         {
           "title": "我国外交部称对当前中东地区紧张局势深表关切，近期将派特使访问中东地区，有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2012912165540099322",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 10时41分]"
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 12时48分]"
         },
         {
-          "title": "外交部副部长吊唁哈梅内伊遇难",
-          "url": "https://www.toutiao.com/trending/7613954627616116233/",
-          "source": "今日头条",
+          "title": "委内瑞拉决定同美国恢复外交关系",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%86%B3%E5%AE%9A%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%81%A2%E5%A4%8D%E5%A4%96%E4%BA%A4%E5%85%B3%E7%B3%BB%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 12时48分]"
+        },
+        {
+          "title": "美国与委内瑞拉同意恢复外交关系",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%90%8C%E6%84%8F%E6%81%A2%E5%A4%8D%E5%A4%96%E4%BA%A4%E5%85%B3%E7%B3%BB",
+          "source": "百度热搜",
+          "ranks": [
+            19,
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 10时41分]"
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 12时48分]"
         },
         {
           "title": "外交部副部长吊唁哈梅内伊遇难",
           "url": "https://www.douyin.com/hot/2420584",
           "source": "抖音",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 12时48分]"
+        },
+        {
+          "title": "外交部副部长吊唁哈梅内伊遇难",
+          "url": "https://www.toutiao.com/trending/7613954627616116233/",
+          "source": "今日头条",
           "ranks": [
             14
           ],
@@ -196,28 +234,6 @@
           "time_info": "[03时57分 ~ 04时49分]"
         },
         {
-          "title": "美国与委内瑞拉同意恢复外交关系",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%90%8C%E6%84%8F%E6%81%A2%E5%A4%8D%E5%A4%96%E4%BA%A4%E5%85%B3%E7%B3%BB",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 10时41分]"
-        },
-        {
-          "title": "委内瑞拉决定同美国恢复外交关系",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%86%B3%E5%AE%9A%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%81%A2%E5%A4%8D%E5%A4%96%E4%BA%A4%E5%85%B3%E7%B3%BB%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 10时41分]"
-        },
-        {
           "title": "美联储理事鲍曼：现在判断战争对美国经济的影响还为时过早。",
           "url": "https://wallstreetcn.com/livenews/3064633",
           "source": "华尔街见闻-快讯",
@@ -236,7 +252,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -258,9 +274,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
+        },
+        {
+          "title": "国际货币基金组织：要求成员国整顿内部秩序。 各国央行必须更加关注消费者物价指数和货币。 一些成员国正与国际货币基金组织就国际收支平衡问题进行磋商。 该基金已经准备好帮助成员国应对国际收支平衡问题。",
+          "url": "https://wallstreetcn.com/livenews/3064858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         },
         {
           "title": "韩国外交部长：阿联酋飞往韩国的商业航班预计将于周五开始。",
@@ -269,7 +296,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -294,6 +321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "外交部副部长吊唁哈梅内伊遇难",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF%E5%90%8A%E5%94%81%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E9%81%87%E9%9A%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         },
         {
           "title": "由迪拜国际机场飞往上海浦东国际机场航班平安落地",
@@ -398,7 +436,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "习近平等党和国家领导人出席十四届全国人大四次会议开幕会",
@@ -434,8 +472,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时14分 ~ 10时41分]"
+          "appearance_count": 10,
+          "time_info": "[02时14分 ~ 12时48分]"
         },
         {
           "title": "2026胡润全球富豪榜发布：中国10亿美元企业家达1110位",
@@ -506,6 +544,17 @@
           "time_info": "02时14分"
         },
         {
+          "title": "比亚迪发布第二代刀片电池，宣称让充电和加油一样快，-30°C 只多 3 分钟，这会对燃油车造成冲击吗？",
+          "url": "https://www.zhihu.com/question/2012986900298871194",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
           "title": "麦当劳 CEO 发布新品汉堡试吃视频，被网友调侃表情像「吃糠咽菜」，如何看待这次公关营销「翻车」？",
           "url": "https://www.zhihu.com/question/2012486365992936364",
           "source": "知乎",
@@ -516,6 +565,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时11分 ~ 10时41分]"
+        },
+        {
+          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
+          "url": "https://www.cls.cn/detail/2304459",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 12时48分]"
+        },
+        {
+          "title": "美国24州联合起诉特朗普政府新关税政策",
+          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 12时48分]"
         },
         {
           "title": "全美超20州就美政府新的全球关税政策提起诉讼",
@@ -536,28 +608,6 @@
           "source": "知乎",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 10时41分]"
-        },
-        {
-          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
-          "url": "https://www.cls.cn/detail/2304459",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 10时41分]"
-        },
-        {
-          "title": "美国24州联合起诉特朗普政府新关税政策",
-          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
-          "source": "凤凰网",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -595,6 +645,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "国家开发银行发行120亿元绿色金融债券 重点支持基础设施绿色升级",
+          "url": "https://wallstreetcn.com/livenews/3064853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "比亚迪发布会都说了啥",
+          "url": "https://www.toutiao.com/trending/7613606639488647206/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         },
         {
           "title": "荷兰外长：参加了与欧盟和海湾国家的通话。强烈谴责伊朗的持续性攻击，并对合作伙伴表示全力支持。这些对地区的无差别攻击是不可原谅的，必须立即停止。",
@@ -647,7 +719,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -658,7 +730,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -672,12 +744,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "时隔11年政府工作报告再提公积金改革",
+          "url": "https://www.toutiao.com/trending/7613670063933132297/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         }
       ]
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -701,8 +784,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时14分 ~ 10时41分]"
+          "appearance_count": 10,
+          "time_info": "[02时14分 ~ 12时48分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -731,6 +814,29 @@
           "time_info": "[02时14分 ~ 07时12分]"
         },
         {
+          "title": "OpenAI将把从英伟达(NVDA.O)和亚马逊(AMZN.O)循环融资获得的资金借给软银。",
+          "url": "https://flash.jin10.com/detail/20260306120949776800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 12时48分]"
+        },
+        {
           "title": "甲骨文因AI数据中心扩张成本激增，计划裁员数千人",
           "url": "https://wallstreetcn.com/livenews/3064643",
           "source": "华尔街见闻-快讯",
@@ -742,17 +848,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时57分 ~ 05时44分]"
-        },
-        {
-          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
-          "url": "https://wallstreetcn.com/articles/3766836",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 10时41分]"
         },
         {
           "title": "市场消息：马斯克的xAI未能阻止加州人工智能透明度法案实施。",
@@ -813,6 +908,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "软银集团正寻求一笔至高达400亿美元的创纪录贷款，用于收购OpenAI的股权。",
+          "url": "https://flash.jin10.com/detail/20260306120926767800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
           "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
           "url": "https://flash.jin10.com/detail/20260306014710843800",
           "source": "金十数据",
@@ -833,6 +939,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "软银寻求高达400亿美元的创纪录贷款，用于收购OpenAI股份。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3064859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         },
         {
           "title": "Together AI正洽谈以75亿美元的估值进行融资。（The Information）",
@@ -857,6 +974,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
+          "url": "https://www.cls.cn/detail/2304544",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
           "title": "市场消息：美国起草规则，要求全球范围内AI芯片出口需持有许可证。",
           "url": "https://flash.jin10.com/detail/20260306013029699800",
           "source": "金十数据",
@@ -879,6 +1007,28 @@
           "time_info": "03时57分"
         },
         {
+          "title": "Meta开放AI竞争者使用WhatsApp一年，以避免欧盟采取行动",
+          "url": "https://wallstreetcn.com/livenews/3064824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "详解OpenAI新模型GPT-5.4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
           "title": "美国证交会与孙宇晨就民事欺诈案件达成和解协议，孙宇晨旗下公司Rainberry将支付1000万美元的民事罚款。",
           "url": "https://flash.jin10.com/detail/20260306060013613800",
           "source": "金十数据",
@@ -893,7 +1043,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "首定航天支柱、七提量子科技 2026政府工作报告释放最强科创信号",
@@ -932,6 +1082,18 @@
           "time_info": "[02时14分 ~ 07时12分]"
         },
         {
+          "title": "有数｜今年的政府工作报告，大模型读到了这些新词和热词",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32652126",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时14分 ~ 12时48分]"
+        },
+        {
           "title": "【数据看盘】“北向+游资+机构” 疯狂抢筹岩山科技，多家机构集体出逃油气股",
           "url": "https://www.cls.cn/detail/2304010",
           "source": "财联社热门",
@@ -956,16 +1118,15 @@
           "time_info": "[02时14分 ~ 07时12分]"
         },
         {
-          "title": "有数｜今年的政府工作报告，大模型读到了这些新词和热词",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32652126",
+          "title": "阿里否认大模型核心团队集体离职：团队稳定，服务正常，未设置商业化KPI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32707241",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            19
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时14分 ~ 10时41分]"
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 12时48分]"
         },
         {
           "title": "首场部长通道亮出“硬核成绩单”：科技领跑、智造升级、国企焕新",
@@ -980,26 +1141,16 @@
           "time_info": "[02时14分 ~ 07时12分]"
         },
         {
-          "title": "阿里否认大模型核心团队集体离职：团队稳定，服务正常，未设置商业化KPI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32707241",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 10时41分]"
-        },
-        {
           "title": "政府工作报告提出培育发展未来能源、量子科技、具身智能、脑机接口、 6G 等未来产业，行业将迎来哪些利好？",
           "url": "https://www.zhihu.com/question/2011177014359513086",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 10时41分]"
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 12时48分]"
         },
         {
           "title": "A股三大指数全线翻红，此前创业板一度跌超1%。 港股持续走高，恒生指数涨幅扩大至1%，恒生科技指数涨幅扩大至2.38%。",
@@ -1008,9 +1159,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
+        },
+        {
+          "title": "未来五年科技创新有大动作",
+          "url": "https://www.douyin.com/hot/2420725",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "恒生科技指数日内涨3%，京东、携程涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3064833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         },
         {
           "title": "恒生科技指数涨幅扩大至1%。",
@@ -1019,7 +1192,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         }
@@ -1038,8 +1211,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时11分 ~ 10时41分]"
+          "appearance_count": 5,
+          "time_info": "[07时11分 ~ 12时48分]"
         },
         {
           "title": "美元指数5日上涨",
@@ -1102,7 +1275,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "周四（3月5日），工业精选ETF下挫2.2%，领跌行业ETF，日常消费ETF和医疗保健ETF跌约2%。 标普油气ETF则涨1.88%，能源精选ETF涨0.53%，可选消费精选ETF涨0.11%。",
@@ -1121,11 +1294,12 @@
           "url": "https://www.toutiao.com/trending/7612866373844598790/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 10时41分]"
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 12时48分]"
         },
         {
           "title": "壳牌与委内瑞拉公司VEPICA以及KBR和贝克休斯达成多项技术和商业协议。壳牌的协议涵盖了离岸天然气项目、陆上油气机会、勘探活动，以及本地化内容和就业培训计划。",
@@ -1161,12 +1335,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "马来西亚贸易部副部长：马来西亚的液化天然气行业基本未受中东紧张局势影响。",
+          "url": "https://flash.jin10.com/detail/20260306112739238800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         }
       ]
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美政府出手,强拆腾讯游戏股权",
@@ -1174,11 +1359,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时14分 ~ 10时41分]"
+          "appearance_count": 10,
+          "time_info": "[02时14分 ~ 12时48分]"
         },
         {
           "title": "雷军回应手机内存芯片价格上涨",
@@ -1192,6 +1378,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时14分 ~ 05时44分]"
+        },
+        {
+          "title": "索尼将重返独占，《羊蹄山之魂》等单机游戏不再移植 PC，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2012677839653187883",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         }
       ]
     },
@@ -1206,7 +1403,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         }
