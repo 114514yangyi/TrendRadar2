@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T01:42:37.836565+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-03-07T02:58:02.990972+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "智能体新时代来了？GPT-5.4发布，会直接使用电脑，但被指出仍存三大问题",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
         },
         {
           "title": "证监会发布《关于短线交易监管的若干规定》",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
         },
         {
           "title": "比亚迪发布第二代刀片电池，宣称让充电和加油一样快，-30°C 只多 3 分钟，这会对燃油车造成冲击吗？",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
         },
         {
           "title": "小米新发布移动端 Agent 产品「Xiaomi miclaw」，开启小范围封测，对此你怎么看？",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
         },
         {
           "title": "美联储施密德：鲍威尔的风格是合作，了解各方立场。",
@@ -59,9 +59,66 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "美联储哈马克：利率政策很可能在相当长一段时间内按兵不动",
+          "url": "https://flash.jin10.com/detail/20260307023648162800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "伊朗外长：我们在对抗两个拥核国家",
+          "url": "https://www.toutiao.com/trending/7613349180555280394/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
+        },
+        {
+          "title": "麦当劳 CEO 发布新品汉堡试吃视频，被网友调侃表情像「吃糠咽菜」，如何看待这次公关营销「翻车」？",
+          "url": "https://www.zhihu.com/question/2012486365992936364",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
+        },
+        {
+          "title": "伊朗总统：一些国家已开始调解冲突",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E4%B8%80%E4%BA%9B%E5%9B%BD%E5%AE%B6%E5%B7%B2%E5%BC%80%E5%A7%8B%E8%B0%83%E8%A7%A3%E5%86%B2%E7%AA%81",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
+        },
+        {
+          "title": "代表建议南天门计划升级国家级IP",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E5%8D%97%E5%A4%A9%E9%97%A8%E8%AE%A1%E5%88%92%E5%8D%87%E7%BA%A7%E5%9B%BD%E5%AE%B6%E7%BA%A7IP",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.7%，报376.75点。 在十个板块中，北欧工业板块跌幅最大。 Atlas Copco AB跌4.4%，在一众北欧个股里表现最差。",
@@ -76,60 +133,27 @@
           "time_info": "[00时54分 ~ 01时42分]"
         },
         {
-          "title": "伊朗外长：我们在对抗两个拥核国家",
-          "url": "https://www.toutiao.com/trending/7613349180555280394/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
-        },
-        {
-          "title": "麦当劳 CEO 发布新品汉堡试吃视频，被网友调侃表情像「吃糠咽菜」，如何看待这次公关营销「翻车」？",
-          "url": "https://www.zhihu.com/question/2012486365992936364",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
-        },
-        {
-          "title": "伊朗总统：一些国家已开始调解冲突",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E4%B8%80%E4%BA%9B%E5%9B%BD%E5%AE%B6%E5%B7%B2%E5%BC%80%E5%A7%8B%E8%B0%83%E8%A7%A3%E5%86%B2%E7%AA%81",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
-        },
-        {
-          "title": "代表建议南天门计划升级国家级IP",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E5%8D%97%E5%A4%A9%E9%97%A8%E8%AE%A1%E5%88%92%E5%8D%87%E7%BA%A7%E5%9B%BD%E5%AE%B6%E7%BA%A7IP",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
-        },
-        {
           "title": "苹果新品发布会全复盘",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%E5%85%A8%E5%A4%8D%E7%9B%98",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 02时58分]"
+        },
+        {
+          "title": "美国波士顿联储主席Collins：虽然面临不确定性，但前景相当温和。 在继续调整政策方面，并没有看到紧迫性。 前景要求FOMC实施具有轻度限制性的政策。 美联储保持耐心是适宜的。 从历史标准来看，4.4%的失业率偏低。",
+          "url": "https://wallstreetcn.com/livenews/3065428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "美联储理事米兰：如果说有什么影响的话，那只会让我倾向于采取更为鸽派的政策。",
@@ -141,6 +165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "美联储哈玛克：美联储政策处于有利位置，能够应对通胀和就业挑战。",
+          "url": "https://flash.jin10.com/detail/20260307023215956800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "美联储理事米兰：目前的政策失准，货币政策过于紧缩。",
@@ -165,13 +200,24 @@
           "time_info": "00时54分"
         },
         {
+          "title": "美联储哈玛克：美联储利率政策很可能在相当长一段时间内维持不变。",
+          "url": "https://flash.jin10.com/detail/20260307023115640800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
           "title": "美联储理事米兰：将在3月政策会议上反对按兵不动",
           "url": "https://wallstreetcn.com/livenews/3065385",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
         },
@@ -185,12 +231,206 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "美联储柯林斯：目前是美联储在利率政策上保持耐心和审慎的时候。",
+          "url": "https://flash.jin10.com/detail/20260307022215198800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国际 外交 战争",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "美以伊战争｜伊朗炸了美企巨头数据中心",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
+        },
+        {
+          "title": "中方是否向伊朗提供了军事支持？外交部回应",
+          "url": "https://news.ifeng.com/c/8rH3OdzVELl",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
+        },
+        {
+          "title": "国际能源署：物流中断带来挑战，全球石油供应仍充足",
+          "url": "https://wallstreetcn.com/livenews/3065433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "铝供应受战争波及：美国买家因伊朗战火转向替代来源",
+          "url": "https://wallstreetcn.com/livenews/3065430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "卡塔尔：若战争持续数周，海湾国家将被迫停产，未来三周油价恐飙至150美元",
+          "url": "https://wallstreetcn.com/articles/3766900",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
+        },
+        {
+          "title": "伊朗军舰在国际海域遭袭后回应：将让敌人付出代价",
+          "url": "https://news.ifeng.com/c/8rGBpfxkioU",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
+        },
+        {
+          "title": "委内瑞拉证实同意与美国恢复外交和领事关系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32711029",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
+        },
+        {
+          "title": "卡塔尔能源部长警告“油价或冲上150美元” 国际油价应声拉涨",
+          "url": "https://www.cls.cn/detail/2305412",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
+        },
+        {
+          "title": "外交部副部长吊唁哈梅内伊遇难",
+          "url": "https://www.douyin.com/hot/2420584",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 02时58分]"
+        },
+        {
+          "title": "欧洲央行执委施纳贝尔：欧洲央行仍处有利地位，但伊朗战争带来通胀上行风险。",
+          "url": "https://flash.jin10.com/detail/20260307010311260800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "国际铜夜盘收跌0.68%，沪铜收跌0.53%，沪铝收涨2.55%，沪锌收涨0.25%，沪铅收平，沪镍收涨0.59%，沪锡收涨0.01%。 氧化铝夜盘收涨3.24%，铝合金收涨2.39%。 不锈钢夜盘收涨0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3065396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "国际能源署：物流中断带来挑战 全球石油供应仍充足",
+          "url": "https://wallstreetcn.com/livenews/3065416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "伊朗库尔德领导人纳德里：如果我们想参与战争，不会是出于任何国家的请求或邀请。",
+          "url": "https://flash.jin10.com/detail/20260307002935560800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "美国国际发展金融公司：美国保险计划仅适用于符合相关标准的船舶。",
+          "url": "https://flash.jin10.com/detail/20260307022517917800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "标普全球：非洲保险公司受中东战争影响较小。",
+          "url": "https://flash.jin10.com/detail/20260307022437288800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "声明显示，美国国际发展金融公司宣布在海湾地区推出200亿美元的海上再保险计划；将首先聚焦于船体与机器以及货物。",
+          "url": "https://flash.jin10.com/detail/20260307022333516800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         }
       ]
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -201,19 +441,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
         },
         {
           "title": "真实锐评TES打野Naiyou被调查",
           "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
         },
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
@@ -223,8 +464,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -234,19 +475,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
-        },
-        {
-          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
-          "url": "https://wallstreetcn.com/articles/3766836",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
         },
         {
           "title": "TES上报Naiyou不当行为",
@@ -254,11 +484,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
         },
         {
           "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
@@ -268,8 +499,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
         },
         {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
@@ -279,8 +510,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
         },
         {
           "title": "Naiyou Jiaqi",
@@ -288,6 +519,17 @@
           "source": "微博",
           "ranks": [
             21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
+        },
+        {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -327,111 +569,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 00时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国际 外交 战争",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美以伊战争｜伊朗炸了美企巨头数据中心",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
         },
         {
-          "title": "中方是否向伊朗提供了军事支持？外交部回应",
-          "url": "https://news.ifeng.com/c/8rH3OdzVELl",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
-        },
-        {
-          "title": "卡塔尔：若战争持续数周，海湾国家将被迫停产，未来三周油价恐飙至150美元",
-          "url": "https://wallstreetcn.com/articles/3766900",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
-        },
-        {
-          "title": "伊朗军舰在国际海域遭袭后回应：将让敌人付出代价",
-          "url": "https://news.ifeng.com/c/8rGBpfxkioU",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
-        },
-        {
-          "title": "委内瑞拉证实同意与美国恢复外交和领事关系",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32711029",
-          "source": "澎湃新闻",
+          "title": "OpenAI推出一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
+          "url": "https://wallstreetcn.com/livenews/3065420",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
-        },
-        {
-          "title": "卡塔尔能源部长警告“油价或冲上150美元” 国际油价应声拉涨",
-          "url": "https://www.cls.cn/detail/2305412",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
-        },
-        {
-          "title": "欧洲央行执委施纳贝尔：欧洲央行仍处有利地位，但伊朗战争带来通胀上行风险。",
-          "url": "https://flash.jin10.com/detail/20260307010311260800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "国际铜夜盘收跌0.68%，沪铜收跌0.53%，沪铝收涨2.55%，沪锌收涨0.25%，沪铅收平，沪镍收涨0.59%，沪锡收涨0.01%。 氧化铝夜盘收涨3.24%，铝合金收涨2.39%。 不锈钢夜盘收涨0.04%。",
-          "url": "https://wallstreetcn.com/livenews/3065396",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "伊朗库尔德领导人纳德里：如果我们想参与战争，不会是出于任何国家的请求或邀请。",
-          "url": "https://flash.jin10.com/detail/20260307002935560800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "02时58分"
         }
       ]
     },
@@ -447,19 +595,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
         },
         {
           "title": "十五五，十五问｜中国如何为创新立规矩",
           "url": "https://m.thepaper.cn/newsDetail_forward_32700211",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
         },
         {
           "title": "迈威尔科技涨超18.8%，（至少）创4月9日以来最大盘中涨幅。",
@@ -515,6 +664,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌：Anthropic在国防工作之外仍然可用。",
+          "url": "https://flash.jin10.com/detail/20260307023959999800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "继微软之后，谷歌公司也告诉用户们：在被特朗普政府封杀的领域之外，Anthropic仍然可用。",
+          "url": "https://wallstreetcn.com/livenews/3065426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
       "match_count": 1,
       "titles": [
@@ -526,8 +703,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
         }
       ]
     }
