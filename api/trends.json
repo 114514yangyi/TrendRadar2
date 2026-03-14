@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T16:47:15.155242+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-03-14T17:42:05.220125+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "华尔街“全面转向”！多家投行警告“伊朗战争引发长期能源危机”",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时41分 ~ 16时47分]"
+          "appearance_count": 11,
+          "time_info": "[10时41分 ~ 17时42分]"
         },
         {
           "title": "美以伊战争｜美军向中东部署海军陆战队远征部队",
@@ -184,6 +184,17 @@
           "time_info": "[16时46分 ~ 16时47分]"
         },
         {
+          "title": "美以伊战争丨特朗普或把美防长当人肉盾牌",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
           "title": "万斯表示支持伊朗战争 与上任前的表态截然相反",
           "url": "https://flash.jin10.com/detail/20260314043127132800",
           "source": "金十数据",
@@ -227,6 +238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "印度阿卡萨航空：受中东地缘政治局势影响，航空涡轮燃料价格大幅上涨。将在国内和国际航线上征收199卢比至1300卢比不等的燃油附加费。",
+          "url": "https://flash.jin10.com/detail/20260314165350928800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "摩根大通与Partners Group Holdings AG因（美国和以色列挑起的）伊朗战争而取消阿联酋活动。",
@@ -343,6 +365,18 @@
           "time_info": "[07时36分 ~ 10时41分]"
         },
         {
+          "title": "韩国财政部：韩国与日本财政部欢迎韩国就纳入全球政府债券指数事宜与国际投资者加强沟通的努力。",
+          "url": "https://flash.jin10.com/detail/20260314160537045800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 17时42分]"
+        },
+        {
           "title": "特朗普顾问呼吁尽快结束伊朗战争：现在是抽身而退的好时候",
           "url": "https://flash.jin10.com/detail/20260314112744773800",
           "source": "金十数据",
@@ -387,17 +421,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
-        },
-        {
-          "title": "韩国财政部：韩国与日本财政部欢迎韩国就纳入全球政府债券指数事宜与国际投资者加强沟通的努力。",
-          "url": "https://flash.jin10.com/detail/20260314160537045800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
         },
         {
           "title": "市场消息：印度铝和铜制造公司Hindalco暂停铝产品销售，因伊朗战争扰乱市场。",
@@ -514,8 +537,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时52分 ~ 16时47分]"
+          "appearance_count": 20,
+          "time_info": "[00时52分 ~ 17时42分]"
         },
         {
           "title": "315晚会主题发布",
@@ -531,6 +554,39 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时52分 ~ 15时45分]"
+        },
+        {
+          "title": "国家网安通报中心通报OpenClaw风险",
+          "url": "https://www.toutiao.com/trending/7616698749179399686/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时41分 ~ 17时42分]"
+        },
+        {
+          "title": "国家网安通报中心通报OpenClaw风险",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E7%BD%91%E5%AE%89%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%BF%83%E9%80%9A%E6%8A%A5OpenClaw%E9%A3%8E%E9%99%A9",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时41分 ~ 17时42分]"
+        },
+        {
+          "title": "国家网络安全通报中心通报OpenClaw风险",
+          "url": "https://search.bilibili.com/all?keyword=OpenClaw%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时41分 ~ 17时42分]"
         },
         {
           "title": "“施工图”发布 “十五五”这样干",
@@ -568,11 +624,12 @@
             21,
             23,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时52分 ~ 16时47分]"
+          "appearance_count": 20,
+          "time_info": "[00时52分 ~ 17时42分]"
         },
         {
           "title": "国家广电总局司长谈整治电视剧演员争番位乱象，将以演员真实姓名的姓氏笔画为序排列番位，怎样看待这一方案？",
@@ -586,28 +643,6 @@
           "time_info": "[00时52分 ~ 13时54分]"
         },
         {
-          "title": "国家网安通报中心通报OpenClaw风险",
-          "url": "https://www.toutiao.com/trending/7616698749179399686/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时41分 ~ 16时47分]"
-        },
-        {
-          "title": "国家网安通报中心通报OpenClaw风险",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E7%BD%91%E5%AE%89%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%BF%83%E9%80%9A%E6%8A%A5OpenClaw%E9%A3%8E%E9%99%A9",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时41分 ~ 16时47分]"
-        },
-        {
           "title": "以色列总统称特朗普攻击国家主权",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BB%E5%87%BB%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -618,17 +653,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时52分 ~ 07时36分]"
-        },
-        {
-          "title": "国家网络安全通报中心通报OpenClaw风险",
-          "url": "https://search.bilibili.com/all?keyword=OpenClaw%E9%A3%8E%E9%99%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时41分 ~ 16时47分]"
         },
         {
           "title": "国家摄影队独有的两会时间",
@@ -729,11 +753,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 16时47分]"
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 17时42分]"
+        },
+        {
+          "title": "上海发布31项新质要素，加速培育新质生产力",
+          "url": "https://wallstreetcn.com/livenews/3070096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 17时42分]"
         },
         {
           "title": "据华尔街日报：知情人士透露，白宫正在更严格地控制卫生与公众服务部的信息发布和政策制定，包括围绕疫苗的政策，以为中期选举做准备。",
@@ -746,18 +784,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时41分 ~ 12时49分]"
-        },
-        {
-          "title": "上海发布31项新质要素，加速培育新质生产力",
-          "url": "https://wallstreetcn.com/livenews/3070096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 16时47分]"
         },
         {
           "title": "港交所就新一轮上市机制改革回应市场关切：同股不同权门槛下调不会降低上市公司质量",
@@ -971,8 +997,34 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
+          "url": "https://www.cls.cn/detail/2312637",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时49分 ~ 17时42分]"
+        },
+        {
+          "title": "鹅厂抄袭AI龙虾,创始人开喷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351810&amp;topic_name=%E9%B9%85%E5%8E%82%E6%8A%84%E8%A2%ADAI%E9%BE%99%E8%99%BE%2C%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%BC%80%E5%96%B7",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时53分 ~ 17时42分]"
+        },
         {
           "title": "DeepSeek V4 为什么还不发布？",
           "url": "https://www.zhihu.com/question/2014783631814580088",
@@ -988,31 +1040,6 @@
           "time_info": "[00时52分 ~ 10时41分]"
         },
         {
-          "title": "鹅厂抄袭AI龙虾,创始人开喷",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351810&amp;topic_name=%E9%B9%85%E5%8E%82%E6%8A%84%E8%A2%ADAI%E9%BE%99%E8%99%BE%2C%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%BC%80%E5%96%B7",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 16时47分]"
-        },
-        {
-          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
-          "url": "https://www.cls.cn/detail/2312637",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时49分 ~ 16时47分]"
-        },
-        {
           "title": "AI带路寻美食,吧友吃到自闭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
           "source": "贴吧",
@@ -1022,11 +1049,12 @@
             13,
             15,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时52分 ~ 16时47分]"
+          "appearance_count": 20,
+          "time_info": "[00时52分 ~ 17时42分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -1045,6 +1073,20 @@
           "time_info": "[00时52分 ~ 12时49分]"
         },
         {
+          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时53分 ~ 17时42分]"
+        },
+        {
           "title": "张颂文硬气回应AI冲击影视行业",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E7%A1%AC%E6%B0%94%E5%9B%9E%E5%BA%94AI%E5%86%B2%E5%87%BB%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -1057,20 +1099,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时42分 ~ 07时36分]"
-        },
-        {
-          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 16时47分]"
         },
         {
           "title": "据《白鲸实验室》报道，DeepSeek V4和姚顺雨领衔操刀的混元新模型，均预计将于下个月（2026年4月）发布。",
@@ -1101,6 +1129,19 @@
           "time_info": "[01时42分 ~ 03时37分]"
         },
         {
+          "title": "美国商务部撤回拟议的AI芯片出口管制新规",
+          "url": "https://wallstreetcn.com/livenews/3070033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 17时42分]"
+        },
+        {
           "title": "周五（3月13日），存储芯片与硬件供应链指数涨3.42%，报107.71点，本周劣迹上涨11.60%，周一显著上涨，随后持续高位震荡。 信息科技指数涨0.44%，本周累涨2.59%。 人工智能（AI）赢家指数跌0.14%，本周累涨3.39%，周一和周二持续上涨，随后高位震荡。 AI软件先驱指数跌1.66%，本周累跌4.78%，周四和周五加速下跌。",
           "url": "https://wallstreetcn.com/livenews/3070007",
           "source": "华尔街见闻-快讯",
@@ -1112,18 +1153,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时45分 ~ 06时36分]"
-        },
-        {
-          "title": "美国商务部撤回拟议的AI芯片出口管制新规",
-          "url": "https://wallstreetcn.com/livenews/3070033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 16时47分]"
         },
         {
           "title": "亚马逊计划利用Cerebras Systems Inc.的芯片搭配自家Trainium处理器来改善人工智能（AI）软件/模型的运行效果。",
@@ -1191,6 +1220,17 @@
           "time_info": "[10时41分 ~ 13时54分]"
         },
         {
+          "title": "AI时代青少年该掌握哪些能力",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E6%97%B6%E4%BB%A3%E9%9D%92%E5%B0%91%E5%B9%B4%E8%AF%A5%E6%8E%8C%E6%8F%A1%E5%93%AA%E4%BA%9B%E8%83%BD%E5%8A%9B%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
           "title": "报道：Meta计划因AI成本攀升而实施大规模裁员",
           "url": "https://wallstreetcn.com/livenews/3070059",
           "source": "华尔街见闻-快讯",
@@ -1201,6 +1241,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时41分 ~ 12时49分]"
+        },
+        {
+          "title": "为什么很多网文作者都非常自信，认为 AI 在创作领域无法取代自己？",
+          "url": "https://www.zhihu.com/question/1914316923497350507",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
         },
         {
           "title": "你是在哪一刻感觉到 AI 时代真的到来了？",
@@ -1252,8 +1303,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时36分 ~ 16时47分]"
+          "appearance_count": 12,
+          "time_info": "[07时36分 ~ 17时42分]"
         },
         {
           "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
@@ -1357,7 +1408,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "首发首款首艘！中国硬核科技再刷屏",
@@ -1434,6 +1485,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 05时41分]"
+        },
+        {
+          "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
+          "url": "https://wallstreetcn.com/articles/3767500",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
         },
         {
           "title": "标普500指数收跌40.43点，跌幅0.61%，报6632.19点。 道琼斯工业平均指数收跌119.38点，跌幅0.26%，报46558.47点。 纳斯达克综合指数（纳指）收跌206.62点，跌幅0.93%，报22105.359点。 纳斯达克100指数收跌152.849点，跌幅0.62%，报24380.734点。 费城半导体指数收涨0.05%，报7646.636点。 费城证交所KBW银行指数收跌0.77%，报147.06点。 纳斯达克生物科技指数收跌0.54%，报5715.49点。",
