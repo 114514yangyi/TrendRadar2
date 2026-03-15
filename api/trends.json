@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T07:36:30.296502+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-03-15T11:19:43.239097+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 23,
+      "match_count": 33,
       "titles": [
         {
           "title": "华尔街“全面转向”！多家投行警告“伊朗战争引发长期能源危机”",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 11时19分]"
         },
         {
           "title": "伊朗指挥官称结束战争有两个条件，一是收回所有损失，二是美国离开波斯湾，战争可能结束吗？后续走向会如何？",
@@ -39,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 11时19分]"
         },
         {
           "title": "美以伊战争丨特朗普：多国将与美国一同派军舰",
@@ -90,28 +91,6 @@
           "time_info": "[00时41分 ~ 02时51分]"
         },
         {
-          "title": "阿联酋总统外交顾问：伊朗对阿联酋的指控是其“缺乏智慧的混乱政策的一部分”。",
-          "url": "https://flash.jin10.com/detail/20260315045927208800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时34分 ~ 07时36分]"
-        },
-        {
-          "title": "阿联酋总统外交顾问：面对“恐怖主义侵略”，阿联酋有权自卫，但仍将理智与逻辑置于优先。",
-          "url": "https://flash.jin10.com/detail/20260315045917452800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时34分 ~ 07时36分]"
-        },
-        {
           "title": "美媒：法国起草结束黎巴嫩战争提案，条款包含承认以色列主权",
           "url": "https://flash.jin10.com/detail/20260315014846807800",
           "source": "金十数据",
@@ -138,6 +117,30 @@
           "time_info": "[04时38分 ~ 07时36分]"
         },
         {
+          "title": "阿联酋总统外交顾问：伊朗对阿联酋的指控是其“缺乏智慧的混乱政策的一部分”。",
+          "url": "https://flash.jin10.com/detail/20260315045927208800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时34分 ~ 11时19分]"
+        },
+        {
+          "title": "阿联酋总统外交顾问：面对“恐怖主义侵略”，阿联酋有权自卫，但仍将理智与逻辑置于优先。",
+          "url": "https://flash.jin10.com/detail/20260315045917452800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时34分 ~ 11时19分]"
+        },
+        {
           "title": "美以伊战争丨伊外长：美国请求中国协助维护海峡安全",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -155,9 +158,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "美以伊战争丨伊朗高官：乌克兰成为伊朗合法打击目标",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "315国际消费者权益日",
+          "url": "https://www.douyin.com/hot/2430994",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         },
         {
           "title": "王者国际服墨子奥特曼皮肤",
@@ -173,6 +198,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时41分 ~ 07时36分]"
+        },
+        {
+          "title": "315国际消费者权益日",
+          "url": "https://search.bilibili.com/all?keyword=315%E5%9B%BD%E9%99%85%E6%B6%88%E8%B4%B9%E8%80%85%E6%9D%83%E7%9B%8A%E6%97%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "特朗普向国际社会求援了，并且想把多个国家拖下水",
+          "url": "https://news.ifeng.com/c/8rVZjrSDAV0",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         },
         {
           "title": "伊朗议会议长：这场战争证明了我们地区的美国基地并不能保护任何人。",
@@ -264,6 +311,61 @@
           "time_info": "[00时41分 ~ 01时35分]"
         },
         {
+          "title": "战争第15天 伊朗开出两个停火条件",
+          "url": "https://www.baidu.com/s?wd=%E6%88%98%E4%BA%89%E7%AC%AC15%E5%A4%A9+%E4%BC%8A%E6%9C%97%E5%BC%80%E5%87%BA%E4%B8%A4%E4%B8%AA%E5%81%9C%E7%81%AB%E6%9D%A1%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
+          "url": "https://wallstreetcn.com/articles/3767534",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "白宫发言人：一旦对伊朗的战争结束，战略石油储备将会得到补充。",
+          "url": "https://flash.jin10.com/detail/20260315095651881800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "伊朗深夜发动2波打击！美方：已有13名美军阵亡！驻日美军“准航母”及海军陆战队被调往中东，特朗普：只要有需要，战争将持续",
+          "url": "https://wallstreetcn.com/articles/3767521",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "伊朗高级指挥官：结束战争有两个条件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32768228",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
           "title": "美国共和党参议员格雷厄姆：如果伊朗失去对哈尔克岛石油基础设施的控制权或运营能力，其经济将被摧毁。谁控制了哈尔克岛，谁就掌控了这场战争的走向。",
           "url": "https://flash.jin10.com/detail/20260314232530491800",
           "source": "金十数据",
@@ -284,23 +386,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "阿联酋总统外交顾问：阿联酋保持克制，为伊朗及地区寻求出路。",
+          "url": "https://flash.jin10.com/detail/20260315045944190800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         }
       ]
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "财政部：拓展地方税源，推动地方附加税改革",
           "url": "https://wallstreetcn.com/livenews/3070194",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 11时19分]"
         },
         {
           "title": "全世界最懒国家一日三餐",
@@ -312,11 +426,12 @@
             25,
             17,
             14,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 11时19分]"
         },
         {
           "title": "中办、国办发布关于推进社会工作专业人员队伍建设的意见",
@@ -337,22 +452,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351747&amp;topic_name=%E8%81%94%E5%90%88%E5%9B%BD%E8%B0%B4%E8%B4%A3%E4%BC%8A%E6%9C%97%3A%E5%88%AB%E6%89%93%E6%B5%B7%E6%B9%BE%E5%9B%BD%E5%AE%B6",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 11时19分]"
         },
         {
           "title": "财政部：2026年财政收支平衡压力加大，强化政策执行落地和预研储备",
           "url": "https://wallstreetcn.com/livenews/3070188",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 11时19分]"
         },
         {
           "title": "两会受权发布丨关于2025年中央和地方预算执行情况与2026年中央和地方预算草案的报告",
@@ -401,6 +518,17 @@
           "time_info": "[04时38分 ~ 07时36分]"
         },
         {
+          "title": "扎哈罗娃：赞同中方对双边关系的评价，俄中合作是当今世界大国间相互尊重对话典范",
+          "url": "https://wallstreetcn.com/livenews/3070218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
           "title": "哥伦比亚能源部长：目前投资不足以与委内瑞拉国家石油公司PDVSA合作修复安东尼奥·里卡尔特输油管道。",
           "url": "https://flash.jin10.com/detail/20260315011552349800",
           "source": "金十数据",
@@ -413,6 +541,61 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时51分 ~ 07时36分]"
+        },
+        {
+          "title": "吉林一号太空实拍海上动态船只视频发布，甚至能看清甲板细节，这意味着什么？有哪些技术飞跃值得关注？",
+          "url": "https://www.zhihu.com/question/2015403166217234028",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "高盛：俄罗斯2月份环比通胀率回落、更接近4%目标，预计俄罗斯央行下周五将把政策利率下调50个基点至15.00%（市场共识：15.00%），延续其降息周期。",
+          "url": "https://flash.jin10.com/detail/20260315094621291800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "央视「3·15」晚会主题发布，将关注食品安全、公共安全、金融安全、广告市场等领域，哪些看点值得关注？",
+          "url": "https://www.zhihu.com/question/2016099547433161361",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "伊朗称敌方仿制伊朗无人机袭击地区国家 企图制造分裂",
+          "url": "https://wallstreetcn.com/livenews/3070203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "樊振东赛季首冠纪录片发布，有哪些看点值得关注？",
+          "url": "https://www.zhihu.com/question/2016235606200579613",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         },
         {
           "title": "据黎巴嫩国家通讯社：黎巴嫩卫生部称，自3月2日以来，以色列对黎巴嫩的袭击已致826人死亡。",
@@ -429,7 +612,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
@@ -441,19 +624,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 11时19分]"
         },
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
           "url": "https://www.cls.cn/detail/2312637",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 11时19分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -472,11 +656,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 11时19分]"
+        },
+        {
+          "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
+          "url": "https://wallstreetcn.com/articles/3767515",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 11时19分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -493,15 +690,15 @@
           "time_info": "[00时41分 ~ 03时35分]"
         },
         {
-          "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
-          "url": "https://wallstreetcn.com/articles/3767515",
-          "source": "华尔街见闻",
+          "title": "AI时代家长如何教育孩子",
+          "url": "https://www.toutiao.com/trending/7616957895850246154/",
+          "source": "今日头条",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时36分"
+          "time_info": "11时19分"
         }
       ]
     },
@@ -548,35 +745,59 @@
     },
     {
       "keyword_group": "美股 美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
           "url": "https://www.cls.cn/detail/2312848",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 11时19分]"
+        },
+        {
+          "title": "金融博客零对冲：恐慌指数VIX与整体波动性的脱节程度有多严重？VIX指数目前仅为美国“解放日”（2025年4月2日）时水平的三分之一（受美股“七巨头”资本支出预期支撑），而整体市场波动性却与2025年4月崩盘时相当。",
+          "url": "https://flash.jin10.com/detail/20260315102410675800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         }
       ]
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "5块钱买造假软件 微信余额能过亿",
           "url": "https://www.baidu.com/s?wd=5%E5%9D%97%E9%92%B1%E4%B9%B0%E9%80%A0%E5%81%87%E8%BD%AF%E4%BB%B6+%E5%BE%AE%E4%BF%A1%E4%BD%99%E9%A2%9D%E8%83%BD%E8%BF%87%E4%BA%BF",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 11时19分]"
+        },
+        {
+          "title": "中东正在引发全球化工行业“大范围不可抗力”",
+          "url": "https://wallstreetcn.com/articles/3767513",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         }
       ]
     }
