@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T05:50:09.072371+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-03-17T06:49:24.566838+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时49分]"
         },
         {
           "title": "全程回顾黄仁勋“全栈AI”演讲：万亿美元新蓝图启动",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 05时50分]"
+          "appearance_count": 3,
+          "time_info": "[05时49分 ~ 06时49分]"
         },
         {
           "title": "锐评B站AI大赛热门作品",
@@ -37,11 +37,38 @@
             6,
             9,
             23,
-            21
+            21,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时49分]"
+        },
+        {
+          "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
+          "url": "https://wallstreetcn.com/articles/3767569",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时49分]"
+        },
+        {
+          "title": "315曝光AI大模型遭投毒操控",
+          "url": "https://search.bilibili.com/all?keyword=315%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%81%AD%E6%8A%95%E6%AF%92%E6%93%8D%E6%8E%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            23,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时49分]"
         },
         {
           "title": "阿里成立 Token Hub 事业群，由吴泳铭直接负责，此次架构调整对阿里 AI 发展有怎样的影响？",
@@ -56,6 +83,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时12分 ~ 05时50分]"
+        },
+        {
+          "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
+          "url": "https://www.zhihu.com/question/2015734176020656294",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 06时49分]"
         },
         {
           "title": "据华尔街日报：Reflection AI 正与新世界集团合作建设数据中心，该中心将部署数万颗英伟达(NVDA.O)芯片。",
@@ -78,31 +119,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
-        },
-        {
-          "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
-          "url": "https://wallstreetcn.com/articles/3767569",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时50分]"
-        },
-        {
-          "title": "315曝光AI大模型遭投毒操控",
-          "url": "https://search.bilibili.com/all?keyword=315%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%81%AD%E6%8A%95%E6%AF%92%E6%93%8D%E6%8E%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时50分]"
         },
         {
           "title": "据华尔街日报：由英伟达支持的人工智能初创公司 Reflection AI 计划斥资数十亿美元在韩国建设数据中心。",
@@ -131,24 +147,12 @@
           "url": "https://wallstreetcn.com/livenews/3071183",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
-          "url": "https://www.zhihu.com/question/2015734176020656294",
-          "source": "知乎",
-          "ranks": [
-            15,
-            10,
-            9
+            3,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 05时50分]"
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时49分]"
         },
         {
           "title": "IBM宣布，与英伟达扩大在企业AI方面的合作。",
@@ -175,6 +179,18 @@
           "time_info": "[04时50分 ~ 05时50分]"
         },
         {
+          "title": "英伟达创始人兼CEO黄仁勋表示：AI已经进入了生产时代。智能现在是实时生成的，企业需要为此规模而构建的系统。 随着AI智能体开始具备推理、规划和行动能力，下一个 AI 拐点将大幅拉动对加速计算、软件和 AI 工厂的需求。联想与英伟达正携手交付驱动未来所需的全栈平台。",
+          "url": "https://wallstreetcn.com/livenews/3071180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时49分]"
+        },
+        {
           "title": "三星揭晓HBM4E，展示全方位AI解决方案、英伟达合作伙伴关系及愿景",
           "url": "https://wallstreetcn.com/livenews/3071158",
           "source": "华尔街见闻-快讯",
@@ -185,6 +201,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时50分]"
+        },
+        {
+          "title": "联想集团董事长兼CEO杨元庆：联想与英伟达拥有独特的定位，能够共同帮助机构实现 AI 运营化——从实验阶段走向企业生产，再到AI云超级工厂。 随着智能体AI（Agentic AI）驱动推理工作负载呈指数级增长，成本控制和单位代币性能（Performance per token）变得至关重要。 通过将英伟达NVIDIA AI Enterprise软件与联想的全栈混合AI平台及服务相结合，我们助力客户以更高的效率、更低的单位代币成本和更快的投产速度实现AI规模化。",
+          "url": "https://wallstreetcn.com/livenews/3071179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时49分]"
+        },
+        {
+          "title": "联想携手联想加速生产级企业AI落地——从AI推理到吉瓦级AI工厂",
+          "url": "https://wallstreetcn.com/livenews/3071178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时49分]"
         },
         {
           "title": "亚马逊、英伟达围绕车用高级AI助理合作。",
@@ -221,17 +261,6 @@
           "time_info": "03时15分"
         },
         {
-          "title": "英伟达创始人兼CEO黄仁勋表示：AI已经进入了生产时代。智能现在是实时生成的，企业需要为此规模而构建的系统。 随着AI智能体开始具备推理、规划和行动能力，下一个 AI 拐点将大幅拉动对加速计算、软件和 AI 工厂的需求。联想与英伟达正携手交付驱动未来所需的全栈平台。",
-          "url": "https://wallstreetcn.com/livenews/3071180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
           "title": "英伟达(NVDA.O)开始将Dynamo投入生产部署，该系统是一款被广泛采用、面向AI工厂的推理操作系统。",
           "url": "https://flash.jin10.com/detail/20260317043743475800",
           "source": "金十数据",
@@ -243,26 +272,15 @@
           "time_info": "04时50分"
         },
         {
-          "title": "联想集团董事长兼CEO杨元庆：联想与英伟达拥有独特的定位，能够共同帮助机构实现 AI 运营化——从实验阶段走向企业生产，再到AI云超级工厂。 随着智能体AI（Agentic AI）驱动推理工作负载呈指数级增长，成本控制和单位代币性能（Performance per token）变得至关重要。 通过将英伟达NVIDIA AI Enterprise软件与联想的全栈混合AI平台及服务相结合，我们助力客户以更高的效率、更低的单位代币成本和更快的投产速度实现AI规模化。",
-          "url": "https://wallstreetcn.com/livenews/3071179",
+          "title": "AI拉动需求劲增，存储芯片全年涨价“无悬念”",
+          "url": "https://wallstreetcn.com/livenews/3071204",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "联想携手联想加速生产级企业AI落地——从AI推理到吉瓦级AI工厂",
-          "url": "https://wallstreetcn.com/livenews/3071178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时50分"
+          "time_info": "06时49分"
         },
         {
           "title": "戴尔(DELL.N)推出搭载英伟达GB300的桌面系统，用于运行自主式AI代理，并集成NVIDIA NeMoCLAW和NVIDIA OpenShell。",
@@ -274,6 +292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "三星电子在英伟达GTC大会上展示了采用三星4纳米代工工艺制造的英伟达新一代AI推理处理器。",
+          "url": "https://flash.jin10.com/detail/20260317060618810800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "马斯克旗下xAI：Grok的文本生成Speech API上线。",
@@ -304,7 +333,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
         },
@@ -315,9 +344,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
+        },
+        {
+          "title": "美国将于4月1日起征求“全栈式”AI出口方案建议",
+          "url": "https://wallstreetcn.com/livenews/3071197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "摩根士丹利：预计人工智能（AI）数据中心将在市政债券市场激发1000亿美元债券发行。",
@@ -337,7 +377,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
         },
@@ -362,12 +402,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "摄影会被AI彻底淘汰吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%91%84%E5%BD%B1%E4%BC%9A%E8%A2%ABAI%E5%BD%BB%E5%BA%95%E6%B7%98%E6%B1%B0%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         }
       ]
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
@@ -375,11 +426,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时49分]"
         },
         {
           "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
@@ -389,8 +441,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时49分]"
         },
         {
           "title": "国际巨头被曝：计划裁员超1.5万人",
@@ -400,8 +452,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时49分]"
         },
         {
           "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
@@ -426,6 +478,43 @@
           "time_info": "[05时49分 ~ 05时50分]"
         },
         {
+          "title": "经济学家：伊朗战争或致海湾经济体遭遇90年代以来最严重衰退",
+          "url": "https://www.cls.cn/detail/2314398",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时49分]"
+        },
+        {
+          "title": "若伊朗局势持续紧张，中方是否担心燃料供应？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776929",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时49分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普暗示将袭击哈尔克岛石油设施",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
           "title": "欧盟外交与安全政策高级代表卡拉斯：莫斯科将从能源价格上涨以及防空力量从乌克兰转向中东中获益。",
           "url": "https://flash.jin10.com/detail/20260317004117825800",
           "source": "金十数据",
@@ -435,52 +524,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
-        },
-        {
-          "title": "经济学家：伊朗战争或致海湾经济体遭遇90年代以来最严重衰退",
-          "url": "https://www.cls.cn/detail/2314398",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时50分]"
-        },
-        {
-          "title": "若伊朗局势持续紧张，中方是否担心燃料供应？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32776929",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时50分]"
-        },
-        {
-          "title": "韩国外交部：美国国务卿鲁比奥表示，对于全球经济和稳定油价而言，各国之间的合作比以往任何时候都更加重要。",
-          "url": "https://flash.jin10.com/detail/20260317053041421800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "韩国外交部：韩国外交部长与美国国务卿鲁比奥讨论确保霍尔木兹海峡航行安全。",
-          "url": "https://flash.jin10.com/detail/20260317052833865800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时50分"
         },
         {
           "title": "美国总统特朗普：战争很快就会结束，但不是这周。",
@@ -495,15 +538,40 @@
           "time_info": "[04时50分 ~ 05时50分]"
         },
         {
+          "title": "韩国外交部：美国国务卿鲁比奥表示，对于全球经济和稳定油价而言，各国之间的合作比以往任何时候都更加重要。",
+          "url": "https://flash.jin10.com/detail/20260317053041421800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时49分]"
+        },
+        {
+          "title": "韩国外交部：韩国外交部长与美国国务卿鲁比奥讨论确保霍尔木兹海峡航行安全。",
+          "url": "https://flash.jin10.com/detail/20260317052833865800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时49分]"
+        },
+        {
           "title": "伊朗战争要打多久？美白宫官员：预计不超过六周",
           "url": "https://www.cls.cn/detail/2314354",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时50分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时49分]"
         },
         {
           "title": "知名演员在奥斯卡高喊“反对战争”",
@@ -511,11 +579,24 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 04时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 06时49分]"
+        },
+        {
+          "title": "特朗普再就结束战争给出模糊时间表：很快，但不是本周",
+          "url": "https://flash.jin10.com/detail/20260317051846700800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时49分]"
         },
         {
           "title": "美国总统特朗普宣称：我比几乎任何人都不希望发动战争。",
@@ -530,17 +611,6 @@
           "time_info": "[04时50分 ~ 05时50分]"
         },
         {
-          "title": "特朗普再就结束战争给出模糊时间表：很快，但不是本周",
-          "url": "https://flash.jin10.com/detail/20260317051846700800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
           "title": "土耳其财政部长：认为伊朗战争带来的冲击将是暂时的。",
           "url": "https://flash.jin10.com/detail/20260317025733727800",
           "source": "金十数据",
@@ -552,6 +622,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "英国首相斯塔默：英国不会被卷入更广泛的伊朗战争",
+          "url": "https://www.cls.cn/detail/2314543",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
           "title": "美国总统特朗普：如果我们不这样做，就会有核战争。",
           "url": "https://flash.jin10.com/detail/20260317043335605800",
           "source": "金十数据",
@@ -561,6 +642,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "汇丰：欧洲天然气价格或维持高位至2027年，战争引发供应短缺",
+          "url": "https://wallstreetcn.com/livenews/3071198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "欧盟外长：中东战事“不是欧洲的战争”",
@@ -621,7 +713,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "燃料电池车再迎利好！五大试点城市群政策将接续、冲刺2030年10万辆保有量目标",
@@ -631,8 +723,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时49分]"
         },
         {
           "title": "新的土地资源优化政策来了",
@@ -642,19 +734,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时49分]"
         },
         {
           "title": "加拿大、挪威、瑞典、丹麦、芬兰、冰岛，发布联合声明",
           "url": "https://www.cls.cn/detail/2314281",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时49分]"
         },
         {
           "title": "欧盟能源专员约根森：欧盟将提议全面淘汰俄罗斯石油，因此所有国家都需要为此做好准备。",
@@ -714,6 +807,18 @@
           "time_info": "[04时50分 ~ 05时50分]"
         },
         {
+          "title": "【伊朗武装部队：若哈尔克岛设施遭袭，将进行果断有力回击】伊朗武装部队高级发言人谢卡尔希当地时间17日表示，近期美国官员及军方指挥官多次扬言要对哈尔克岛发动袭击和侵略。谢卡尔希代表伊朗武装部队和伊朗人民发出警告，倘若美国对哈尔克岛及其石油设施与枢纽实施任何侵略或攻击，伊朗的回应将是果断而有力的。 谢卡尔希表示，在这种情况下，所有发起针对哈尔克岛袭击行动国家的石油和天然气设施，都将成为伊朗武装部队的目标，并将遭到强力打击。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3071175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时49分]"
+        },
+        {
           "title": "油价缩减跌幅，布伦特原油一度转涨，消息面上，特朗普再次呼吁其他国家协助重新开放霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260317003357598800",
           "source": "金十数据",
@@ -758,17 +863,6 @@
           "time_info": "03时15分"
         },
         {
-          "title": "【伊朗武装部队：若哈尔克岛设施遭袭，将进行果断有力回击】伊朗武装部队高级发言人谢卡尔希当地时间17日表示，近期美国官员及军方指挥官多次扬言要对哈尔克岛发动袭击和侵略。谢卡尔希代表伊朗武装部队和伊朗人民发出警告，倘若美国对哈尔克岛及其石油设施与枢纽实施任何侵略或攻击，伊朗的回应将是果断而有力的。 谢卡尔希表示，在这种情况下，所有发起针对哈尔克岛袭击行动国家的石油和天然气设施，都将成为伊朗武装部队的目标，并将遭到强力打击。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3071175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
           "title": "英伟达发布NVIDIA DLSS 5，黄仁勋将其比作图形学领域的GPT时刻",
           "url": "https://wallstreetcn.com/livenews/3071104",
           "source": "华尔街见闻-快讯",
@@ -778,6 +872,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "周二亚太盘初，美国三大股指期货跌0.1%，罗素2000股指期货跌0.2%。 美联储为期两天的FOMC货币政策会议即将开幕。",
+          "url": "https://wallstreetcn.com/livenews/3071199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "美国总统特朗普：其他国家应该感谢我。",
@@ -824,6 +929,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "单个城市群最高16亿元！三部门重金扶持，万亿氢能市场政策暖风频吹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32777925",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
           "title": "英伟达(NVDA.O)：与优步合作推出的“全栈式”自动驾驶出租车将于2028年前在28个市场上线运营，首批将在2027年上半年于洛杉矶和旧金山启动。",
           "url": "https://flash.jin10.com/detail/20260317042753605800",
           "source": "金十数据",
@@ -863,109 +979,15 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "【焦点复盘】科技成长赛道强势做多，沪指60日线失而复得，绿电概念现深幅回调",
-          "url": "https://www.cls.cn/detail/2314218",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时50分]"
-        },
-        {
-          "title": "西梅汁通便真相:全是科技活",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351844&amp;topic_name=%E8%A5%BF%E6%A2%85%E6%B1%81%E9%80%9A%E4%BE%BF%E7%9C%9F%E7%9B%B8%3A%E5%85%A8%E6%98%AF%E7%A7%91%E6%8A%80%E6%B4%BB",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时50分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.56%，报25894点。 恒生科技指数主连夜盘收涨0.67%，报5126点。",
-          "url": "https://wallstreetcn.com/livenews/3071112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "美光科技生产与英伟达Vera Rubin相关的HBM4。",
-          "url": "https://wallstreetcn.com/livenews/3071172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "戴尔(DELL.N)：将全面支持英伟达最新的人工智能存储与数据管理创新。",
-          "url": "https://flash.jin10.com/detail/20260317043048956800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.95%，报7215.84点，早盘涨至7323.32点刷新日高，随后逐步回吐涨幅。 热门中概股里，比亚迪初步收涨8.2%，小米涨5.4%，理想涨5.3%，蔚来涨3.1%，美团、网易、百胜中国、腾讯、拼多多、阿里巴巴至多涨约2.9%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收涨3.24%，中国科技指数ETF（CQQQ）收涨1.62%，中概互联网指数ETF（KWEB）收涨1.59%， 德银嘉实沪深300指数ETF（ASHR）收涨0.33%，XtrackersHarvest中证50（ASHS）收跌1.09%。",
-          "url": "https://wallstreetcn.com/livenews/3071140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "戴尔科技率先出货搭载英伟达GB300的桌面平台",
-          "url": "https://wallstreetcn.com/livenews/3071165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "纳指科技指数收涨约1.5%，半导体指数涨超1.9%",
-          "url": "https://wallstreetcn.com/livenews/3071138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
         }
       ]
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "315 曝光眼镜镜片天价溢价，眼镜行业为什么那么暴利?",
@@ -987,11 +1009,12 @@
           "ranks": [
             15,
             17,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时49分]"
         },
         {
           "title": "英伟达在今后至2028年这段时间于优步（Uber）推出L4软件驱动的无人驾驶出租车（Robotaxis）。",
@@ -1030,6 +1053,17 @@
           "time_info": "[04时50分 ~ 05时50分]"
         },
         {
+          "title": "上游成本全面传导，新能源汽车行业开启涨价模式",
+          "url": "https://wallstreetcn.com/livenews/3071202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
           "title": "Uber(UBER.N)盘后上涨3%，英伟达与Uber将推出由英伟达软件驱动的全球自动驾驶车队，计划于2027年上半年启动。",
           "url": "https://flash.jin10.com/detail/20260317043539548800",
           "source": "金十数据",
@@ -1061,6 +1095,100 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科研 论文 大模型 科技 创新 成果",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "西梅汁通便真相:全是科技活",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351844&amp;topic_name=%E8%A5%BF%E6%A2%85%E6%B1%81%E9%80%9A%E4%BE%BF%E7%9C%9F%E7%9B%B8%3A%E5%85%A8%E6%98%AF%E7%A7%91%E6%8A%80%E6%B4%BB",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时49分]"
+        },
+        {
+          "title": "【焦点复盘】科技成长赛道强势做多，沪指60日线失而复得，绿电概念现深幅回调",
+          "url": "https://www.cls.cn/detail/2314218",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 05时50分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.56%，报25894点。 恒生科技指数主连夜盘收涨0.67%，报5126点。",
+          "url": "https://wallstreetcn.com/livenews/3071112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "美光科技生产与英伟达Vera Rubin相关的HBM4。",
+          "url": "https://wallstreetcn.com/livenews/3071172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        },
+        {
+          "title": "戴尔(DELL.N)：将全面支持英伟达最新的人工智能存储与数据管理创新。",
+          "url": "https://flash.jin10.com/detail/20260317043048956800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.95%，报7215.84点，早盘涨至7323.32点刷新日高，随后逐步回吐涨幅。 热门中概股里，比亚迪初步收涨8.2%，小米涨5.4%，理想涨5.3%，蔚来涨3.1%，美团、网易、百胜中国、腾讯、拼多多、阿里巴巴至多涨约2.9%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收涨3.24%，中国科技指数ETF（CQQQ）收涨1.62%，中概互联网指数ETF（KWEB）收涨1.59%， 德银嘉实沪深300指数ETF（ASHR）收涨0.33%，XtrackersHarvest中证50（ASHS）收跌1.09%。",
+          "url": "https://wallstreetcn.com/livenews/3071140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "戴尔科技率先出货搭载英伟达GB300的桌面平台",
+          "url": "https://wallstreetcn.com/livenews/3071165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        },
+        {
+          "title": "纳指科技指数收涨约1.5%，半导体指数涨超1.9%",
+          "url": "https://wallstreetcn.com/livenews/3071138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         }
       ]
     },
