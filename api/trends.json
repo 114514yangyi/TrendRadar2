@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T05:48:48.424950+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-03-18T06:57:55.710038+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "中越建立全球首个「3+3」机制并首次将公安合作纳入对话，此举有何意义？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 06时57分]"
         },
         {
           "title": "重磅意见发布 全面开展儿童友好建设",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 06时57分]"
         },
         {
           "title": "伊朗媒体发布拉里贾尼手写悼词",
@@ -38,19 +38,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 06时57分]"
         },
         {
-          "title": "伊朗媒体：伊朗已为国家关键职位指定多名替代人选",
-          "url": "https://wallstreetcn.com/livenews/3071919",
-          "source": "华尔街见闻-快讯",
+          "title": "美国国家反恐中心主任辞职",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%8F%8D%E6%81%90%E4%B8%AD%E5%BF%83%E4%B8%BB%E4%BB%BB%E8%BE%9E%E8%81%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时48分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 06时57分]"
         },
         {
           "title": "越共中央总书记：坚定奉行一个中国政策",
@@ -64,16 +65,16 @@
           "time_info": "04时51分"
         },
         {
-          "title": "美国国家反恐中心主任辞职",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%8F%8D%E6%81%90%E4%B8%AD%E5%BF%83%E4%B8%BB%E4%BB%BB%E8%BE%9E%E8%81%8C",
-          "source": "bilibili 热搜",
+          "title": "伊朗媒体：伊朗已为国家关键职位指定多名替代人选",
+          "url": "https://wallstreetcn.com/livenews/3071919",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            7
+            1,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 05时48分]"
+          "appearance_count": 2,
+          "time_info": "[05时48分 ~ 06时57分]"
         },
         {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
@@ -86,6 +87,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时48分]"
+        },
+        {
+          "title": "杭州多地发布购房补贴活动，购买一套房补贴 10 万元消费券，对当地楼市有哪些影响？会有更多地方跟进吗？",
+          "url": "https://www.zhihu.com/question/2017278657140319985",
+          "source": "知乎",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 06时57分]"
+        },
+        {
+          "title": "吉林省中考改革来了",
+          "url": "https://www.douyin.com/hot/2433922",
+          "source": "抖音",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 06时57分]"
         },
         {
           "title": "英伟达(NVDA.O)：AT&T与思科和英伟达合作，为物联网构建人工智能网格",
@@ -105,7 +130,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -121,13 +146,24 @@
           "time_info": "01时22分"
         },
         {
+          "title": "伊朗称可合法打击允许美以利用其领土实施侵略的国家",
+          "url": "https://flash.jin10.com/detail/20260318063246542800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
           "title": "巴西国家石油公司：原定于周二举行的汽油拍卖也已被暂停。",
           "url": "https://flash.jin10.com/detail/20260318050912859800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -149,7 +185,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -160,7 +196,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -171,7 +207,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -187,37 +223,26 @@
           "time_info": "01时22分"
         },
         {
-          "title": "杭州多地发布购房补贴活动，购买一套房补贴 10 万元消费券，对当地楼市有哪些影响？会有更多地方跟进吗？",
-          "url": "https://www.zhihu.com/question/2017278657140319985",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "吉林省中考改革来了",
-          "url": "https://www.douyin.com/hot/2433922",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
           "title": "据路透：伊朗媒体证实，伊朗最高国家安全委员会秘书拉里贾尼遇害。",
           "url": "https://flash.jin10.com/detail/20260318045229455800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
+        },
+        {
+          "title": "伊拉克国家通讯社：伊拉克石油部长表示，从土耳其杰伊汉港的石油输送将于当地时间周三上午10时恢复。",
+          "url": "https://flash.jin10.com/detail/20260318055057528800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         },
         {
           "title": "市场消息：乌克兰和英国已达成新的防务合作伙伴关系。",
@@ -256,7 +281,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
@@ -266,8 +291,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 06时57分]"
         },
         {
           "title": "战争进一步升级！以色列称伊朗最高安全官员拉里贾尼“已被打死”",
@@ -278,8 +303,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 06时57分]"
         },
         {
           "title": "美以伊战争丨美官员辞职：出于良知无法支持对伊战争",
@@ -304,6 +329,17 @@
           "time_info": "[04时51分 ~ 05时48分]"
         },
         {
+          "title": "特朗普或因伊朗战事推迟访华？外交部回应",
+          "url": "https://news.ifeng.com/c/8rZOqGs1pHk",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 06时57分]"
+        },
+        {
           "title": "专家：警惕日本再度成亚洲战争策源地",
           "url": "https://www.toutiao.com/trending/7617163654705807423/",
           "source": "今日头条",
@@ -315,26 +351,15 @@
           "time_info": "[03时14分 ~ 03时15分]"
         },
         {
-          "title": "国际油价17日上涨",
-          "url": "https://flash.jin10.com/detail/20260318052322972800",
-          "source": "金十数据",
+          "title": "美以伊战争丨伊朗证实拉里贾尼遇害",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时48分"
-        },
-        {
-          "title": "特朗普或因伊朗战事推迟访华？外交部回应",
-          "url": "https://news.ifeng.com/c/8rZOqGs1pHk",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 05时48分]"
+          "time_info": "06时57分"
         },
         {
           "title": "美反恐中心主任称无法昧良心支持对伊战争",
@@ -347,19 +372,31 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 06时57分]"
+        },
+        {
+          "title": "国际油价17日上涨",
+          "url": "https://flash.jin10.com/detail/20260318052322972800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "美国家反恐中心主任辞职：无法昧着良心支持对伊朗战争",
           "url": "https://m.thepaper.cn/newsDetail_forward_32784308",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时14分 ~ 05时48分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 06时57分]"
         },
         {
           "title": "露露柠檬四季度净营收36.4亿美元，分析师预期35.8亿美元。 四季度总体同店销售（剔除汇率因素）增长2%，分析师预期增长1.75%。 四季度美国同店销售（剔除汇率因素）下滑2%，分析师预期下降4.09%。 四季度国际同店销售（剔除汇率因素）增长16%，分析师预期增长11.4%。 四季度每股收益（EPS）为5.01美元，分析师预期4.78美元。 原李维斯（Levis Strauss）首席执行官Chip Bergh加盟本公司董事会。 预计全年净营收113.5亿-115亿美元，分析师预期115亿美元。 预计一季度净营收24亿-24.3亿美元，分析师预期24.8亿美元。",
@@ -378,11 +415,12 @@
           "url": "https://wallstreetcn.com/livenews/3071907",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时48分 ~ 06时57分]"
         },
         {
           "title": "伊朗战争削弱吸引力，南非债券资金外流激增",
@@ -402,7 +440,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -457,7 +495,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -473,6 +511,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "市场消息：斯里兰卡宣布实施四天工作制，以节约稀缺的燃料储备，同时为中东长期战争做准备。",
+          "url": "https://flash.jin10.com/detail/20260318053746622800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
           "title": "国际铜夜盘收跌1.06%，沪铜收跌0.92%，沪铝收跌0.62%，沪锌收跌1.76%，沪铅收涨1.03%，沪镍收跌0.95%，沪锡收跌2.34%。 氧化铝夜盘收涨1.59%，铝合金收跌0.44%。 不锈钢夜盘收跌0.57%。",
           "url": "https://wallstreetcn.com/livenews/3071822",
           "source": "华尔街见闻-快讯",
@@ -482,12 +531,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "美国参议员桑德斯：伊朗战争已经花费了228亿美元。用这228亿美元，我们可以为680万儿童提供医疗补助/建造260万个公共住房单位/为130万儿童提供早期教育项目/雇佣24万名教师/为100万借款人取消2万美元的学生债务。",
+          "url": "https://flash.jin10.com/detail/20260318053739973800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         }
       ]
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -497,8 +557,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 06时57分]"
         },
         {
           "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
@@ -510,19 +570,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 05时48分]"
-        },
-        {
-          "title": "必和必拓集团任命Brandon Craig为首席执行官，自7月1日起接替Mike Henry。",
-          "url": "https://flash.jin10.com/detail/20260318052306073800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时48分"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 06时57分]"
         },
         {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
@@ -534,8 +583,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 06时57分]"
         },
         {
           "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
@@ -546,8 +595,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 06时57分]"
         },
         {
           "title": "于谦说怕AI偷看相册",
@@ -559,8 +608,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 06时57分]"
+        },
+        {
+          "title": "必和必拓集团任命Brandon Craig为首席执行官，自7月1日起接替Mike Henry。",
+          "url": "https://flash.jin10.com/detail/20260318052306073800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "OpenAI：GPT-5.4 mini 今天在 ChatGPT、Codex 和 API 中上线。针对编码、计算机使用、多模态理解和子代理进行了优化。速度是 GPT-5 mini 的两倍。GPT-5.4nano也从今天开始在API中提供。",
@@ -572,6 +632,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "公募机构争夺AI好感度，业内提示谨防信息污染",
+          "url": "https://wallstreetcn.com/livenews/3071939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         },
         {
           "title": "超微电脑加入英伟达BlueField-4 STX首发阵营，旨在通过存储服务器提升AI推理性能",
@@ -594,6 +665,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "“龙虾”火出圈，券商纷纷自研AI智能体",
+          "url": "https://wallstreetcn.com/livenews/3071935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         },
         {
           "title": "36 岁程序员，被 AI 写代码吓到了，如果再不转型，我几年内会失业吗？",
@@ -624,9 +706,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
+        },
+        {
+          "title": "大厂月薪 3 万元「疯抢」文科生，AI 时代文科生比理科生更吃香了吗？他们有哪些优势？",
+          "url": "https://www.zhihu.com/question/2016095792616744489",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         },
         {
           "title": "德国寻求扩大AI基础设施 计划瞄准大规模数据中心扩张",
@@ -646,7 +739,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -709,7 +802,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "比亚迪高端技术拉满，为什么品牌溢价数据始终起不来？",
@@ -718,11 +811,26 @@
           "ranks": [
             19,
             14,
-            12
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 06时57分]"
+        },
+        {
+          "title": "全国性行业协会反腐再下一城",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%80%A7%E8%A1%8C%E4%B8%9A%E5%8D%8F%E4%BC%9A%E5%8F%8D%E8%85%90%E5%86%8D%E4%B8%8B%E4%B8%80%E5%9F%8E",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            20,
+            26,
+            23
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时22分 ~ 05时48分]"
+          "time_info": "[01时22分 ~ 06时57分]"
         },
         {
           "title": "行业周报：美国上周API原油库存增超650万桶，汽油库存减少超450万桶",
@@ -737,19 +845,6 @@
           "time_info": "[04时51分 ~ 05时48分]"
         },
         {
-          "title": "全国性行业协会反腐再下一城",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%80%A7%E8%A1%8C%E4%B8%9A%E5%8D%8F%E4%BC%9A%E5%8F%8D%E8%85%90%E5%86%8D%E4%B8%8B%E4%B8%80%E5%9F%8E",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 04时51分]"
-        },
-        {
           "title": "航空业ETF收涨将近2%，与能源业ETF领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3071892",
           "source": "华尔街见闻-快讯",
@@ -760,6 +855,68 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时48分]"
+        },
+        {
+          "title": "软件行业陷入低迷，摩根大通暂停Qualtrics 53亿美元债务融资",
+          "url": "https://wallstreetcn.com/livenews/3071920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科研 论文 大模型 科技 创新 成果",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
+          "url": "https://wallstreetcn.com/articles/3767701",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 06时57分]"
+        },
+        {
+          "title": "标普500指数的11个板块中，能源板块收涨1.02%，可选消费板块涨1%，电信板块涨0.67%，信息技术/科技板块涨0.21%，保健板块跌0.92%。",
+          "url": "https://wallstreetcn.com/livenews/3071893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时51分 ~ 05时48分]"
+        },
+        {
+          "title": "聚焦核心科技、战略性新兴产业，新一批15只硬科技主题基金集中获批",
+          "url": "https://wallstreetcn.com/livenews/3071937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "新基金密集申报，增量资金加码科技赛道",
+          "url": "https://wallstreetcn.com/livenews/3071933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         }
       ]
     },
@@ -774,7 +931,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -803,31 +960,30 @@
       ]
     },
     {
-      "keyword_group": "科研 论文 大模型 科技 创新 成果",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
         {
-          "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
-          "url": "https://wallstreetcn.com/articles/3767701",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 05时48分]"
-        },
-        {
-          "title": "标普500指数的11个板块中，能源板块收涨1.02%，可选消费板块涨1%，电信板块涨0.67%，信息技术/科技板块涨0.21%，保健板块跌0.92%。",
-          "url": "https://wallstreetcn.com/livenews/3071893",
+          "title": "谷歌公司位于美国密歇根的Gigawatt数据中心将于2027年上线（投入应用）。 谷歌与DTE提议，为中心提供长达20年的电力供应合同。 谷歌将承担1600 MW可再生能源项目的所有成本，并承担480 MW能源存储的所有成本。",
+          "url": "https://wallstreetcn.com/livenews/3071936",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            22
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "报道称：谷歌来华考察液冷设备",
+          "url": "https://wallstreetcn.com/livenews/3071795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 05时48分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         }
       ]
     },
@@ -845,8 +1001,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 06时57分]"
         },
         {
           "title": "如何看待《杀戮尖塔 2》转到 godot 引擎并大获成功，这对于独立游戏开发者有什么启示？",
@@ -858,23 +1014,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "报道称：谷歌来华考察液冷设备",
-          "url": "https://wallstreetcn.com/livenews/3071795",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
         }
       ]
     }
