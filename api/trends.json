@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T03:14:07.998867+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-03-19T04:49:55.862030+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
         {
           "title": "证监会：严肃查处破坏资本市场秩序、侵害中小投资者利益的人和事 坚决清除影响资本市场改革发展的“拦路虎”“绊脚石”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "霍尔木兹海峡封锁持续，石油、天然气流通量下降，哪些地区、国家会先面临断油断气？这些地方现在怎么样了？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "蓝白两党2026合作协议出炉！依民调整合、共推候选人",
@@ -38,8 +39,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时49分]"
+        },
+        {
+          "title": "美联储降息概率继续走低，利率期货定价今年降息幅度减少至13个基点，此前鲍威尔新闻发布会结束时定价为17个基点。",
+          "url": "https://flash.jin10.com/detail/20260319043017655800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         },
         {
           "title": "【伊朗最高领袖就拉里贾尼遇害发表声明：凶手必将为这笔血债付出代价】当地时间3月18日晚，伊朗最高领袖穆杰塔巴·哈梅内伊就伊朗最高国家安全委员会秘书拉里贾尼遇害事件发表声明：凶手必将为这笔血债付出代价。（央视）",
@@ -64,6 +76,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "华尔街等外界对美联储3月货币政策会议评述一览",
+          "url": "https://wallstreetcn.com/livenews/3072681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
           "title": "美国国家情报总监Gabbard：如果伊朗的敌对政权得以存续，它很可能会着手进行一项长达数年的重建计划，以重振其军队、导弹和无人机部队。",
           "url": "https://flash.jin10.com/detail/20260319004324064800",
           "source": "金十数据",
@@ -81,7 +104,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -92,9 +115,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "《关于在全社会推进儿童友好建设的意见》发布，将带来哪些变化？",
+          "url": "https://www.zhihu.com/question/2017384049476379393",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         },
         {
           "title": "德国总理默茨：我们不能也不应该害怕指出与合作伙伴之间的内容分歧。这是合作关系必须承受的。",
@@ -114,9 +148,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "美联储决议声明发布日，标普500指数初步收跌1.3%，可选消费、日用消费品板块跌超2.3%，原材料板块跌2.1%，金融、科技、电信板块至少跌1.1%，能源板块微跌不足0.1%“表现最佳”。 纳斯达克100指数初步收跌1.4%，成分股中，Strategy跌6.1%，特许通讯跌5.9%，星巴克跌5%，康卡斯特等跌超4%，天然气供应商Diamondback Energy涨1.5%，AMD涨1.7%，Datadog涨2%，英特尔涨2.4%，核电股CEG涨3.3%。 道指初步收跌超700点，成分股麦当劳、家得宝、宝洁、Visa、耐克至多跌3.3%领跌，摩根大通、雪佛龙至多涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3072670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         },
         {
           "title": "美联储主席鲍威尔：当前的政策立场恰到好处。",
@@ -125,9 +170,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "据伊朗国家电视台：伊朗向以色列发射了新一波导弹。",
+          "url": "https://flash.jin10.com/detail/20260319040816582800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         },
         {
           "title": "美联储主席鲍威尔：不希望因劳动力市场下行风险而采取过于紧缩的政策。",
@@ -136,7 +192,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -147,7 +203,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -163,21 +219,54 @@
           "time_info": "01时14分"
         },
         {
+          "title": "台湾博士重返大陆母校谋合作",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%8D%9A%E5%A3%AB%E9%87%8D%E8%BF%94%E5%A4%A7%E9%99%86%E6%AF%8D%E6%A0%A1%E8%B0%8B%E5%90%88%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
           "title": "美联储主席鲍威尔：政策利率处于中性区间的高端，或略显紧缩。利率目前处于紧缩与不紧缩的边缘。",
           "url": "https://flash.jin10.com/detail/20260319024701346800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "美联储3月货币政策会议要点总结",
+          "url": "https://wallstreetcn.com/livenews/3072661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "提醒：美联储主席鲍威尔新闻发布会结束，FOMC将于4月28-29日举行下一轮货币政策会议。",
+          "url": "https://wallstreetcn.com/livenews/3072660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         }
       ]
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "美以伊战争丨伊朗最高领袖就拉里贾尼遇害发声",
@@ -187,8 +276,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "美反恐高官因美以伊战争辞职，背后还有哪些隐情？",
@@ -198,8 +287,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "国际铜夜盘收跌2.56%，沪铜收跌2.58%，沪铝收平，沪锌收跌1.84%，沪铅收跌0.57%，沪镍收跌0.69%，沪锡收跌3.39%。 氧化铝夜盘收涨0.85%，铝合金收涨0.04%。 不锈钢夜盘收跌0.21%。",
@@ -213,15 +302,37 @@
           "time_info": "01时14分"
         },
         {
+          "title": "古巴外交部：哥斯达黎加决定关闭其在圣何塞的大使馆是“武断的”，是在“压力之下”作出的。",
+          "url": "https://flash.jin10.com/detail/20260319043944860800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
           "title": "卡塔尔外交部：伊朗坚持将其及周边国家作为打击目标，此举属于“不负责任的做法”。",
           "url": "https://flash.jin10.com/detail/20260319025224104800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：特朗普在中东发动了一场战争，但现在他试图逃避代价，把账单留给美国人民，而这场战争似乎没有结束的迹象。鲁比奥和赫格塞斯需要公开宣誓作证。美国人民应当得到答案，也应当获得问责。",
+          "url": "https://flash.jin10.com/detail/20260319043732835800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         },
         {
           "title": "王毅：这场战争本不该发生，更没必要再打下去",
@@ -231,8 +342,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
@@ -242,19 +353,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "深度解读国际油价走势",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E8%B5%B0%E5%8A%BF",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "赖清德称日本殖民台湾是为推动“东亚共荣”，外交部：对民族的可耻背叛",
@@ -265,8 +377,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时49分]"
+        },
+        {
+          "title": "卡塔尔外交部：卡塔尔保留根据国际法采取一切必要措施维护主权和安全的权利。",
+          "url": "https://flash.jin10.com/detail/20260319043323738800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         },
         {
           "title": "意大利将下调燃油税，希望能抵消（美国和以色列发动伊朗战争造成的）成本飙涨。",
@@ -278,6 +401,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "卡塔尔外交部要求一名伊朗安全武官在24小时内离境。",
+          "url": "https://flash.jin10.com/detail/20260319042541721800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "卡塔尔外交部宣布伊朗驻卡塔尔大使馆的军事与安全随员为“不受欢迎的人”。",
+          "url": "https://flash.jin10.com/detail/20260319042422827800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "美国1月国际资本净流入 -250.22亿美元，前值 449亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3072673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "加拿大蒙特利尔国际机场发言人：一架降落航班上发现可疑包裹，目前航班数量受到限制。",
+          "url": "https://flash.jin10.com/detail/20260319040815844800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         },
         {
           "title": "国际原子能机构（IAEA）：根据伊朗提供的信息，周二晚上发生了一起袭击事件，IAEA确认位于布什尔核电站反应堆350米处的一座建筑被击中并摧毁。尽管反应堆本身没有受到损害，工作人员也没有受伤，但在核电站附近或其内部的任何攻击都违反了确保核安全和安保的七项不可或缺的原则，在武装冲突中绝不应发生。",
@@ -316,18 +483,31 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
           "url": "https://www.zhihu.com/question/2017627475413262735",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时49分]"
+        },
+        {
+          "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
+          "url": "https://www.zhihu.com/question/2017543464514974274",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "据Air Current：美国联邦航空管理局于3月17日批准波音公司将其推迟已久的777-9机型继续推进至适航认证测试的第四阶段。",
@@ -352,18 +532,6 @@
           "time_info": "01时14分"
         },
         {
-          "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
-          "url": "https://www.zhihu.com/question/2017543464514974274",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时14分]"
-        },
-        {
           "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
           "url": "https://www.cls.cn/detail/2316633",
           "source": "财联社热门",
@@ -371,8 +539,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
@@ -383,8 +551,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
@@ -394,8 +562,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "日本AI造假,套壳DeepSeek",
@@ -405,8 +573,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -416,8 +584,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "网友抵制AI演员",
@@ -425,11 +593,12 @@
           "source": "微博",
           "ranks": [
             23,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "AI短片流金谷恩仇录",
@@ -441,6 +610,144 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "美光科技：AI服务器需求继续表现强劲。",
+          "url": "https://wallstreetcn.com/livenews/3072679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "易小星参加B站AI创作大赛",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%93%E5%B0%8F%E6%98%9F%E5%8F%82%E5%8A%A0B%E7%AB%99AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "鲍威尔：还没有开始看到人工智能（AI）对于生产力的影响。 近期的生产力趋势并非生成式AI所致。 AI肯定应该会对生产力趋势做出贡献。 数据中心建设可能正推高通胀。 AI投资可能会在短期内刺激中性利率（走高）。",
+          "url": "https://wallstreetcn.com/livenews/3072659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科研 论文 大模型 科技 创新 成果",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美光科技美股盘后跌幅扩大至3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3072684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "【焦点复盘】科技股爆发引领情绪回暖，存储芯片股热度居高不下，化工等周期股逆势领跌",
+          "url": "https://www.cls.cn/detail/2316929",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时49分]"
+        },
+        {
+          "title": "标普500指数的11个板块全线溃败，日用消费品板块收跌2.44%，可选消费板块跌2.32%，原材料板块跌2.25%，信息技术/科技板块跌1.24%跌幅居中，能源板块跌0.16%“领跑”。",
+          "url": "https://wallstreetcn.com/livenews/3072678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "美光科技第二财季云存储营收77.5亿美元，核心数据中心营收56.9亿美元。第二财季营收238.6亿美元，分析师预期197.4亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3072675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "美光科技(MU.O)：预计在2027财年大幅增加研发投资。",
+          "url": "https://flash.jin10.com/detail/20260319041458721800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌2.06%，报7015.70点，微幅高开之后，整体持续走低。 热门中概股里，微博初步收跌10.8%，腾讯音乐跌9.4%，奇富科技跌8.3%，理想跌5.1%，腾讯控股跌4.7%，拼多多跌3.5%，比亚迪、文远知行、百胜中国、小鹏、小马智行、美团、小米集团、网易至少跌超1%，阿特斯太阳能、世纪互联则至多收涨1.5%，新东方涨3.6%，中通快递涨7.3%，金山云涨12.6%。 ETF中，中概互联网指数ETF（KWEB）收跌3.19%，中国科技指数ETF（CQQQ）收跌1.54%。 德银嘉实沪深300指数ETF（ASHR）收跌1.19%，XtrackersHarvest中证50（ASHS）收跌0.50%。",
+          "url": "https://wallstreetcn.com/livenews/3072672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "美光科技(MU.O)第二季度核心数据中心业务营收56.9亿美元。",
+          "url": "https://flash.jin10.com/detail/20260319040513684800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "美光科技(MU.O)第二季度调整后毛利率为74.9%，市场预期为69.1%。",
+          "url": "https://flash.jin10.com/detail/20260319040449721800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "美光科技(MU.O)批准将季度股息提高30%。",
+          "url": "https://flash.jin10.com/detail/20260319040449352800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         }
       ]
     },
@@ -455,7 +762,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -466,7 +773,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -477,7 +784,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -488,7 +795,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         }
@@ -505,26 +812,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【焦点复盘】科技股爆发引领情绪回暖，存储芯片股热度居高不下，化工等周期股逆势领跌",
-          "url": "https://www.cls.cn/detail/2316929",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时14分]"
         }
       ]
     },
@@ -540,8 +830,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "github 技术 行业 软件",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日常消费品ETF收跌超2.4%，与可选消费ETF领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3072682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         }
       ]
     }
