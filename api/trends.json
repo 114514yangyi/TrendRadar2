@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T15:13:41.724313+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-03-18T17:02:19.687939+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 42,
+      "match_count": 49,
       "titles": [
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -15,11 +15,12 @@
             5,
             8,
             9,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时22分 ~ 15时13分]"
+          "appearance_count": 12,
+          "time_info": "[01时22分 ~ 17时02分]"
         },
         {
           "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
@@ -36,18 +37,6 @@
           "time_info": "[01时22分 ~ 07时40分]"
         },
         {
-          "title": "男二以下 AI演员",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%20AI%E6%BC%94%E5%91%98&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 15时13分]"
-        },
-        {
           "title": "于谦说怕AI偷看相册",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
           "source": "bilibili 热搜",
@@ -61,6 +50,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时22分 ~ 10时51分]"
+        },
+        {
+          "title": "男二以下 AI演员",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%20AI%E6%BC%94%E5%91%98&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 17时02分]"
         },
         {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
@@ -94,11 +97,25 @@
           "source": "贴吧",
           "ranks": [
             3,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 15时13分]"
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 17时02分]"
+        },
+        {
+          "title": "官方辟谣“AI安全治理3年计划”",
+          "url": "https://www.douyin.com/hot/2434741",
+          "source": "抖音",
+          "ranks": [
+            7,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时04分 ~ 17时02分]"
         },
         {
           "title": "金蝶徐少春：AI转型是生死之战",
@@ -110,6 +127,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
+        },
+        {
+          "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体情况如何？如何看待 AI 浪潮下的裁员焦虑？",
+          "url": "https://www.zhihu.com/question/2017541603019940502",
+          "source": "知乎",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 17时02分]"
         },
         {
           "title": "必和必拓集团任命Brandon Craig为首席执行官，自7月1日起接替Mike Henry。",
@@ -134,27 +163,15 @@
           "time_info": "07时40分"
         },
         {
-          "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体情况如何？如何看待 AI 浪潮下的裁员焦虑？",
-          "url": "https://www.zhihu.com/question/2017541603019940502",
-          "source": "知乎",
+          "title": "腾讯：2025年第四季资本开支付款224亿元 主要用于支持AI业务发展",
+          "url": "https://wallstreetcn.com/livenews/3072288",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "官方辟谣“AI安全治理3年计划”",
-          "url": "https://www.douyin.com/hot/2434741",
-          "source": "抖音",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 15时13分]"
+          "time_info": "17时02分"
         },
         {
           "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
@@ -164,8 +181,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 15时13分]"
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 17时02分]"
         },
         {
           "title": "七部门发AI安全治理3年计划？谣言",
@@ -175,8 +192,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 15时13分]"
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 17时02分]"
         },
         {
           "title": "七部门发AI安全治理3年计划系谣言",
@@ -186,8 +203,31 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 17时02分]"
+        },
+        {
+          "title": "网传“男二以下用AI演员” 于正发声",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E2%80%9C%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%E7%94%A8AI%E6%BC%94%E5%91%98%E2%80%9D+%E4%BA%8E%E6%AD%A3%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时51分 ~ 15时13分]"
+          "time_info": "[15时13分 ~ 17时02分]"
+        },
+        {
+          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
+          "url": "https://www.cls.cn/detail/2316633",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
         },
         {
           "title": "公募机构争夺AI好感度，业内提示谨防信息污染",
@@ -223,6 +263,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 07时40分]"
+        },
+        {
+          "title": "耀客签约AI演员",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%80%E5%AE%A2%E7%AD%BE%E7%BA%A6AI%E6%BC%94%E5%91%98%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
         },
         {
           "title": "为何游戏大厂都在聊AI",
@@ -265,7 +317,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -292,15 +344,26 @@
           "time_info": "13时04分"
         },
         {
-          "title": "网传“男二以下用AI演员” 于正发声",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E2%80%9C%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%E7%94%A8AI%E6%BC%94%E5%91%98%E2%80%9D+%E4%BA%8E%E6%AD%A3%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
+          "title": "腾讯控股(00700.HK)：2025年销售及市场推广开支同比增长15%至人民币417亿元，反映为支持我们的AI原生应用程序及游戏的发展而加大推广力度。",
+          "url": "https://flash.jin10.com/detail/20260318163436457800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "腾讯控股(00700.HK)：腾讯云实现规模化盈利，受益于企业AI需求的上升，领先市场的PaaS及SaaS产品贡献的增长，以及供应链的优化。",
+          "url": "https://flash.jin10.com/detail/20260318163353614800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时13分"
+          "time_info": "17时02分"
         },
         {
           "title": "英伟达CEO黄仁勋：IT企业将是OpenAI和Anthropic的中间商。",
@@ -336,6 +399,17 @@
           "time_info": "13时04分"
         },
         {
+          "title": "腾讯控股(00700.HK)：我们通过在游戏中部署AI，加速了内容制作，改善了用户体验并提升了我们的营销效益。",
+          "url": "https://flash.jin10.com/detail/20260318163333282800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "惠与（HPE）推出由英伟达产品支持的HPE AI Grid。",
           "url": "https://wallstreetcn.com/livenews/3071844",
           "source": "华尔街见闻-快讯",
@@ -345,6 +419,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "腾讯：AI能力提升推动了游戏的用户参与度",
+          "url": "https://wallstreetcn.com/livenews/3072278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
@@ -474,7 +559,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -493,7 +578,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "中越建立全球首个「3+3」机制并首次将公安合作纳入对话，此举有何意义？",
@@ -539,11 +624,12 @@
             7,
             11,
             14,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时22分 ~ 15时13分]"
+          "appearance_count": 12,
+          "time_info": "[01时22分 ~ 17时02分]"
         },
         {
           "title": "伊媒：伊朗已为国家关键职位指定多名替代人选",
@@ -553,8 +639,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 15时13分]"
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 17时02分]"
         },
         {
           "title": "26年继续实施更加积极的财政政策",
@@ -564,8 +650,34 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 15时13分]"
+          "appearance_count": 4,
+          "time_info": "[13时04分 ~ 17时02分]"
+        },
+        {
+          "title": "国家发改委：推出新一批重大外资项目 包括电子制造、化工、汽车等",
+          "url": "https://www.cls.cn/detail/2316434",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时04分 ~ 17时02分]"
+        },
+        {
+          "title": "霍尔木兹海峡封锁持续，石油、天然气流通量下降，哪些地区、国家会先面临断油断气？这些地方现在怎么样了？",
+          "url": "https://www.zhihu.com/question/2017291694312280331",
+          "source": "知乎",
+          "ranks": [
+            4,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 17时02分]"
         },
         {
           "title": "以色列国家急救服务机构MDA：以色列遭火箭弹袭击后，两人因严重弹片伤身亡。",
@@ -592,18 +704,6 @@
           "time_info": "[01时22分 ~ 10时51分]"
         },
         {
-          "title": "霍尔木兹海峡封锁持续，石油、天然气流通量下降，哪些地区、国家会先面临断油断气？这些地方现在怎么样了？",
-          "url": "https://www.zhihu.com/question/2017291694312280331",
-          "source": "知乎",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 15时13分]"
-        },
-        {
           "title": "越共中央总书记：坚定奉行一个中国政策",
           "url": "https://www.toutiao.com/trending/7617999971983474694/",
           "source": "今日头条",
@@ -626,18 +726,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时48分 ~ 07时40分]"
-        },
-        {
-          "title": "国家发改委：推出新一批重大外资项目 包括电子制造、化工、汽车等",
-          "url": "https://www.cls.cn/detail/2316434",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 15时13分]"
         },
         {
           "title": "全岛停电、手术推迟、通信告急：古巴能源危机如何演变成国家危机",
@@ -698,6 +786,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时51分 ~ 13时04分]"
+        },
+        {
+          "title": "国安部发布“黑飞”至8000米高空案例",
+          "url": "https://www.toutiao.com/trending/7617811031372857398/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
         },
         {
           "title": "小米超强钢获得国家级科技一等奖",
@@ -832,6 +931,17 @@
           "time_info": "10时51分"
         },
         {
+          "title": "证监会：坚决清除影响资本市场改革发展的“拦路虎”“绊脚石”",
+          "url": "https://flash.jin10.com/detail/20260318162939183800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "据路透：伊朗媒体证实，伊朗最高国家安全委员会秘书拉里贾尼遇害。",
           "url": "https://flash.jin10.com/detail/20260318045229455800",
           "source": "金十数据",
@@ -863,6 +973,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "美联储不会大改经济预测？一处变化足以影响未来政策",
+          "url": "https://flash.jin10.com/detail/20260318162409686800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "国台办发布会",
@@ -951,12 +1072,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "工信部发布新一批减免车辆购置税新能源汽车车型目录",
+          "url": "https://wallstreetcn.com/livenews/3072252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         }
       ]
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "战争进一步升级！以色列称伊朗最高安全官员拉里贾尼“已被打死”",
@@ -972,6 +1104,22 @@
           "time_info": "[01时22分 ~ 07时40分]"
         },
         {
+          "title": "美国家反恐中心主任辞职：无法昧着良心支持对伊朗战争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32784308",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            11,
+            10,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[03时14分 ~ 17时02分]"
+        },
+        {
           "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
           "url": "https://www.cls.cn/detail/2315375",
           "source": "财联社热门",
@@ -981,21 +1129,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时22分 ~ 06时57分]"
-        },
-        {
-          "title": "美国家反恐中心主任辞职：无法昧着良心支持对伊朗战争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32784308",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            11,
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时14分 ~ 15时13分]"
         },
         {
           "title": "美以伊战争丨美官员辞职：出于良知无法支持对伊战争",
@@ -1009,6 +1142,17 @@
           "time_info": "[01时22分 ~ 03时15分]"
         },
         {
+          "title": "美以伊战争丨因伊朗战争与特朗普决裂，他什么来头？",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 17时02分]"
+        },
+        {
           "title": "特朗普或因伊朗战事推迟访华？外交部回应",
           "url": "https://news.ifeng.com/c/8rZOqGs1pHk",
           "source": "凤凰网",
@@ -1018,6 +1162,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时22分 ~ 07时40分]"
+        },
+        {
+          "title": "战争越来越残酷，三个非同寻常信号",
+          "url": "https://news.ifeng.com/c/8raREQe3aPC",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 17时02分]"
         },
         {
           "title": "美以伊战争丨伊朗证实巴斯基民兵指挥官身亡",
@@ -1090,17 +1246,6 @@
           "time_info": "13时04分"
         },
         {
-          "title": "美以伊战争丨因伊朗战争与特朗普决裂，他什么来头？",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
           "title": "科技部副部长林新：2026中关村论坛年会将发布《开放科学国际合作行动计划》",
           "url": "https://wallstreetcn.com/livenews/3072069",
           "source": "华尔街见闻-快讯",
@@ -1123,18 +1268,6 @@
           "time_info": "05时48分"
         },
         {
-          "title": "战争越来越残酷，三个非同寻常信号",
-          "url": "https://news.ifeng.com/c/8raREQe3aPC",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 15时13分]"
-        },
-        {
           "title": "国际原子能机构称收到伊朗核电站遭袭通报",
           "url": "https://flash.jin10.com/detail/20260318123715441800",
           "source": "金十数据",
@@ -1152,9 +1285,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "美国国家反恐中心主任因不满发动对伊朗战争辞职，称伊并未对美构成迫在眉睫的威胁，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2017533900855984294",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 17时02分]"
         },
         {
           "title": "露露柠檬四季度净营收36.4亿美元，分析师预期35.8亿美元。 四季度总体同店销售（剔除汇率因素）增长2%，分析师预期增长1.75%。 四季度美国同店销售（剔除汇率因素）下滑2%，分析师预期下降4.09%。 四季度国际同店销售（剔除汇率因素）增长16%，分析师预期增长11.4%。 四季度每股收益（EPS）为5.01美元，分析师预期4.78美元。 原李维斯（Levis Strauss）首席执行官Chip Bergh加盟本公司董事会。 预计全年净营收113.5亿-115亿美元，分析师预期115亿美元。 预计一季度净营收24亿-24.3亿美元，分析师预期24.8亿美元。",
@@ -1181,15 +1325,48 @@
           "time_info": "[05时48分 ~ 06时57分]"
         },
         {
+          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
+          "url": "https://www.cls.cn/detail/2316670",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
+          "title": "国台办批赖清德是战争煽动者",
+          "url": "https://www.toutiao.com/trending/7617638656693764102/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
           "title": "伊朗外交部长在接受半岛电视台采访时表示，关于霍尔木兹海峡的新协议应在战争结束后由沿岸国起草。",
           "url": "https://flash.jin10.com/detail/20260318145047616800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "腾讯控股(00700.HK)：受益于长青游戏的持续增长及内容驱动游戏的快速扩张，我们的国际市场游戏年收入突破100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260318163317291800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "伊朗战争削弱吸引力，南非债券资金外流激增",
@@ -1231,9 +1408,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "史上最贵航母折戟！福特号火灾后退出伊朗战争前线",
+          "url": "https://flash.jin10.com/detail/20260318163214081800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "乌克兰总统泽连斯基：与北约秘书长吕特会面，讨论了许多不同的话题，但首先是加强防空和保护我们的人民免受俄罗斯攻击。也谈到了伊朗局势及其对乌克兰和整个欧洲的影响。俄罗斯不应从中获得任何好处，也不应有任何拖延对乌克兰战争的机会",
@@ -1280,17 +1468,6 @@
           "time_info": "03时15分"
         },
         {
-          "title": "美国国家反恐中心主任因不满发动对伊朗战争辞职，称伊并未对美构成迫在眉睫的威胁，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2017533900855984294",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
           "title": "俄罗斯外交部：对古巴周边紧张局势的升级以及日益增长的外部压力表示严重关切。",
           "url": "https://flash.jin10.com/detail/20260318050206301800",
           "source": "金十数据",
@@ -1308,7 +1485,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -1333,6 +1510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
+        },
+        {
+          "title": "商务部副部长兼国际贸易谈判副代表凌激在香港主持召开“投资中国”圆桌会并会见香港有关商会负责人",
+          "url": "https://wallstreetcn.com/livenews/3072262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "市场消息：斯里兰卡宣布实施四天工作制，以节约稀缺的燃料储备，同时为中东长期战争做准备。",
@@ -1371,7 +1559,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
@@ -1443,15 +1631,37 @@
           "time_info": "07时40分"
         },
         {
+          "title": "腾讯控股(00700.HK)：2025年Q4毛利同比增长19%至人民币1,083亿元，主要由于自研游戏、视频号及微信搜一搜营销服务等高毛利率收入贡献增加，以及金融科技服务与云服务的成本效益提升。毛利率由去年同期的53%提升至56%。",
+          "url": "https://flash.jin10.com/detail/20260318163512821800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "港股大模型股持续走高，MINIMAX涨幅扩大至超27%，智谱涨超20%。",
           "url": "https://wallstreetcn.com/livenews/3072191",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "腾讯控股第四季度营收1,943.7亿元人民币，市场预估1,940.7亿元人民币； 第四季度调整后净利润646.9亿元人民币，市场预估649.3亿元人民币； 第四季度营业利润603.4亿元人民币，市场预估604.5亿元人民币； 第四季度金融科技及企业服务业务收入608亿元人民币，市场预估611.7亿元人民币； 第四季度增值服务业务收入899亿元人民币，市场预估887.8亿元人民币； 2025年净利润2,248.4亿元人民币，市场预估2,221.6亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3072276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "中国科研团队发现全新粒子",
@@ -1471,7 +1681,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -1482,7 +1692,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -1493,7 +1703,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -1504,9 +1714,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨0.61%，恒生科技指数收涨0.01%",
+          "url": "https://wallstreetcn.com/livenews/3072254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "A股创新药板块震荡上扬，华兰股份、荣昌生物盘中创新高，中源协和涨停，三生国健、欧林生物、盟科药业、北陆药业、济民健康跟涨。",
@@ -1523,7 +1744,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "比亚迪高端技术拉满，为什么品牌溢价数据始终起不来？",
@@ -1608,9 +1829,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "中美轨道交通行业交流会在武汉举办",
+          "url": "https://wallstreetcn.com/livenews/3072264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "中美轨道交通行业交流会在武汉举办",
+          "url": "https://flash.jin10.com/detail/20260318162138822800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         }
       ]
     },
@@ -1679,7 +1922,7 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何看待网络游戏首次被纳入「十五五」规划？这会对国内游戏行业发展与出海带来哪些影响？",
@@ -1694,6 +1937,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时22分 ~ 07时40分]"
+        },
+        {
+          "title": "腾讯：2025年本土市场游戏收入为人民币1,642亿元",
+          "url": "https://flash.jin10.com/detail/20260318163943991800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "如何看待《杀戮尖塔 2》转到 godot 引擎并大获成功，这对于独立游戏开发者有什么启示？",
@@ -1713,7 +1967,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -1724,7 +1978,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         }
