@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T14:02:36.766396+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2026-03-22T15:42:38.538147+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "过去一周是一场清算，全球市场开始正视“伊朗战争不会很快结束”",
@@ -208,9 +208,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "美以伊战争丨伊朗：允许非敌方船只通过霍尔木兹海峡",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "韩国政府：国际清算银行经济顾问申铉松（Hyun-Song Shin）出任韩国央行行长。",
+          "url": "https://flash.jin10.com/detail/20260322145233685800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "伊朗外交部：外长阿拉格齐对印度外长表示，霍尔木兹海峡目前的局势是美国和以色列敌对行动的结果。",
@@ -239,6 +261,19 @@
           "time_info": "[01时33分 ~ 03时32分]"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗军队无人机袭击了以色列特拉维夫本-古里安国际机场的犹太军事基础设施。",
+          "url": "https://flash.jin10.com/detail/20260322125152328800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 15时42分]"
+        },
+        {
           "title": "伊朗外交部：外长阿拉格奇向印度外长确认，必须向侵略者施压，制止袭击并确保此类袭击不再发生。",
           "url": "https://flash.jin10.com/detail/20260322002534928800",
           "source": "金十数据",
@@ -252,28 +287,17 @@
           "time_info": "[00时40分 ~ 02时48分]"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗军队无人机袭击了以色列特拉维夫本-古里安国际机场的犹太军事基础设施。",
-          "url": "https://flash.jin10.com/detail/20260322125152328800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 14时02分]"
-        },
-        {
           "title": "为何日本“谄媚外交”在美遇窘",
           "url": "https://www.toutiao.com/trending/7619204951382605865/",
           "source": "今日头条",
           "ranks": [
             5,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 14时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 15时42分]"
         },
         {
           "title": "国际原子能机构：以色列迪莫纳受袭未影响核研究中心",
@@ -282,11 +306,12 @@
           "ranks": [
             8,
             15,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 15时42分]"
         },
         {
           "title": "普京称俄罗斯是伊朗艰难时刻的忠实伙伴，怎样解读？俄罗斯会介入美以伊战争吗？",
@@ -297,8 +322,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 15时42分]"
         },
         {
           "title": "对话｜海湾战事三周（下）：战争使伊朗政权更军事化，国家性质将发生改变",
@@ -309,8 +334,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 14时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 15时42分]"
         },
         {
           "title": "根据伊朗外交部公布的数据，自2月28日战争爆发以来，伊朗外长阿拉格奇与印度外交部长苏杰生通话次数最多，共5次。此外，他还与俄罗斯外长通话两次，与阿曼、法国、土耳其、埃及、巴基斯坦等国外长通话一次。",
@@ -335,6 +360,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时53分 ~ 12时59分]"
+        },
+        {
+          "title": "伊朗战争已三周，美国“稳油价”的牌“几乎打完”，原油“期现价差”越拉越大",
+          "url": "https://wallstreetcn.com/articles/3768077",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗驻国际海事组织代表表示，除敌方（船只）外，各国船只经协调达成安全与安保安排后均可通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260322140149107800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "印度外交部长苏杰生：与伊朗外长阿拉格齐的会谈围绕冲突的最新进展进行。",
@@ -373,7 +420,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国发布伊朗石油30天制裁豁免令 贝森特：将向全球供油约1.4亿桶",
@@ -383,8 +430,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 14时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 15时42分]"
         },
         {
           "title": "雷军就发布会口误道歉",
@@ -453,11 +500,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 14时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 15时42分]"
+        },
+        {
+          "title": "一组硬核数据解码国家水网",
+          "url": "https://www.toutiao.com/trending/7619972087796764170/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "以色列国家安全部长本·格维尔：以色列“必须继续打击以实现胜利”。",
@@ -510,6 +569,30 @@
           "time_info": "[00时40分 ~ 01时33分]"
         },
         {
+          "title": "华为发布新一代算力芯片，单卡算力达H20的2.87倍，国内唯一支持FP4推理产品",
+          "url": "https://wallstreetcn.com/articles/3768071",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 15时42分]"
+        },
+        {
+          "title": "拉共体第十届峰会强调区域一体化与团结合作",
+          "url": "https://flash.jin10.com/detail/20260322125900034800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 15时42分]"
+        },
+        {
           "title": "美国总统特朗普：如果激进左翼民主党人不立即签署协议，让我们的国家，特别是我们的机场，再次获得自由和安全，我将把移民执法局（ICE）特工调往机场，他们将执行前所未有的安保措施，包括立即逮捕所有非法入境的移民，重点打击来自索马里的非法移民。",
           "url": "https://flash.jin10.com/detail/20260321233624665800",
           "source": "金十数据",
@@ -558,26 +641,15 @@
           "time_info": "[12时59分 ~ 14时02分]"
         },
         {
-          "title": "拉共体第十届峰会强调区域一体化与团结合作",
-          "url": "https://flash.jin10.com/detail/20260322125900034800",
-          "source": "金十数据",
+          "title": "逐玉发布反盗版声明",
+          "url": "https://www.douyin.com/hot/2439366",
+          "source": "抖音",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "华为发布新一代算力芯片，单卡算力达H20的2.87倍，国内唯一支持FP4推理产品",
-          "url": "https://wallstreetcn.com/articles/3768071",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
+          "time_info": "15时42分"
         },
         {
           "title": "首钢与中国一汽成功合作研发2.4GPa级超高强度热成形钢",
@@ -589,6 +661,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        },
+        {
+          "title": "广东横琴发布警情通报",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%A8%AA%E7%90%B4%E5%8F%91%E5%B8%83%E8%AD%A6%E6%83%85%E9%80%9A%E6%8A%A5%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "伊朗驻印度大使馆：伊朗总统佩泽希齐扬呼吁金砖国家在制止针对伊朗的侵略行为方面发挥独立作用。",
@@ -613,6 +696,28 @@
           "time_info": "06时34分"
         },
         {
+          "title": "网传“梅姨”本人照片非警方发布",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E2%80%9C%E6%A2%85%E5%A7%A8%E2%80%9D%E6%9C%AC%E4%BA%BA%E7%85%A7%E7%89%87%E9%9D%9E%E8%AD%A6%E6%96%B9%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "山西发布养老保险丧葬补助金办理指南",
+          "url": "https://www.toutiao.com/trending/7618854657867169842/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "华为重磅发布新一代算力芯片",
           "url": "https://flash.jin10.com/detail/20260321215911618800",
           "source": "金十数据",
@@ -627,7 +732,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "季冠霖发文抵制AI",
@@ -652,11 +757,12 @@
           "ranks": [
             16,
             17,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 14时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 15时42分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -665,11 +771,12 @@
           "ranks": [
             21,
             22,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 14时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 15时42分]"
         },
         {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
@@ -682,6 +789,32 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时40分 ~ 10时53分]"
+        },
+        {
+          "title": "华为成立传媒军团，将聚焦 AIGC 全场景赋能等三大核心方向，如何看待这一布局？将会带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2018341688767160603",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 15时42分]"
+        },
+        {
+          "title": "AI演员为啥遭网友抵制",
+          "url": "https://www.douyin.com/hot/2438688",
+          "source": "抖音",
+          "ranks": [
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 15时42分]"
         },
         {
           "title": "库克说AI是对人能力的放大而非取代 不要惧怕要拥抱AI",
@@ -706,28 +839,26 @@
           "time_info": "[00时40分 ~ 07时33分]"
         },
         {
-          "title": "华为成立传媒军团，将聚焦 AIGC 全场景赋能等三大核心方向，如何看待这一布局？将会带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2018341688767160603",
-          "source": "知乎",
+          "title": "中国AI大模型周调用量达4.69万亿Token",
+          "url": "https://wallstreetcn.com/livenews/3074504",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
             2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 14时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
-          "title": "AI演员为啥遭网友抵制",
-          "url": "https://www.douyin.com/hot/2438688",
-          "source": "抖音",
+          "title": "中国AI大模型调用量领跑全球 中国AI大模型周调用量达4.69万亿Token",
+          "url": "https://flash.jin10.com/detail/20260322145249948800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            5
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 14时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "最新！Karpathy万字深度长访：我焦虑到AI成瘾，所有可验证的领域，终将属于机器",
@@ -747,28 +878,30 @@
           "url": "https://s.weibo.com/weibo?q=%23AI%E6%BC%94%E5%91%98%E7%AD%BE%E7%BA%A6%E5%AE%98%E5%AE%A3%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 14时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 15时42分]"
         },
         {
           "title": "苹果CEO库克：迫不及待想看看中国AI下一步进展",
           "url": "https://flash.jin10.com/detail/20260322131458099800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 15时42分]"
         }
       ]
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "梅姨落网背后的打拐黑科技",
@@ -803,11 +936,12 @@
           "ranks": [
             11,
             12,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 14时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 15时42分]"
         },
         {
           "title": "美军公布对伊打击成果",
@@ -817,8 +951,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 15时42分]"
+        },
+        {
+          "title": "全球首个脑机接口创新产品获得医保编码",
+          "url": "https://wallstreetcn.com/livenews/3074503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "苹果CEO点赞中国创新：中国开发者和制造商正成为新质生产力的典范",
@@ -827,11 +972,12 @@
           "ranks": [
             3,
             10,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 15时42分]"
         },
         {
           "title": "苹果CEO点赞中国创新：中国开发者和制造商正成为新质生产力的典范",
@@ -867,6 +1013,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时53分 ~ 12时59分]"
+        },
+        {
+          "title": "全球首个脑机接口创新产品获得医保编码",
+          "url": "https://flash.jin10.com/detail/20260322142944937800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         }
       ]
     },
@@ -891,11 +1048,12 @@
           "url": "https://www.cls.cn/detail/2319597",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 15时42分]"
         },
         {
           "title": "知情人称「梅姨」长相变化很大，与画像相似度不到 30%，为何变化这么大？近年模拟画像技术有了哪些提升？",
@@ -931,11 +1089,12 @@
           "url": "https://www.zhihu.com/question/2017270290770523801",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 15时42分]"
         },
         {
           "title": "凡人动画的技术迭代",
@@ -976,8 +1135,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 14时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 15时42分]"
         }
       ]
     },
