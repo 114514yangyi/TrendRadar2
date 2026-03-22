@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T02:50:15.805072+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-03-23T03:34:22.645428+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "伊朗发射导弹后，英国外交大臣：我们和美以立场不同",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时34分]"
         },
         {
           "title": "高盛解读“伊朗战争会持续多久”：市场只交易了“通胀”，还未交易“衰退”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时34分]"
         },
         {
           "title": "G2稳定尽孝,BLG夺国际首冠",
@@ -37,8 +37,31 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时33分 ~ 03时34分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普威胁将伊朗抹去，伊总统回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时33分 ~ 02时50分]"
+          "time_info": "[02时49分 ~ 03时34分]"
+        },
+        {
+          "title": "为何日本“谄媚外交”在美遇窘",
+          "url": "https://www.toutiao.com/trending/7619204951382605865/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时34分]"
         },
         {
           "title": "美以伊战争丨伊朗威胁完全关闭霍尔木兹海峡",
@@ -52,40 +75,6 @@
           "time_info": "[00时40分 ~ 01时33分]"
         },
         {
-          "title": "美以伊战争丨特朗普威胁将伊朗抹去，伊总统回应",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时49分 ~ 02时50分]"
-        },
-        {
-          "title": "为何日本“谄媚外交”在美遇窘",
-          "url": "https://www.toutiao.com/trending/7619204951382605865/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时50分]"
-        },
-        {
-          "title": "1036天LPL再夺国际赛冠军",
-          "url": "https://search.bilibili.com/all?keyword=1036%E5%A4%A9LPL%E5%86%8D%E5%A4%BA%E5%9B%BD%E9%99%85%E8%B5%9B%E5%86%A0%E5%86%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时49分 ~ 02时50分]"
-        },
-        {
           "title": "伊朗战争已三周，美国“稳油价”的牌“几乎打完”，原油“期现价差”越拉越大",
           "url": "https://wallstreetcn.com/articles/3768077",
           "source": "华尔街见闻",
@@ -95,8 +84,42 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时34分]"
+        },
+        {
+          "title": "伊朗外交部：美以袭击给波斯湾地区和霍尔木兹海峡带来危险局面",
+          "url": "https://wallstreetcn.com/livenews/3074628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时34分"
+        },
+        {
+          "title": "印度总理莫迪主持政府会议，评估中东战争影响",
+          "url": "https://wallstreetcn.com/livenews/3074623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时34分"
+        },
+        {
+          "title": "1036天LPL再夺国际赛冠军",
+          "url": "https://search.bilibili.com/all?keyword=1036%E5%A4%A9LPL%E5%86%8D%E5%A4%BA%E5%9B%BD%E9%99%85%E8%B5%9B%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时49分 ~ 03时34分]"
         },
         {
           "title": "普京称俄罗斯是伊朗艰难时刻的忠实伙伴，怎样解读？俄罗斯会介入美以伊战争吗？",
@@ -106,8 +129,30 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时34分]"
+        },
+        {
+          "title": "美国财长贝森特：我再次重申，总统从一开始就表达得非常清楚，我们的目标是摧毁伊朗的空军和海军；彻底瓦解其导弹能力；摧毁其补充这些军事能力的基础；确保伊朗无法拥有核武器；并遏制其向国际社会投射军事力量的能力。",
+          "url": "https://flash.jin10.com/detail/20260322222114078800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "time_info": "[00时40分 ~ 03时34分]"
+        },
+        {
+          "title": "市场消息：美国财长贝森特谈伊朗战争拨款时表示，这属于补充预算，不会加税。",
+          "url": "https://flash.jin10.com/detail/20260322221634749800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时34分]"
         },
         {
           "title": "“NXA”航空三字代码启用，雄安国际空港正式投用",
@@ -122,26 +167,28 @@
           "time_info": "[00时40分 ~ 02时50分]"
         },
         {
-          "title": "美国财长贝森特：我再次重申，总统从一开始就表达得非常清楚，我们的目标是摧毁伊朗的空军和海军；彻底瓦解其导弹能力；摧毁其补充这些军事能力的基础；确保伊朗无法拥有核武器；并遏制其向国际社会投射军事力量的能力。",
-          "url": "https://flash.jin10.com/detail/20260322222114078800",
-          "source": "金十数据",
+          "title": "BLG首个国际赛冠军",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E9%A6%96%E4%B8%AA%E5%9B%BD%E9%99%85%E8%B5%9B%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
-        },
-        {
-          "title": "市场消息：美国财长贝森特谈伊朗战争拨款时表示，这属于补充预算，不会加税。",
-          "url": "https://flash.jin10.com/detail/20260322221634749800",
-          "source": "金十数据",
-          "ranks": [
+            7,
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 03时34分]"
+        },
+        {
+          "title": "伊朗副外长：美方威胁打击伊朗发电厂违反国际法",
+          "url": "https://wallstreetcn.com/livenews/3074602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时50分 ~ 03时34分]"
         },
         {
           "title": "俄罗斯发射“联盟-2.1a”运载火箭，向国际空间站运送物资",
@@ -153,34 +200,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时33分]"
-        },
-        {
-          "title": "BLG首个国际赛冠军",
-          "url": "https://search.bilibili.com/all?keyword=BLG%E9%A6%96%E4%B8%AA%E5%9B%BD%E9%99%85%E8%B5%9B%E5%86%A0%E5%86%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "伊朗副外长：美方威胁打击伊朗发电厂违反国际法",
-          "url": "https://wallstreetcn.com/livenews/3074602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时50分"
         }
       ]
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美国发布伊朗石油30天制裁豁免令 贝森特：将向全球供油约1.4亿桶",
@@ -190,8 +215,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时34分]"
         },
         {
           "title": "马斯克正式发布Terafab项目：目标年产1太瓦算力 主要于太空部署",
@@ -202,8 +227,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时34分]"
         },
         {
           "title": "双良节能：因发布涉及SpaceX相关海外订单的误导性信息 公司及控股股东拟各被处以400万元罚款",
@@ -213,8 +238,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时34分]"
+        },
+        {
+          "title": "利比亚国家石油公司（NOC）：El Feel油田暂时停产，暂时优先保障Sharara项目的供应。",
+          "url": "https://wallstreetcn.com/livenews/3074624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时34分"
         },
         {
           "title": "官方发布安全“养龙虾”实践指南",
@@ -224,8 +260,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时34分]"
         },
         {
           "title": "2500亿元支持消费品以旧换新，财政部将加大直达消费者的普惠政策力度",
@@ -233,11 +269,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时34分]"
         },
         {
           "title": "逐玉发布反盗版声明",
@@ -249,8 +286,30 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时34分]"
+        },
+        {
+          "title": "美国财长贝森特：无论是俄罗斯石油、伊朗石油，还是由32个国家组成的联盟所实施的、历史上规模最大的战略石油储备（SPR）释放计划，都确保了这一点。",
+          "url": "https://flash.jin10.com/detail/20260322222858571800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "time_info": "[00时40分 ~ 03时34分]"
+        },
+        {
+          "title": "伊朗革命卫队：若特朗普兑现威胁、袭击伊朗能源设施，则驻有美军基地的国家的能源设施将成为“合法”打击目标。",
+          "url": "https://flash.jin10.com/detail/20260322220333375800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时34分]"
         },
         {
           "title": "国家发改委主任郑栅洁会见大众汽车集团管理董事会主席奥博穆",
@@ -265,32 +324,21 @@
           "time_info": "[00时40分 ~ 02时50分]"
         },
         {
-          "title": "美国财长贝森特：无论是俄罗斯石油、伊朗石油，还是由32个国家组成的联盟所实施的、历史上规模最大的战略石油储备（SPR）释放计划，都确保了这一点。",
-          "url": "https://flash.jin10.com/detail/20260322222858571800",
-          "source": "金十数据",
+          "title": "华为发布新一代算力芯片",
+          "url": "https://www.toutiao.com/trending/7619092765980868650/",
+          "source": "今日头条",
           "ranks": [
-            14
+            20
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
-        },
-        {
-          "title": "伊朗革命卫队：若特朗普兑现威胁、袭击伊朗能源设施，则驻有美军基地的国家的能源设施将成为“合法”打击目标。",
-          "url": "https://flash.jin10.com/detail/20260322220333375800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时34分"
         }
       ]
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "跑马拉松护航的民警居然是AI机器人",
@@ -300,8 +348,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时34分]"
         },
         {
           "title": "AI演员为啥遭网友抵制",
@@ -312,8 +360,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时34分]"
+        },
+        {
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时34分]"
+        },
+        {
+          "title": "配音圈集体声讨,抵制AI盗声",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
+          "source": "贴吧",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时34分]"
         },
         {
           "title": "世界周刊之当AI决定扣动扳机",
@@ -328,28 +400,15 @@
           "time_info": "[00时40分 ~ 01时33分]"
         },
         {
-          "title": "人工智能太绕,AI急需中文名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
-          "source": "贴吧",
+          "title": "AI智能体加速落地，业内：商业保险迎补位时刻",
+          "url": "https://wallstreetcn.com/livenews/3074617",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25,
-            24
+            10
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时50分]"
-        },
-        {
-          "title": "配音圈集体声讨,抵制AI盗声",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
-          "source": "贴吧",
-          "ranks": [
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时34分"
         }
       ]
     },
@@ -363,11 +422,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时34分]"
         },
         {
           "title": "印度实力露馅,科技全线拉胯",
@@ -378,8 +438,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时34分]"
         },
         {
           "title": "韩文秀：中国自主创新能力已越过拐点，外部力量难以逆转",
@@ -430,8 +490,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时34分]"
         },
         {
           "title": "从奥斯卡到比特币：人类为何痴迷于排名和地位游戏？",
@@ -439,11 +499,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时34分]"
         }
       ]
     },
