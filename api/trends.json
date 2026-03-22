@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T15:42:38.538147+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2026-03-22T16:45:31.171994+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "过去一周是一场清算，全球市场开始正视“伊朗战争不会很快结束”",
@@ -168,6 +168,20 @@
           "time_info": "[04时37分 ~ 07时33分]"
         },
         {
+          "title": "为何日本“谄媚外交”在美遇窘",
+          "url": "https://www.toutiao.com/trending/7619204951382605865/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            9,
+            20,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 16时45分]"
+        },
+        {
           "title": "国际原子能机构：已收到有关以色列迪莫纳市发生事件的报告。",
           "url": "https://flash.jin10.com/detail/20260322033837652800",
           "source": "金十数据",
@@ -219,9 +233,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
+        },
+        {
+          "title": "美以伊战争丨巴林爆炸中爱国者导弹或由美方操作",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "伊朗发射导弹后，英国外交大臣：我们和美以立场不同",
+          "url": "https://news.ifeng.com/c/8rhdUKNAFTy",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "韩国政府：国际清算银行经济顾问申铉松（Hyun-Song Shin）出任韩国央行行长。",
@@ -230,9 +266,36 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
+        },
+        {
+          "title": "国际原子能机构：以色列迪莫纳受袭未影响核研究中心",
+          "url": "https://wallstreetcn.com/livenews/3074478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15,
+            17,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时53分 ~ 16时45分]"
+        },
+        {
+          "title": "普京称俄罗斯是伊朗艰难时刻的忠实伙伴，怎样解读？俄罗斯会介入美以伊战争吗？",
+          "url": "https://www.zhihu.com/question/2018757910352589666",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时53分 ~ 16时45分]"
         },
         {
           "title": "伊朗外交部：外长阿拉格齐对印度外长表示，霍尔木兹海峡目前的局势是美国和以色列敌对行动的结果。",
@@ -287,45 +350,6 @@
           "time_info": "[00时40分 ~ 02时48分]"
         },
         {
-          "title": "为何日本“谄媚外交”在美遇窘",
-          "url": "https://www.toutiao.com/trending/7619204951382605865/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 15时42分]"
-        },
-        {
-          "title": "国际原子能机构：以色列迪莫纳受袭未影响核研究中心",
-          "url": "https://wallstreetcn.com/livenews/3074478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 15时42分]"
-        },
-        {
-          "title": "普京称俄罗斯是伊朗艰难时刻的忠实伙伴，怎样解读？俄罗斯会介入美以伊战争吗？",
-          "url": "https://www.zhihu.com/question/2018757910352589666",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 15时42分]"
-        },
-        {
           "title": "对话｜海湾战事三周（下）：战争使伊朗政权更军事化，国家性质将发生改变",
           "url": "https://m.thepaper.cn/newsDetail_forward_32802326",
           "source": "澎湃新闻",
@@ -334,8 +358,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 15时42分]"
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 16时45分]"
+        },
+        {
+          "title": "伊朗战争已三周，美国“稳油价”的牌“几乎打完”，原油“期现价差”越拉越大",
+          "url": "https://wallstreetcn.com/articles/3768077",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 16时45分]"
         },
         {
           "title": "根据伊朗外交部公布的数据，自2月28日战争爆发以来，伊朗外长阿拉格奇与印度外交部长苏杰生通话次数最多，共5次。此外，他还与俄罗斯外长通话两次，与阿曼、法国、土耳其、埃及、巴基斯坦等国外长通话一次。",
@@ -362,24 +398,13 @@
           "time_info": "[10时53分 ~ 12时59分]"
         },
         {
-          "title": "伊朗战争已三周，美国“稳油价”的牌“几乎打完”，原油“期现价差”越拉越大",
-          "url": "https://wallstreetcn.com/articles/3768077",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
           "title": "据伊朗迈赫尔通讯社：伊朗驻国际海事组织代表表示，除敌方（船只）外，各国船只经协调达成安全与安保安排后均可通过霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260322140149107800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -415,12 +440,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        },
+        {
+          "title": "韩国总统提名国际清算银行官员申铉松为新任韩国银行行长",
+          "url": "https://flash.jin10.com/detail/20260322152657098800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "高市早苗“谄媚外交”在美遇窘",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E2%80%9C%E8%B0%84%E5%AA%9A%E5%A4%96%E4%BA%A4%E2%80%9D%E5%9C%A8%E7%BE%8E%E9%81%87%E7%AA%98",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         }
       ]
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "美国发布伊朗石油30天制裁豁免令 贝森特：将向全球供油约1.4亿桶",
@@ -430,8 +477,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 15时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 16时45分]"
         },
         {
           "title": "雷军就发布会口误道歉",
@@ -495,28 +542,51 @@
           "time_info": "[00时40分 ~ 07时33分]"
         },
         {
-          "title": "财政部部长：财政政策加大投资于人力度",
-          "url": "https://wallstreetcn.com/livenews/3074496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 15时42分]"
-        },
-        {
           "title": "一组硬核数据解码国家水网",
           "url": "https://www.toutiao.com/trending/7619972087796764170/",
           "source": "今日头条",
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 16时45分]"
+        },
+        {
+          "title": "财政部部长：财政政策加大投资于人力度",
+          "url": "https://wallstreetcn.com/livenews/3074496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 16时45分]"
+        },
+        {
+          "title": "2500亿元支持消费品以旧换新，财政部将加大直达消费者的普惠政策力度",
+          "url": "https://wallstreetcn.com/livenews/3074514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时42分"
+          "time_info": "16时45分"
+        },
+        {
+          "title": "2500亿元支持消费品以旧换新，财政部将加大直达消费者的普惠政策力度",
+          "url": "https://flash.jin10.com/detail/20260322161643009800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "以色列国家安全部长本·格维尔：以色列“必须继续打击以实现胜利”。",
@@ -544,6 +614,19 @@
           "time_info": "[00时39分 ~ 06时34分]"
         },
         {
+          "title": "华为发布新一代算力芯片，单卡算力达H20的2.87倍，国内唯一支持FP4推理产品",
+          "url": "https://wallstreetcn.com/articles/3768071",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时45分]"
+        },
+        {
           "title": "美联储主席鲍威尔没有对经济或货币政策发表评论。",
           "url": "https://flash.jin10.com/detail/20260322013214593800",
           "source": "金十数据",
@@ -557,6 +640,18 @@
           "time_info": "[02时48分 ~ 04时37分]"
         },
         {
+          "title": "逐玉发布反盗版声明",
+          "url": "https://www.douyin.com/hot/2439366",
+          "source": "抖音",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 16时45分]"
+        },
+        {
           "title": "据伊朗国家媒体报道，伊朗革命卫队海军向位于阿联酋的阿尔—明哈德空军基地和位于科威特的阿里·萨勒姆空军基地发射了导弹和无人机，这些基地曾被用于袭击伊朗在波斯湾的岛屿。",
           "url": "https://flash.jin10.com/detail/20260322000021332800",
           "source": "金十数据",
@@ -567,18 +662,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时33分]"
-        },
-        {
-          "title": "华为发布新一代算力芯片，单卡算力达H20的2.87倍，国内唯一支持FP4推理产品",
-          "url": "https://wallstreetcn.com/articles/3768071",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时42分]"
         },
         {
           "title": "拉共体第十届峰会强调区域一体化与团结合作",
@@ -629,6 +712,18 @@
           "time_info": "[00时40分 ~ 01时33分]"
         },
         {
+          "title": "广东横琴发布警情通报",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%A8%AA%E7%90%B4%E5%8F%91%E5%B8%83%E8%AD%A6%E6%83%85%E9%80%9A%E6%8A%A5%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 16时45分]"
+        },
+        {
           "title": "苏州更新汽车购新补贴政策：3月21日起至6月30日购买新车最高补贴7000元",
           "url": "https://flash.jin10.com/detail/20260322113616560800",
           "source": "金十数据",
@@ -639,17 +734,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时59分 ~ 14时02分]"
-        },
-        {
-          "title": "逐玉发布反盗版声明",
-          "url": "https://www.douyin.com/hot/2439366",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
         },
         {
           "title": "首钢与中国一汽成功合作研发2.4GPa级超高强度热成形钢",
@@ -663,15 +747,15 @@
           "time_info": "10时53分"
         },
         {
-          "title": "广东横琴发布警情通报",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%A8%AA%E7%90%B4%E5%8F%91%E5%B8%83%E8%AD%A6%E6%83%85%E9%80%9A%E6%8A%A5%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "马斯克正式发布Terafab项目：目标年产1太瓦算力 主要于太空部署",
+          "url": "https://www.cls.cn/detail/2320520",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时42分"
+          "time_info": "16时45分"
         },
         {
           "title": "伊朗驻印度大使馆：伊朗总统佩泽希齐扬呼吁金砖国家在制止针对伊朗的侵略行为方面发挥独立作用。",
@@ -702,7 +786,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -713,7 +797,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -732,7 +816,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "季冠霖发文抵制AI",
@@ -758,11 +842,12 @@
             16,
             17,
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 15时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 16时45分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -772,11 +857,25 @@
             21,
             22,
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 15时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 16时45分]"
+        },
+        {
+          "title": "AI演员为啥遭网友抵制",
+          "url": "https://www.douyin.com/hot/2438688",
+          "source": "抖音",
+          "ranks": [
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时53分 ~ 16时45分]"
         },
         {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
@@ -797,24 +896,12 @@
           "ranks": [
             3,
             2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 15时42分]"
-        },
-        {
-          "title": "AI演员为啥遭网友抵制",
-          "url": "https://www.douyin.com/hot/2438688",
-          "source": "抖音",
-          "ranks": [
             4,
-            5,
-            2
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 15时42分]"
+          "appearance_count": 5,
+          "time_info": "[10时53分 ~ 16时45分]"
         },
         {
           "title": "库克说AI是对人能力的放大而非取代 不要惧怕要拥抱AI",
@@ -843,11 +930,12 @@
           "url": "https://wallstreetcn.com/livenews/3074504",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 16时45分]"
         },
         {
           "title": "中国AI大模型调用量领跑全球 中国AI大模型周调用量达4.69万亿Token",
@@ -856,7 +944,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -872,6 +960,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时33分 ~ 14时02分]"
+        },
+        {
+          "title": "种地都要“AI”了",
+          "url": "https://www.baidu.com/s?wd=%E7%A7%8D%E5%9C%B0%E9%83%BD%E8%A6%81%E2%80%9CAI%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "AI演员签约官宣",
@@ -901,7 +1000,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "梅姨落网背后的打拐黑科技",
@@ -937,11 +1036,12 @@
             11,
             12,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 15时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 16时45分]"
         },
         {
           "title": "美军公布对伊打击成果",
@@ -955,17 +1055,6 @@
           "time_info": "[10时53分 ~ 15时42分]"
         },
         {
-          "title": "全球首个脑机接口创新产品获得医保编码",
-          "url": "https://wallstreetcn.com/livenews/3074503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
           "title": "苹果CEO点赞中国创新：中国开发者和制造商正成为新质生产力的典范",
           "url": "https://wallstreetcn.com/livenews/3074485",
           "source": "华尔街见闻-快讯",
@@ -973,11 +1062,24 @@
             3,
             10,
             12,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 15时42分]"
+          "appearance_count": 5,
+          "time_info": "[10时53分 ~ 16时45分]"
+        },
+        {
+          "title": "全球首个脑机接口创新产品获得医保编码",
+          "url": "https://wallstreetcn.com/livenews/3074503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 16时45分]"
         },
         {
           "title": "苹果CEO点赞中国创新：中国开发者和制造商正成为新质生产力的典范",
@@ -1021,15 +1123,37 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
+        },
+        {
+          "title": "能辉科技：股东拟合计减持不超1.56%股份",
+          "url": "https://flash.jin10.com/detail/20260322160123636800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "百利天恒：创新药BL-ARC002获准开展晚期实体瘤临床试验",
+          "url": "https://flash.jin10.com/detail/20260322153853863800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         }
       ]
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "人形机器人出货全球第一！从宇树招股书看王兴兴的“技术野心”与“扩张蓝图”",
@@ -1110,6 +1234,28 @@
           "time_info": "[00时39分 ~ 04时37分]"
         },
         {
+          "title": "我国高端化工材料生产技术取得原创性突破",
+          "url": "https://wallstreetcn.com/livenews/3074513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "我国高端化工材料生产技术取得原创性突破",
+          "url": "https://flash.jin10.com/detail/20260322160951389800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
           "title": "卡塔尔国防部：一架卡塔尔直升机在执行例行任务时出现技术故障，导致其坠入该国领海区域。搜寻机组人员和乘客的工作正在进行中。",
           "url": "https://flash.jin10.com/detail/20260322085203242800",
           "source": "金十数据",
@@ -1135,8 +1281,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 15时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 16时45分]"
         }
       ]
     },
