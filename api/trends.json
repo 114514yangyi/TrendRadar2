@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T21:25:41.109588+08:00",
-  "total_titles_processed": 1564,
+  "generated_at": "2026-03-23T23:04:53.207470+08:00",
+  "total_titles_processed": 1679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 67,
+      "match_count": 73,
       "titles": [
         {
           "title": "高盛解读“伊朗战争会持续多久”：市场只交易了“通胀”，还未交易“衰退”",
@@ -44,8 +44,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时33分 ~ 21时25分]"
+          "appearance_count": 20,
+          "time_info": "[01时33分 ~ 23时04分]"
         },
         {
           "title": "为何日本“谄媚外交”在美遇窘",
@@ -81,11 +81,12 @@
           "ranks": [
             5,
             11,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时49分 ~ 13时11分]"
+          "appearance_count": 12,
+          "time_info": "[02时49分 ~ 23时04分]"
         },
         {
           "title": "普京称俄罗斯是伊朗艰难时刻的忠实伙伴，怎样解读？俄罗斯会介入美以伊战争吗？",
@@ -180,6 +181,17 @@
           "time_info": "[19时01分 ~ 19时02分]"
         },
         {
+          "title": "美以伊战争丨特朗普称与伊朗对话了，后者否认",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 23时04分]"
+        },
+        {
           "title": "伊朗外交部：美以袭击给波斯湾地区和霍尔木兹海峡带来危险局面",
           "url": "https://wallstreetcn.com/livenews/3074628",
           "source": "华尔街见闻-快讯",
@@ -193,6 +205,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时34分 ~ 07时36分]"
+        },
+        {
+          "title": "中方是否要求伊朗保证运往中国的石油安全？外交部回应",
+          "url": "https://news.ifeng.com/c/8rjI9zIAc32",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时07分 ~ 23时04分]"
         },
         {
           "title": "新西兰国债价格上涨，此前惠誉下调评级前景，称国际油价上涨加重通胀顾虑。 10年期新西兰国债收益率涨7个基点，至4.81%，创2025年4月14日以来新高。 两年期新债收益率涨7个基点，报3.67%。",
@@ -245,17 +268,6 @@
           "time_info": "19时52分"
         },
         {
-          "title": "美以伊战争丨特朗普称与伊朗对话了，后者否认",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
           "title": "印度总理莫迪主持政府会议，评估中东战争影响",
           "url": "https://wallstreetcn.com/livenews/3074623",
           "source": "华尔街见闻-快讯",
@@ -271,15 +283,16 @@
           "time_info": "[03时34分 ~ 07时36分]"
         },
         {
-          "title": "中方是否要求伊朗保证运往中国的石油安全？外交部回应",
-          "url": "https://news.ifeng.com/c/8rjI9zIAc32",
-          "source": "凤凰网",
+          "title": "国际能源署：中东超过40个能源资产遭重创 供应链中断时间恐延长",
+          "url": "https://www.cls.cn/detail/2321299",
+          "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时07分 ~ 21时25分]"
+          "time_info": "[19时01分 ~ 23时04分]"
         },
         {
           "title": "瑞银CEO Sergio Ermotti表示，瑞银的客户并没有因为中东冲突而对资产配置做出重大改变，但消化战争的全部影响还需要时间。",
@@ -293,16 +306,18 @@
           "time_info": "10时54分"
         },
         {
-          "title": "国际能源署：中东超过40个能源资产遭重创 供应链中断时间恐延长",
-          "url": "https://www.cls.cn/detail/2321299",
-          "source": "财联社热门",
+          "title": "外交部：如果中东战事持续扩大，整个地区将陷入不可收拾的局面",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32814481",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            8
+            20,
+            19,
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时01分 ~ 21时25分]"
+          "appearance_count": 5,
+          "time_info": "[19时01分 ~ 23时04分]"
         },
         {
           "title": "外交部：美日关系不应损害他国利益",
@@ -316,19 +331,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时07分 ~ 19时52分]"
-        },
-        {
-          "title": "外交部：如果中东战事持续扩大，整个地区将陷入不可收拾的局面",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32814481",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时01分 ~ 21时25分]"
         },
         {
           "title": "伊朗副外长：美方威胁打击伊朗发电厂违反国际法",
@@ -404,6 +406,41 @@
           "time_info": "[19时01分 ~ 19时52分]"
         },
         {
+          "title": "伊朗否认与美国沟通，此前特朗普称已与伊朗对话，将推迟五天打击伊朗发电站，如何看待此事？战争要结束了吗？",
+          "url": "https://www.zhihu.com/question/2019499450662348649",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 23时04分]"
+        },
+        {
+          "title": "伊朗外交部：与美国不存在对话",
+          "url": "https://www.toutiao.com/trending/7620418114320158259/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 23时04分]"
+        },
+        {
+          "title": "伊朗外交部：与美国不存在对话",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%8E%E7%BE%8E%E5%9B%BD%E4%B8%8D%E5%AD%98%E5%9C%A8%E5%AF%B9%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 23时04分]"
+        },
+        {
           "title": "俄罗斯航天集团称，国际空间站内的宇航员将远程控制进步MS-33货运飞船，将其与国际空间站对接，他们已做好相应的准备。",
           "url": "https://flash.jin10.com/detail/20260323044017419800",
           "source": "金十数据",
@@ -414,6 +451,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时35分]"
+        },
+        {
+          "title": "国际油价盘中暴跌超10%",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E7%9B%98%E4%B8%AD%E6%9A%B4%E8%B7%8C%E8%B6%8510%25",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 23时04分]"
         },
         {
           "title": "俄罗斯发射“联盟-2.1a”运载火箭，向国际空间站运送物资",
@@ -427,26 +476,16 @@
           "time_info": "[00时40分 ~ 01时33分]"
         },
         {
-          "title": "伊朗外交部：与美国不存在对话",
-          "url": "https://www.toutiao.com/trending/7620418114320158259/",
-          "source": "今日头条",
+          "title": "今天是国际小狗日",
+          "url": "https://www.douyin.com/hot/2440906",
+          "source": "抖音",
           "ranks": [
-            6
+            28,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
-          "title": "伊朗外交部：与美国不存在对话",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%8E%E7%BE%8E%E5%9B%BD%E4%B8%8D%E5%AD%98%E5%9C%A8%E5%AF%B9%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 23时04分]"
         },
         {
           "title": "中国政府中东问题特使：维护霍尔木兹海峡及附近水域安全符合国际社会共同利益",
@@ -471,28 +510,6 @@
           "time_info": "19时02分"
         },
         {
-          "title": "伊朗否认与美国沟通，此前特朗普称已与伊朗对话，将推迟五天打击伊朗发电站，如何看待此事？战争要结束了吗？",
-          "url": "https://www.zhihu.com/question/2019499450662348649",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
-          "title": "国际油价盘中暴跌超10%",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E7%9B%98%E4%B8%AD%E6%9A%B4%E8%B7%8C%E8%B6%8510%25",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
           "title": "国际能源署署长比罗尔：澳大利亚不应对能源公司税收作出任何突然调整。",
           "url": "https://flash.jin10.com/detail/20260323103055632800",
           "source": "金十数据",
@@ -502,6 +519,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "市场消息：银行人士表示，土耳其央行上周抛售了近30亿美元外汇，自伊朗战争爆发以来的外汇总抛售规模已达260亿美元。金价变动导致土耳其央行外汇储备缩水约75亿美元。",
+          "url": "https://flash.jin10.com/detail/20260323224312231800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "国际能源署：正在就再度释放战略石油储备进行磋商",
@@ -521,7 +549,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -532,9 +560,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
+        },
+        {
+          "title": "特朗普威胁摧毁伊朗发电设施，外交部回应",
+          "url": "https://www.cls.cn/detail/2321403",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "金十图示：2026年03月23日（周一）上海金早盘价为982.63元/克，较国际金价(980.17元/克)，高2.46元/克",
@@ -570,6 +609,17 @@
           "time_info": "19时02分"
         },
         {
+          "title": "欧盟外交事务主管Kallas谈及美国与伊朗，称：对“不袭击能源基础设施”（的承诺）表示欢迎。 打击能源基建会在地区造成（供应）混乱。",
+          "url": "https://wallstreetcn.com/livenews/3075261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "佩斯科夫：外交轨道是唯一能有效缓和中东局势的途径",
           "url": "https://wallstreetcn.com/livenews/3075096",
           "source": "华尔街见闻-快讯",
@@ -598,7 +648,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -631,7 +681,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -664,7 +714,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -708,9 +758,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
+        },
+        {
+          "title": "外交部副部长马朝旭会见美国企业家",
+          "url": "https://wallstreetcn.com/livenews/3075252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "挂单报告：国际现货黄金跌破4200 美日留意一个多单密集区",
@@ -741,20 +802,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
         {
-          "title": "今天是国际小狗日",
-          "url": "https://www.douyin.com/hot/2440906",
-          "source": "抖音",
+          "title": "特朗普：已与伊朗在“主要问题上达成共识”很快就能达成协议结束战争",
+          "url": "https://flash.jin10.com/detail/20260323223457739800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "美国总统特朗普宣称：希望在（国际石油）系统内维持尽可能多的石油（供应）。",
+          "url": "https://wallstreetcn.com/livenews/3075246",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时25分"
+          "time_info": "23时04分"
         },
         {
           "title": "国际能源署署长比罗尔：危机影响在欧洲仍未被充分理解。",
@@ -793,7 +865,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 63,
+      "match_count": 70,
       "titles": [
         {
           "title": "美国发布伊朗石油30天制裁豁免令 贝森特：将向全球供油约1.4亿桶",
@@ -826,11 +898,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时22分 ~ 21时25分]"
+          "appearance_count": 8,
+          "time_info": "[15时22分 ~ 23时04分]"
         },
         {
           "title": "国家发改委：国家对成品油价格采取临时调控措施",
@@ -840,8 +913,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时07分 ~ 21时25分]"
+          "appearance_count": 6,
+          "time_info": "[17时07分 ~ 23时04分]"
         },
         {
           "title": "国家控油价,每升少涨0.85",
@@ -851,8 +924,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时07分 ~ 21时25分]"
+          "appearance_count": 6,
+          "time_info": "[17时07分 ~ 23时04分]"
         },
         {
           "title": "官方发布安全“养龙虾”实践指南",
@@ -902,8 +975,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时01分 ~ 21时25分]"
+          "appearance_count": 5,
+          "time_info": "[19时01分 ~ 23时04分]"
+        },
+        {
+          "title": "国家发展改革委对国内成品油价格采取临时调控措施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32814415",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            9,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时07分 ~ 23时04分]"
         },
         {
           "title": "财政政策将聚焦扩大内需",
@@ -954,20 +1042,6 @@
           "time_info": "[15时22分 ~ 21时25分]"
         },
         {
-          "title": "国家发展改革委对国内成品油价格采取临时调控措施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32814415",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            9,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时07分 ~ 21时25分]"
-        },
-        {
           "title": "13年来首次！国家临时调控油价",
           "url": "https://www.toutiao.com/trending/7620346125869911594/",
           "source": "今日头条",
@@ -1005,6 +1079,30 @@
           "time_info": "[03时34分 ~ 07时36分]"
         },
         {
+          "title": "蓝绿参选人抢攻新北市长，政策交锋不断",
+          "url": "https://news.ifeng.com/c/8rjHMJH4Azr",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时07分 ~ 23时04分]"
+        },
+        {
+          "title": "华为春季发布会",
+          "url": "https://www.douyin.com/hot/2440642",
+          "source": "抖音",
+          "ranks": [
+            10,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时07分 ~ 23时04分]"
+        },
+        {
           "title": "国家知识产权局：2025年我国涉及专利的技术合同成交额达1.18万亿元",
           "url": "https://flash.jin10.com/detail/20260323152048437800",
           "source": "金十数据",
@@ -1033,7 +1131,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -1073,6 +1171,17 @@
           "time_info": "13时11分"
         },
         {
+          "title": "阿布扎比国家石油公司（ADNOC）主管：呼吁对能源海运开放霍尔木兹海峡，这是结束当前危机的唯一出路。",
+          "url": "https://wallstreetcn.com/livenews/3075273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "据韩国《东亚日报》：韩国国家安全顾问本周将访问美国。",
           "url": "https://flash.jin10.com/detail/20260323070025018800",
           "source": "金十数据",
@@ -1105,30 +1214,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时22分 ~ 17时07分]"
-        },
-        {
-          "title": "蓝绿参选人抢攻新北市长，政策交锋不断",
-          "url": "https://news.ifeng.com/c/8rjHMJH4Azr",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时07分 ~ 21时25分]"
-        },
-        {
-          "title": "华为春季发布会",
-          "url": "https://www.douyin.com/hot/2440642",
-          "source": "抖音",
-          "ranks": [
-            10,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时07分 ~ 21时25分]"
         },
         {
           "title": "美国财长贝森特：无论是俄罗斯石油、伊朗石油，还是由32个国家组成的联盟所实施的、历史上规模最大的战略石油储备（SPR）释放计划，都确保了这一点。",
@@ -1291,6 +1376,17 @@
           "time_info": "13时11分"
         },
         {
+          "title": "英国首相斯塔默：正与国防工业界合作，向海湾伙伴国分发防空导弹，并迅速向巴林部署近程防空系统。",
+          "url": "https://flash.jin10.com/detail/20260323224522750800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "中国政府中东问题特使提醒：暂勿前往伊朗和周边地区国家",
           "url": "https://wallstreetcn.com/livenews/3075044",
           "source": "华尔街见闻-快讯",
@@ -1346,6 +1442,17 @@
           "time_info": "15时23分"
         },
         {
+          "title": "阿联酋阿布扎比国家石油公司CEO：我们热切希望扩大在硬基础设施领域的投资。",
+          "url": "https://flash.jin10.com/detail/20260323224126332800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "国家对成品油价格采取临时调控措施",
           "url": "https://wallstreetcn.com/livenews/3074949",
           "source": "华尔街见闻-快讯",
@@ -1363,9 +1470,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司CEO：公司正采取非凡举措，确保每一位客户和利益相关方都能获得所需资源。",
+          "url": "https://flash.jin10.com/detail/20260323224102922800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "习近平致电祝贺通伦当选连任老挝国家主席 李强致电祝贺宋赛当选连任老挝政府总理",
@@ -1434,6 +1552,17 @@
           "time_info": "03时34分"
         },
         {
+          "title": "阿联酋阿布扎比国家石油公司CEO：将霍尔木兹海峡“武器化”是“经济恐怖主义”行径，其全球影响将远远超出能源市场。",
+          "url": "https://flash.jin10.com/detail/20260323223823674800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "日本手办品牌 P1S（Prime 1 Studio）被指拖欠代工厂定金，并发布阴阳公告，如何评价此事？",
           "url": "https://www.zhihu.com/question/2017887965498586043",
           "source": "知乎",
@@ -1451,7 +1580,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -1495,7 +1624,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -1506,7 +1635,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -1520,12 +1649,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司CEO：不应允许任何国家将霍尔木兹海峡当做一种威胁手段。",
+          "url": "https://flash.jin10.com/detail/20260323223416652800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司CEO：我们并未寻求冲突，伊朗对阿联酋的袭击是非法且无端的。",
+          "url": "https://flash.jin10.com/detail/20260323223349450800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         }
       ]
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "【早报】伊朗提出停战六项条件；宇树科技IPO获受理",
@@ -1585,9 +1736,34 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 23时04分]"
+        },
+        {
+          "title": "美伊“撕扯”全球市场，美股高开高走，科技股普涨，原油跌幅收窄，金属齐涨",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时25分"
+          "time_info": "23时04分"
+        },
+        {
+          "title": "教授地铁审博士论文视频海外爆火",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E6%8E%88%E5%9C%B0%E9%93%81%E5%AE%A1%E5%8D%9A%E5%A3%AB%E8%AE%BA%E6%96%87%E8%A7%86%E9%A2%91%E6%B5%B7%E5%A4%96%E7%88%86%E7%81%AB%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            5,
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时01分 ~ 23时04分]"
         },
         {
           "title": "大疆起诉影石创新",
@@ -1599,19 +1775,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
-        },
-        {
-          "title": "教授地铁审博士论文视频海外爆火",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E6%8E%88%E5%9C%B0%E9%93%81%E5%AE%A1%E5%8D%9A%E5%A3%AB%E8%AE%BA%E6%96%87%E8%A7%86%E9%A2%91%E6%B5%B7%E5%A4%96%E7%88%86%E7%81%AB%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时01分 ~ 21时25分]"
         },
         {
           "title": "恒生指数跌幅扩大至3%，恒生科技指数现跌2.19%。",
@@ -1661,6 +1824,30 @@
           "time_info": "[10时54分 ~ 13时11分]"
         },
         {
+          "title": "尚界 Z7 预售 22.98 万起，全系标配华为 896 线激光雷达等黑科技，你有哪些期待？",
+          "url": "https://www.zhihu.com/question/2019363621617025238",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时52分 ~ 23时04分]"
+        },
+        {
+          "title": "习近平：牢牢把握雄安新区功能定位 努力建设新时代创新高地和推动高质量发展样板",
+          "url": "https://www.cls.cn/detail/2321853",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 23时04分]"
+        },
+        {
           "title": "中国大模型调用量连续3周超越美国",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%B0%83%E7%94%A8%E9%87%8F%E8%BF%9E%E7%BB%AD3%E5%91%A8%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9B%BD",
           "source": "百度热搜",
@@ -1670,18 +1857,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时22分 ~ 15时23分]"
-        },
-        {
-          "title": "尚界 Z7 预售 22.98 万起，全系标配华为 896 线激光雷达等黑科技，你有哪些期待？",
-          "url": "https://www.zhihu.com/question/2019363621617025238",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 21时25分]"
         },
         {
           "title": "源杰科技为何成A股史上第8只千元股",
@@ -1750,17 +1925,6 @@
           "time_info": "19时52分"
         },
         {
-          "title": "习近平：牢牢把握雄安新区功能定位 努力建设新时代创新高地和推动高质量发展样板",
-          "url": "https://www.cls.cn/detail/2321853",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
           "title": "我国首次完成全国2700多所高校和科研机构存量专利盘点",
           "url": "https://wallstreetcn.com/livenews/3074954",
           "source": "华尔街见闻-快讯",
@@ -1811,7 +1975,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -1885,7 +2049,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "跑马拉松护航的民警居然是AI机器人",
@@ -1922,8 +2086,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时54分 ~ 21时25分]"
+          "appearance_count": 11,
+          "time_info": "[10时54分 ~ 23时04分]"
         },
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -1953,6 +2117,18 @@
           "time_info": "[00时40分 ~ 10时54分]"
         },
         {
+          "title": "普通人如何制作AI视频",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9CAI%E8%A7%86%E9%A2%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 23时04分]"
+        },
+        {
           "title": "iPhone Air使用报告",
           "url": "https://search.bilibili.com/all?keyword=iPhone%20Air%E4%BD%BF%E7%94%A8%E6%8A%A5%E5%91%8A",
           "source": "bilibili 热搜",
@@ -1962,17 +2138,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时22分 ~ 15时23分]"
-        },
-        {
-          "title": "普通人如何制作AI视频",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9CAI%E8%A7%86%E9%A2%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
         },
         {
           "title": "AI短剧付费后竟然变成PPT",
@@ -2037,6 +2202,18 @@
           "time_info": "[19时01分 ~ 19时52分]"
         },
         {
+          "title": "深度解析AI对影视行业的影响",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90AI%E5%AF%B9%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 23时04分]"
+        },
+        {
           "title": "AI算力需求将超1.3万亿美元！华为加码“企业龙虾” 涉及多家上市公司",
           "url": "https://www.cls.cn/detail/2320476",
           "source": "财联社热门",
@@ -2060,6 +2237,18 @@
           "time_info": "[15时22分 ~ 15时23分]"
         },
         {
+          "title": "AI写歌走红程序员9个月赚20万",
+          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E6%AD%8C%E8%B5%B0%E7%BA%A2%E7%A8%8B%E5%BA%8F%E5%91%989%E4%B8%AA%E6%9C%88%E8%B5%9A20%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 23时04分]"
+        },
+        {
           "title": "中美算力变局：中国AI开始争夺定价权",
           "url": "https://www.toutiao.com/trending/7620326265257463359/",
           "source": "今日头条",
@@ -2069,17 +2258,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时01分 ~ 19时02分]"
-        },
-        {
-          "title": "深度解析AI对影视行业的影响",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90AI%E5%AF%B9%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
         },
         {
           "title": "扎克伯格打造CEO代理 公司内部已出现“AI代理社交”",
@@ -2126,15 +2304,26 @@
           "time_info": "15时23分"
         },
         {
-          "title": "AI写歌走红程序员9个月赚20万",
-          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E6%AD%8C%E8%B5%B0%E7%BA%A2%E7%A8%8B%E5%BA%8F%E5%91%989%E4%B8%AA%E6%9C%88%E8%B5%9A20%E4%B8%87",
-          "source": "百度热搜",
+          "title": "内娱影视行业AI化是好是坏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%A8%B1%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9AAI%E5%8C%96%E6%98%AF%E5%A5%BD%E6%98%AF%E5%9D%8F",
+          "source": "bilibili 热搜",
           "ranks": [
-            14
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时25分"
+          "time_info": "23时04分"
+        },
+        {
+          "title": "据意大利国家电视台（RAI）：根据实际计票结果预测，公投中“反对”党将获得胜利，预计得票率为53%。意大利总理梅洛尼在公投中或将以微弱劣势落败。",
+          "url": "https://flash.jin10.com/detail/20260323223937955800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "市场消息：韩国人工智能初创公司Upstage正在与AMD(AMD.O)洽谈购买其10,000台最新的AI加速器，以此将大规模计算引入韩国。",
@@ -2162,8 +2351,19 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美国能源部长Wright：（美国）“可能会再次释放战略石油储备（SPR）”，但不可能发生这种情况。 如果我们（特朗普政府）想要这样做，将要求（石油/天然气）行业提高产量。",
+          "url": "https://wallstreetcn.com/livenews/3075276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
         {
           "title": "维权投资者Elliott入股芯片设计软件巨头Synopsys。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3074643",
@@ -2216,7 +2416,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -2238,7 +2438,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
