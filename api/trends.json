@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-03-24T04:47:23.019260+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-03-24T05:46:15.852455+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "美以伊战争丨特朗普：这一次，伊朗是认真的",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 05时46分]"
+        },
+        {
+          "title": "美教授：中国是国际舞台仅剩的成年人",
+          "url": "https://www.toutiao.com/trending/7620315118065713193/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 05时46分]"
+        },
         {
           "title": "美以伊战争丨以官员：美伊将在巴基斯坦会谈",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -19,39 +41,6 @@
           "time_info": "[01时02分 ~ 03时05分]"
         },
         {
-          "title": "美以伊战争丨特朗普：这一次，伊朗是认真的",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "美教授：中国是国际舞台仅剩的成年人",
-          "url": "https://www.toutiao.com/trending/7620315118065713193/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "美联储戴利：过多的前瞻性指引会造成虚假的确定感。如果战争迅速结束，对经济的影响将是短暂的。承认不确定性才是最佳沟通方式。",
-          "url": "https://flash.jin10.com/detail/20260324043601913800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
           "title": "中方是否要求伊朗保证运往中国的石油安全？外交部回应",
           "url": "https://news.ifeng.com/c/8rjI9zIAc32",
           "source": "凤凰网",
@@ -59,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时46分]"
         },
         {
           "title": "伊朗否认与美国沟通，此前特朗普称已与伊朗对话，将推迟五天打击伊朗发电站，如何看待此事？战争要结束了吗？",
@@ -70,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时46分]"
         },
         {
           "title": "外交部：如果中东战事持续扩大，整个地区将陷入不可收拾的局面",
@@ -82,8 +71,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时46分]"
+        },
+        {
+          "title": "国际油价23日大幅下跌",
+          "url": "https://flash.jin10.com/detail/20260324051309664800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "伊朗与巴基斯坦高层连续通话，强调通过外交缓和地区局势",
+          "url": "https://wallstreetcn.com/livenews/3075429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
         },
         {
           "title": "伊朗外交部：与美国不存在对话",
@@ -95,8 +106,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时46分]"
         },
         {
           "title": "G2稳定尽孝,BLG夺国际首冠",
@@ -106,8 +117,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时46分]"
         },
         {
           "title": "伊朗外交部：与美国不存在对话",
@@ -116,11 +127,37 @@
           "ranks": [
             16,
             28,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时46分]"
+        },
+        {
+          "title": "美联储戴利：过多的前瞻性指引会造成虚假的确定感。如果战争迅速结束，对经济的影响将是短暂的。承认不确定性才是最佳沟通方式。",
+          "url": "https://flash.jin10.com/detail/20260324043601913800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时46分]"
+        },
+        {
+          "title": "国际油价盘中暴跌超10%",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E7%9B%98%E4%B8%AD%E6%9A%B4%E8%B7%8C%E8%B6%8510%25",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时46分]"
         },
         {
           "title": "1036天LPL再夺国际赛冠军",
@@ -133,18 +170,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时05分 ~ 04时47分]"
-        },
-        {
-          "title": "国际油价盘中暴跌超10%",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E7%9B%98%E4%B8%AD%E6%9A%B4%E8%B7%8C%E8%B6%8510%25",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 03时05分]"
         },
         {
           "title": "据以色列第12频道：以色列官员表示，特朗普不会签署一个无法实现战争目标的伊朗协议。",
@@ -224,6 +249,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "俄罗斯3月谷物出口同比增长两倍，诸多粮食进口国希望在伊朗战争期间确保供应、避免潜在的短缺风险。 3月1-20日，俄罗斯出口了350万吨粮食。（国际文传通讯社IFX）",
+          "url": "https://wallstreetcn.com/livenews/3075416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
           "title": "日本国际事务副大臣：国际能源署释放的4亿桶原油“不足以缓解极度紧张的市场”。",
           "url": "https://flash.jin10.com/detail/20260324002518737800",
           "source": "金十数据",
@@ -268,13 +304,24 @@
           "time_info": "03时05分"
         },
         {
+          "title": "新西兰联储主席Anna Breman：（我们）在处理价格稳定性的影响方面准备就绪。 （在美国和以色列挑起伊朗战争之际）预计新西兰将出现更高的通胀，更慢的经济增速。 如果干扰问题持续更长时间，（对新西兰经济前景的展望）形势可能会发生变化。 可能会迸发全球金融稳定性风险。",
+          "url": "https://wallstreetcn.com/livenews/3075409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
           "title": "伊朗高级官员称战争将持续 直到所有损失都得到补偿",
           "url": "https://flash.jin10.com/detail/20260324032656436800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -285,7 +332,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         }
@@ -293,7 +340,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "国家控油价,每升少涨0.85",
@@ -303,8 +350,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时46分]"
         },
         {
           "title": "国家对成品油价格采取临时调控措施，全国平均每升少涨 0.85 元左右，意味着什么？",
@@ -314,8 +361,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时46分]"
         },
         {
           "title": "国家发展改革委对国内成品油价格采取临时调控措施",
@@ -325,19 +372,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时46分]"
         },
         {
-          "title": "美国旧金山联储主席戴利：错综复杂的冲突可能会“放大货币政策的权衡难题”。 鉴于所面临的风险，美联储需要保持政策灵活性。 如果给出太多的前瞻指引，将面临“确定性错觉”风险。 承认不确定性是最佳沟通（策略）。",
-          "url": "https://wallstreetcn.com/livenews/3075415",
-          "source": "华尔街见闻-快讯",
+          "title": "如何看待华为 3 月 23 日举办的春季新品发布会？有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2019430438742049214",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时46分]"
+        },
+        {
+          "title": "据美国政治新闻网站Politico：特朗普政府正暗中评估将伊朗议会议长加利巴夫作为潜在合作伙伴，甚至是未来伊朗领导人的可能性。",
+          "url": "https://flash.jin10.com/detail/20260324054217364800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "05时46分"
         },
         {
           "title": "美国内政部长伯格姆：亚洲合作伙伴寻求购买美国能源，突出了美国领土对能源安全的需求。",
@@ -349,29 +408,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
-        },
-        {
-          "title": "美联储戴利：经济至少有两条潜在的发展道路。旷日持久的冲突可能加剧货币政策的权衡取舍。",
-          "url": "https://flash.jin10.com/detail/20260324042738400800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "如何看待华为 3 月 23 日举办的春季新品发布会？有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2019430438742049214",
-          "source": "知乎",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时47分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数大致持平，报358.31点。 在十个板块中，北欧工业板块涨幅最大。 潘多拉Pandora A/S涨9.2%，在一众北欧个股里领跑。",
@@ -392,8 +428,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时46分]"
+        },
+        {
+          "title": "美国旧金山联储主席戴利：错综复杂的冲突可能会“放大货币政策的权衡难题”。 鉴于所面临的风险，美联储需要保持政策灵活性。 如果给出太多的前瞻指引，将面临“确定性错觉”风险。 承认不确定性是最佳沟通（策略）。",
+          "url": "https://wallstreetcn.com/livenews/3075415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时46分]"
+        },
+        {
+          "title": "美联储戴利：经济至少有两条潜在的发展道路。旷日持久的冲突可能加剧货币政策的权衡取舍。",
+          "url": "https://flash.jin10.com/detail/20260324042738400800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时46分]"
         },
         {
           "title": "美国发布海外公民安全警告",
@@ -401,55 +461,82 @@
           "source": "抖音",
           "ranks": [
             19,
-            21
+            21,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[03时05分 ~ 05时46分]"
         },
         {
           "title": "新西兰联储行长布雷曼：如果中期通胀或通胀预期受到影响，适当的政策回应可能是提高利率，以防止出现这些第二轮效应。",
           "url": "https://flash.jin10.com/detail/20260324040611957800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时46分]"
         },
         {
           "title": "新西兰联储行长布雷曼：货币政策能够也应当确保暂时的通胀飙升不会演变为持久的通胀压力。",
           "url": "https://flash.jin10.com/detail/20260324040535635800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时46分]"
         },
         {
           "title": "新西兰联储行长布雷曼：我们经济前景面临风险，如果这一前景发生变化，我们将调整货币政策立场，以实现我们的目标。",
           "url": "https://flash.jin10.com/detail/20260324040500218800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时46分]"
         },
         {
           "title": "新西兰联储行长布雷曼：货币政策必须具有前瞻性，并着眼于中期通胀压力。",
           "url": "https://flash.jin10.com/detail/20260324040445665800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时46分]"
+        },
+        {
+          "title": "国家电投计划今年投资2000亿元",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E7%94%B5%E6%8A%95%E8%AE%A1%E5%88%92%E4%BB%8A%E5%B9%B4%E6%8A%95%E8%B5%842000%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 05时46分]"
+        },
+        {
+          "title": "美联储戴利：货币政策不存在唯一最可能的路径。政策目前处于良好位置。",
+          "url": "https://flash.jin10.com/detail/20260324045905681800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "05时46分"
         },
         {
           "title": "欧亚集团欧洲高级分析师Federico Santi：意大利政府此次在司法改革公投中失利，将使总理梅洛尼2027年的连任前景蒙上阴影。 这次失利可能还令其更广泛的宪法改革计划受挫，包括加强总理权力的计划。",
@@ -491,7 +578,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -542,8 +629,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时46分]"
         },
         {
           "title": "科技春耕与春日经济共绘希望田野",
@@ -553,8 +640,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时46分]"
         },
         {
           "title": "习近平：牢牢把握雄安新区功能定位 努力建设新时代创新高地和推动高质量发展样板",
@@ -564,19 +651,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时47分]"
-        },
-        {
-          "title": "标普500指数的11个板块中，可选消费板块收涨2.46%，原材料、信息技术/科技、工业、能源、公用事业板块至多涨1.49%，电信板块涨0.69%。",
-          "url": "https://wallstreetcn.com/livenews/3075411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时46分]"
         },
         {
           "title": "尚界 Z7 预售 22.98 万起，全系标配华为 896 线激光雷达等黑科技，你有哪些期待？",
@@ -586,8 +662,32 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时46分]"
+        },
+        {
+          "title": "标普500指数的11个板块中，可选消费板块收涨2.46%，原材料、信息技术/科技、工业、能源、公用事业板块至多涨1.49%，电信板块涨0.69%。",
+          "url": "https://wallstreetcn.com/livenews/3075411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时46分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.86%，报6800.66点。 热门中概股里，文远知行初步收涨9.2%，小鹏、蔚来涨7.1%，比亚迪、阿里巴巴涨超3%，理想涨2.5%，腾讯、小米、京东至多涨1.7%，阿特斯则跌7.7%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收涨3.69%，中概互联网指数ETF（KWEB）收涨0.74%，中国科技指数ETF（CQQQ）收涨0.09%。 德银嘉实沪深300指数ETF（ASHR）收跌0.65%，XtrackersHarvest中证50（ASHS）收跌1.87%。",
+          "url": "https://wallstreetcn.com/livenews/3075405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时46分]"
         },
         {
           "title": "标普500指数收涨74.52点，涨幅1.15%，报6581.00点。 道琼斯工业平均指数收涨631.00点，涨幅1.38%，报46208.47点。 纳斯达克综合指数（纳指）收涨299.149点，涨幅1.38%，报21946.76点。 纳斯达克100指数收涨290.436点，涨幅1.22%，报24188.59点。 费城半导体指数收涨1.34%，报7773.132点。 费城证交所KBW银行指数收涨1.37%，报151.51点。 道琼斯KBW地区银行指数收涨1.68%，报123.85点。 纳斯达克生物科技指数收涨0.56%，报5623.18点。",
@@ -596,18 +696,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.86%，报6800.66点。 热门中概股里，文远知行初步收涨9.2%，小鹏、蔚来涨7.1%，比亚迪、阿里巴巴涨超3%，理想涨2.5%，腾讯、小米、京东至多涨1.7%，阿特斯则跌7.7%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收涨3.69%，中概互联网指数ETF（KWEB）收涨0.74%，中国科技指数ETF（CQQQ）收涨0.09%。 德银嘉实沪深300指数ETF（ASHR）收跌0.65%，XtrackersHarvest中证50（ASHS）收跌1.87%。",
-          "url": "https://wallstreetcn.com/livenews/3075405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -618,7 +707,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -629,7 +718,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         }
@@ -637,7 +726,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "普通人如何制作AI视频",
@@ -647,8 +736,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时46分]"
+        },
+        {
+          "title": "据航空新闻资讯平台The Air Current：波音(BA.N)已获得美国联邦航空管理局的批准，推出787-9和787-10远程宽体客机的新型增重最大起飞重量型号。",
+          "url": "https://flash.jin10.com/detail/20260324052732928800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
         },
         {
           "title": "DeepSeek郭达雅被曝离职",
@@ -720,6 +820,46 @@
       ]
     },
     {
+      "keyword_group": "美股 美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股七巨头收盘播报｜周一（3月23日），美国科技股七巨头（Magnificent 7）指数涨1.36%，报187.71点。 “超大”市值科技股指数涨1.67%，报358.31点。",
+          "url": "https://wallstreetcn.com/livenews/3075432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "美元指数跌超0.6%，日元一度涨向158",
+          "url": "https://wallstreetcn.com/livenews/3075401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时46分]"
+        },
+        {
+          "title": "美元指数23日下跌",
+          "url": "https://flash.jin10.com/detail/20260324051252587800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -756,11 +896,12 @@
           "url": "https://wallstreetcn.com/livenews/3075410",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时46分]"
         },
         {
           "title": "英国首相斯塔默：（我们）并没有过度依赖美国科学技术，但正寻求本土替代方案。",
@@ -772,23 +913,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数跌超0.6%，日元一度涨向158",
-          "url": "https://wallstreetcn.com/livenews/3075401",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
         }
       ]
     }
