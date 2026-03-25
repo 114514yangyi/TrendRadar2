@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T10:50:41.193431+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-03-25T13:02:24.484212+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 47,
+      "match_count": 51,
       "titles": [
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -25,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 10时50分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 13时02分]"
         },
         {
           "title": "马上评｜“去人化”的AI影视，你还会看吗？",
@@ -38,11 +39,12 @@
           "ranks": [
             16,
             17,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 10时50分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 13时02分]"
         },
         {
           "title": "知名编剧打假:AI是庞氏骗局",
@@ -50,11 +52,25 @@
           "source": "贴吧",
           "ranks": [
             15,
-            18
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 13时02分]"
+        },
+        {
+          "title": "Claude刚刚杀死了OpenClaw！",
+          "url": "https://wallstreetcn.com/articles/3768255",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[01时09分 ~ 10时50分]"
+          "time_info": "[03时15分 ~ 13时02分]"
         },
         {
           "title": "给AI龙虾装上双手打游戏",
@@ -72,19 +88,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时09分 ~ 10时50分]"
-        },
-        {
-          "title": "Claude刚刚杀死了OpenClaw！",
-          "url": "https://wallstreetcn.com/articles/3768255",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时15分 ~ 10时50分]"
         },
         {
           "title": "报告称AI将全面取代这六大岗位",
@@ -111,6 +114,17 @@
           "time_info": "[01时09分 ~ 07时40分]"
         },
         {
+          "title": "这就是中国AI产业链的硬核实力",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A%E9%93%BE%E7%9A%84%E7%A1%AC%E6%A0%B8%E5%AE%9E%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 13时02分]"
+        },
+        {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
           "url": "https://flash.jin10.com/detail/20260325043011532800",
           "source": "金十数据",
@@ -128,7 +142,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -144,17 +158,6 @@
           "time_info": "07时40分"
         },
         {
-          "title": "这就是中国AI产业链的硬核实力",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A%E9%93%BE%E7%9A%84%E7%A1%AC%E6%A0%B8%E5%AE%9E%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
           "title": "Meta任命新负责人领导公司向“AI原生”转型",
           "url": "https://flash.jin10.com/detail/20260325005059840800",
           "source": "金十数据",
@@ -164,6 +167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
+          "url": "https://www.zhihu.com/question/2020036375211157322",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
@@ -213,6 +227,42 @@
           "time_info": "[04时52分 ~ 05时46分]"
         },
         {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 13时02分]"
+        },
+        {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 13时02分]"
+        },
+        {
+          "title": "“七巨头”集体熄火！华尔街惊呼：AI最大赢家已换人",
+          "url": "https://www.cls.cn/detail/2323532",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 13时02分]"
+        },
+        {
           "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
           "url": "https://wallstreetcn.com/articles/3768269",
           "source": "华尔街见闻",
@@ -224,37 +274,28 @@
           "time_info": "[07时39分 ~ 07时40分]"
         },
         {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
-          "url": "https://www.cls.cn/detail/2323711",
+          "title": "亚马逊传闻引爆软件板块恐慌 “AI颠覆逻辑”再度升温",
+          "url": "https://www.cls.cn/detail/2323553",
           "source": "财联社热门",
           "ranks": [
-            8
+            12,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 13时02分]"
         },
         {
-          "title": "“七巨头”集体熄火！华尔街惊呼：AI最大赢家已换人",
-          "url": "https://www.cls.cn/detail/2323532",
-          "source": "财联社热门",
+          "title": "AI将军凯旋归来",
+          "url": "https://www.douyin.com/hot/2442407",
+          "source": "抖音",
           "ranks": [
-            9
+            27,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 13时02分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼调整职责分工，并筹备推出SPUD新型人工智能模型。",
@@ -290,17 +331,6 @@
           "time_info": "06时40分"
         },
         {
-          "title": "亚马逊传闻引爆软件板块恐慌 “AI颠覆逻辑”再度升温",
-          "url": "https://www.cls.cn/detail/2323553",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
           "title": "Meta任命Andrew Bosworth负责AI原生业务，负责管理“AI for Work”项目。 首席技术官（CTO）Bosworth将主管内部使用的AI工具。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3076091",
           "source": "华尔街见闻-快讯",
@@ -312,15 +342,37 @@
           "time_info": "01时09分"
         },
         {
+          "title": "OpenAI为何关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%B8%BA%E4%BD%95%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "Claude加入“龙虾大战” NASA押注月球基地、核动力飞船 | 环球市场",
           "url": "https://www.cls.cn/detail/2323662",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "Token AI时代的新KPI",
+          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
@@ -455,6 +507,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "Kimi杨植麟：开源模型正在成为新的标准，AI将在未来更大程度主导研究",
+          "url": "https://flash.jin10.com/detail/20260325121505832800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "据华尔街日报 ：此举是OpenAI在今年第四季度可能进行首次公开募股之前，为重新聚焦于商业和编程业务而采取的众多措施之一。",
           "url": "https://flash.jin10.com/detail/20260325034535690800",
           "source": "金十数据",
@@ -505,7 +568,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -519,17 +582,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
-        },
-        {
-          "title": "AI将军凯旋归来",
-          "url": "https://www.douyin.com/hot/2442407",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
         },
         {
           "title": "据华尔街日报：Meta首席技术官安德鲁·博斯沃思将负责监管公司的“面向工作的AI”计划，公司重心正从元宇宙转移。",
@@ -546,20 +598,8 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 42,
+      "match_count": 49,
       "titles": [
-        {
-          "title": "中日关系拟降级,外交部回应",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352300&amp;topic_name=%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E6%8B%9F%E9%99%8D%E7%BA%A7%2C%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 10时50分]"
-        },
         {
           "title": "自称日本自卫队现役官员强闯中国驻日本大使馆，外交部：严正交涉，强烈抗议",
           "url": "https://m.thepaper.cn/newsDetail_forward_32819700",
@@ -568,8 +608,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 10时50分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 13时02分]"
         },
         {
           "title": "伊朗最高领袖顾问重申结束战争条件",
@@ -581,6 +621,32 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时09分 ~ 10时50分]"
+        },
+        {
+          "title": "中日关系拟降级,外交部回应",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352300&amp;topic_name=%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E6%8B%9F%E9%99%8D%E7%BA%A7%2C%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 13时02分]"
+        },
+        {
+          "title": "伊朗称收到美国信息，“正予以审视”！美国被曝向多国索要保护费：花2.5万亿美元结束战争！",
+          "url": "https://wallstreetcn.com/articles/3768257",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 13时02分]"
         },
         {
           "title": "外交部回应日方拟将中日关系降级",
@@ -605,17 +671,16 @@
           "time_info": "[01时09分 ~ 07时40分]"
         },
         {
-          "title": "伊朗称收到美国信息，“正予以审视”！美国被曝向多国索要保护费：花2.5万亿美元结束战争！",
-          "url": "https://wallstreetcn.com/articles/3768257",
-          "source": "华尔街见闻",
+          "title": "外交部回应一名日本自卫队人员闯入中国驻日本大使馆，要求日方立即彻查，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2019814614259427027",
+          "source": "知乎",
           "ranks": [
-            6,
-            5,
-            3
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 10时50分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 13时02分]"
         },
         {
           "title": "美以伊战争丨拉里贾尼继任者选出",
@@ -629,16 +694,19 @@
           "time_info": "[01时09分 ~ 05时46分]"
         },
         {
-          "title": "外交部回应一名日本自卫队人员闯入中国驻日本大使馆，要求日方立即彻查，具体情况如何？",
-          "url": "https://www.zhihu.com/question/2019814614259427027",
-          "source": "知乎",
+          "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            7
+            12,
+            13,
+            14,
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 10时50分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 13时02分]"
         },
         {
           "title": "美以伊战争丨美方向伊朗提出“15项条件”和谈方案",
@@ -650,20 +718,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时40分 ~ 07时40分]"
-        },
-        {
-          "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 10时50分]"
         },
         {
           "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
@@ -686,9 +740,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "美以伊战争丨伊朗被曝拒绝与威特科夫和库什纳谈判",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "中国代表呼吁国际社会采取不可逆行动落实“两国方案”",
+          "url": "https://flash.jin10.com/detail/20260325124949221800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "虽然面临海湾战争，但对冲基金Verition仍然考虑在迪拜拓展租赁。",
@@ -700,6 +776,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "委内瑞拉外交使团将于本周赴美履职",
+          "url": "https://wallstreetcn.com/livenews/3076409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "伊朗外长：霍尔木兹海峡并没有关闭 航运中断源于保险因战争恐惧而撤离",
@@ -722,6 +809,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "押注中东战争爆发的Polymarket交易员：下周达成停火协议！",
+          "url": "https://wallstreetcn.com/articles/3768264",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时39分 ~ 13时02分]"
         },
         {
           "title": "美媒：美国已向伊朗传递结束战争的15点计划",
@@ -747,18 +846,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时15分 ~ 06时40分]"
-        },
-        {
-          "title": "押注中东战争爆发的Polymarket交易员：下周达成停火协议！",
-          "url": "https://wallstreetcn.com/articles/3768264",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时39分 ~ 10时50分]"
         },
         {
           "title": "安哥拉在美元债市场融资25亿美元，押注伊朗战争带来的油价上涨行情将刺激投资者对这个产油国债务的需求。",
@@ -824,7 +911,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -851,6 +938,17 @@
           "time_info": "05时46分"
         },
         {
+          "title": "特朗普一句话搅动市场风雨：亚太股市普遍高开 国际油价大幅下跌",
+          "url": "https://www.cls.cn/detail/2323758",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "美国芝加哥联储主席Goolsbee：降息前必须看到通胀降温。 能源价格上涨正推高通胀。 可能会目睹消费者信心下滑。 FOMC利率前景取决于（伊朗）战争持续的时间。 我们应该感到些许欣慰，我们正走在回归2%通胀率的道路上。",
           "url": "https://wallstreetcn.com/livenews/3076243",
           "source": "华尔街见闻-快讯",
@@ -873,6 +971,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "泡泡玛特(09992.HK)：非国际财务报告会计准则经调整纯利130.84亿元，上年同期34.03亿元，同比增长284.5%。",
+          "url": "https://flash.jin10.com/detail/20260325122633832800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "美联储古尔斯比：不知是否还能降息，这取决于战争持续时间。",
           "url": "https://flash.jin10.com/detail/20260325064706830800",
           "source": "金十数据",
@@ -890,7 +999,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -906,15 +1015,37 @@
           "time_info": "05时46分"
         },
         {
+          "title": "日本将在外交报告中下调对中日关系的表述，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819694",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "美国向伊朗传递结束战争的15点计划，现货黄金、现货白银多头情绪占比达到80%或以上。后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260325103425976800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "人民锐评：国际油价飙升，中国为何稳得住？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819151",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "科威特石油公司首席执行官：如果战争今天结束，我们可以相对快速地恢复生产；达到满产需要3到4个月。",
@@ -978,7 +1109,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -1030,7 +1161,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "张雪峰去世，公司发布讣告",
@@ -1040,8 +1171,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 10时50分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 13时02分]"
         },
         {
           "title": "国家金融监督管理总局党委委员、副局长周亮接受审查调查",
@@ -1052,19 +1183,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 10时50分]"
-        },
-        {
-          "title": "金正恩：美国在世界各地实施国家恐怖主义和侵略行为",
-          "url": "https://news.ifeng.com/c/8rlC6Ox2ZKc",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 10时50分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 13时02分]"
         },
         {
           "title": "国家控油价,每升少涨0.85",
@@ -1072,7 +1192,19 @@
           "source": "贴吧",
           "ranks": [
             19,
-            22
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 13时02分]"
+        },
+        {
+          "title": "金正恩：美国在世界各地实施国家恐怖主义和侵略行为",
+          "url": "https://news.ifeng.com/c/8rlC6Ox2ZKc",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -1106,24 +1238,13 @@
           "time_info": "[04时52分 ~ 07时40分]"
         },
         {
-          "title": "多家银行发布风险提示",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
           "title": "iOS26.4正式版发布",
           "url": "https://search.bilibili.com/all?keyword=iOS26.4%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -1145,7 +1266,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -1178,9 +1299,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "国家发改委主任郑栅洁会见韩国三星电子会长李在镕",
+          "url": "https://flash.jin10.com/detail/20260325124634327800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "多地中考改革调整开闭卷科目，同省不同市采取两种策略",
@@ -1193,6 +1325,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时09分 ~ 06时40分]"
+        },
+        {
+          "title": "多家银行发布风险提示",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 13时02分]"
         },
         {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
@@ -1266,6 +1410,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "泡泡玛特：2025年在全球20个国家运营630家门店 全年净增109家",
+          "url": "https://flash.jin10.com/detail/20260325123908426800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "挪威国家石油公司CEO：预计纽约帝国风电项目将在年底前实现首次发电，并于明年完工。",
           "url": "https://flash.jin10.com/detail/20260325065018557800",
           "source": "金十数据",
@@ -1324,7 +1479,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -1357,7 +1512,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -1402,7 +1557,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -1413,7 +1568,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -1424,7 +1579,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -1449,6 +1604,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
+        },
+        {
+          "title": "恒指涨幅收窄至0.1%，恒生科技指数转为下跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3076376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "新思科技（Synopsys）支持Arm控股新款AGI CPU。",
@@ -1476,7 +1642,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
@@ -1486,8 +1652,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时39分 ~ 10时50分]"
+          "appearance_count": 4,
+          "time_info": "[07时39分 ~ 13时02分]"
         },
         {
           "title": "GTC为行业指明了哪些方向",
@@ -1497,11 +1663,12 @@
             15,
             16,
             14,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 10时50分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 13时02分]"
         },
         {
           "title": "Anduril、Palantir向美国总统特朗普提倡的“金琼”反导系统提供软件支持。（华尔街日报）",
@@ -1569,6 +1736,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "交行回应拟申请撤销私行专营牌照：现有私人银行业务服务、权益、流程等均不受影响",
+          "url": "https://wallstreetcn.com/livenews/3076374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
@@ -1585,8 +1763,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时39分 ~ 10时50分]"
+          "appearance_count": 4,
+          "time_info": "[07时39分 ~ 13时02分]"
         },
         {
           "title": "美元指数周二涨约0.3%，美股收盘后急剧跳水，日元美股盘后瞬间拉升",
@@ -1722,11 +1900,12 @@
           "url": "https://flash.jin10.com/detail/20260325102234735800",
           "source": "金十数据",
           "ranks": [
-            29
+            29,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 13时02分]"
         }
       ]
     }
