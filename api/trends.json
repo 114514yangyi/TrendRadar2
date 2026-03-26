@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T13:15:05.735218+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-03-26T15:21:31.667318+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 41,
+      "match_count": 48,
       "titles": [
         {
           "title": "黄天鹅就鸡蛋角黄素抽检结果发布声明",
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时13分 ~ 13时15分]"
+          "appearance_count": 12,
+          "time_info": "[01时13分 ~ 15时21分]"
         },
         {
           "title": "美军合作商急眼，竟狂言“终将破解并瘫痪北斗信号”",
@@ -72,13 +72,25 @@
           "time_info": "10时57分"
         },
         {
+          "title": "中东战火烧个不停 巴斯夫发布第五份涨价公告 基础胺类涨幅可达30%",
+          "url": "https://www.cls.cn/detail/2324965",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时42分 ~ 15时21分]"
+        },
+        {
           "title": "日本央行：将每月发布核心CPI指标。",
           "url": "https://flash.jin10.com/detail/20260326130401948800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -94,15 +106,37 @@
           "time_info": "03时06分"
         },
         {
+          "title": "菲律宾央行行长：政策效力有限，预计经济增长仍将疲弱。",
+          "url": "https://flash.jin10.com/detail/20260326150845956800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "日本央行称，将每月发布核心CPI指标。",
           "url": "https://wallstreetcn.com/livenews/3077123",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        },
+        {
+          "title": "菲律宾央行行长：已召开一次非例行政策会议。认为有必要召开非例行会议。密切关注快速变化、充满不确定性的环境。",
+          "url": "https://flash.jin10.com/detail/20260326150753650800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "澳洲联储助理主席Kent：供应冲击和通胀加速可能会推高中性利率。 更高的中性利率可能需要更具有限制性的（货币）政策。 必须确保价格上涨不会推高通胀预期。 澳洲联储还在监控金融条件。",
@@ -114,18 +148,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
-        },
-        {
-          "title": "中东战火烧个不停 巴斯夫发布第五份涨价公告 基础胺类涨幅可达30%",
-          "url": "https://www.cls.cn/detail/2324965",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时42分 ~ 13时15分]"
         },
         {
           "title": "尼日利亚国家石油公司执行副总裁：买家对尼日利亚液化天然气货物的兴趣激增。由于尼日利亚的地理位置和储量规模，中东冲突为本国创造了机遇。",
@@ -202,6 +224,18 @@
           "time_info": "[04时50分 ~ 05时49分]"
         },
         {
+          "title": "长护险谁能享受？享受多少？国家医保局回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32834384",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 15时21分]"
+        },
+        {
           "title": "美联储理事米兰：美联储目前的政策正在错误地抑制经济增长。",
           "url": "https://flash.jin10.com/detail/20260326042432292800",
           "source": "金十数据",
@@ -262,17 +296,6 @@
           "time_info": "[06时47分 ~ 07时43分]"
         },
         {
-          "title": "长护险谁能享受？享受多少？国家医保局回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32834384",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
-        },
-        {
           "title": "明晟公司MSCI北欧国家指数涨0.8%，创3月16日（收涨0.9%）以来最佳单日表现，报363.20点。 在十个板块中，北欧工业板块涨幅最大。 维斯塔斯风力技术集团涨6.0%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3076815",
           "source": "华尔街见闻-快讯",
@@ -282,6 +305,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "美国众议院委员会将审议航空安全改革法案",
+          "url": "https://wallstreetcn.com/livenews/3077208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "美国众议院委员会将审议航空安全改革法案",
+          "url": "https://flash.jin10.com/detail/20260326150611040800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "菲律宾寻求从受美国制裁国家进口石油",
@@ -389,7 +434,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -414,6 +459,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "上海市农业农村委员会：今年将研究制定支持涉农科技型企业发展的专项政策文件",
+          "url": "https://wallstreetcn.com/livenews/3077188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "多地中考改革调整开闭卷科目，生物、地理等科目成开卷考试，这是出于哪些考量？开闭卷科目的衡量标准是什么？",
+          "url": "https://www.zhihu.com/question/2019817485126357826",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "国家医保局：长护险制度覆盖全民、不区分城乡",
@@ -444,7 +511,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -471,6 +538,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "剧版《哈利波特》发布首支预告",
+          "url": "https://www.toutiao.com/trending/7620400951362588166/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "广州市监局发布殡葬领域提醒告诫函",
           "url": "https://www.toutiao.com/trending/7621168499712540710/",
           "source": "今日头条",
@@ -485,7 +563,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "美以伊战争丨美媒：军方只向特朗普展示胜利画面",
@@ -513,6 +591,21 @@
           "time_info": "[01时13分 ~ 10时57分]"
         },
         {
+          "title": "外交部：强闯使馆事反映出日本“新型军国主义”成势为患，对自卫队失管失教",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32828238",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时13分 ~ 15时21分]"
+        },
+        {
           "title": "贝莱德CEO推演伊朗战争结局：若油价升至150美元将引发全球衰退",
           "url": "https://www.cls.cn/detail/2324561",
           "source": "财联社热门",
@@ -523,20 +616,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时13分 ~ 07时43分]"
-        },
-        {
-          "title": "外交部：强闯使馆事反映出日本“新型军国主义”成势为患，对自卫队失管失教",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32828238",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时13分 ~ 13时15分]"
         },
         {
           "title": "美伊战争会失控吗",
@@ -550,8 +629,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时13分 ~ 13时15分]"
+          "appearance_count": 12,
+          "time_info": "[01时13分 ~ 15时21分]"
         },
         {
           "title": "中日关系拟降级,外交部回应",
@@ -608,7 +687,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -637,6 +716,17 @@
           "time_info": "[04时50分 ~ 05时49分]"
         },
         {
+          "title": "美以伊战争丨美国F-35飞行员被曝在对伊作战中受伤",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 15时21分]"
+        },
+        {
           "title": "外交部反问日媒",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%8D%E9%97%AE%E6%97%A5%E5%AA%92",
           "source": "bilibili 热搜",
@@ -647,17 +737,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时42分 ~ 10时57分]"
-        },
-        {
-          "title": "美以伊战争丨美国F-35飞行员被曝在对伊作战中受伤",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "国际货币基金组织对可能出现的因伊朗战争而需要援助的情况进行了模拟分析，评估重点在于那些实施积极融资计划的国家。",
@@ -757,7 +836,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -790,7 +869,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -850,15 +929,37 @@
           "time_info": "01时13分"
         },
         {
+          "title": "伊朗战争越拖越久 共和党议员愤然离开战情简报会",
+          "url": "https://flash.jin10.com/detail/20260326145945617800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "特步国际(01368.HK)：2025年全年营收141.5亿元人民币，预估143.8亿元人民币；全年净利润13.7亿元人民币，预估13.8亿元人民币。",
           "url": "https://flash.jin10.com/detail/20260326121610474800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        },
+        {
+          "title": "预告：国新办将举行新闻发布会 介绍第六届中国国际消费品博览会有关情况",
+          "url": "https://wallstreetcn.com/livenews/3077179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "女导演上网搜自己才知道获国际大奖",
@@ -886,7 +987,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "新晋千元股创新高！股价距茅台仅1个涨停，“股价一哥”争夺战再起，这只前股王也正紧追",
@@ -907,7 +1008,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -994,6 +1095,17 @@
           "time_info": "04时50分"
         },
         {
+          "title": "Q2大客户拉货环比Q1翻倍？胜宏科技回应",
+          "url": "https://wallstreetcn.com/livenews/3077198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "广东：锚定量子科技、具身智能等未来产业重点领域 加强前沿与颠覆性技术创新",
           "url": "https://wallstreetcn.com/livenews/3077046",
           "source": "华尔街见闻-快讯",
@@ -1060,6 +1172,17 @@
           "time_info": "10时57分"
         },
         {
+          "title": "二季度大客户拉货环比一季度翻倍？胜宏科技回应",
+          "url": "https://flash.jin10.com/detail/20260326145744903800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "创新药概念股延续强势，美诺华3连板，富祥药业、百花医药、金凯生科、普洛药业、药明康德跟涨。",
           "url": "https://wallstreetcn.com/livenews/3077025",
           "source": "华尔街见闻-快讯",
@@ -1096,7 +1219,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "OpenAI宣布关停Sora",
@@ -1111,8 +1234,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时13分 ~ 13时15分]"
+          "appearance_count": 12,
+          "time_info": "[01时13分 ~ 15时21分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -1126,8 +1249,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时13分 ~ 13时15分]"
+          "appearance_count": 12,
+          "time_info": "[01时13分 ~ 15时21分]"
         },
         {
           "title": "短剧演员成AI技术第一批“牺牲品”",
@@ -1143,6 +1266,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时06分 ~ 07时43分]"
+        },
+        {
+          "title": "上海：加快建设上海科学仪器创新港、华为长三角AI+联合创新中心等创新载体",
+          "url": "https://wallstreetcn.com/livenews/3077209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "美联储理事米兰：我预计，AI和去监管将让通胀失速。",
@@ -1187,7 +1321,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -1261,7 +1395,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -1272,8 +1406,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时42分 ~ 13时15分]"
+          "appearance_count": 6,
+          "time_info": "[07时42分 ~ 15时21分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
@@ -1281,11 +1415,23 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时57分 ~ 13时15分]"
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 15时21分]"
+        },
+        {
+          "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
+          "url": "https://www.cls.cn/detail/2325322",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
@@ -1346,7 +1492,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "警方通报信达证券研究所所长左前明猥亵下属，其已被刑拘，具体情况如何？暴露了哪些行业痼疾？",
@@ -1379,8 +1525,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时57分 ~ 13时15分]"
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 15时21分]"
         },
         {
           "title": "美国核利管理委员会（NRC）主席Ho Nieh：我们正在审视几十年前制定的规则，当时我们对这项技术的了解远不如今天深入。 我们现在正在从规则中剔除不必要的保守主义。",
@@ -1406,6 +1552,17 @@
           "time_info": "07时43分"
         },
         {
+          "title": "标普全球：日本电力行业重拾发展势头。",
+          "url": "https://flash.jin10.com/detail/20260326150505149800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "纽约美国证券交易所期权交易部门：交易、交易后及市场数据方面的技术问题已解决；目前所有系统均正常运行。",
           "url": "https://flash.jin10.com/detail/20260326003543191800",
           "source": "金十数据",
@@ -1415,6 +1572,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "金十数据整理：每日电动车行业动态汇总（2026-03-26）",
+          "url": "https://flash.jin10.com/detail/20260326145344265800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         }
       ]
     },
@@ -1432,8 +1600,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时46分 ~ 13时15分]"
+          "appearance_count": 8,
+          "time_info": "[06时46分 ~ 15时21分]"
         },
         {
           "title": "美元指数25日上涨",
@@ -1478,7 +1646,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         }
@@ -1486,7 +1654,7 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "家里给了 200w，打算做独立游戏，怎么做才能活下来？",
@@ -1497,8 +1665,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时57分 ~ 13时15分]"
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 15时21分]"
         },
         {
           "title": "游戏《红色沙漠》M 站玩家评分逆袭至 8.3 分，它做对了什么？",
@@ -1510,6 +1678,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "《洛克王国：世界》已于 3 月 26 日正式开服，体验过该游戏的玩家如何评价这款游戏？",
+          "url": "https://www.zhihu.com/question/2020450941556454435",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "UP主肝60个小时复刻游戏饼干",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%82%9D60%E4%B8%AA%E5%B0%8F%E6%97%B6%E5%A4%8D%E5%88%BB%E6%B8%B8%E6%88%8F%E9%A5%BC%E5%B9%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         }
       ]
     },
