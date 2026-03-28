@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-28T19:35:42.908016+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2026-03-28T21:12:12.431853+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 75,
+      "match_count": 77,
       "titles": [
+        {
+          "title": "美以伊战争丨胡塞武装加入战争，对以色列发动攻击",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时01分 ~ 21时12分]"
+        },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
           "url": "https://wallstreetcn.com/articles/3768527",
@@ -42,17 +53,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时02分 ~ 15时50分]"
-        },
-        {
-          "title": "美以伊战争丨胡塞武装加入战争，对以色列发动攻击",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时01分 ~ 19时35分]"
         },
         {
           "title": "伊朗战争冲击金市，央行\"永久买家\"神话开始动摇！",
@@ -99,6 +99,19 @@
           "time_info": "[00时02分 ~ 14时07分]"
         },
         {
+          "title": "胡塞武装：已准备好直接军事干预美以伊战争",
+          "url": "https://news.ifeng.com/c/8rr7yhrsP5X",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时49分 ~ 21时12分]"
+        },
+        {
           "title": "中国博士后遭美方执法人员盘问后自杀，外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32842904",
           "source": "澎湃新闻",
@@ -110,19 +123,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时02分 ~ 10时49分]"
-        },
-        {
-          "title": "胡塞武装：已准备好直接军事干预美以伊战争",
-          "url": "https://news.ifeng.com/c/8rr7yhrsP5X",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时49分 ~ 19时35分]"
         },
         {
           "title": "伊朗战争“避风港”：比亚迪3月大涨，电车股成恒科最佳之一",
@@ -362,6 +362,19 @@
           "time_info": "[16时51分 ~ 18时41分]"
         },
         {
+          "title": "伊朗总统警告地区国家：勿让敌人从你们的土地上发动战争",
+          "url": "https://wallstreetcn.com/livenews/3078567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 21时12分]"
+        },
+        {
           "title": "国际原子能机构：伊朗报告称，一处工业设施，即胡齐斯坦钢铁生产厂（该厂使用已封存的钴-60和铯-137放射源进行计量检测）遭到袭击。",
           "url": "https://flash.jin10.com/detail/20260328050218678800",
           "source": "金十数据",
@@ -400,16 +413,17 @@
           "time_info": "[05时44分 ~ 07时41分]"
         },
         {
-          "title": "伊朗总统警告地区国家：勿让敌人从你们的土地上发动战争",
-          "url": "https://wallstreetcn.com/livenews/3078567",
+          "title": "科威特国际机场雷达系统再遭无人机袭击",
+          "url": "https://wallstreetcn.com/livenews/3078565",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            10
+            4,
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 19时35分]"
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 21时12分]"
         },
         {
           "title": "埃及外交部：埃及外交部长启程赴伊斯兰堡，出席与巴基斯坦、沙特阿拉伯和土耳其外长举行的会议，商讨地区局势缓和事宜。",
@@ -423,18 +437,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时48分 ~ 19时35分]"
-        },
-        {
-          "title": "科威特国际机场雷达系统再遭无人机袭击",
-          "url": "https://wallstreetcn.com/livenews/3078565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 19时35分]"
         },
         {
           "title": "伊朗称正在制定战争结束条件",
@@ -550,6 +552,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时41分 ~ 19时35分]"
+        },
+        {
+          "title": "【马来西亚说伊朗允许马滞留油轮通行霍尔木兹海峡】马来西亚外交部长穆罕默德28日说，伊朗政府已允许数艘滞留在霍尔木兹海峡的马来西亚油轮通行。穆罕默德当天对媒体说，鉴于当前中东地区紧张局势，尽管相关油轮已获准通过霍尔木兹海峡，但仍需等待适当的“通行窗口”。穆罕默德说，马方此前已多次与伊朗方面沟通。在马来西亚总理安瓦尔与伊朗总统佩泽希齐扬通话后，伊方作出积极回应，同意相关船只通行。安瓦尔日前与佩泽希齐扬通话，对伊朗遇难者表示深切哀悼，同时谴责任何针对平民的打击行为。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3078569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 21时12分]"
         },
         {
           "title": "国际民航组织新规：乘客最多携带两个充电宝",
@@ -669,17 +683,6 @@
           "time_info": "03时06分"
         },
         {
-          "title": "【马来西亚说伊朗允许马滞留油轮通行霍尔木兹海峡】马来西亚外交部长穆罕默德28日说，伊朗政府已允许数艘滞留在霍尔木兹海峡的马来西亚油轮通行。穆罕默德当天对媒体说，鉴于当前中东地区紧张局势，尽管相关油轮已获准通过霍尔木兹海峡，但仍需等待适当的“通行窗口”。穆罕默德说，马方此前已多次与伊朗方面沟通。在马来西亚总理安瓦尔与伊朗总统佩泽希齐扬通话后，伊方作出积极回应，同意相关船只通行。安瓦尔日前与佩泽希齐扬通话，对伊朗遇难者表示深切哀悼，同时谴责任何针对平民的打击行为。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3078569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
           "title": "美联储保尔森：伊朗战争给经济增长和通胀带来风险。",
           "url": "https://flash.jin10.com/detail/20260327233027475800",
           "source": "金十数据",
@@ -702,6 +705,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "外交部驻港公署就美方干涉行径提出严正交涉",
+          "url": "https://flash.jin10.com/detail/20260328195148351800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "标普500指数重新跌超0.9%。 据Politico报道，美国警告盟友们，称伊朗战争可能会造成美方推迟对乌克兰发送武器货物。",
           "url": "https://wallstreetcn.com/livenews/3078366",
           "source": "华尔街见闻-快讯",
@@ -722,6 +736,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
+        },
+        {
+          "title": "乌克兰外交部否认伊朗关于其在迪拜摧毁乌克兰防空武器库的声明。",
+          "url": "https://flash.jin10.com/detail/20260328193613332800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "Roubini Macro Associates首席执行官鲁里埃尔·鲁比尼警告称：伊朗战争持续将伤害全球经济。 存在一种尾部风险：如果美国和以色列升级行动，而伊朗进一步攻击石油设施，“局面就可能演变成上世纪70年代那样”。 即便战争明天就结束，油价也不会回到战前水平。 油价上涨10%-15%“不算悲剧性”。（彭博）",
@@ -884,7 +909,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -903,7 +928,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 49,
+      "match_count": 56,
       "titles": [
         {
           "title": "20条“严禁”！为基础教育办学划红线，教育部发布负面清单",
@@ -953,11 +978,42 @@
           "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E9%87%8D%E7%94%B3%E4%B8%8D%E6%89%BF%E8%AE%A4%E5%8F%B0%E6%B9%BE%E6%98%AF%E2%80%9C%E4%B8%BB%E6%9D%83%E5%9B%BD%E5%AE%B6%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时47分 ~ 19时35分]"
+          "appearance_count": 6,
+          "time_info": "[17时47分 ~ 21时12分]"
+        },
+        {
+          "title": "李昌钰子女发布联合声明",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E6%98%8C%E9%92%B0%E5%AD%90%E5%A5%B3%E5%8F%91%E5%B8%83%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            4,
+            6,
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时51分 ~ 21时12分]"
+        },
+        {
+          "title": "社保第六险「长护险」制度实施方案发布，将在三年左右覆盖全国，能解决「一人失能，全家失衡」的困境吗？",
+          "url": "https://www.zhihu.com/question/2020435930259944460",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15,
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时50分 ~ 21时12分]"
         },
         {
           "title": "国家粮食和物资储备局召开民营粮食企业座谈会",
@@ -992,18 +1048,16 @@
           "time_info": "[10时49分 ~ 17时48分]"
         },
         {
-          "title": "李昌钰子女发布联合声明",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E6%98%8C%E9%92%B0%E5%AD%90%E5%A5%B3%E5%8F%91%E5%B8%83%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E",
-          "source": "百度热搜",
+          "title": "菲律宾重申不承认台湾是“主权国家”",
+          "url": "https://www.toutiao.com/trending/7622224812396429358/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            4,
-            6,
-            7
+            19,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时51分 ~ 19时35分]"
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 21时12分]"
         },
         {
           "title": "罗技中国为涉嫌侮辱消费者致歉：运营人员跳过审核流程擅自发布",
@@ -1066,20 +1120,6 @@
           "time_info": "[15时50分 ~ 19时35分]"
         },
         {
-          "title": "社保第六险「长护险」制度实施方案发布，将在三年左右覆盖全国，能解决「一人失能，全家失衡」的困境吗？",
-          "url": "https://www.zhihu.com/question/2020435930259944460",
-          "source": "知乎",
-          "ranks": [
-            20,
-            15,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时50分 ~ 19时35分]"
-        },
-        {
           "title": "事关汽车新春促销活动 贵州发布公告",
           "url": "https://www.toutiao.com/trending/7621870789306482730/",
           "source": "今日头条",
@@ -1089,6 +1129,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "俄罗斯国家原子能公司负责人：（就伊朗布什尔核电站附近再次遭到袭击表示）现场局势持续恶化，袭击对核安全构成直接威胁。",
+          "url": "https://flash.jin10.com/detail/20260328203559012800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "卡塔尔国防部：乌克兰与卡塔尔签署国防合作协议。",
+          "url": "https://flash.jin10.com/detail/20260328202311892800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "据伊朗国家媒体：在与俄罗斯外长的电话会谈中，伊朗外长阿拉格齐指责美国和以色列袭击平民目标、学校、医院和历史遗迹，并表示伊朗将继续果断自卫。",
@@ -1167,16 +1229,17 @@
           "time_info": "[17时48分 ~ 19时35分]"
         },
         {
-          "title": "菲律宾重申不承认台湾是“主权国家”",
-          "url": "https://www.toutiao.com/trending/7622224812396429358/",
-          "source": "今日头条",
+          "title": "阅文CEO侯晓楠发布“火种计划”",
+          "url": "https://wallstreetcn.com/livenews/3078564",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            1
+            5,
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 19时35分]"
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 21时12分]"
         },
         {
           "title": "匈牙利外长：匈牙利受益于中德企业在匈合作",
@@ -1189,18 +1252,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 03时06分]"
-        },
-        {
-          "title": "阅文CEO侯晓楠发布“火种计划”",
-          "url": "https://wallstreetcn.com/livenews/3078564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 19时35分]"
         },
         {
           "title": "《老鼠爱大米》词曲创作者发布声明",
@@ -1228,6 +1279,18 @@
           "time_info": "[05时44分 ~ 07时41分]"
         },
         {
+          "title": "赵秀荣评《恶魔之地》｜十七世纪的英格兰是个失败国家吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788896",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时35分 ~ 21时12分]"
+        },
+        {
           "title": "百果园发布2025年报：关店止血",
           "url": "https://www.baidu.com/s?wd=%E7%99%BE%E6%9E%9C%E5%9B%AD%E5%8F%91%E5%B8%832025%E5%B9%B4%E6%8A%A5%EF%BC%9A%E5%85%B3%E5%BA%97%E6%AD%A2%E8%A1%80",
           "source": "百度热搜",
@@ -1250,6 +1313,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时47分 ~ 18时41分]"
+        },
+        {
+          "title": "乌克兰国家天然气公司（Naftogaz）：俄罗斯袭击了波尔塔瓦州的天然气生产设施，造成一人死亡。",
+          "url": "https://flash.jin10.com/detail/20260328183059836800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 21时12分]"
         },
         {
           "title": "印度总理莫迪：许多国家正面临困境；许多国家燃料和食品短缺。",
@@ -1276,6 +1351,39 @@
           "time_info": "[15时50分 ~ 16时51分]"
         },
         {
+          "title": "伊朗民众：保卫国家反抗美以霸权",
+          "url": "https://www.toutiao.com/trending/7621590049691500580/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时11分 ~ 21时12分]"
+        },
+        {
+          "title": "伊朗总统警告地区国家",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%AD%A6%E5%91%8A%E5%9C%B0%E5%8C%BA%E5%9B%BD%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时11分 ~ 21时12分]"
+        },
+        {
+          "title": "中国军号发布视频：真正的史诗",
+          "url": "https://www.douyin.com/hot/2446822",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时11分 ~ 21时12分]"
+        },
+        {
           "title": "据伊朗国家电视台：伊朗伊斯兰革命卫队称，其在科威特布比扬岛打击了美以部队。",
           "url": "https://flash.jin10.com/detail/20260328012608295800",
           "source": "金十数据",
@@ -1287,15 +1395,15 @@
           "time_info": "01时54分"
         },
         {
-          "title": "乌克兰国家天然气公司（Naftogaz）：俄罗斯袭击了波尔塔瓦州的天然气生产设施，造成一人死亡。",
-          "url": "https://flash.jin10.com/detail/20260328183059836800",
+          "title": "据叙利亚国家通讯社：叙利亚挫败了从伊拉克境内发动、以战略要地坦夫基地为目标的无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260328195214372800",
           "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时35分"
+          "time_info": "21时12分"
         },
         {
           "title": "美联储保尔森：通胀高于目标水平将使美联储应对人工智能驱动的经济增长的政策举措更加复杂。",
@@ -1307,6 +1415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "埃及总理：因伊朗战事，国家项目将放缓两个月，以合理化消费合。",
+          "url": "https://flash.jin10.com/detail/20260328193937363800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "美国落实提高生物燃料配额政策，来提振国内需求",
@@ -1386,24 +1505,13 @@
           "time_info": "10时49分"
         },
         {
-          "title": "赵秀荣评《恶魔之地》｜十七世纪的英格兰是个失败国家吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32788896",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
           "title": "西方国家崛起的主要原因是什么？",
           "url": "https://www.zhihu.com/question/454713431",
           "source": "知乎",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -1499,7 +1607,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "如何评价中国科协不再承认 NeurIPS 论文含金量？",
@@ -1509,8 +1617,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时49分 ~ 19时35分]"
+          "appearance_count": 11,
+          "time_info": "[10时49分 ~ 21时12分]"
         },
         {
           "title": "高科技这块也是让三轮闯进来了",
@@ -1520,11 +1628,26 @@
             4,
             2,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时01分 ~ 19时35分]"
+          "appearance_count": 10,
+          "time_info": "[13时01分 ~ 21时12分]"
+        },
+        {
+          "title": "美国科技巨头遭遇近一年最严重抛售",
+          "url": "https://www.cls.cn/detail/2327706",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时49分 ~ 21时12分]"
         },
         {
           "title": "伊朗科技大学遭空袭",
@@ -1553,20 +1676,6 @@
           "time_info": "[00时02分 ~ 07时41分]"
         },
         {
-          "title": "美国科技巨头遭遇近一年最严重抛售",
-          "url": "https://www.cls.cn/detail/2327706",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时49分 ~ 19时35分]"
-        },
-        {
           "title": "小米大模型负责人谈未来竞争",
           "url": "https://www.douyin.com/hot/2445480",
           "source": "抖音",
@@ -1589,6 +1698,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时49分 ~ 14时07分]"
+        },
+        {
+          "title": "“未来之城”科技点亮智慧生活",
+          "url": "https://www.toutiao.com/trending/7622214726345457700/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时11分 ~ 21时12分]"
         },
         {
           "title": "伊朗科技大学遭美以空袭",
@@ -1637,11 +1757,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            14
+            14,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 19时35分]"
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 21时12分]"
         },
         {
           "title": "今年前三个月我国创新药对外授权交易总额超600亿美元，接近2025年全年的一半",
@@ -1649,11 +1770,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 19时35分]"
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 21时12分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.90%，报6593.28点，本周累计下跌2.22%。 热门中概股里，文远知行初步收跌9%，小马智行跌5.7%，金山云跌5.5%，比亚迪跌5.2%，蔚来跌4.4%，小鹏跌3.8%，阿里巴巴跌2.1%，再鼎医药涨2.8%。 ETF中，中概互联网指数ETF（KWEB）收跌1.03%，本周累跌1.13%，延续上周跌6.40%的表现； 中国科技指数ETF（CQQQ）收跌0.66%，本周累跌2.28%，延续上周跌6.39%的表现； 德银嘉实沪深300指数ETF（ASHR）收涨0.28%，本周累跌1.14%，延续上周跌3.46%的表现； XtrackersHarvest中证50（ASHS）收涨0.81%，本周累跌0.37%，延续上周跌7.35%的表现。",
@@ -1774,11 +1896,12 @@
             12,
             13,
             15,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时02分 ~ 19时35分]"
+          "appearance_count": 20,
+          "time_info": "[00时02分 ~ 21时12分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -1791,11 +1914,27 @@
             14,
             15,
             17,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时02分 ~ 19时35分]"
+          "appearance_count": 20,
+          "time_info": "[00时02分 ~ 21时12分]"
+        },
+        {
+          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
+          "url": "https://www.cls.cn/detail/2327720",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时01分 ~ 21时12分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -1839,19 +1978,19 @@
           "time_info": "[00时02分 ~ 07时41分]"
         },
         {
-          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
-          "url": "https://www.cls.cn/detail/2327720",
-          "source": "财联社热门",
+          "title": "AI神游!原神现六指派蒙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
+          "source": "贴吧",
           "ranks": [
-            12,
-            9,
-            8,
+            6,
             7,
-            6
+            8,
+            9,
+            12
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[13时01分 ~ 19时35分]"
+          "time_info": "[15时50分 ~ 21时12分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
@@ -1867,20 +2006,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时02分 ~ 07时41分]"
-        },
-        {
-          "title": "AI神游!原神现六指派蒙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时50分 ~ 19时35分]"
         },
         {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
@@ -1997,8 +2122,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时02分 ~ 19时35分]"
+          "appearance_count": 20,
+          "time_info": "[00时02分 ~ 21时12分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -2016,8 +2141,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时02分 ~ 19时35分]"
+          "appearance_count": 20,
+          "time_info": "[00时02分 ~ 21时12分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -2033,11 +2158,12 @@
             20,
             18,
             22,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时02分 ~ 19时35分]"
+          "appearance_count": 20,
+          "time_info": "[00时02分 ~ 21时12分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -2060,8 +2186,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时47分 ~ 19时35分]"
+          "appearance_count": 6,
+          "time_info": "[17时47分 ~ 21时12分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
@@ -2115,6 +2241,18 @@
           "time_info": "[15时50分 ~ 16时51分]"
         },
         {
+          "title": "关键趋势线相继告破，美股“七姐妹”的技术性崩坏正在提速",
+          "url": "https://wallstreetcn.com/articles/3768602",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 21时12分]"
+        },
+        {
           "title": "航空业ETF收跌超3.5%，领跌美股行业ETF，能源业ETF涨1.7%",
           "url": "https://wallstreetcn.com/livenews/3078472",
           "source": "华尔街见闻-快讯",
@@ -2138,24 +2276,13 @@
           "time_info": "05时44分"
         },
         {
-          "title": "关键趋势线相继告破，美股“七姐妹”的技术性崩坏正在提速",
-          "url": "https://wallstreetcn.com/articles/3768602",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
           "title": "采集数据，落地场景，具身智能行业何时迈向“GPT-3”时代？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32843426",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         }
