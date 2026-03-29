@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T07:40:03.857517+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-03-29T11:23:00.507276+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "俄罗斯拟自 4 月 1 日起实行汽油出口临时禁令，优先保障俄国内市场供应，会导致国际油价进一步大涨吗？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 07时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 11时23分]"
         },
         {
           "title": "美以伊战争丨以军：打击了伊朗约90%关键军工设施",
@@ -53,15 +54,39 @@
           "time_info": "[05时38分 ~ 07时40分]"
         },
         {
+          "title": "美以伊战争丨多国爆发反特朗普抗议活动",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 11时23分]"
+        },
+        {
           "title": "特朗普称战争总会有意外，「有些本应打赢的战争却输了」，北约这次不帮美国，美国以后也不帮北约，如何解读？",
           "url": "https://www.zhihu.com/question/2021274346899943516",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时39分 ~ 07时40分]"
+          "appearance_count": 4,
+          "time_info": "[07时39分 ~ 11时23分]"
+        },
+        {
+          "title": "特朗普：战争总会有意外，“有些本应打赢的战争却输了”，北约这次不帮美国，美国以后也不会帮北约！",
+          "url": "https://wallstreetcn.com/articles/3768645",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时39分 ~ 11时23分]"
         },
         {
           "title": "美以伊战争丨美海军陆战队抵达中央司令部责任区",
@@ -87,6 +112,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时54分 ~ 05时38分]"
+        },
+        {
+          "title": "俄外交部喊话以色列：你们已经越过了底线",
+          "url": "https://news.ifeng.com/c/8rs9efY1BUH",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时38分 ~ 11时23分]"
         },
         {
           "title": "以色列国防军评估，未来几天内他们将完成对伊朗几乎所有关键军事工业设施的打击任务。在此次战争中，以色列空军已对伊朗军事工业的数千处设施进行了打击，约占总数的70%。以色列国防军表示，目前他们已经接近完成了对用于研发威胁以色列的武器的关键设施的打击任务，这一比例已达到约90%。",
@@ -140,17 +176,6 @@
           "time_info": "[04时40分 ~ 07时40分]"
         },
         {
-          "title": "俄外交部喊话以色列：你们已经越过了底线",
-          "url": "https://news.ifeng.com/c/8rs9efY1BUH",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时38分 ~ 07时40分]"
-        },
-        {
           "title": "美国国务卿鲁比奥：有几位欧洲领导人说，这（伊朗战争）不是欧洲的战争。俄乌冲突也不是美国的战争，然而我们在这场冲突中的贡献却比世界上任何其他国家都多。",
           "url": "https://flash.jin10.com/detail/20260329020327331800",
           "source": "金十数据",
@@ -164,15 +189,15 @@
           "time_info": "[02时54分 ~ 04时40分]"
         },
         {
-          "title": "特朗普：战争总会有意外，“有些本应打赢的战争却输了”，北约这次不帮美国，美国以后也不会帮北约！",
-          "url": "https://wallstreetcn.com/articles/3768645",
-          "source": "华尔街见闻",
+          "title": "以军参谋长称「以军常规部队已崩溃」，具体情况如何？这会加速战争的结束吗？",
+          "url": "https://www.zhihu.com/question/2021343149742711685",
+          "source": "知乎",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时39分 ~ 07时40分]"
+          "time_info": "[11时22分 ~ 11时23分]"
         },
         {
           "title": "以色列军方发言人表示，也门胡塞武装向以色列发射导弹，加入伊朗战争，以色列将对此作出回应。",
@@ -220,6 +245,28 @@
           "time_info": "01时38分"
         },
         {
+          "title": "委内瑞拉恢复启用驻美国外交机构",
+          "url": "https://wallstreetcn.com/livenews/3078639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "巴基斯坦伊朗两国外长通话 巴方强调“对话与外交”重要性",
+          "url": "https://wallstreetcn.com/livenews/3078638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
           "title": "伊朗称正在制定战争结束条件",
           "url": "https://www.toutiao.com/trending/7620983996273131546/",
           "source": "今日头条",
@@ -234,30 +281,8 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
-        {
-          "title": "泽连斯基称与中东3国达成防务合作协议 涉联合生产无人机",
-          "url": "https://wallstreetcn.com/livenews/3078628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 07时40分]"
-        },
-        {
-          "title": "“首发上海” 4.0版政策出炉，将加大资金支持",
-          "url": "https://wallstreetcn.com/livenews/3078626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 07时40分]"
-        },
         {
           "title": "菲律宾重申不承认台湾是“主权国家”",
           "url": "https://www.toutiao.com/trending/7622224812396429358/",
@@ -270,6 +295,45 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时43分 ~ 07时40分]"
+        },
+        {
+          "title": "泽连斯基称与中东3国达成防务合作协议 涉联合生产无人机",
+          "url": "https://wallstreetcn.com/livenews/3078628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 11时23分]"
+        },
+        {
+          "title": "“首发上海” 4.0版政策出炉，将加大资金支持",
+          "url": "https://wallstreetcn.com/livenews/3078626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 11时23分]"
+        },
+        {
+          "title": "中国军号发布视频：真正的史诗",
+          "url": "https://www.douyin.com/hot/2446822",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            17,
+            14,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[02时53分 ~ 11时23分]"
         },
         {
           "title": "伊朗民众：保卫国家反抗美以霸权",
@@ -296,20 +360,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时43分 ~ 07时40分]"
-        },
-        {
-          "title": "中国军号发布视频：真正的史诗",
-          "url": "https://www.douyin.com/hot/2446822",
-          "source": "抖音",
-          "ranks": [
-            10,
-            11,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时53分 ~ 07时40分]"
         },
         {
           "title": "《老鼠爱大米》词曲创作者发布声明",
@@ -389,6 +439,17 @@
           "time_info": "[02时54分 ~ 04时40分]"
         },
         {
+          "title": "徐良方就删除汪苏泷「后会无期」作词作曲署名致歉，怎样看待此事？著作权法对合作作品的署名权是怎样规定的？",
+          "url": "https://www.zhihu.com/question/2021168901422101228",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 11时23分]"
+        },
+        {
           "title": "科威特国家通讯社：消防部门官员表示，无人机袭击后发生在科威特机场油罐区的火灾已被扑灭。",
           "url": "https://flash.jin10.com/detail/20260328230357296800",
           "source": "金十数据",
@@ -411,6 +472,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时38分]"
+        },
+        {
+          "title": "海南昌江通报“史某辉申请国家赔偿被中止办理”：成立联合调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32855545",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 11时23分]"
+        },
+        {
+          "title": "如何看待索尼、本田合作造车项目「AFEELA」宣布告吹？原因可能是什么？跨界造车对日本难在哪儿？",
+          "url": "https://www.zhihu.com/question/2020207610469593657",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 11时23分]"
+        },
+        {
+          "title": "中科院文献中心：不再更新、发布已推出22年的期刊分区表",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852180",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 11时23分]"
+        },
+        {
+          "title": "官方通报申请国家赔偿被中止办理",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B3%E8%AF%B7%E5%9B%BD%E5%AE%B6%E8%B5%94%E5%81%BF%E8%A2%AB%E4%B8%AD%E6%AD%A2%E5%8A%9E%E7%90%86%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 11时23分]"
         },
         {
           "title": "伊朗外长阿拉格齐：我向阿塞拜疆政府和人民表示感谢，感谢他们提供的人道主义援助，也感谢他们为其他国家提供援助的运送工作所创造的条件。",
@@ -436,6 +541,17 @@
           "time_info": "01时38分"
         },
         {
+          "title": "智能网联汽车等系列团体标准发布 加速共性关键技术转化与应用",
+          "url": "https://wallstreetcn.com/livenews/3078634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
           "title": "伊朗总统警告地区国家",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%AD%A6%E5%91%8A%E5%9C%B0%E5%8C%BA%E5%9B%BD%E5%AE%B6",
           "source": "百度热搜",
@@ -450,7 +566,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "一个视频了解AI常识",
@@ -462,11 +578,12 @@
             16,
             4,
             9,
-            10
+            10,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 07时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 11时23分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -474,11 +591,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 07时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 11时23分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -488,8 +606,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 07时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 11时23分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -499,8 +617,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 07时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 11时23分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -510,8 +628,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 07时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 11时23分]"
         },
         {
           "title": "如何评价 Anthropic 的下一个模型 Claude Mythos？",
@@ -587,6 +705,17 @@
           "time_info": "[06时38分 ~ 07时40分]"
         },
         {
+          "title": "过于火爆！Anthropic算力吃紧，本周限制Claude用户高峰时段用量",
+          "url": "https://wallstreetcn.com/articles/3768640",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 11时23分]"
+        },
+        {
           "title": "xAI最后一位联合创始人据悉已离开公司",
           "url": "https://flash.jin10.com/detail/20260329003301596800",
           "source": "金十数据",
@@ -612,7 +741,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "“未来之城”科技点亮智慧生活",
@@ -666,17 +795,40 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时38分 ~ 07时40分]"
+          "appearance_count": 5,
+          "time_info": "[06时38分 ~ 11时23分]"
+        },
+        {
+          "title": "中国太空基建新成果",
+          "url": "https://www.douyin.com/hot/2447092",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 11时23分]"
+        },
+        {
+          "title": "今年首季我国创新药对外授权交易额超600亿美元",
+          "url": "https://wallstreetcn.com/livenews/3078652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌TurboQuant论文解读",
@@ -687,11 +839,12 @@
             15,
             17,
             18,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 07时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 11时23分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -723,6 +876,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时43分 ~ 07时40分]"
+        },
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 11时23分]"
         }
       ]
     },
