@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T19:59:25.351812+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-03-30T21:58:07.450817+08:00",
+  "total_titles_processed": 1500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
         {
           "title": "反对特朗普的浪潮国际化了",
@@ -125,6 +125,17 @@
           "time_info": "[04时42分 ~ 05时41分]"
         },
         {
+          "title": "美以伊战争丨特朗普：与伊朗谈判已取得重大进展",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 21时58分]"
+        },
+        {
           "title": "日本拟动用外储做空国际原油，以挽救日元汇率，如何看待？会重演 96 年「住友铜事件」吗？",
           "url": "https://www.zhihu.com/question/2021504836005295499",
           "source": "知乎",
@@ -215,24 +226,13 @@
           "time_info": "18时24分"
         },
         {
-          "title": "美以伊战争丨特朗普：与伊朗谈判已取得重大进展",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
-        },
-        {
           "title": "以色列国防预算创新高 右翼执政联盟仍欲扩大战争",
           "url": "https://wallstreetcn.com/livenews/3079315",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -292,6 +292,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时44分 ~ 02时56分]"
+        },
+        {
+          "title": "日方称愿解决与中国的外交紧张关系 外交部回应",
+          "url": "https://www.cls.cn/detail/2328909",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 21时58分]"
         },
         {
           "title": "土耳其情报局局长警告称，美以对伊朗的战争可能在中东引发“巨大的纷争”，并导致地区大国之间数十年的冲突。他强调，土耳其将保持高度警惕，继续努力防止更大范围的不稳定性。",
@@ -395,16 +408,16 @@
           "time_info": "[05时41分 ~ 06时40分]"
         },
         {
-          "title": "日方称愿解决与中国的外交紧张关系 外交部回应",
-          "url": "https://www.cls.cn/detail/2328909",
-          "source": "财联社热门",
+          "title": "外交部：已向美方提出严正交涉",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%B7%B2%E5%90%91%E7%BE%8E%E6%96%B9%E6%8F%90%E5%87%BA%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89",
+          "source": "百度热搜",
           "ranks": [
             8,
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时59分]"
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 21时58分]"
         },
         {
           "title": "两名外交官表示，尽管美国与巴西在延长电子商务关税暂停令问题上陷入僵局，但世界贸易组织在日内瓦的谈判仍将继续。",
@@ -467,6 +480,17 @@
           "time_info": "[18时24分 ~ 19时59分]"
         },
         {
+          "title": "外交部：将视情对古屋圭司采取其他一切必要惩治措施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32861919",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 21时58分]"
+        },
+        {
           "title": "中方回应“日方愿解决外交紧张关系”",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E6%97%A5%E6%96%B9%E6%84%BF%E8%A7%A3%E5%86%B3%E5%A4%96%E4%BA%A4%E7%B4%A7%E5%BC%A0%E5%85%B3%E7%B3%BB%E2%80%9D",
           "source": "百度热搜",
@@ -479,15 +503,15 @@
           "time_info": "[18时24分 ~ 19时59分]"
         },
         {
-          "title": "外交部：已向美方提出严正交涉",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%B7%B2%E5%90%91%E7%BE%8E%E6%96%B9%E6%8F%90%E5%87%BA%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89",
-          "source": "百度热搜",
+          "title": "中国驻伊朗大使丛培武会见伊朗国际和法律事务副外长加里布阿巴迪",
+          "url": "https://flash.jin10.com/detail/20260330214720985800",
+          "source": "金十数据",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时59分"
+          "time_info": "21时58分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：关于退出《不扩散核武器条约》的问题正在议会审议。",
@@ -650,7 +674,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -724,7 +748,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 36,
+      "match_count": 42,
       "titles": [
         {
           "title": "海南昌江通报“史某辉申请国家赔偿被中止办理”：成立联合调查组",
@@ -783,8 +807,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时59分]"
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 21时58分]"
         },
         {
           "title": "国家粮食和物资储备局召开民营粮食企业座谈会",
@@ -822,6 +846,18 @@
           "time_info": "[02时56分 ~ 04时42分]"
         },
         {
+          "title": "vivo发布了一台相机",
+          "url": "https://search.bilibili.com/all?keyword=vivo%E5%8F%91%E5%B8%83%E4%BA%86%E4%B8%80%E5%8F%B0%E7%9B%B8%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 21时58分]"
+        },
+        {
           "title": "德、法、意、英四国外长发布声明，就一项将大幅扩大以色列适用死刑范围的法案表达深切关切。",
           "url": "https://flash.jin10.com/detail/20260330024350882800",
           "source": "金十数据",
@@ -833,6 +869,61 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时39分 ~ 05时41分]"
+        },
+        {
+          "title": "“车路云一体化”频迎利好：多个“团标”密集发布 启明信息8000万中标长春项目",
+          "url": "https://www.cls.cn/detail/2329128",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 21时58分]"
+        },
+        {
+          "title": "vivo发布了一台相机",
+          "url": "https://s.weibo.com/weibo?q=%23vivo%E5%8F%91%E5%B8%83%E4%BA%86%E4%B8%80%E5%8F%B0%E7%9B%B8%E6%9C%BA%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 21时58分]"
+        },
+        {
+          "title": "vivo发布了一款民用哈勃",
+          "url": "https://s.weibo.com/weibo?q=%23vivo%E5%8F%91%E5%B8%83%E4%BA%86%E4%B8%80%E6%AC%BE%E6%B0%91%E7%94%A8%E5%93%88%E5%8B%83%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 21时58分]"
+        },
+        {
+          "title": "飞猪发布首个旅行 skill，应用 App 自己发布 skills 供 Agent 使用是一种趋势吗？",
+          "url": "https://www.zhihu.com/question/2020443086786884211",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 21时58分]"
+        },
+        {
+          "title": "vivo Pad6 Pro新品发布",
+          "url": "https://search.bilibili.com/all?keyword=vivo%20Pad6%20Pro",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 21时58分]"
         },
         {
           "title": "美国中央司令部发布图文，在3月25日，“亚伯拉罕·林肯”号航空母舰上的美国海军F/A-18“超级大黄蜂”战斗机在“史诗怒火”行动期间准备执行夜间作战任务。",
@@ -875,7 +966,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -963,7 +1054,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -1034,17 +1125,6 @@
           "time_info": "11时26分"
         },
         {
-          "title": "vivo发布了一台相机",
-          "url": "https://search.bilibili.com/all?keyword=vivo%E5%8F%91%E5%B8%83%E4%BA%86%E4%B8%80%E5%8F%B0%E7%9B%B8%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
-        },
-        {
           "title": "上汽大众ID.ERA 9X预售发布会",
           "url": "https://www.toutiao.com/trending/7622287447712530474/",
           "source": "今日头条",
@@ -1084,9 +1164,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
+        },
+        {
+          "title": "天数智芯发布上市后首份业绩报告，核心GPU业务增149.6%",
+          "url": "https://wallstreetcn.com/livenews/3079403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "以色列议会发言人：以色列议会批准以色列总理内塔尼亚胡政府提交的2026年国家预算。",
@@ -1136,7 +1227,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "BD开门红！中国创新药对外授权交易额亮眼 1-3月逼近去年全年一半",
@@ -1150,6 +1241,32 @@
           "time_info": "[00时44分 ~ 07时43分]"
         },
         {
+          "title": "白春礼院士：科研活动的基本单元正从人向人机系统转变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32858277",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时25分 ~ 21时58分]"
+        },
+        {
+          "title": "这个世界第九，见证我国创新实力",
+          "url": "https://www.toutiao.com/trending/7622968357582573094/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 21时58分]"
+        },
+        {
           "title": "中国创新“酷”在哪里",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%88%9B%E6%96%B0%E2%80%9C%E9%85%B7%E2%80%9D%E5%9C%A8%E5%93%AA%E9%87%8C",
           "source": "百度热搜",
@@ -1161,20 +1278,6 @@
           "time_info": "[11时25分 ~ 16时25分]"
         },
         {
-          "title": "白春礼院士：科研活动的基本单元正从人向人机系统转变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32858277",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            11,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时25分 ~ 19时59分]"
-        },
-        {
           "title": "畅想我们的科技生活",
           "url": "https://www.toutiao.com/trending/7622880135238422062/",
           "source": "今日头条",
@@ -1184,17 +1287,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时03分 ~ 16时25分]"
-        },
-        {
-          "title": "这个世界第九，见证我国创新实力",
-          "url": "https://www.toutiao.com/trending/7622968357582573094/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时59分]"
         },
         {
           "title": "谁在给选基大模型喂答案？小心营销污染，基金信息不能被流量逻辑带偏",
@@ -1255,6 +1347,18 @@
           "time_info": "11时26分"
         },
         {
+          "title": "沪指探底回升收涨0.2%，有色铝集体爆发，创新药活跃，恒科指跌近2%，科网股普遍低迷",
+          "url": "https://wallstreetcn.com/articles/3768695",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 21时58分]"
+        },
+        {
           "title": "民调：美选民对特朗普不满意率创新高",
           "url": "https://www.baidu.com/s?wd=%E6%B0%91%E8%B0%83%EF%BC%9A%E7%BE%8E%E9%80%89%E6%B0%91%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%BB%A1%E6%84%8F%E7%8E%87%E5%88%9B%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
@@ -1267,15 +1371,15 @@
           "time_info": "[11时25分 ~ 14时03分]"
         },
         {
-          "title": "沪指探底回升收涨0.2%，有色铝集体爆发，创新药活跃，恒科指跌近2%，科网股普遍低迷",
-          "url": "https://wallstreetcn.com/articles/3768695",
-          "source": "华尔街见闻",
+          "title": "阿里千问上线全模态大模型",
+          "url": "https://www.toutiao.com/trending/7623041602931396159/",
+          "source": "今日头条",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时59分]"
+          "time_info": "[21时57分 ~ 21时58分]"
         },
         {
           "title": "珠城科技：拟以5000万元-1亿元回购股份，回购股份的价格不超过人民币85.22元/股。",
@@ -1284,7 +1388,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -1295,7 +1399,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -1350,7 +1454,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -1468,7 +1572,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -1504,11 +1608,12 @@
             8,
             13,
             14,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 19时59分]"
+          "appearance_count": 20,
+          "time_info": "[00时44分 ~ 21时58分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -1556,11 +1661,12 @@
             12,
             16,
             20,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时25分 ~ 19时59分]"
+          "appearance_count": 8,
+          "time_info": "[11时25分 ~ 21时58分]"
         },
         {
           "title": "雷军：小米AI人才招聘专项正式启动",
@@ -1671,6 +1777,61 @@
           "time_info": "[16时25分 ~ 18时24分]"
         },
         {
+          "title": "阅文集团CEO侯晓楠谈AI定位：是助手、引擎和桥梁",
+          "url": "https://wallstreetcn.com/livenews/3079422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
+          "title": "韩国人工智能（AI）芯片初创公司Rebellions按23.4亿美元估值融资4亿美元。 该公司的投资者包括三星，计划利用这笔资金来扩大美国业务。 该公司对标英伟达、以及初创公司Groq和Cerebras等，其芯片产品侧重于AI推理。",
+          "url": "https://wallstreetcn.com/livenews/3079421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
+          "title": "农业银行：未来2至3年 银行的分水岭不在AI而在风险管理",
+          "url": "https://wallstreetcn.com/livenews/3079420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
+          "title": "阿里千问全模态大模型Qwen3.5-Omni上线",
+          "url": "https://flash.jin10.com/detail/20260330214245269800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
+          "title": "“中国AI智能体领航者”征集活动启动",
+          "url": "https://wallstreetcn.com/livenews/3079419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "奥尼电子：与沐曦股份联合开发沐曦桌面AI工作站系列产品",
           "url": "https://flash.jin10.com/detail/20260330155102770800",
           "source": "金十数据",
@@ -1740,7 +1901,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "5万亿网贷行业迎来最强监管",
@@ -1781,6 +1942,17 @@
           "time_info": "16时25分"
         },
         {
+          "title": "据港交所文件：华勤技术股份有限公司通过港交所上市聆讯。",
+          "url": "https://flash.jin10.com/detail/20260330214807021800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "泽连斯基到访约旦，继续“推销”反无人机技术？",
           "url": "https://news.ifeng.com/c/8rugyMF6c0p",
           "source": "凤凰网",
@@ -1788,8 +1960,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 21时58分]"
+        },
+        {
+          "title": "优衣库 JWA 牛仔裤被曝男女同款，但女款的缝线、包边等工艺远差于男款，是这样吗？这种设计在行业里普遍吗？",
+          "url": "https://www.zhihu.com/question/2020145531112875300",
+          "source": "知乎",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时25分 ~ 19时59分]"
+          "time_info": "[19时59分 ~ 21时58分]"
         },
         {
           "title": "据日经新闻：日本国防装备制造商已开始投资军民两用技术。",
@@ -1802,6 +1986,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时40分]"
+        },
+        {
+          "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32861369",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 21时58分]"
         },
         {
           "title": "杨瀚森NBA第一次技术犯规",
@@ -1826,17 +2021,6 @@
           "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "优衣库 JWA 牛仔裤被曝男女同款，但女款的缝线、包边等工艺远差于男款，是这样吗？这种设计在行业里普遍吗？",
-          "url": "https://www.zhihu.com/question/2020145531112875300",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
-        },
-        {
           "title": "市场消息：美国能源行业高官呼吁迅速采取行动重新开放霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260330054319706800",
           "source": "金十数据",
@@ -1854,7 +2038,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -1898,7 +2082,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -1920,7 +2104,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -1931,7 +2115,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         }
@@ -2021,8 +2205,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 19时59分]"
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 21时58分]"
         },
         {
           "title": "怎样让 9 岁的小朋友明白，打游戏为生不靠谱？",
@@ -2051,7 +2235,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "新算法公布,谷歌干崩股市",
@@ -2084,8 +2268,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 19时59分]"
+          "appearance_count": 20,
+          "time_info": "[00时44分 ~ 21时58分]"
         },
         {
           "title": "带崩全球存储股的谷歌论文陷学术争议，中国学者指其“严重失实”且“知错不改”：使用了我们的方法，但刻意回避相似性",
@@ -2097,12 +2281,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        },
+        {
+          "title": "阿里发布全模态大模型Qwen3.5-Omni，多项指标超越Gemini-3.1 Pro",
+          "url": "https://wallstreetcn.com/livenews/3079409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         }
       ]
     },
     {
       "keyword_group": "美股 美元",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -2123,9 +2318,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
+        },
+        {
+          "title": "北美科技软件股指数ETF一度涨约2.1%，报78.50美元。",
+          "url": "https://wallstreetcn.com/livenews/3079430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
+          "title": "美股延续涨势，道琼斯工业平均指数涨幅扩大至1.00%。",
+          "url": "https://flash.jin10.com/detail/20260330213413641800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         }
       ]
     },
