@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T18:24:25.306781+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2026-03-30T19:59:25.351812+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 58,
+      "match_count": 62,
       "titles": [
         {
           "title": "反对特朗普的浪潮国际化了",
@@ -138,6 +138,17 @@
           "time_info": "[05时40分 ~ 07时43分]"
         },
         {
+          "title": "特朗普说中东冲突或很快停止，外交部回应",
+          "url": "https://news.ifeng.com/c/8ruuG1aRNqh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 19时59分]"
+        },
+        {
           "title": "美以伊战争丨伊朗最高领袖：感谢伊拉克",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -182,17 +193,6 @@
           "time_info": "[14时03分 ~ 16时25分]"
         },
         {
-          "title": "特朗普说中东冲突或很快停止，外交部回应",
-          "url": "https://news.ifeng.com/c/8ruuG1aRNqh",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 18时24分]"
-        },
-        {
           "title": "美以伊战争丨伊朗军方：将打击美以军政人员住所",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -210,9 +210,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        },
+        {
+          "title": "美以伊战争丨特朗普：与伊朗谈判已取得重大进展",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "以色列国防预算创新高 右翼执政联盟仍欲扩大战争",
+          "url": "https://wallstreetcn.com/livenews/3079315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "日本拟动用外储做空国际原油，以挽救日元汇率，对此你怎么看，其会重演96年「住友铜事件」么？",
@@ -243,7 +265,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -373,6 +395,18 @@
           "time_info": "[05时41分 ~ 06时40分]"
         },
         {
+          "title": "日方称愿解决与中国的外交紧张关系 外交部回应",
+          "url": "https://www.cls.cn/detail/2328909",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时59分]"
+        },
+        {
           "title": "两名外交官表示，尽管美国与巴西在延长电子商务关税暂停令问题上陷入僵局，但世界贸易组织在日内瓦的谈判仍将继续。",
           "url": "https://flash.jin10.com/detail/20260330034700114800",
           "source": "金十数据",
@@ -397,6 +431,18 @@
           "time_info": "[04时42分 ~ 05时41分]"
         },
         {
+          "title": "中方回应日方称愿解决外交紧张关系",
+          "url": "https://www.toutiao.com/trending/7622158666157801513/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时59分]"
+        },
+        {
           "title": "伊拉克消息人士称美驻伊拉克外交机构周边遭无人机袭击",
           "url": "https://wallstreetcn.com/livenews/3078775",
           "source": "华尔街见闻-快讯",
@@ -409,26 +455,39 @@
           "time_info": "[06时40分 ~ 07时43分]"
         },
         {
-          "title": "日方称愿解决与中国的外交紧张关系 外交部回应",
-          "url": "https://www.cls.cn/detail/2328909",
-          "source": "财联社热门",
+          "title": "日方称愿意解决与中国外交紧张关系",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%96%B9%E7%A7%B0%E6%84%BF%E6%84%8F%E8%A7%A3%E5%86%B3%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E7%B4%A7%E5%BC%A0%E5%85%B3%E7%B3%BB%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时59分]"
+        },
+        {
+          "title": "中方回应“日方愿解决外交紧张关系”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E6%97%A5%E6%96%B9%E6%84%BF%E8%A7%A3%E5%86%B3%E5%A4%96%E4%BA%A4%E7%B4%A7%E5%BC%A0%E5%85%B3%E7%B3%BB%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时59分]"
+        },
+        {
+          "title": "外交部：已向美方提出严正交涉",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%B7%B2%E5%90%91%E7%BE%8E%E6%96%B9%E6%8F%90%E5%87%BA%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89",
+          "source": "百度热搜",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "中方回应日方称愿解决外交紧张关系",
-          "url": "https://www.toutiao.com/trending/7622158666157801513/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "time_info": "19时59分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：关于退出《不扩散核武器条约》的问题正在议会审议。",
@@ -437,7 +496,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -497,17 +556,6 @@
           "time_info": "16时25分"
         },
         {
-          "title": "日方称愿意解决与中国外交紧张关系",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%96%B9%E7%A7%B0%E6%84%BF%E6%84%8F%E8%A7%A3%E5%86%B3%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E7%B4%A7%E5%BC%A0%E5%85%B3%E7%B3%BB%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
           "title": "印尼外交部：谴责以色列对黎巴嫩南部的袭击，呼吁各方尊重黎巴嫩的主权。",
           "url": "https://flash.jin10.com/detail/20260330105847851800",
           "source": "金十数据",
@@ -528,17 +576,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
-        },
-        {
-          "title": "中方回应“日方愿解决外交紧张关系”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E6%97%A5%E6%96%B9%E6%84%BF%E8%A7%A3%E5%86%B3%E5%A4%96%E4%BA%A4%E7%B4%A7%E5%BC%A0%E5%85%B3%E7%B3%BB%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
         },
         {
           "title": "印尼外交部：对一名印尼维和人员在黎巴嫩遇害一事表示谴责。危害联合国维和人员的行为不可接受。",
@@ -605,6 +642,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "法国财长：七国集团正在密切关注伊朗战争的影响。",
+          "url": "https://flash.jin10.com/detail/20260330190912002800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "外交部：中方支持一切有利于中东局势缓局降温 恢复对话的努力",
@@ -676,7 +724,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "海南昌江通报“史某辉申请国家赔偿被中止办理”：成立联合调查组",
@@ -728,6 +776,17 @@
           "time_info": "[00时44分 ~ 07时43分]"
         },
         {
+          "title": "我国发布首个氢能产品耐久性验证体系",
+          "url": "https://www.douyin.com/hot/2449001",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时59分]"
+        },
+        {
           "title": "国家粮食和物资储备局召开民营粮食企业座谈会",
           "url": "https://wallstreetcn.com/livenews/3078994",
           "source": "华尔街见闻-快讯",
@@ -748,17 +807,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
-        },
-        {
-          "title": "我国发布首个氢能产品耐久性验证体系",
-          "url": "https://www.douyin.com/hot/2449001",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
         },
         {
           "title": "乌克兰总统泽连斯基：我与约旦国王进行了会面。我们讨论了在安全领域的潜在合作，以及中东和海湾地区的整体局势。乌克兰愿意共同努力，抵御无人机和导弹攻击。",
@@ -821,6 +869,17 @@
           "time_info": "14时03分"
         },
         {
+          "title": "vivo X300 Ultra发布",
+          "url": "https://search.bilibili.com/all?keyword=vivo%20X300%20Ultra",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
           "title": "马士基就影响萨拉莱港运营的安全事件发布公告，马士基全体船员安全，均已清点到位。未有马士基船舶或货物受到影响。集装箱码头的受损情况仍在评估中。",
           "url": "https://flash.jin10.com/detail/20260330072947272800",
           "source": "金十数据",
@@ -860,7 +919,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -898,13 +957,24 @@
           "time_info": "06时40分"
         },
         {
+          "title": "白宫发言人：今天下午1点（北京时间次日凌晨1点）将举行新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260330192047798800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
           "title": "中央气象台3月30日18时继续发布强对流天气黄色预警",
           "url": "https://flash.jin10.com/detail/20260330180248741800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -915,7 +985,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -937,7 +1007,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -964,13 +1034,24 @@
           "time_info": "11时26分"
         },
         {
+          "title": "vivo发布了一台相机",
+          "url": "https://search.bilibili.com/all?keyword=vivo%E5%8F%91%E5%B8%83%E4%BA%86%E4%B8%80%E5%8F%B0%E7%9B%B8%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
           "title": "上汽大众ID.ERA 9X预售发布会",
           "url": "https://www.toutiao.com/trending/7622287447712530474/",
           "source": "今日头条",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -981,7 +1062,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -995,6 +1076,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "vivo发布会",
+          "url": "https://s.weibo.com/weibo?q=%23vivo%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "以色列议会发言人：以色列议会批准以色列总理内塔尼亚胡政府提交的2026年国家预算。",
@@ -1014,7 +1106,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -1044,7 +1136,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "BD开门红！中国创新药对外授权交易额亮眼 1-3月逼近去年全年一半",
@@ -1069,6 +1161,20 @@
           "time_info": "[11时25分 ~ 16时25分]"
         },
         {
+          "title": "白春礼院士：科研活动的基本单元正从人向人机系统转变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32858277",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 19时59分]"
+        },
+        {
           "title": "畅想我们的科技生活",
           "url": "https://www.toutiao.com/trending/7622880135238422062/",
           "source": "今日头条",
@@ -1078,6 +1184,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时03分 ~ 16时25分]"
+        },
+        {
+          "title": "这个世界第九，见证我国创新实力",
+          "url": "https://www.toutiao.com/trending/7622968357582573094/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时59分]"
         },
         {
           "title": "谁在给选基大模型喂答案？小心营销污染，基金信息不能被流量逻辑带偏",
@@ -1101,20 +1218,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时44分 ~ 05时41分]"
-        },
-        {
-          "title": "白春礼院士：科研活动的基本单元正从人向人机系统转变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32858277",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            11,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 18时24分]"
         },
         {
           "title": "中国银河证券：中长期仍看好科技板块产业驱动与周期板块涨价线索的双主线",
@@ -1141,17 +1244,6 @@
           "time_info": "[00时44分 ~ 05时41分]"
         },
         {
-          "title": "这个世界第九，见证我国创新实力",
-          "url": "https://www.toutiao.com/trending/7622968357582573094/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
           "title": "沪指拉升翻红，此前一度跌超1%，深成指、创业板指跌幅同步收窄，农业、有色铝、创新药、商业航天等方向涨幅居前，沪深京三市上涨个股超2300只。",
           "url": "https://wallstreetcn.com/livenews/3078940",
           "source": "华尔街见闻-快讯",
@@ -1173,6 +1265,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时25分 ~ 14时03分]"
+        },
+        {
+          "title": "沪指探底回升收涨0.2%，有色铝集体爆发，创新药活跃，恒科指跌近2%，科网股普遍低迷",
+          "url": "https://wallstreetcn.com/articles/3768695",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时59分]"
+        },
+        {
+          "title": "珠城科技：拟以5000万元-1亿元回购股份，回购股份的价格不超过人民币85.22元/股。",
+          "url": "https://wallstreetcn.com/livenews/3079307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "澜起科技：2025年归母净利润同比增长58.35%，拟10派3.9元",
+          "url": "https://wallstreetcn.com/livenews/3079305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（3月30日）",
@@ -1203,18 +1328,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "沪指探底回升收涨0.2%，有色铝集体爆发，创新药活跃，恒科指跌近2%，科网股普遍低迷",
-          "url": "https://wallstreetcn.com/articles/3768695",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -1228,6 +1342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "越疆科技：2025年净亏损8404.7万元，上年同期净亏损9536.3万元",
+          "url": "https://flash.jin10.com/detail/20260330192226293800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "创耀科技：公司星闪芯片销量持续增长",
@@ -1258,7 +1383,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -1269,7 +1394,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -1378,11 +1503,12 @@
             1,
             8,
             13,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时44分 ~ 18时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时44分 ~ 19时59分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -1422,6 +1548,21 @@
           "time_info": "[00时44分 ~ 06时40分]"
         },
         {
+          "title": "DeepSeek宕机12小时后恢复服务",
+          "url": "https://www.toutiao.com/trending/7622849000173178419/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            12,
+            16,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 19时59分]"
+        },
+        {
           "title": "雷军：小米AI人才招聘专项正式启动",
           "url": "https://flash.jin10.com/detail/20260330160410563800",
           "source": "金十数据",
@@ -1439,23 +1580,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
-        },
-        {
-          "title": "DeepSeek宕机12小时后恢复服务",
-          "url": "https://www.toutiao.com/trending/7622849000173178419/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            12,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 18时24分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -1613,7 +1740,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "5万亿网贷行业迎来最强监管",
@@ -1639,8 +1766,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 18时24分]"
+          "appearance_count": 4,
+          "time_info": "[14时03分 ~ 19时59分]"
         },
         {
           "title": "中证协摸底证券行业电子认证服务投入情况，聚焦系统改造的计划投入预算等",
@@ -1661,8 +1788,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 18时24分]"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 19时59分]"
         },
         {
           "title": "据日经新闻：日本国防装备制造商已开始投资军民两用技术。",
@@ -1699,6 +1826,17 @@
           "time_info": "[11时25分 ~ 11时26分]"
         },
         {
+          "title": "优衣库 JWA 牛仔裤被曝男女同款，但女款的缝线、包边等工艺远差于男款，是这样吗？这种设计在行业里普遍吗？",
+          "url": "https://www.zhihu.com/question/2020145531112875300",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
           "title": "市场消息：美国能源行业高官呼吁迅速采取行动重新开放霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260330054319706800",
           "source": "金十数据",
@@ -1708,6 +1846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
+        },
+        {
+          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
+          "url": "https://www.cls.cn/detail/2328703",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "新华时评｜面对复杂形势，稳猪价、保供给、护民生，需要政府与行业同向发力、凝聚合力",
@@ -1743,6 +1892,17 @@
           "time_info": "14时03分"
         },
         {
+          "title": "强一股份：起诉两公司侵害MEMS探针卡技术秘密",
+          "url": "https://flash.jin10.com/detail/20260330191257278800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
           "title": "汇丰：能源价格与加息双重重压 澳大利亚或陷技术性衰退",
           "url": "https://flash.jin10.com/detail/20260330133636983800",
           "source": "金十数据",
@@ -1752,6 +1912,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        },
+        {
+          "title": "宝信软件：拟收购武汉宝信所持武汉华工激光51%股权",
+          "url": "https://flash.jin10.com/detail/20260330191059833800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "工信部公开征求《智慧城市中数字孪生系统安全技术要求》等143项通信行业标准报批意见。",
+          "url": "https://wallstreetcn.com/livenews/3079275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         }
       ]
     },
@@ -1787,6 +1969,19 @@
           "time_info": "[00时44分 ~ 11时26分]"
         },
         {
+          "title": "《洛克王国世界》力压《王者荣耀》登顶游戏榜首，如何看待这一成绩？",
+          "url": "https://www.zhihu.com/question/2020957633037770841",
+          "source": "知乎",
+          "ranks": [
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 19时59分]"
+        },
+        {
           "title": "内存价格跳水,等等党大胜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352479&amp;topic_name=%E5%86%85%E5%AD%98%E4%BB%B7%E6%A0%BC%E8%B7%B3%E6%B0%B4%2C%E7%AD%89%E7%AD%89%E5%85%9A%E5%A4%A7%E8%83%9C",
           "source": "贴吧",
@@ -1796,11 +1991,12 @@
             15,
             17,
             21,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时44分 ~ 18时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时44分 ~ 19时59分]"
         },
         {
           "title": "内存条价格崩了",
@@ -1817,19 +2013,6 @@
           "time_info": "[00时44分 ~ 07时43分]"
         },
         {
-          "title": "《洛克王国世界》力压《王者荣耀》登顶游戏榜首，如何看待这一成绩？",
-          "url": "https://www.zhihu.com/question/2020957633037770841",
-          "source": "知乎",
-          "ranks": [
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 18时24分]"
-        },
-        {
           "title": "内存条价格跳水，内存股集体下跌，内存超级周期见顶了？",
           "url": "https://wallstreetcn.com/articles/3768696",
           "source": "华尔街见闻",
@@ -1838,8 +2021,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 18时24分]"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 19时59分]"
         },
         {
           "title": "怎样让 9 岁的小朋友明白，打游戏为生不靠谱？",
@@ -1897,11 +2080,12 @@
             24,
             20,
             18,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时44分 ~ 18时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时44分 ~ 19时59分]"
         },
         {
           "title": "带崩全球存储股的谷歌论文陷学术争议，中国学者指其“严重失实”且“知错不改”：使用了我们的方法，但刻意回避相似性",
@@ -1910,9 +2094,38 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
+          "url": "https://wallstreetcn.com/articles/3768658",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 11时26分]"
+        },
+        {
+          "title": "美股期货走高，纳斯达克100指数期货涨0.7%，道指期货涨0.7%，标普500指数期货涨0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3079300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         }
       ]
     },
@@ -1941,24 +2154,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
-          "url": "https://wallstreetcn.com/articles/3768658",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 11时26分]"
         }
       ]
     }
