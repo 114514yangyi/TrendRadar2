@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T21:51:03.211685+08:00",
-  "total_titles_processed": 1569,
+  "generated_at": "2026-03-31T23:11:57.715584+08:00",
+  "total_titles_processed": 1680,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 69,
+      "match_count": 73,
       "titles": [
         {
           "title": "西班牙：禁止参与伊朗战争的美以军机通行",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时47分 ~ 21时51分]"
+          "appearance_count": 8,
+          "time_info": "[13时47分 ~ 23时11分]"
         },
         {
           "title": "特朗普：即使霍尔木兹海峡仍关闭也愿结束战争",
@@ -44,6 +44,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时17分 ~ 17时11分]"
+        },
+        {
+          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时17分 ~ 23时11分]"
         },
         {
           "title": "张雪称将吃掉国际大牌超50%份额",
@@ -115,18 +129,17 @@
           "time_info": "[17时11分 ~ 21时51分]"
         },
         {
-          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
-          "source": "澎湃新闻",
+          "title": "外交部：近日中方有三艘船舶过航霍尔木兹海峡",
+          "url": "https://www.cls.cn/detail/2330420",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            12,
-            11,
-            6
+            6,
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时17分 ~ 21时51分]"
+          "appearance_count": 5,
+          "time_info": "[17时11分 ~ 23时11分]"
         },
         {
           "title": "美以伊战争丨特朗普想让阿拉伯国家为美国打伊朗买单",
@@ -150,6 +163,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时17分 ~ 21时51分]"
+        },
+        {
+          "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            15,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时47分 ~ 23时11分]"
         },
         {
           "title": "美以伊战争丨特朗普：美国正与伊朗议长卡利巴夫对话",
@@ -194,44 +222,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时47分 ~ 13时48分]"
-        },
-        {
-          "title": "美以伊战争丨美媒：伊朗打坏的E3不是一架而是俩",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 21时51分]"
-        },
-        {
-          "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            15,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时47分 ~ 21时51分]"
-        },
-        {
-          "title": "外交部：近日中方有三艘船舶过航霍尔木兹海峡",
-          "url": "https://www.cls.cn/detail/2330420",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时11分 ~ 21时51分]"
         },
         {
           "title": "白宫：美伊对话进展顺利 特朗普有意呼吁阿拉伯国家为战争埋单",
@@ -316,6 +306,29 @@
           "time_info": "15时28分"
         },
         {
+          "title": "美国总统特朗普宣称，对伊朗的战争不会持续“太久”。 特朗普称其他国家可以让霍尔木兹海峡重新开放。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3080263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "美以伊战争丨美媒：伊朗打坏的E3不是一架而是俩",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 23时11分]"
+        },
+        {
           "title": "外交部：近日中方有三艘船舶过航霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3079947",
           "source": "华尔街见闻-快讯",
@@ -344,7 +357,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -360,6 +373,17 @@
           "time_info": "15时28分"
         },
         {
+          "title": "美国总统特朗普：对伊朗的战争不会持续“太久”。",
+          "url": "https://flash.jin10.com/detail/20260331230252779800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "外交部：中方对伊朗文物古迹在战争中遭受破坏深感痛惜。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3079945",
           "source": "华尔街见闻-快讯",
@@ -369,6 +393,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "外交部揭底自卫队官员为何强闯中使馆",
+          "url": "https://www.toutiao.com/trending/7622819484025409065/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时11分 ~ 23时11分]"
+        },
+        {
+          "title": "国际足联系列赛，国足 0-2 不敌喀麦隆，林良铭险破门，喀麦隆主帅染红，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2022272229606465920",
+          "source": "知乎",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时11分 ~ 23时11分]"
         },
         {
           "title": "内塔尼亚胡：伊朗战争“已过半程”，当前重点是浓缩铀库存",
@@ -430,29 +479,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时17分 ~ 15时28分]"
-        },
-        {
-          "title": "外交部揭底自卫队官员为何强闯中使馆",
-          "url": "https://www.toutiao.com/trending/7622819484025409065/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时11分 ~ 21时51分]"
-        },
-        {
-          "title": "国际足联系列赛，国足 0-2 不敌喀麦隆，林良铭险破门，喀麦隆主帅染红，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2022272229606465920",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时11分 ~ 21时51分]"
         },
         {
           "title": "日方称愿缓和与中国的外交紧张关系，外交部回应",
@@ -549,6 +575,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时51分 ~ 05时52分]"
+        },
+        {
+          "title": "外交部揭底自卫队官员为何持刀闯入驻日大使馆",
+          "url": "https://news.ifeng.com/c/8rwYhiZofOp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "美媒：法国借俄乌与中东战争重塑对俄作战准备",
@@ -716,6 +753,17 @@
           "time_info": "17时11分"
         },
         {
+          "title": "据港交所文件，3月31日，名创优品旗下潮玩公司TOP TOY（大潮玩国际集团有限公司）重新向港交所递交上市申请书，联席保荐人为摩根大通、瑞银集团。",
+          "url": "https://wallstreetcn.com/livenews/3080239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "泽连斯基：伊朗长期战争将助长俄罗斯，乌武器供应将面临挑战",
           "url": "https://flash.jin10.com/detail/20260331044339866800",
           "source": "金十数据",
@@ -818,7 +866,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 44,
+      "match_count": 50,
       "titles": [
         {
           "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
@@ -830,8 +878,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时17分 ~ 21时51分]"
+          "appearance_count": 9,
+          "time_info": "[11时17分 ~ 23时11分]"
         },
         {
           "title": "具身智能领域首份行业标准发布",
@@ -852,11 +900,12 @@
             17,
             13,
             12,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时17分 ~ 21时51分]"
+          "appearance_count": 9,
+          "time_info": "[11时17分 ~ 23时11分]"
         },
         {
           "title": "央行：建议发挥增量政策和存量政策集成效应 加强货币政策调控",
@@ -864,11 +913,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时51分]"
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 23时11分]"
         },
         {
           "title": "海湾国家，新的大麻烦来了",
@@ -894,6 +944,28 @@
           "time_info": "11时17分"
         },
         {
+          "title": "据纽约邮报：美国总统特朗普表示，其他国家也可以重新打开霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260331230332668800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "抖音发布“未来导演扶持计划”",
+          "url": "https://wallstreetcn.com/livenews/3080260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "澳洲联储发布支付系统委员会的最终决定。",
           "url": "https://wallstreetcn.com/livenews/3079604",
           "source": "华尔街见闻-快讯",
@@ -916,6 +988,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时43分 ~ 15时28分]"
+        },
+        {
+          "title": "古天乐周润发首次合作",
+          "url": "https://www.douyin.com/hot/2450153",
+          "source": "抖音",
+          "ranks": [
+            18,
+            20,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时11分 ~ 23时11分]"
         },
         {
           "title": "伊朗外长：伊朗尊重沙特阿拉伯王国，视其为兄弟国家。我们的行动是针对那些对阿拉伯人和伊朗人毫无尊重、无法提供任何安全保障的敌对侵略者。",
@@ -954,17 +1040,15 @@
           "time_info": "[05时52分 ~ 06时47分]"
         },
         {
-          "title": "古天乐周润发首次合作",
-          "url": "https://www.douyin.com/hot/2450153",
-          "source": "抖音",
+          "title": "美国打伊朗，阿拉伯国家掏钱？白宫新闻秘书：特朗普有这想法",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865145",
+          "source": "澎湃新闻",
           "ranks": [
-            18,
-            20,
-            16
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时11分 ~ 21时51分]"
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 23时11分]"
         },
         {
           "title": "“车路云一体化”频迎利好：多个“团标”密集发布 启明信息8000万中标长春项目",
@@ -988,17 +1072,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 05时52分]"
-        },
-        {
-          "title": "美国打伊朗，阿拉伯国家掏钱？白宫新闻秘书：特朗普有这想法",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865145",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 21时51分]"
         },
         {
           "title": "国家医保局：打击赠米面油的骗保行为",
@@ -1122,6 +1195,17 @@
           "time_info": "11时17分"
         },
         {
+          "title": "墨西哥总统辛鲍姆：据悉事故由自然渗漏所致，正在审查墨西哥国家石油公司的海上基础设施。",
+          "url": "https://flash.jin10.com/detail/20260331224503888800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "联合国研究预计伊朗冲突恐对阿拉伯国家造成近2000亿美元经济损失",
           "url": "https://wallstreetcn.com/livenews/3080015",
           "source": "华尔街见闻-快讯",
@@ -1153,6 +1237,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "国家数据局：要加快构建体系化数据资源 探索开展低空经济领域数据市场交易",
+          "url": "https://wallstreetcn.com/livenews/3080241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "据科威特国家通讯社：科威特方面警告称，袭击后周边海域可能发生石油泄漏。",
@@ -1276,6 +1371,17 @@
           "time_info": "13时48分"
         },
         {
+          "title": "伊拉克国家石油营销组织SOMO授予高硫燃料油出口合同，所有货量将经由叙利亚出口。",
+          "url": "https://flash.jin10.com/detail/20260331222622634800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "鲍威尔：目前，美联储的货币政策适合保持观望立场。",
           "url": "https://wallstreetcn.com/livenews/3079486",
           "source": "华尔街见闻-快讯",
@@ -1318,13 +1424,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
+        },
+        {
+          "title": "巴西国家石油公司勘探与生产部门负责人：公司3月份单日原油产量达290万桶。",
+          "url": "https://flash.jin10.com/detail/20260331222328653800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         }
       ]
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            6,
+            7,
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时17分 ~ 23时11分]"
+        },
         {
           "title": "AI勇闯二游圈,引爆米库论战",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
@@ -1340,20 +1474,21 @@
           "time_info": "[01时05分 ~ 13时48分]"
         },
         {
-          "title": "凌晨3点上班,AI卷疯打工人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "title": "功勋翻译下岗,AI包揽游戏翻译",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
           "source": "贴吧",
           "ranks": [
-            2,
-            3,
+            4,
             6,
-            7,
-            10,
-            12
+            9,
+            12,
+            15,
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时17分 ~ 21时51分]"
+          "appearance_count": 9,
+          "time_info": "[11时17分 ~ 23时11分]"
         },
         {
           "title": "苹果客服回应撤回国行AI",
@@ -1367,22 +1502,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时17分 ~ 19时02分]"
-        },
-        {
-          "title": "功勋翻译下岗,AI包揽游戏翻译",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            6,
-            9,
-            12,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时17分 ~ 21时51分]"
         },
         {
           "title": "复旦教授解析AI冲击职场真相",
@@ -1419,6 +1538,17 @@
           "time_info": "13时48分"
         },
         {
+          "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
+          "url": "https://www.zhihu.com/question/2022394365436248248",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "DeepSeek被做成清明节纸扎",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E5%81%9A%E6%88%90%E6%B8%85%E6%98%8E%E8%8A%82%E7%BA%B8%E6%89%8E",
           "source": "百度热搜",
@@ -1442,6 +1572,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时11分 ~ 07时43分]"
+        },
+        {
+          "title": "Claude Code源码意外泄露",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E6%84%8F%E5%A4%96%E6%B3%84%E9%9C%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 23时11分]"
         },
         {
           "title": "AI演员 拼尸块",
@@ -1477,17 +1619,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时17分 ~ 15时28分]"
-        },
-        {
-          "title": "Claude Code源码意外泄露",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E6%84%8F%E5%A4%96%E6%B3%84%E9%9C%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 21时51分]"
         },
         {
           "title": "美国纽约联储主席（FOMC永久票委，号称美联储三把手）威廉姆斯：在一段时期内，AI将是投资的驱动因素。",
@@ -1670,7 +1801,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "白春礼院士：科研活动的基本单元正从人向人机系统转变",
@@ -1808,6 +1939,17 @@
           "time_info": "[06时47分 ~ 07时43分]"
         },
         {
+          "title": "路透调查：欧佩克3月产量创新冠疫情高峰以来新低",
+          "url": "https://flash.jin10.com/detail/20260331230012537800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌0.36%，报6569.63点。 热门中概股里，小马智行初步收跌7%，世纪互联跌5.8%，阿特斯太阳能、晶科能源跌超3%，小米跌2.6%，腾讯跌1.7%，拼多多跌1.3%，阿里巴巴跌0.5%，文远知行涨2%，蔚来涨3.8%，比亚迪涨7%。 ETF中，中国科技指数ETF（CQQQ）收跌0.75%，中概互联网指数ETF（KWEB）收跌0.47%。 德银嘉实沪深300指数ETF（ASHR）收涨0.66%，XtrackersHarvest中证50（ASHS）收涨1.13%。",
           "url": "https://wallstreetcn.com/livenews/3079562",
           "source": "华尔街见闻-快讯",
@@ -1869,9 +2011,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
+        },
+        {
+          "title": "伊朗革命卫队：4月1日起将打击中东地区与美高科技公司有关的企业",
+          "url": "https://flash.jin10.com/detail/20260331223829904800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "宏昌科技：公司参投基金金义智创基金持有张雪机车5.5046%股权，对公司影响较小",
@@ -2148,7 +2301,7 @@
     },
     {
       "keyword_group": "美股 美元",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -2160,8 +2313,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时43分 ~ 21时51分]"
+          "appearance_count": 10,
+          "time_info": "[07时43分 ~ 23时11分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
@@ -2187,6 +2340,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时51分 ~ 06时47分]"
+        },
+        {
+          "title": "根据斯坦福大学经济政策研究所Ryan Cummings和Neale Mahoney的研究，即使考虑了其他经济影响，每当油价上涨1美元，美国密歇根大学消费者信心指数就会下降4.5个点或更多。该研究所的首席Cummings表示：“这大致意味着，汽油价格每上涨1美元，民众对经济状况的感受就会恶化5%。”Cummings曾于2021-23年担任拜登政府经济顾问委员会的专职经济学家，负责汽油政策相关工作。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3080262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "美股三大指数高开 爱奇艺涨超12%",
@@ -2231,7 +2395,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -2278,6 +2442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "美元指数DXY日内跌幅达0.50%，现报99.98。",
+          "url": "https://flash.jin10.com/detail/20260331223609501800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "美股存储芯片指数收跌超6.9%，Rambus跌超11%，美光重挫约10%",
@@ -2342,11 +2517,28 @@
             18,
             25,
             21,
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时17分 ~ 21时51分]"
+          "appearance_count": 9,
+          "time_info": "[11时17分 ~ 23时11分]"
+        },
+        {
+          "title": "DDR6内存要来了吗",
+          "url": "https://search.bilibili.com/all?keyword=DDR6%E5%86%85%E5%AD%98%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            14,
+            24,
+            23,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时17分 ~ 23时11分]"
         },
         {
           "title": "4月国产游戏大作前瞻",
@@ -2365,21 +2557,6 @@
           "time_info": "[04时56分 ~ 17时11分]"
         },
         {
-          "title": "DDR6内存要来了吗",
-          "url": "https://search.bilibili.com/all?keyword=DDR6%E5%86%85%E5%AD%98%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            14,
-            24,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时17分 ~ 19时02分]"
-        },
-        {
           "title": "3月31日投资避雷针：深圳华强北内存条遭抛售 部分型号一周降价近三成",
           "url": "https://www.cls.cn/detail/2329854",
           "source": "财联社热门",
@@ -2392,6 +2569,18 @@
           "time_info": "[11时17分 ~ 15时28分]"
         },
         {
+          "title": "男子在非洲开网吧月赚 3 万， 还提供游戏代打业务，这种经营模式是怎么做起来的？为什么不好复刻？",
+          "url": "https://www.zhihu.com/question/2022056803073091173",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 23时11分]"
+        },
+        {
           "title": "内存价格大跳水原因找到了",
           "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%AD%98%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86",
           "source": "百度热搜",
@@ -2402,17 +2591,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时17分 ~ 13时48分]"
-        },
-        {
-          "title": "男子在非洲开网吧月赚 3 万， 还提供游戏代打业务，这种经营模式是怎么做起来的？为什么不好复刻？",
-          "url": "https://www.zhihu.com/question/2022056803073091173",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 21时51分]"
         },
         {
           "title": "机构：现货贸易抛盘低端资源承压 渠道低容量DDR4内存条价格下跌逾20%",
@@ -2440,7 +2618,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -2456,6 +2634,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时05分 ~ 07时43分]"
+        },
+        {
+          "title": "苹果、微软、谷歌等回吐涨幅，伊朗对18家美国科技公司发出打击警告",
+          "url": "https://wallstreetcn.com/livenews/3080254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "伊朗称将打击中东地区与美高科技公司有关的企业，包括惠普、苹果、谷歌、特斯拉、微软等公司",
+          "url": "https://wallstreetcn.com/livenews/3080253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         }
       ]
     },
