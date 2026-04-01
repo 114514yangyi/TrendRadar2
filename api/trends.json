@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T14:01:58.240654+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2026-04-01T15:50:39.523940+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 49,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时08分 ~ 07时48分]"
+        },
+        {
+          "title": "张雪在采访中说，未来五年内将吃掉国际机车大牌 50% 以上份额，这一数据意味着什么？这份底气从何而来？",
+          "url": "https://www.zhihu.com/question/2022297287473251292",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 15时50分]"
         },
         {
           "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
@@ -59,6 +70,18 @@
           "time_info": "[01时08分 ~ 07时48分]"
         },
         {
+          "title": "伊朗总统：满足必要条件，愿意结束战争",
+          "url": "https://news.ifeng.com/c/8rxmESCUjqO",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 15时50分]"
+        },
+        {
           "title": "美以伊战争丨特朗普：将在两到三周内结束伊朗战事",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -68,17 +91,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时48分]"
-        },
-        {
-          "title": "张雪在采访中说，未来五年内将吃掉国际机车大牌 50% 以上份额，这一数据意味着什么？这份底气从何而来？",
-          "url": "https://www.zhihu.com/question/2022297287473251292",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 14时01分]"
         },
         {
           "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
@@ -105,16 +117,17 @@
           "time_info": "[01时08分 ~ 06时42分]"
         },
         {
-          "title": "伊朗总统：满足必要条件，愿意结束战争",
-          "url": "https://news.ifeng.com/c/8rxmESCUjqO",
-          "source": "凤凰网",
+          "title": "美伊转折点？特朗普：将在“两到三周”内结束战争，协议亦可能达成！",
+          "url": "https://www.cls.cn/detail/2331376",
+          "source": "财联社热门",
           "ranks": [
             4,
-            5
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 14时01分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 15时50分]"
         },
         {
           "title": "美以伊战争丨美媒：阿联酋愿协助美打通霍尔木兹",
@@ -134,9 +147,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
+        },
+        {
+          "title": "美以伊战争丨俄方：美目的是控制石油，冲突或扩大",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         },
         {
           "title": "惠誉：伊朗战争外溢效应可能削弱欧盟银行强劲的2026年展望。",
@@ -183,6 +207,18 @@
           "time_info": "07时48分"
         },
         {
+          "title": "伊朗总统称要结束战争、对方须保证不再侵略，伊外长称与美有信息交流但没谈判",
+          "url": "https://wallstreetcn.com/articles/3768922",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 15时50分]"
+        },
+        {
           "title": "民调：三分之二的美国人认为，应尽快结束对伊朗的战争",
           "url": "https://flash.jin10.com/detail/20260401050726363800",
           "source": "金十数据",
@@ -192,18 +228,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
-        },
-        {
-          "title": "美伊转折点？特朗普：将在“两到三周”内结束战争，协议亦可能达成！",
-          "url": "https://www.cls.cn/detail/2331376",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 14时01分]"
         },
         {
           "title": "伊朗总统：要结束战争 对方须保证不再侵略",
@@ -218,28 +242,17 @@
           "time_info": "[04时52分 ~ 05时50分]"
         },
         {
-          "title": "伊朗总统称要结束战争、对方须保证不再侵略，伊外长称与美有信息交流但没谈判",
-          "url": "https://wallstreetcn.com/articles/3768922",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 14时01分]"
-        },
-        {
           "title": "伊朗愿意结束战争",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%84%BF%E6%84%8F%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
             5,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 14时01分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 15时50分]"
         },
         {
           "title": "外交部揭底自卫队官员为何强闯中使馆",
@@ -252,6 +265,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时49分 ~ 07时48分]"
+        },
+        {
+          "title": "战争烂尾，特朗普要跑了",
+          "url": "https://news.ifeng.com/c/8rxhKnCdBaV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 15时50分]"
+        },
+        {
+          "title": "战争烂尾 特朗普要跑了",
+          "url": "https://www.baidu.com/s?wd=%E6%88%98%E4%BA%89%E7%83%82%E5%B0%BE+%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E8%B7%91%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 15时50分]"
         },
         {
           "title": "国际足联系列赛，国足 0-2 不敌喀麦隆，林良铭险破门，喀麦隆主帅染红，如何评价本场比赛？",
@@ -277,15 +312,16 @@
           "time_info": "[04时52分 ~ 05时50分]"
         },
         {
-          "title": "战争烂尾，特朗普要跑了",
-          "url": "https://news.ifeng.com/c/8rxhKnCdBaV",
-          "source": "凤凰网",
+          "title": "国际足联称伊朗将参加世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E7%A7%B0%E4%BC%8A%E6%9C%97%E5%B0%86%E5%8F%82%E5%8A%A0%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            7,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时31分 ~ 14时01分]"
+          "time_info": "[14时01分 ~ 15时50分]"
         },
         {
           "title": "伊方称愿在诉求满足下结束战争",
@@ -298,17 +334,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时48分 ~ 11时31分]"
-        },
-        {
-          "title": "战争烂尾 特朗普要跑了",
-          "url": "https://www.baidu.com/s?wd=%E6%88%98%E4%BA%89%E7%83%82%E5%B0%BE+%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E8%B7%91%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 14时01分]"
         },
         {
           "title": "伊朗：愿在诉求满足前提下结束战争",
@@ -332,17 +357,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
-        },
-        {
-          "title": "国际足联称伊朗将参加世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E7%A7%B0%E4%BC%8A%E6%9C%97%E5%B0%86%E5%8F%82%E5%8A%A0%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
         },
         {
           "title": "鲁比奥：美国可以看到战争的“终点线”",
@@ -389,6 +403,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "巴基斯坦国际政府债券上涨多达4美分，埃及债券上涨多达2.3美分，斯里兰卡债券上涨多达3美分。此前在美国表达伊朗战争可能迅速结束的希望。",
+          "url": "https://flash.jin10.com/detail/20260401153848250800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
           "title": "教皇利奥表示，他希望美国总统特朗普在与伊朗的战争中能找到“退路”。",
           "url": "https://flash.jin10.com/detail/20260401023744143800",
           "source": "金十数据",
@@ -398,6 +423,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "外交部：打击网、赌、电、诈是国际社会的共同责任",
+          "url": "https://wallstreetcn.com/livenews/3080722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "外交部：中巴五点倡议是开放的，欢迎各国和国际组织响应和参与",
+          "url": "https://wallstreetcn.com/livenews/3080719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         },
         {
           "title": "美国总统特朗普：不需要与伊朗达成协议，美国就能结束战争。当我们觉得他们被迫回到石器时代，无法制造核武器时，无论我们是否达成协议，我们都会离开。",
@@ -422,6 +469,17 @@
           "time_info": "01时08分"
         },
         {
+          "title": "外交部：提升人员往来的便利化有利于中韩民众交流",
+          "url": "https://wallstreetcn.com/livenews/3080718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
           "title": "欧盟或重新实施2022年应对能源危机的措施，以应对伊朗战争局势",
           "url": "https://flash.jin10.com/detail/20260401003838496800",
           "source": "金十数据",
@@ -431,6 +489,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "国际现货黄金“死猫跳”还是真反转？美联储今年仍有望重启降息 | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260401153707491800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "美方操弄“通用许可证”对中委合作设限，外交部：坚决反对",
+          "url": "https://wallstreetcn.com/livenews/3080717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：我们准备结束战争，但希望获得保障。",
@@ -455,6 +535,28 @@
           "time_info": "07时48分"
         },
         {
+          "title": "外交部：打击网、赌、电、诈是国际社会的共同责任",
+          "url": "https://flash.jin10.com/detail/20260401153608834800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "伊朗愿在诉求满足下结束战争",
+          "url": "https://www.douyin.com/hot/2450674",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
           "title": "美国和伊朗有关解决战争问题的表态引发油价下跌",
           "url": "https://flash.jin10.com/detail/20260401034752625800",
           "source": "金十数据",
@@ -466,6 +568,17 @@
           "time_info": "04时52分"
         },
         {
+          "title": "外交部：坚决反对菲律宾损害中国的主权和权益",
+          "url": "https://flash.jin10.com/detail/20260401153133921800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
           "title": "欧盟敦促以色列履行其国际法义务",
           "url": "https://wallstreetcn.com/livenews/3080395",
           "source": "华尔街见闻-快讯",
@@ -475,6 +588,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
+        },
+        {
+          "title": "伊朗外交部发言人：“美国对外交并不认真”",
+          "url": "https://wallstreetcn.com/livenews/3080706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "外交部：提升人员往来的便利化有利于中韩民众交流",
+          "url": "https://flash.jin10.com/detail/20260401153111629800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         },
         {
           "title": "美国股市能源股下跌，航空股上涨，伊朗总统称有结束战争的意愿",
@@ -499,6 +634,28 @@
           "time_info": "01时08分"
         },
         {
+          "title": "日方打着“防卫反击”幌子部署进攻性武器 外交部：这一动向十分危险",
+          "url": "https://flash.jin10.com/detail/20260401153043664800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "伊朗不同意停火强调要彻底结束战争",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%B8%8D%E5%90%8C%E6%84%8F%E5%81%9C%E7%81%AB%E5%BC%BA%E8%B0%83%E8%A6%81%E5%BD%BB%E5%BA%95%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
           "title": "据半岛电视台：伊朗外长表示，阿曼和伊朗将在战争后决定霍尔木兹海峡的未来。在伊朗看来，霍尔木兹海峡可以成为各国船只和平使用的和平水道。",
           "url": "https://flash.jin10.com/detail/20260401032042542800",
           "source": "金十数据",
@@ -508,6 +665,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "外交部：中方在委内瑞拉的合法权益必须得到保护",
+          "url": "https://flash.jin10.com/detail/20260401153032060800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：伊朗在会谈期间两次遭到袭击，这证明美国不相信外交手段。",
@@ -530,6 +698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "外交部：中巴双方发表关于恢复海湾和中东地区和平稳定的五点倡议",
+          "url": "https://flash.jin10.com/detail/20260401153002830800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         },
         {
           "title": "报道：拉加德在视频会议上向贝森特发难，质疑其对战争影响过于乐观",
@@ -568,7 +747,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "央行：建议发挥增量政策和存量政策集成效应 加强货币政策调控",
@@ -647,6 +826,17 @@
           "time_info": "05时50分"
         },
         {
+          "title": "Saber拍卖收官!原厂合作量产",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352639&amp;topic_name=Saber%E6%8B%8D%E5%8D%96%E6%94%B6%E5%AE%98%21%E5%8E%9F%E5%8E%82%E5%90%88%E4%BD%9C%E9%87%8F%E4%BA%A7",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
           "title": "国家文物局：组织全国国有博物馆逐件清点馆藏文物，全面核实账物相符情况。",
           "url": "https://wallstreetcn.com/livenews/3080580",
           "source": "华尔街见闻-快讯",
@@ -656,6 +846,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        },
+        {
+          "title": "如何看待教育部发布通知，明确学校自主经营食堂不以营利为目的，并严格执行陪餐制度？能保障学生用餐安全吗？",
+          "url": "https://www.zhihu.com/question/2022246464714227999",
+          "source": "知乎",
+          "ranks": [
+            18,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 15时50分]"
+        },
+        {
+          "title": "DLSS4.5动态多帧生成功能发布",
+          "url": "https://search.bilibili.com/all?keyword=DLSS4.5%E5%8A%A8%E6%80%81%E5%A4%9A%E5%B8%A7%E7%94%9F%E6%88%90%E5%8A%9F%E8%83%BD%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         },
         {
           "title": "日本央行称，新任审议委员Asada将于格林威治标准时间08:00（北京时间16:00）举行新闻发布会。",
@@ -680,16 +893,16 @@
           "time_info": "[01时08分 ~ 05时50分]"
         },
         {
-          "title": "如何看待教育部发布通知，明确学校自主经营食堂不以营利为目的，并严格执行陪餐制度？能保障学生用餐安全吗？",
-          "url": "https://www.zhihu.com/question/2022246464714227999",
-          "source": "知乎",
+          "title": "“Token经济”崛起再获验证！智谱发布“炸裂”数据 机构：Agent场景渗透打开利润空间",
+          "url": "https://www.cls.cn/detail/2331554",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            2
+            7,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时31分 ~ 14时01分]"
+          "time_info": "[14时01分 ~ 15时50分]"
         },
         {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
@@ -704,15 +917,16 @@
           "time_info": "[04时52分 ~ 05时50分]"
         },
         {
-          "title": "“Token经济”崛起再获验证！智谱发布“炸裂”数据 机构：Agent场景渗透打开利润空间",
-          "url": "https://www.cls.cn/detail/2331554",
-          "source": "财联社热门",
+          "title": "国家文物局：组织全国国有博物馆逐件清点馆藏文物，全面核实账物相符情况",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32870188",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            14,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 15时50分]"
         },
         {
           "title": "伊朗外长：霍尔木兹海峡可以成为“和平通道”，其最终走向取决于沿岸国家的决定",
@@ -754,9 +968,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
+        },
+        {
+          "title": "能源危机有多惨烈？亚洲国家开始尝试“以物易物”",
+          "url": "https://www.cls.cn/detail/2331856",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         },
         {
           "title": "乌克兰国家安全与国防委员会秘书乌梅罗夫：与土耳其领导层举行了一系列重要会议，讨论了安全形势、谈判进展，以及针对共同威胁的进一步协调步骤。",
@@ -781,17 +1006,6 @@
           "time_info": "07时48分"
         },
         {
-          "title": "国家文物局：组织全国国有博物馆逐件清点馆藏文物，全面核实账物相符情况",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32870188",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
           "title": "哥伦比亚财政部长在周二的央行会议上突然离席，并呼吁就央行的货币政策进行公开辩论，同时指责其偏袒投资者而非普通公民。",
           "url": "https://flash.jin10.com/detail/20260401022916465800",
           "source": "金十数据",
@@ -814,6 +1028,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "4月1日起一批国家标准正式实施",
+          "url": "https://www.baidu.com/s?wd=4%E6%9C%881%E6%97%A5%E8%B5%B7%E4%B8%80%E6%89%B9%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E6%AD%A3%E5%BC%8F%E5%AE%9E%E6%96%BD",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
           "title": "欧洲央行管委雷恩：仔细评估货币政策更为妥当。",
           "url": "https://flash.jin10.com/detail/20260401022746023800",
           "source": "金十数据",
@@ -834,6 +1059,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
+        },
+        {
+          "title": "阿里巴巴图像生成与编辑统一模型Wan2.7-Image发布",
+          "url": "https://wallstreetcn.com/livenews/3080711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         },
         {
           "title": "美国总统特朗普：鲍威尔必须尽快离任。 （美国军队）很快就会离开伊朗。 今天股价涨了。 我只要（宣布美军）离开伊朗，汽油价格就会下跌。 美国将在2-3周内离开伊朗。 再多几天就能完成对伊朗的任务。 可能与伊朗达成协议。 伊朗比我更想达成协议。 当美国认为伊朗无法拥有核武器时，就会离开。 想要美方离开，伊朗无需达成协议。 希望摧毁伊朗拥有的一切。 法国等国家将在霍尔木兹海峡应对（伊朗）。 听说有大量船只通过霍尔木兹海峡。",
@@ -930,7 +1166,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -963,7 +1199,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         }
@@ -971,7 +1207,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
@@ -984,6 +1220,34 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时08分 ~ 07时48分]"
+        },
+        {
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            16,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 15时50分]"
+        },
+        {
+          "title": "功勋翻译下岗,AI包揽游戏翻译",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            23,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 15时50分]"
         },
         {
           "title": "Claude Code源码意外泄露",
@@ -1000,30 +1264,16 @@
           "time_info": "[01时08分 ~ 07时48分]"
         },
         {
-          "title": "凌晨3点上班,AI卷疯打工人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
-          "source": "贴吧",
+          "title": "史诗级泄露！51.2万行，Claude Code源代码开源了！",
+          "url": "https://wallstreetcn.com/articles/3768915",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            16,
-            18
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 14时01分]"
-        },
-        {
-          "title": "功勋翻译下岗,AI包揽游戏翻译",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 14时01分]"
+          "appearance_count": 4,
+          "time_info": "[07时48分 ~ 15时50分]"
         },
         {
           "title": "澳大利亚与Anthropic围绕国别人工智能（National AI）计划签署备忘录（MOU）。",
@@ -1059,18 +1309,6 @@
           "time_info": "07时48分"
         },
         {
-          "title": "史诗级泄露！51.2万行，Claude Code源代码开源了！",
-          "url": "https://wallstreetcn.com/articles/3768915",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时48分 ~ 14时01分]"
-        },
-        {
           "title": "深度解析Claude源码泄漏",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90Claude%E6%BA%90%E7%A0%81%E6%B3%84%E6%BC%8F",
           "source": "bilibili 热搜",
@@ -1093,6 +1331,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时50分]"
+        },
+        {
+          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
+          "url": "https://www.cls.cn/detail/2331423",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 15时50分]"
+        },
+        {
+          "title": "3 月 31 日 DeepSeek 服务中断一小时后恢复，什么情况？最近的三天两「崩」可能是什么原因？",
+          "url": "https://www.zhihu.com/question/2022371409997947809",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 15时50分]"
         },
         {
           "title": "如何看待前端排版库 Pretext，能否实现 AI 自动排版?",
@@ -1130,30 +1393,6 @@
           "time_info": "[11时31分 ~ 14时01分]"
         },
         {
-          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
-          "url": "https://www.cls.cn/detail/2331423",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 14时01分]"
-        },
-        {
-          "title": "3 月 31 日 DeepSeek 服务中断一小时后恢复，什么情况？最近的三天两「崩」可能是什么原因？",
-          "url": "https://www.zhihu.com/question/2022371409997947809",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 14时01分]"
-        },
-        {
           "title": "据Axios：OpenAI在最近的一次私募融资中向个人投资者出售了约30亿美元的股份。",
           "url": "https://flash.jin10.com/detail/20260401041102848800",
           "source": "金十数据",
@@ -1176,6 +1415,17 @@
           "time_info": "04时52分"
         },
         {
+          "title": "ClaudeCode源码泄露",
+          "url": "https://www.douyin.com/hot/2451216",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
           "title": "重仓“隐藏款”浮出水面，基金经理沿AI主线布局",
           "url": "https://wallstreetcn.com/livenews/3080408",
           "source": "华尔街见闻-快讯",
@@ -1187,6 +1437,17 @@
           "time_info": "06时42分"
         },
         {
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
           "title": "英伟达再度动用“钞能力” 入股迈威尔科技并开展AI互联、硅光子合作",
           "url": "https://www.cls.cn/detail/2331128",
           "source": "财联社热门",
@@ -1196,6 +1457,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        },
+        {
+          "title": "UP主复现Claude Code代码漏洞",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         },
         {
           "title": "甲骨文启动新一轮大规模裁员，AI数据中心投入持续加码",
@@ -1267,7 +1539,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "科技巨头上”黑名单“！伊朗警告打击18家美企，Mag 7占六",
@@ -1280,8 +1552,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时13分 ~ 14时01分]"
+          "appearance_count": 9,
+          "time_info": "[03时13分 ~ 15时50分]"
         },
         {
           "title": "伊朗称打击以色列境内科技公司",
@@ -1315,7 +1587,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -1372,7 +1644,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -1394,7 +1666,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -1408,6 +1680,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "泰和科技：碳酸亚乙烯酯（VC）项目目前已完成改造 正准备试生产",
+          "url": "https://flash.jin10.com/detail/20260401153524123800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨2.80%，报6753.34点，3月份累计下跌7.20%，一季度累计下跌10.31%。 ETF中，中国科技指数ETF（CQQQ）收涨2.91%，一季度累跌11.50%； 中概互联网指数ETF（KWEB）收涨2.34%，一季度累跌16.51%； 德银嘉实沪深300指数ETF（ASHR）收涨1.33%，一季度累跌0.64%； XtrackersHarvest中证50（ASHS）收涨0.31%，一季度累涨4.66%。",
@@ -1427,7 +1710,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -1460,7 +1743,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -1474,6 +1757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
+        },
+        {
+          "title": "奕派科技3月交付27505辆，同比增长30%",
+          "url": "https://wallstreetcn.com/livenews/3080700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         },
         {
           "title": "创新药概念反复活跃，昂利康直线涨停，润都股份此前封板，益方生物、君实生物、华纳药厂、百利天恒涨超6%。",
@@ -1610,11 +1904,12 @@
             18,
             23,
             11,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 14时01分]"
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 15时50分]"
         },
         {
           "title": "DDR6内存要来了吗",
@@ -1626,11 +1921,12 @@
             29,
             25,
             14,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 14时01分]"
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 15时50分]"
         },
         {
           "title": "男子在非洲开网吧月赚 3 万， 还提供游戏代打业务，这种经营模式是怎么做起来的？为什么不好复刻？",
@@ -1705,7 +2001,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
