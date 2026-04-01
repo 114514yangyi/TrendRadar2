@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-02T05:52:40.922159+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-04-02T06:49:50.038745+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 29,
+      "match_count": 38,
       "titles": [
-        {
-          "title": "美以伊战争丨特朗普：伊朗新政权总统向美国请求停火",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
-        },
         {
           "title": "伊朗总统称要结束战争、对方须保证不再侵略，伊外长称与美有信息交流但没谈判",
           "url": "https://wallstreetcn.com/articles/3768922",
@@ -25,6 +14,17 @@
           "ranks": [
             4,
             3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普：伊朗新政权总统向美国请求停火",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -38,8 +38,73 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
+        },
+        {
+          "title": "外交部回应日本强行部署远程导弹",
+          "url": "https://www.douyin.com/hot/2451473",
+          "source": "抖音",
+          "ranks": [
+            9,
+            11,
+            14,
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
+        },
+        {
+          "title": "国际足联称伊朗将参加世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E7%A7%B0%E4%BC%8A%E6%9C%97%E5%B0%86%E5%8F%82%E5%8A%A0%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            17,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
+        },
+        {
+          "title": "伊朗总统：伊方愿在诉求满足前提下结束战争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869367",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
+        },
+        {
+          "title": "伊朗愿在诉求满足下结束战争",
+          "url": "https://www.douyin.com/hot/2450674",
+          "source": "抖音",
+          "ranks": [
+            19,
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
+        },
+        {
+          "title": "美以伊战争丨规模翻倍！美增派18架A-10攻击机",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "乌克兰总统泽连斯基：复活节停火将发出外交正在奏效的信号。",
@@ -53,68 +118,15 @@
           "time_info": "01时06分"
         },
         {
-          "title": "外交部回应日本强行部署远程导弹",
-          "url": "https://www.douyin.com/hot/2451473",
-          "source": "抖音",
-          "ranks": [
-            9,
-            11,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
-        },
-        {
-          "title": "国际足联称伊朗将参加世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E7%A7%B0%E4%BC%8A%E6%9C%97%E5%B0%86%E5%8F%82%E5%8A%A0%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            17,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
-        },
-        {
-          "title": "伊朗总统：伊方愿在诉求满足前提下结束战争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32869367",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
-        },
-        {
-          "title": "伊朗愿在诉求满足下结束战争",
-          "url": "https://www.douyin.com/hot/2450674",
-          "source": "抖音",
-          "ranks": [
-            19,
-            24,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
-        },
-        {
-          "title": "【伊朗：反击行动最终目标包括美军撤离中东】4月1日，伊朗国防部发言人礼萨·塔莱尼克表示，伊朗对美国和以色列反击行动的最终目标，包括美军撤离中东地区以及彻底摧毁美军在该地区的基地。塔莱尼克说，伊朗将确保相关行动对对手造成“对等破坏”，确保伊朗及周边地区不再发生新的战争，维护地区主权与安全稳定。他还表示，伊朗武装力量将与地区“抵抗阵线”继续协同行动，直至实现既定目标。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3081124",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：（谈及伊朗问题）我在战争开始前曾预测，战争将在三天内结束。",
+          "url": "https://flash.jin10.com/detail/20260402063337370800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时52分"
+          "time_info": "06时49分"
         },
         {
           "title": "伊朗外交部：伊朗外长阿拉格齐与越南外长通话，讨论了地区局势并交换了看法。",
@@ -123,20 +135,33 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        },
+        {
+          "title": "【伊朗：反击行动最终目标包括美军撤离中东】4月1日，伊朗国防部发言人礼萨·塔莱尼克表示，伊朗对美国和以色列反击行动的最终目标，包括美军撤离中东地区以及彻底摧毁美军在该地区的基地。塔莱尼克说，伊朗将确保相关行动对对手造成“对等破坏”，确保伊朗及周边地区不再发生新的战争，维护地区主权与安全稳定。他还表示，伊朗武装力量将与地区“抵抗阵线”继续协同行动，直至实现既定目标。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3081124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时49分]"
         },
         {
           "title": "墨西哥总统辛鲍姆确认：外交部长辞职，将由Roberto Velasco接任。",
           "url": "https://wallstreetcn.com/livenews/3081121",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时49分]"
         },
         {
           "title": "局势缓和信号提振市场 全球股市大涨 国际油价回落 | 今夜看点",
@@ -203,7 +228,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -219,13 +244,24 @@
           "time_info": "03时15分"
         },
         {
+          "title": "消息人士称：伊朗要求停火谈判必须以永久结束战争为前提",
+          "url": "https://wallstreetcn.com/livenews/3081130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
           "title": "国际油价1日下跌",
           "url": "https://flash.jin10.com/detail/20260402051708567800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -239,6 +275,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "美国航空航天局（NASA）已解决国际空间站电池和飞行终止系统相关问题，任务已获准发射。",
+          "url": "https://flash.jin10.com/detail/20260402061042919800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗已做好应对任何攻击的准备",
+          "url": "https://wallstreetcn.com/livenews/3081127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "据Politico：特朗普将在当地时间周三晚上发表的讲话中宣布伊朗战争已接近尾声，而其他国家则需解决霍尔木兹海峡问题。",
@@ -285,13 +343,35 @@
           "time_info": "01时06分"
         },
         {
+          "title": "星展银行首席经济学家：马来西亚相对不易受伊朗战争影响。",
+          "url": "https://flash.jin10.com/detail/20260402060206021800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "星展银行首席经济学家：印度在贸易和能源领域均易受战争影响。",
+          "url": "https://flash.jin10.com/detail/20260402060135878800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
           "title": "伊朗最高领袖莫赫塔巴·哈梅内伊的军事顾问雷扎伊表示，在确保其所谓的权利并威慑敌人之前，伊朗不会停止战争。",
           "url": "https://flash.jin10.com/detail/20260402044155753800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -316,6 +396,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "伊朗高级消息人士：周二，中间方与伊朗取得联系，双方讨论的主题是继续推进外交进程。",
+          "url": "https://flash.jin10.com/detail/20260402053948228800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "伊朗高级消息人士：德黑兰要求达成一项有保障的停火协议，以永久结束战争。",
+          "url": "https://flash.jin10.com/detail/20260402053935960800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "WTI原油5分钟内下跌0.5美元/桶，报99.23美元/桶。 据阿拉伯媒体事件报 (Al Hadath)，伊朗外交部表示，最高领袖身体“健康”，可能会“很快公开露面”。",
@@ -343,7 +445,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "国家文物局：组织全国国有博物馆逐件清点馆藏文物，全面核实账物相符情况",
@@ -353,8 +455,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
         },
         {
           "title": "“你爱的这人是国家的 就当我死了”",
@@ -364,8 +466,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
         },
         {
           "title": "Saber拍卖收官!原厂合作量产",
@@ -375,19 +477,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
         },
         {
-          "title": "美国国家航空航天局（NASA）：正在排查登月火箭的电池故障。",
-          "url": "https://wallstreetcn.com/livenews/3081126",
+          "title": "【美国NASA宇航员开启绕月之旅，人类时隔半个世纪重返月球周边】搭载美国国家航空航天局（NASA）宇航员的“猎户座”飞船点火升空，将开启为期10天的绕月之旅，也标志着人类半个多世纪以来首次重返月球周边。",
+          "url": "https://wallstreetcn.com/livenews/3081143",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时52分"
+          "time_info": "06时49分"
         },
         {
           "title": "伊朗总统强调捍卫国家独立与安全",
@@ -399,6 +501,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "美国国家航空航天局（NASA）：正在排查登月火箭的电池故障。",
+          "url": "https://wallstreetcn.com/livenews/3081126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时49分]"
         },
         {
           "title": "伊朗总统：对美国当前政策是否真正契合“美国优先”的核心利益提出质疑",
@@ -465,7 +579,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -476,7 +590,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -528,7 +642,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
@@ -540,8 +654,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
         },
         {
           "title": "ClaudeCode源码泄露",
@@ -551,22 +665,38 @@
             13,
             10,
             12,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
         },
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
           "url": "https://www.cls.cn/detail/2332176",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
+        },
+        {
+          "title": "UP主复现Claude Code代码漏洞",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -578,21 +708,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
-        },
-        {
-          "title": "UP主复现Claude Code代码漏洞",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -605,8 +722,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -619,8 +736,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
         },
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -630,8 +747,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
+        },
+        {
+          "title": "AI缺电逻辑持续演绎，燃气轮机需求激增",
+          "url": "https://wallstreetcn.com/livenews/3081142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "如何看待 3.31 Claude Code 源码泄露一事？",
@@ -652,11 +780,24 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            30
+            30,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时49分]"
+        },
+        {
+          "title": "有了 AI 之后，遇到问题忍不住想找 AI 帮忙，长期这样下去会不会丧失思考能力？",
+          "url": "https://www.zhihu.com/question/2020209448975607009",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时49分]"
         },
         {
           "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
@@ -676,18 +817,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
-        },
-        {
-          "title": "有了 AI 之后，遇到问题忍不住想找 AI 帮忙，长期这样下去会不会丧失思考能力？",
-          "url": "https://www.zhihu.com/question/2020209448975607009",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -716,8 +846,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
         },
         {
           "title": "美伊释放停战信号，纳指涨超1%，科技股普涨，布油跌超2%，美元小幅走软，黄金日内涨2%",
@@ -738,11 +868,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
         },
         {
           "title": "澎湃回声｜中南大学湘雅三医院：“靶向硒片科研顾问陈海江”非本院职工",
@@ -753,8 +884,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.01%，报25301点。 恒生科技指数主连夜盘收跌0.15%，报4743点。",
@@ -828,84 +959,20 @@
       ]
     },
     {
-      "keyword_group": "游戏 steam 显卡 内存 处理器",
+      "keyword_group": "美股 美元",
       "match_count": 6,
       "titles": [
         {
-          "title": "内存雪崩,囤货佬跪求出货",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352660&amp;topic_name=%E5%86%85%E5%AD%98%E9%9B%AA%E5%B4%A9%2C%E5%9B%A4%E8%B4%A7%E4%BD%AC%E8%B7%AA%E6%B1%82%E5%87%BA%E8%B4%A7",
-          "source": "贴吧",
+          "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2332707",
+          "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
-        },
-        {
-          "title": "被精心设计的内存涨价游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A2%AB%E7%B2%BE%E5%BF%83%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%86%85%E5%AD%98%E6%B6%A8%E4%BB%B7%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时55分]"
-        },
-        {
-          "title": "如何评价《洛克王国：世界》称自己「登顶游戏免费榜、畅销总榜第一」，并发邮件感谢玩家？",
-          "url": "https://www.zhihu.com/question/2021172612127008460",
-          "source": "知乎",
-          "ranks": [
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时55分 ~ 05时52分]"
-        },
-        {
-          "title": "内存要降价了吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%A6%81%E9%99%8D%E4%BB%B7%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 内存股走强",
-          "url": "https://flash.jin10.com/detail/20260402040132988800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "内存条价格大跳水",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E6%9D%A1%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 美元",
-      "match_count": 5,
-      "titles": [
+          "time_info": "06时49分"
+        },
         {
           "title": "美股三大指数高开 耐克跌超12%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E8%80%90%E5%85%8B%E8%B7%8C%E8%B6%8512%25",
@@ -937,7 +1004,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -966,8 +1033,84 @@
       ]
     },
     {
+      "keyword_group": "游戏 steam 显卡 内存 处理器",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "内存雪崩,囤货佬跪求出货",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352660&amp;topic_name=%E5%86%85%E5%AD%98%E9%9B%AA%E5%B4%A9%2C%E5%9B%A4%E8%B4%A7%E4%BD%AC%E8%B7%AA%E6%B1%82%E5%87%BA%E8%B4%A7",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
+        },
+        {
+          "title": "被精心设计的内存涨价游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A2%AB%E7%B2%BE%E5%BF%83%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%86%85%E5%AD%98%E6%B6%A8%E4%BB%B7%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 06时49分]"
+        },
+        {
+          "title": "如何评价《洛克王国：世界》称自己「登顶游戏免费榜、畅销总榜第一」，并发邮件感谢玩家？",
+          "url": "https://www.zhihu.com/question/2021172612127008460",
+          "source": "知乎",
+          "ranks": [
+            16,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时55分 ~ 06时49分]"
+        },
+        {
+          "title": "内存要降价了吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%A6%81%E9%99%8D%E4%BB%B7%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时06分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 内存股走强",
+          "url": "https://flash.jin10.com/detail/20260402040132988800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "内存条价格大跳水",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E6%9D%A1%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "李荣浩喊话单依纯强行侵权背后的版权乱象，律师称“行业长期存在侥幸习惯”",
@@ -975,11 +1118,24 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
+        },
+        {
+          "title": "航空业ETF收涨2.6%，和半导体ETF领跑美股行业ETF，能源业ETF跌超3.7%",
+          "url": "https://wallstreetcn.com/livenews/3081109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时49分]"
         },
         {
           "title": "市场消息：美国汽车行业组织呼吁废除美国联邦燃油税，并以车辆使用费取而代之，用于道路维修资金。",
@@ -988,20 +1144,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
         {
-          "title": "航空业ETF收涨2.6%，和半导体ETF领跑美股行业ETF，能源业ETF跌超3.7%",
-          "url": "https://wallstreetcn.com/livenews/3081109",
-          "source": "华尔街见闻-快讯",
+          "title": "国产「张雪机车」夺得 WSBK 两连冠，如何评价它的技术实力？会成为摩托车界的「比亚迪」吗？",
+          "url": "https://www.zhihu.com/question/2021921598555398146",
+          "source": "知乎",
           "ranks": [
-            16
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时52分"
+          "time_info": "06时49分"
         }
       ]
     },
@@ -1019,8 +1175,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时49分]"
         }
       ]
     }
