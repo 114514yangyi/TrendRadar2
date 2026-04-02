@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T13:10:39.898783+08:00",
-  "total_titles_processed": 980,
+  "generated_at": "2026-04-02T15:24:49.769437+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 54,
+      "match_count": 61,
       "titles": [
         {
           "title": "伊朗总统称要结束战争、对方须保证不再侵略，伊外长称与美有信息交流但没谈判",
@@ -60,11 +60,12 @@
             14,
             15,
             18,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 13时10分]"
+          "appearance_count": 12,
+          "time_info": "[01时05分 ~ 15时24分]"
         },
         {
           "title": "美方操弄“通用许可证”将中俄朝等排除在外，外交部回应",
@@ -131,9 +132,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
+        },
+        {
+          "title": "美以伊战争丨特朗普叫嚣将伊朗打回石器时代，伊回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "乌克兰总统泽连斯基：复活节停火将发出外交正在奏效的信号。",
@@ -153,7 +165,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -164,7 +176,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -180,6 +192,18 @@
           "time_info": "05时52分"
         },
         {
+          "title": "伊总统致美民众公开信：美国俨然以色列代理，伊朗对别国并无敌意、绝非发动战争",
+          "url": "https://wallstreetcn.com/articles/3769031",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 15时24分]"
+        },
+        {
           "title": "【伊朗：反击行动最终目标包括美军撤离中东】4月1日，伊朗国防部发言人礼萨·塔莱尼克表示，伊朗对美国和以色列反击行动的最终目标，包括美军撤离中东地区以及彻底摧毁美军在该地区的基地。塔莱尼克说，伊朗将确保相关行动对对手造成“对等破坏”，确保伊朗及周边地区不再发生新的战争，维护地区主权与安全稳定。他还表示，伊朗武装力量将与地区“抵抗阵线”继续协同行动，直至实现既定目标。（央视）",
           "url": "https://wallstreetcn.com/livenews/3081124",
           "source": "华尔街见闻-快讯",
@@ -191,18 +215,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时52分 ~ 07时44分]"
-        },
-        {
-          "title": "伊总统致美民众公开信：美国俨然以色列代理，伊朗对别国并无敌意、绝非发动战争",
-          "url": "https://wallstreetcn.com/articles/3769031",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 13时10分]"
         },
         {
           "title": "美国总统特朗普：（谈及伊朗问题）我在战争开始前曾预测，战争将在三天内结束。",
@@ -259,8 +271,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 13时10分]"
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 15时24分]"
         },
         {
           "title": "消息人士称：伊朗要求停火谈判必须以永久结束战争为前提",
@@ -368,6 +380,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "巴基斯坦外交部发言人：目前尚未确认有任何美国代表团抵达进行（伊朗问题）会谈。",
+          "url": "https://flash.jin10.com/detail/20260402150558707800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "国际油价1日下跌",
           "url": "https://flash.jin10.com/detail/20260402051708567800",
           "source": "金十数据",
@@ -377,6 +400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗将继续抵抗“非法战争”",
+          "url": "https://wallstreetcn.com/livenews/3081390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "美媒：特朗普将在黄金时段宣布战争即将结束，海峡责任全在北约",
@@ -421,6 +455,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "伊朗军方称战争将持续至敌人投降",
+          "url": "https://www.toutiao.com/trending/7623213503482396708/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "据Politico：特朗普将在当地时间周三晚上发表的讲话中宣布伊朗战争已接近尾声，而其他国家则需解决霍尔木兹海峡问题。",
@@ -484,9 +529,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
+        },
+        {
+          "title": "巴基斯坦外交部发言人：一直积极与美国领导人保持沟通，以寻求伊朗问题的解决方案。",
+          "url": "https://flash.jin10.com/detail/20260402150201734800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "挂单报告：国际现货黄金跌落4600 镑美上方空单密集",
+          "url": "https://flash.jin10.com/detail/20260402150158787800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "星展银行首席经济学家：马来西亚相对不易受伊朗战争影响。",
@@ -498,6 +565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
+        },
+        {
+          "title": "金十图示：2026年04月02日（周四）上海金午盘价为1021.3元/克，较国际金价(1018.68元/克)，高2.62元/克",
+          "url": "https://flash.jin10.com/detail/20260402150156527800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "星展银行首席经济学家：印度在贸易和能源领域均易受战争影响。",
@@ -627,7 +705,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         }
@@ -635,7 +713,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 34,
+      "match_count": 40,
       "titles": [
         {
           "title": "国家文物局：组织全国国有博物馆逐件清点馆藏文物，全面核实账物相符情况",
@@ -666,11 +744,12 @@
           "ranks": [
             7,
             9,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 13时10分]"
+          "appearance_count": 12,
+          "time_info": "[01时05分 ~ 15时24分]"
         },
         {
           "title": "【美国NASA宇航员开启绕月之旅，人类时隔半个世纪重返月球周边】搭载美国国家航空航天局（NASA）宇航员的“猎户座”飞船点火升空，将开启为期10天的绕月之旅，也标志着人类半个多世纪以来首次重返月球周边。",
@@ -734,7 +813,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -788,6 +867,41 @@
           "time_info": "[03时15分 ~ 04时55分]"
         },
         {
+          "title": "国家烟草专卖局：拟对电子烟相关生产企业进行总量管理",
+          "url": "https://www.cls.cn/detail/2332810",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 15时24分]"
+        },
+        {
+          "title": "李若彤发布致歉声明",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8B%A5%E5%BD%A4%E5%8F%91%E5%B8%83%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 15时24分]"
+        },
+        {
+          "title": "许昕说国家队大门永远给所有人打开",
+          "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%95%E8%AF%B4%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%A4%A7%E9%97%A8%E6%B0%B8%E8%BF%9C%E7%BB%99%E6%89%80%E6%9C%89%E4%BA%BA%E6%89%93%E5%BC%80&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "据阿联酋国家通讯社：阿联酋总统与美国总统特朗普讨论地区局势发展。",
           "url": "https://flash.jin10.com/detail/20260402024207889800",
           "source": "金十数据",
@@ -797,6 +911,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "预告：国台办将于4月8日上午10:00举行例行新闻发布会",
+          "url": "https://flash.jin10.com/detail/20260402150933125800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "国家药监局发布《关于“人工智能+药品监管”的实施意见》",
@@ -821,26 +946,15 @@
           "time_info": "07时44分"
         },
         {
-          "title": "李若彤发布致歉声明",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8B%A5%E5%BD%A4%E5%8F%91%E5%B8%83%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "曝海湾国家考虑新建输油管道绕开霍尔木兹海峡，可行性有多大？能在短期内解决全球能源危机问题吗？",
+          "url": "https://www.zhihu.com/question/2023015996944904385",
+          "source": "知乎",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "国家烟草专卖局：拟对电子烟相关生产企业进行总量管理",
-          "url": "https://www.cls.cn/detail/2332810",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时10分"
+          "time_info": "15时24分"
         },
         {
           "title": "IBM宣布与ARM达成战略合作，将为企业开发灵活且可扩展的计算平台。",
@@ -849,9 +963,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
+        },
+        {
+          "title": "特朗普白宫讲话宣布美国大赢特赢，鼓动缺油国家自行“抢油”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32877550",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "海湾国家考虑新的输油管道以绕过霍尔木兹海峡。（英国金融时报）",
@@ -860,9 +985,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
+        },
+        {
+          "title": "五部门出手，规范网络平台招聘信息发布",
+          "url": "https://wallstreetcn.com/livenews/3081388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "美国总统特朗普：我们是世界上唯一一个愚蠢到允许“出生公民权”的国家。",
@@ -893,7 +1029,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -937,7 +1073,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -959,7 +1095,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -970,7 +1106,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -997,13 +1133,24 @@
           "time_info": "03时15分"
         },
         {
+          "title": "广州：加快粤芯、增芯等重大项目建设 打造国家集成电路产业发展“第三极”核心承载区",
+          "url": "https://wallstreetcn.com/livenews/3081374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "IBM(IBM.N)宣布与Arm(ARM.O)达成战略合作，共同塑造企业计算的未来。",
           "url": "https://flash.jin10.com/detail/20260402120927792800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -1050,11 +1197,12 @@
             15,
             14,
             21,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 13时10分]"
+          "appearance_count": 12,
+          "time_info": "[01时05分 ~ 15时24分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -1067,11 +1215,12 @@
             16,
             14,
             19,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 13时10分]"
+          "appearance_count": 12,
+          "time_info": "[01时05分 ~ 15时24分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -1083,11 +1232,12 @@
             18,
             17,
             22,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 13时10分]"
+          "appearance_count": 12,
+          "time_info": "[01时05分 ~ 15时24分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -1099,11 +1249,12 @@
             18,
             17,
             23,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 13时10分]"
+          "appearance_count": 12,
+          "time_info": "[01时05分 ~ 15时24分]"
         },
         {
           "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
@@ -1144,6 +1295,21 @@
           "time_info": "[01时05分 ~ 07时44分]"
         },
         {
+          "title": "有了 AI 之后，遇到问题忍不住想找 AI 帮忙，长期这样下去会不会丧失思考能力？",
+          "url": "https://www.zhihu.com/question/2020209448975607009",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10,
+            9,
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时52分 ~ 15时24分]"
+        },
+        {
           "title": "深挖Claude Code有何隐藏秘密",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E6%8C%96Claude%20Code%E6%9C%89%E4%BD%95%E9%9A%90%E8%97%8F%E7%A7%98%E5%AF%86",
           "source": "bilibili 热搜",
@@ -1153,20 +1319,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时55分 ~ 13时10分]"
-        },
-        {
-          "title": "有了 AI 之后，遇到问题忍不住想找 AI 帮忙，长期这样下去会不会丧失思考能力？",
-          "url": "https://www.zhihu.com/question/2020209448975607009",
-          "source": "知乎",
-          "ranks": [
-            15,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时52分 ~ 13时10分]"
         },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
@@ -1207,6 +1359,17 @@
           "time_info": "[03时14分 ~ 05时52分]"
         },
         {
+          "title": "男子利用AI编造谣言获刑6个月",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%A9%E7%94%A8AI%E7%BC%96%E9%80%A0%E8%B0%A3%E8%A8%80%E8%8E%B7%E5%88%916%E4%B8%AA%E6%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 15时24分]"
+        },
+        {
           "title": "AI 写游戏剧情已经与真人分不出差别，那么未来游戏文案策划的核心竞争力是什么？",
           "url": "https://www.zhihu.com/question/2011753780459300532",
           "source": "知乎",
@@ -1216,6 +1379,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时43分 ~ 07时44分]"
+        },
+        {
+          "title": "我的专业真被AI取代了吗",
+          "url": "https://www.baidu.com/s?wd=%E6%88%91%E7%9A%84%E4%B8%93%E4%B8%9A%E7%9C%9F%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 15时24分]"
         },
         {
           "title": "央视AI奇谈 流金谷恩仇录",
@@ -1246,18 +1421,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "男子利用AI编造谣言获刑6个月",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%A9%E7%94%A8AI%E7%BC%96%E9%80%A0%E8%B0%A3%E8%A8%80%E8%8E%B7%E5%88%916%E4%B8%AA%E6%9C%88",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -1268,7 +1432,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -1290,7 +1454,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -1304,17 +1468,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
-        },
-        {
-          "title": "我的专业真被AI取代了吗",
-          "url": "https://www.baidu.com/s?wd=%E6%88%91%E7%9A%84%E4%B8%93%E4%B8%9A%E7%9C%9F%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E4%BA%86%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时10分"
         }
       ]
     },
@@ -1384,8 +1537,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时43分 ~ 13时10分]"
+          "appearance_count": 5,
+          "time_info": "[07时43分 ~ 15时24分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.01%，报25301点。 恒生科技指数主连夜盘收跌0.15%，报4743点。",
@@ -1452,7 +1605,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -1526,7 +1679,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "李荣浩喊话单依纯强行侵权背后的版权乱象，律师称“行业长期存在侥幸习惯”",
@@ -1553,6 +1706,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "媒体披露日本已具备制造核武器的几乎所有物质和技术条件，日本会打破「无核三原则」吗？若拥核意味着什么？",
+          "url": "https://www.zhihu.com/question/2022977025393124304",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "逾1300家公司一季度获机构调研，四大行业备受青睐",
@@ -1618,7 +1782,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         }
@@ -1626,7 +1790,7 @@
     },
     {
       "keyword_group": "美股 美元",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
@@ -1637,8 +1801,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时49分 ~ 13时10分]"
+          "appearance_count": 6,
+          "time_info": "[06时49分 ~ 15时24分]"
         },
         {
           "title": "美股三大指数高开 耐克跌超12%",
@@ -1676,6 +1840,17 @@
           "time_info": "05时52分"
         },
         {
+          "title": "美元指数涨0.55%，报100.11；欧元兑美元跌0.55%，报1.1525；英镑兑美元跌0.74%，报1.3208。",
+          "url": "https://wallstreetcn.com/livenews/3081389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "中东股市收盘播报｜周三（4月1日），沙特证交所全股指数收涨0.23%，沙特阿美（ARAMCO.AB）收涨0.58%，在沙特上市的Albilad南方东英MSCI香港中国股票ETF收涨0.09%。 卡塔尔证交所指数收涨0.81%，科威特证交所超级市场价格回报指数收涨0.84%。 埃及证交所EGX 30指数收涨3.11%，埃及镑兑美元收涨1.71%，报53.6272埃及镑，3月31日曾跌至54.8317埃及镑创历史新低。 迪拜金融市场综合指数收涨2.03%，阿布扎比证券市场综合指数收涨1.35%。",
           "url": "https://wallstreetcn.com/livenews/3081078",
           "source": "华尔街见闻-快讯",
@@ -1693,7 +1868,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -1712,7 +1887,7 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "内存雪崩,囤货佬跪求出货",
@@ -1720,11 +1895,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 13时10分]"
+          "appearance_count": 12,
+          "time_info": "[01时05分 ~ 15时24分]"
         },
         {
           "title": "被精心设计的内存涨价游戏",
@@ -1750,11 +1926,23 @@
             10,
             9,
             8,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时55分 ~ 13时10分]"
+          "appearance_count": 8,
+          "time_info": "[04时55分 ~ 15时24分]"
+        },
+        {
+          "title": "如何把太阳之子做成游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E6%8A%8A%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E5%81%9A%E6%88%90%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "内存条价格大跳水",
@@ -1790,6 +1978,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "为什么很多游戏里的「二周目」，只是让玩家带着装备重新打一遍，而不是让 NPC 知道「你上周目干过什么」？",
+          "url": "https://www.zhihu.com/question/2021280682983309943",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
