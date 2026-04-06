@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T06:46:43.788945+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-04-07T07:44:31.925733+08:00",
+  "total_titles_processed": 671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗拒绝停火强调须永久结束战争",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时59分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[01时59分 ~ 07时44分]"
         },
         {
           "title": "美以伊战争丨特朗普：伊朗可在一夜内被击溃",
@@ -37,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时44分]"
         },
         {
           "title": "美以伊战争丨伊朗回应美方停战提议：拒绝停火",
@@ -58,9 +58,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "美以伊战争丨特朗普威胁可一夜击溃伊朗，伊军回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：若战争持续，对通胀和经济增长的影响将更大。",
@@ -108,6 +119,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 02时01分]"
+        },
+        {
+          "title": "老虎环球与维京全球上月因伊朗战争遭受重创",
+          "url": "https://wallstreetcn.com/livenews/3082989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时44分]"
         },
         {
           "title": "联合国秘书长发言人迪雅里克6日对美国总统特朗普威胁空袭伊朗发电厂、桥梁及其他基础设施的言论表示震惊，强调任何针对民用基础设施的攻击都违反国际法。",
@@ -181,17 +204,6 @@
           "time_info": "03时16分"
         },
         {
-          "title": "老虎环球与维京全球上月因伊朗战争遭受重创",
-          "url": "https://wallstreetcn.com/livenews/3082989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
           "title": "IMF总裁格奥尔基耶娃：若没有战争，IMF原本预计将其2026年3.3%的经济增长预期小幅上调；然而如今“所有路径都指向更高的物价和更慢的增长”。",
           "url": "https://flash.jin10.com/detail/20260407024700269800",
           "source": "金十数据",
@@ -223,6 +235,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "伊朗战争造成全球争抢供应，北美石油成“香饽饽”",
+          "url": "https://wallstreetcn.com/livenews/3083004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
         },
         {
           "title": "伊朗外交部发言人：美国人民应该知道，他们政府在西亚对伊朗所做的事情是一种巨大的不公正，是一场不公平和侵略性的战争。美国人民必须让他们的政府对以他们名义所犯下的行为和罪行负责。",
@@ -371,7 +394,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "胖东来回应鸡蛋被检出角黄素，称检测结果全部合格，指责王海测评发布不实信息，怎样解读？王海测评要担责吗？",
@@ -380,11 +403,12 @@
           "ranks": [
             2,
             1,
-            3
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时44分]"
         },
         {
           "title": "伊朗议会国家安全委员会开始审议霍尔木兹海峡的管控方案",
@@ -398,15 +422,26 @@
           "time_info": "03时16分"
         },
         {
-          "title": "新西兰经济研究所（NZIER）货币政策影子委员会建议，新西兰联储在即将于2026年4月8日举行的货币政策评估中，将官方现金利率（OCR）维持在2.25%不变。",
-          "url": "https://flash.jin10.com/detail/20260407060927568800",
-          "source": "金十数据",
+          "title": "真金白银提振信心，多家A股行业龙头发布回购方案",
+          "url": "https://wallstreetcn.com/livenews/3083014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "三星电子在盘前交易中上涨5%，此前发布一季度财报。",
+          "url": "https://wallstreetcn.com/livenews/3083013",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时44分"
         },
         {
           "title": "阿布扎比国家石油天然气公司：哈卜尚联合体遭袭击后，受影响区域已被“隔离”。客户的供气仍在通过其他设施保持不间断。",
@@ -418,17 +453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
-        },
-        {
-          "title": "沙特东部省今晚第三次发布安全警报，警告居民面临迫在眉睫的威胁。",
-          "url": "https://flash.jin10.com/detail/20260407060247207800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
         },
         {
           "title": "伊朗发布被击落美军机画面",
@@ -469,6 +493,18 @@
           "time_info": "[04时49分 ~ 05时45分]"
         },
         {
+          "title": "新西兰经济研究所（NZIER）货币政策影子委员会建议，新西兰联储在即将于2026年4月8日举行的货币政策评估中，将官方现金利率（OCR）维持在2.25%不变。",
+          "url": "https://flash.jin10.com/detail/20260407060927568800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时44分]"
+        },
+        {
           "title": "美国总统特朗普：将审查在报道中泄露（美军飞行员）拯救信息的那家媒体公司。 威胁将把相关记者扔入监狱。 泄露救援信息是一个国家安全顾虑。",
           "url": "https://wallstreetcn.com/livenews/3082914",
           "source": "华尔街见闻-快讯",
@@ -479,6 +515,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 03时16分]"
+        },
+        {
+          "title": "沙特东部省今晚第三次发布安全警报，警告居民面临迫在眉睫的威胁。",
+          "url": "https://flash.jin10.com/detail/20260407060247207800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时44分]"
         },
         {
           "title": "标普、道指、纳指涨幅收窄至不足0.2%。 美国总统特朗普在新闻发布会上宣称，将讨论伊朗的搜救行动。 伊朗可在一夜之间被摧毁，可能就在周二晚上。",
@@ -526,6 +574,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "美国国家航空航天局（NASA）乘员舱按预期在月球周围进入通信中断状态（Comms Blackout）。",
+          "url": "https://wallstreetcn.com/livenews/3083007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
         },
         {
           "title": "金十提示：美国总统特朗普在白宫的新闻发布会结束。",
@@ -608,7 +667,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
@@ -618,8 +677,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时44分]"
         },
         {
           "title": "如何看软著申请严查AI新规",
@@ -632,8 +691,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时44分]"
         },
         {
           "title": "易烊千玺被“换脸”？红果短剧：坚决打击AI短剧素材违规使用、无授权盗用等行为",
@@ -644,8 +703,24 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时44分]"
+        },
+        {
+          "title": "男子用 AI 写歌仅版权就赚了五位数，AI 还能怎样用来变现？各地「一人公司」扶持政策能带来哪些利好？",
+          "url": "https://www.zhihu.com/question/2024406743845794724",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            13,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时46分]"
+          "time_info": "[01时59分 ~ 07时44分]"
         },
         {
           "title": "母亲不知儿子去世跟AI儿子聊了1年",
@@ -662,21 +737,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 06时46分]"
-        },
-        {
-          "title": "男子用 AI 写歌仅版权就赚了五位数，AI 还能怎样用来变现？各地「一人公司」扶持政策能带来哪些利好？",
-          "url": "https://www.zhihu.com/question/2024406743845794724",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            13,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时59分 ~ 06时46分]"
         },
         {
           "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
@@ -719,11 +779,12 @@
           "url": "https://flash.jin10.com/detail/20260407054852467800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时44分]"
         },
         {
           "title": "据CNBC：OpenAI计划最早于第四季度进行IPO。OpenAI首席执行官、首席财务官在筹集1220亿美元后对IPO“充满信心”。",
@@ -735,6 +796,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "三星一季度销售远超预期，利润暴增八倍，AI芯片销售无惧战争阴云",
+          "url": "https://wallstreetcn.com/livenews/3083001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
         },
         {
           "title": "AI热潮推动美国旧金山房价涨至215万美元，创历史新高",
@@ -773,7 +845,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
@@ -783,8 +855,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时44分]"
         },
         {
           "title": "资深策略师Yardeni认为科技股回调过后已具吸引力",
@@ -844,6 +916,92 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "聚焦硬科技，公募基金发行持续升温",
+          "url": "https://wallstreetcn.com/livenews/3082998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "github 技术 行业 软件",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "高盛旗下私募信贷基金第一季度赎回比例4.999%，勉强躲过行业上限",
+          "url": "https://wallstreetcn.com/livenews/3082901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 02时01分]"
+        },
+        {
+          "title": "银行业ETF收涨1%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3082965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时49分 ~ 06时46分]"
+        },
+        {
+          "title": "液冷行业跻身热门赛道",
+          "url": "https://www.douyin.com/hot/2457534",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "美国中央情报局（CIA）局长：我们充分利用了人力和技术。",
+          "url": "https://flash.jin10.com/detail/20260407012947860800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        },
+        {
+          "title": "马斯克：特斯拉(TSLA.O)的自动驾驶技术拯救了众多生命——相关数据无可争辩地证明了这一点。当然，这并不意味着它就是完美的。即使我们将安全性提升10倍，挽救了每年因车祸丧生的100万人中的90%，特斯拉仍会因那10%的遇难者而面临诉讼。而那90%幸存者中，大多数人甚至都不会知道是特斯拉救了他们。尽管如此，（自动驾驶技术）这是正确的事情。",
+          "url": "https://flash.jin10.com/detail/20260407024258088800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "外围扰动难动摇市场中期上行根基，机构建议逢低布局产业趋势向上行业",
+          "url": "https://wallstreetcn.com/livenews/3083003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
         }
       ]
     },
@@ -880,11 +1038,12 @@
           "url": "https://flash.jin10.com/detail/20260407054343855800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时44分]"
         },
         {
           "title": "博通公司：与谷歌、Anthropic扩大合作；Anthropic将从2027年起接入3.5吉瓦的TPU人工智能算力。",
@@ -893,7 +1052,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -907,59 +1066,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "github 技术 行业 软件",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "高盛旗下私募信贷基金第一季度赎回比例4.999%，勉强躲过行业上限",
-          "url": "https://wallstreetcn.com/livenews/3082901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时01分]"
-        },
-        {
-          "title": "银行业ETF收涨1%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3082965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时49分 ~ 06时46分]"
-        },
-        {
-          "title": "美国中央情报局（CIA）局长：我们充分利用了人力和技术。",
-          "url": "https://flash.jin10.com/detail/20260407012947860800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "马斯克：特斯拉(TSLA.O)的自动驾驶技术拯救了众多生命——相关数据无可争辩地证明了这一点。当然，这并不意味着它就是完美的。即使我们将安全性提升10倍，挽救了每年因车祸丧生的100万人中的90%，特斯拉仍会因那10%的遇难者而面临诉讼。而那90%幸存者中，大多数人甚至都不会知道是特斯拉救了他们。尽管如此，（自动驾驶技术）这是正确的事情。",
-          "url": "https://flash.jin10.com/detail/20260407024258088800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
         }
       ]
     },
@@ -1016,11 +1122,12 @@
             7,
             1,
             2,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时59分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[01时59分 ~ 07时44分]"
         }
       ]
     }
