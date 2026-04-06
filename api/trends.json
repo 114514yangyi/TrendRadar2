@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T18:16:56.159336+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2026-04-06T19:54:27.436997+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 48,
+      "match_count": 57,
       "titles": [
         {
           "title": "伊拉克获豁免、法日船只相继通过，霍尔木兹通行量创战争以来新高",
@@ -212,9 +212,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
+        },
+        {
+          "title": "美以伊战争丨伊朗回应谈判问题：国防优先，拒绝胁迫",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "OPEC+强调（能源供应市场）保护措施的重要性，其中就包括海上通道。 OPEC对（美国和以色列发动伊朗战争造成的）袭击能源基础设施感到忧心忡忡。 战后对能源资产的重建将代价高昂，需要耗费时日。 OPEC+将于5月增产20.6万桶/日。 OPEC+定于6月7日举行下一轮联合部长级监督委员会（JMMC）会议。",
@@ -355,11 +366,12 @@
           "ranks": [
             19,
             17,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 18时16分]"
+          "appearance_count": 4,
+          "time_info": "[14时03分 ~ 19时54分]"
         },
         {
           "title": "印度外交部长苏杰生就中东冲突发表声明称，接到伊朗外长来电，讨论了当前局势。",
@@ -461,13 +473,36 @@
           "time_info": "[00时47分 ~ 01时40分]"
         },
         {
+          "title": "国际乒联2026年第15周世界排名",
+          "url": "https://www.toutiao.com/trending/7625218374465404969/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时54分]"
+        },
+        {
+          "title": "专家：特朗普严重践踏国际法",
+          "url": "https://www.toutiao.com/trending/7624815817067380777/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "摩根大通戴蒙警告伊朗战争可能推高通胀和利率",
           "url": "https://flash.jin10.com/detail/20260406180339438800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -478,7 +513,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -489,18 +524,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "国际乒联2026年第15周世界排名",
-          "url": "https://www.toutiao.com/trending/7625218374465404969/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -516,6 +540,50 @@
           "time_info": "06时40分"
         },
         {
+          "title": "国际原子能机构：布什尔核电站本身并未受损。",
+          "url": "https://flash.jin10.com/detail/20260406190448158800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "伊朗外交部发言人：美方营救飞行员行动或为窃取浓缩铀",
+          "url": "https://wallstreetcn.com/livenews/3082801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "国际原子能机构：可以确认，近期在伊朗布什尔核电站附近发生了军事打击。",
+          "url": "https://flash.jin10.com/detail/20260406190423312800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "伊朗外交部发言人：国防优先 拒绝胁迫谈判",
+          "url": "https://wallstreetcn.com/livenews/3082799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "特朗普的“最后通牒”让避险光芒失色！国际银价暴跌20%只是“纸面游戏”？| Live分析更新中",
           "url": "https://flash.jin10.com/detail/20260406152016093800",
           "source": "金十数据",
@@ -525,6 +593,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "伊朗外交部发言人：美方营救飞行员行动或为窃取浓缩铀",
+          "url": "https://flash.jin10.com/detail/20260406185306338800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "伊朗称准备好就结束战争方案等问题作出回应",
+          "url": "https://wallstreetcn.com/livenews/3082785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "俄罗斯外交部：双方外长敦促各方作出努力，避免葬送通过外交途径解决冲突的机会。",
@@ -560,6 +650,17 @@
           "time_info": "16时25分"
         },
         {
+          "title": "伊朗外交部：伊朗外长阿拉格齐与日本外相茂木敏充进行了电话交谈，讨论了双边关系的最新状况以及地区和国际局势。",
+          "url": "https://flash.jin10.com/detail/20260406184342998800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "乌克兰外交部表示，这起事件极有可能是俄罗斯策划的假旗行动，旨在干涉匈牙利大选。",
           "url": "https://flash.jin10.com/detail/20260405233247870800",
           "source": "金十数据",
@@ -577,7 +678,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -596,7 +697,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗媒体发布“被击落”美军军机图像：残骸遍地，余烟飘散",
@@ -665,6 +766,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时40分]"
+        },
+        {
+          "title": "胖东来回应鸡蛋被检出角黄素，称检测结果全部合格，指责王海测评发布不实信息，怎样解读？王海测评要担责吗？",
+          "url": "https://www.zhihu.com/question/2024220346748859602",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时54分]"
         },
         {
           "title": "据ABC新闻：美国总统特朗普表示，如果没有达成协议，他会在“几乎没有”谈判余地的情况下炸毁伊朗整个国家。",
@@ -761,15 +873,15 @@
           "time_info": "14时03分"
         },
         {
-          "title": "胖东来回应鸡蛋被检出角黄素，称检测结果全部合格，指责王海测评发布不实信息，怎样解读？王海测评要担责吗？",
-          "url": "https://www.zhihu.com/question/2024220346748859602",
-          "source": "知乎",
+          "title": "以色列国防部长卡茨：已指示以色列军方继续全力打击伊朗的“国家基础设施”。",
+          "url": "https://flash.jin10.com/detail/20260406191150038800",
+          "source": "金十数据",
           "ranks": [
-            9
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "19时54分"
         },
         {
           "title": "商务部等6部门发布《关于更好服务实体经济 推进电子商务高质量发展的指导意见》",
@@ -827,6 +939,17 @@
           "time_info": "11时28分"
         },
         {
+          "title": "霍尔木兹海峡的船只通过量已达到自伊朗冲突初期以来的最高水平，因为越来越多的国家与伊朗达成了看似安全通行的协议。该海峡在周末期间有21艘船只通过。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3082800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "伊拉克国家石油营销组织（SOMO）要求客户在24小时内提交提油计划，此前有报道称伊朗豁免伊拉克受霍尔木兹海峡限制。",
           "url": "https://wallstreetcn.com/livenews/3082704",
           "source": "华尔街见闻-快讯",
@@ -841,7 +964,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "腾讯AI闯祸,拿唐山地震玩梗",
@@ -931,6 +1054,20 @@
           "time_info": "[00时47分 ~ 07时42分]"
         },
         {
+          "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
+          "url": "https://wallstreetcn.com/articles/3769308",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时03分 ~ 19时54分]"
+        },
+        {
           "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
           "url": "https://www.zhihu.com/question/2022702768251564692",
           "source": "知乎",
@@ -940,6 +1077,33 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时47分 ~ 04时43分]"
+        },
+        {
+          "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
+          "url": "https://www.zhihu.com/question/2024413032667772670",
+          "source": "知乎",
+          "ranks": [
+            19,
+            10,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时03分 ~ 19时54分]"
+        },
+        {
+          "title": "母亲不知儿子去世跟AI儿子聊了1年",
+          "url": "https://www.toutiao.com/trending/7625239644062023743/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时28分 ~ 19时54分]"
         },
         {
           "title": "OpenAI首席执行官和首席财务官据称在IPO时机问题上意见分歧。（The Information）",
@@ -955,19 +1119,6 @@
           "time_info": "[05时40分 ~ 07时42分]"
         },
         {
-          "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
-          "url": "https://wallstreetcn.com/articles/3769308",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 18时16分]"
-        },
-        {
           "title": "中国AI大模型调用量环比增逾31%，连续五周超越美国",
           "url": "https://wallstreetcn.com/livenews/3082722",
           "source": "华尔街见闻-快讯",
@@ -980,41 +1131,17 @@
           "time_info": "[11时28分 ~ 14时03分]"
         },
         {
-          "title": "母亲不知儿子去世跟AI儿子聊了1年",
-          "url": "https://www.toutiao.com/trending/7625239644062023743/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 18时16分]"
-        },
-        {
-          "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
-          "url": "https://www.zhihu.com/question/2024413032667772670",
-          "source": "知乎",
-          "ranks": [
-            19,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 18时16分]"
-        },
-        {
           "title": "澎湃AI晚新闻丨2026年4月5日",
           "url": "https://m.thepaper.cn/newsDetail_forward_32909915",
           "source": "澎湃新闻",
           "ranks": [
             19,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 18时16分]"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 19时54分]"
         },
         {
           "title": "OpenAI首席执行官和首席财务官在上市时间上存在分歧。",
@@ -1028,6 +1155,28 @@
           "time_info": "05时40分"
         },
         {
+          "title": "室内空气系统供应商Madison Air Solutions寻求通过IPO筹资至多22.3亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3082806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "易烊千玺被“换脸”？红果短剧：坚决打击AI短剧素材违规使用、无授权盗用等行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32911737",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "男子用AI写歌仅版权赚了5位数",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8AI%E5%86%99%E6%AD%8C%E4%BB%85%E7%89%88%E6%9D%83%E8%B5%9A%E4%BA%865%E4%BD%8D%E6%95%B0%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -1037,6 +1186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "OpenAI发布AI时代产业政策白皮书，呼吁建立公共财富基金与快速响应安全网",
+          "url": "https://wallstreetcn.com/livenews/3082798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "AirAsia X创始人：燃油成本基本上已翻了一倍多。",
@@ -1101,6 +1261,17 @@
           "time_info": "[11时28分 ~ 16时25分]"
         },
         {
+          "title": "铁路清明假期单日旅客发送量创新高",
+          "url": "https://www.baidu.com/s?wd=%E9%93%81%E8%B7%AF%E6%B8%85%E6%98%8E%E5%81%87%E6%9C%9F%E5%8D%95%E6%97%A5%E6%97%85%E5%AE%A2%E5%8F%91%E9%80%81%E9%87%8F%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时54分]"
+        },
+        {
           "title": "金十图示：2026年04月06日（周一）全球主要科技与互联网公司市值变化",
           "url": "https://flash.jin10.com/detail/20260406105750623800",
           "source": "金十数据",
@@ -1124,17 +1295,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时47分 ~ 04时43分]"
-        },
-        {
-          "title": "铁路清明假期单日旅客发送量创新高",
-          "url": "https://www.baidu.com/s?wd=%E9%93%81%E8%B7%AF%E6%B8%85%E6%98%8E%E5%81%87%E6%9C%9F%E5%8D%95%E6%97%A5%E6%97%85%E5%AE%A2%E5%8F%91%E9%80%81%E9%87%8F%E5%88%9B%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
         },
         {
           "title": "金十图示：2026年04月06日（周一）中国科技互联网公司市值排名TOP 50一览",
@@ -1177,7 +1337,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -1278,6 +1438,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "github 技术 行业 软件",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国轩高科：2GWh全固态电池量产线建设受技术、研发、市场等多项因素影响",
+          "url": "https://wallstreetcn.com/livenews/3082815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "高盛私人信贷基金逆势而上 应对行业赎回潮",
+          "url": "https://flash.jin10.com/detail/20260406190953632800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         }
       ]
     },
