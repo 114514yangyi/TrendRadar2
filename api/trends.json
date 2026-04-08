@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-08T22:07:11.354872+08:00",
-  "total_titles_processed": 1687,
+  "generated_at": "2026-04-08T23:20:18.824927+08:00",
+  "total_titles_processed": 1808,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 96,
+      "match_count": 104,
       "titles": [
+        {
+          "title": "伊朗接受停火提议：已提交十点计划，敌人“遭受历史性和彻底失败”，与美国谈判不意味着结束战争",
+          "url": "https://wallstreetcn.com/articles/3769438",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时20分 ~ 23时20分]"
+        },
         {
           "title": "富华国际集团荣誉主席陈丽华逝世，享年85岁",
           "url": "https://m.thepaper.cn/newsDetail_forward_32915370",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时11分 ~ 11时20分]"
-        },
-        {
-          "title": "伊朗接受停火提议：已提交十点计划，敌人“遭受历史性和彻底失败”，与美国谈判不意味着结束战争",
-          "url": "https://wallstreetcn.com/articles/3769438",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时20分 ~ 22时07分]"
         },
         {
           "title": "富华国际集团荣誉主席陈丽华去世：享年85岁，曾多次上榜内地女首富",
@@ -73,17 +73,6 @@
           "time_info": "[01时11分 ~ 22时07分]"
         },
         {
-          "title": "美以伊战争丨中俄否决安理会涉霍尔木兹海峡决议",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 05时52分]"
-        },
-        {
           "title": "伊朗终止同美直接外交联系、仍通过调解人沟通，巴基斯坦提议宽限两周、特朗普将回应，报道称很快有好消息",
           "url": "https://wallstreetcn.com/articles/3769420",
           "source": "华尔街见闻",
@@ -94,8 +83,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时47分 ~ 22时07分]"
+          "appearance_count": 10,
+          "time_info": "[07时47分 ~ 23时20分]"
+        },
+        {
+          "title": "美以伊战争丨中俄否决安理会涉霍尔木兹海峡决议",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时52分]"
         },
         {
           "title": "国际石油价格还会继续上涨吗？",
@@ -111,6 +111,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时11分 ~ 07时47分]"
+        },
+        {
+          "title": "外交部回应朝鲜发射弹道导弹",
+          "url": "https://www.toutiao.com/trending/7626196538947305526/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时07分 ~ 23时20分]"
         },
         {
           "title": "富华国际集团荣誉主席陈丽华逝世",
@@ -248,18 +261,6 @@
           "time_info": "[11时20分 ~ 19时08分]"
         },
         {
-          "title": "外交部回应朝鲜发射弹道导弹",
-          "url": "https://www.toutiao.com/trending/7626196538947305526/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时07分 ~ 22时07分]"
-        },
-        {
           "title": "美以伊战争丨巴基斯坦总理提议：特朗普宽限2周",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -326,6 +327,17 @@
           "time_info": "17时37分"
         },
         {
+          "title": "伊朗战争丨知情人士：黎巴嫩若再遭袭，伊朗将开火",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "阿曼外交部：欢迎伊朗与美国宣布停火。",
           "url": "https://flash.jin10.com/detail/20260408134015155800",
           "source": "金十数据",
@@ -381,9 +393,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
+        },
+        {
+          "title": "美国驻伊拉克大使馆：伊拉克武装组织周三利用无人机打击周边的外交设施。",
+          "url": "https://wallstreetcn.com/livenews/3084453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "国际观察丨日本历史教科书中了怎样的毒",
@@ -395,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "奥地利总统谈及中东局势，称：很高兴各方意识到，战争言论和升级行动无法解决冲突。 （美国总统特朗普）最近几天发出的威胁令人震惊。",
+          "url": "https://wallstreetcn.com/livenews/3084452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "据Politico：以色列希望有更多时间来削弱伊朗，而特朗普则推动伊朗达成协议以结束战争。",
@@ -447,7 +481,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         },
@@ -524,6 +558,17 @@
           "time_info": "[19时07分 ~ 22时07分]"
         },
         {
+          "title": "美伊双方停火两周，谁受益更大？战争到这个阶段谁是赢家？都说自己赢了，谁输了？",
+          "url": "https://www.zhihu.com/question/2025121860539474656",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时06分 ~ 23时20分]"
+        },
+        {
           "title": "国际现货金银齐拉升",
           "url": "https://www.douyin.com/hot/2458896",
           "source": "抖音",
@@ -534,17 +579,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时20分 ~ 13时51分]"
-        },
-        {
-          "title": "美伊双方停火两周，谁受益更大？战争到这个阶段谁是赢家？都说自己赢了，谁输了？",
-          "url": "https://www.zhihu.com/question/2025121860539474656",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
         },
         {
           "title": "外交部：两岸关系不是外交问题",
@@ -579,6 +613,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "伊朗战争反复冲击市场 美股交易强度创历史新高",
+          "url": "https://www.cls.cn/detail/2338302",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "金十图示：2026年04月08日（周三）上海金早盘价为1059.4元/克，较国际金价(1055.05元/克)，高4.35元/克",
@@ -645,6 +690,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "外交部回应美伊停火",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "法国、德国、英国等多国发表联合声明：欢迎美伊停火，敦促迅速持久地结束战争",
+          "url": "https://www.cls.cn/detail/2338329",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "如何评价朝鲜发射弹道导弹？外交部：有关方对发射物界定不同",
@@ -845,13 +912,24 @@
           "time_info": "15时47分"
         },
         {
+          "title": "OMV首席执行官Alfred Stern：伊朗战争的影响在未来数月内仍将持续感觉得到。 恢复供应链将需要数周时间。（德国商报）",
+          "url": "https://wallstreetcn.com/livenews/3084436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "技术刘Pro：国际现货金银筹码成双峰结构，维持涨势的关键是守住...",
           "url": "https://flash.jin10.com/detail/20260408212823117800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         },
@@ -961,9 +1039,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
+        },
+        {
+          "title": "伊朗战争期间，美国能源部：EIA原油库存创将近三年新高",
+          "url": "https://wallstreetcn.com/livenews/3084429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "伊朗外长阿拉格齐：感谢巴基斯坦为结束该地区的战争所做出的不懈努力。",
@@ -1071,7 +1160,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         },
@@ -1112,7 +1201,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "国家继续出手调控油价，国内成品油价格适当调整",
@@ -1167,8 +1256,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时11分 ~ 22时07分]"
+          "appearance_count": 16,
+          "time_info": "[01时11分 ~ 23时20分]"
         },
         {
           "title": "苏林当选越南国家主席，对越南有何影响？",
@@ -1183,6 +1272,28 @@
           "time_info": "[01时11分 ~ 07时47分]"
         },
         {
+          "title": "特朗普威胁对向伊朗供武国家加税",
+          "url": "https://news.ifeng.com/c/8sA9vYHDTBG",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时06分 ~ 23时20分]"
+        },
+        {
+          "title": "四川甘孜景区免票政策被指存在歧视，民警免票不含辅警，如何看待这一规定？这合理吗？",
+          "url": "https://www.zhihu.com/question/2023859429636927790",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时06分 ~ 23时20分]"
+        },
+        {
           "title": "五一劳动节高速免费通行政策公布",
           "url": "https://www.toutiao.com/trending/7625327912442642468/",
           "source": "今日头条",
@@ -1195,15 +1306,19 @@
           "time_info": "[03时15分 ~ 06时49分]"
         },
         {
-          "title": "特朗普威胁对向伊朗供武国家加税",
-          "url": "https://news.ifeng.com/c/8sA9vYHDTBG",
-          "source": "凤凰网",
+          "title": "国家体育总局游泳中心就全红婵等跳水运动员遭受网暴一事发布声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32924115",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            20,
+            19,
+            18,
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "appearance_count": 7,
+          "time_info": "[15时47分 ~ 23时20分]"
         },
         {
           "title": "英媒宣称：伊朗最高领袖病重昏迷，已无法参与国家决策",
@@ -1215,17 +1330,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时11分 ~ 06时49分]"
-        },
-        {
-          "title": "四川甘孜景区免票政策被指存在歧视，民警免票不含辅警，如何看待这一规定？这合理吗？",
-          "url": "https://www.zhihu.com/question/2023859429636927790",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
         },
         {
           "title": "财联社C50风向指数调查：4月资金面或季节性转松，短端市场利率与政策利率倒挂料难持续",
@@ -1241,18 +1345,15 @@
           "time_info": "[13时51分 ~ 19时08分]"
         },
         {
-          "title": "国家体育总局游泳中心就全红婵等跳水运动员遭受网暴一事发布声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32924115",
-          "source": "澎湃新闻",
+          "title": "据纽约时报：一位白宫官员表示，伊朗周三公开发布的10点和平计划与特朗普所称的“可行的谈判基础”有所不同。白宫新闻秘书预计将在当地时间周三下午1点的简报会上进行澄清。",
+          "url": "https://flash.jin10.com/detail/20260408230919935800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            19,
-            18,
-            11
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时47分 ~ 22时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "新西兰联储主席Breman：货币政策委员会密切关注通胀压力。 需要看到核心通胀处于受控状态。 经济中的闲置产能将持续更长时间，闲置产能将抑制中期通胀。 货币政策委员会确实讨论了在今天或5月份加息。",
@@ -1264,6 +1365,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "NASA发布“最清晰的月球照片”",
+          "url": "https://www.douyin.com/hot/2459602",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时06分 ~ 23时20分]"
         },
         {
           "title": "以军发布撤离警告 称将继续打击黎巴嫩贝鲁特南郊",
@@ -1311,15 +1424,28 @@
           "time_info": "[04时57分 ~ 05时52分]"
         },
         {
-          "title": "NASA发布“最清晰的月球照片”",
-          "url": "https://www.douyin.com/hot/2459602",
-          "source": "抖音",
+          "title": "如何评价 Anthropic 这个据称强到不敢直接发布的大模型 Mythos Preview？",
+          "url": "https://www.zhihu.com/question/2025124518817973047",
+          "source": "知乎",
           "ranks": [
-            6
+            15,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 23时20分]"
+        },
+        {
+          "title": "特朗普威胁对向伊朗供武的国家加税",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%AF%B9%E5%90%91%E4%BC%8A%E6%9C%97%E4%BE%9B%E6%AD%A6%E7%9A%84%E5%9B%BD%E5%AE%B6%E5%8A%A0%E7%A8%8E%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时06分 ~ 23时20分]"
         },
         {
           "title": "如何看待 3 月 30 日发布的 vivo X300s 与 vivo X300 Ultra，有哪些亮点值得关注 ？",
@@ -1333,34 +1459,11 @@
           "time_info": "[22时06分 ~ 22时07分]"
         },
         {
-          "title": "如何评价 Anthropic 这个据称强到不敢直接发布的大模型 Mythos Preview？",
-          "url": "https://www.zhihu.com/question/2025124518817973047",
-          "source": "知乎",
-          "ranks": [
-            15,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 15时47分]"
-        },
-        {
           "title": "意体育部长支持意甲新政策，每队至少四名意大利球员在场，这将如何影响联赛与意大利足球？",
           "url": "https://www.zhihu.com/question/2023554734863197575",
           "source": "知乎",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
-        },
-        {
-          "title": "特朗普威胁对向伊朗供武的国家加税",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%AF%B9%E5%90%91%E4%BC%8A%E6%9C%97%E4%BE%9B%E6%AD%A6%E7%9A%84%E5%9B%BD%E5%AE%B6%E5%8A%A0%E7%A8%8E%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1472,7 +1575,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         },
@@ -1571,7 +1674,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         },
@@ -1604,7 +1707,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         },
@@ -1788,7 +1891,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "Claude防话痨插件爆火",
@@ -1800,11 +1903,12 @@
             28,
             20,
             19,
-            30
+            30,
+            21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时11分 ~ 22时07分]"
+          "appearance_count": 16,
+          "time_info": "[01时11分 ~ 23时20分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -1817,11 +1921,12 @@
             21,
             23,
             26,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时11分 ~ 22时07分]"
+          "appearance_count": 16,
+          "time_info": "[01时11分 ~ 23时20分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -1861,8 +1966,21 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时37分 ~ 22时07分]"
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 23时20分]"
+        },
+        {
+          "title": "员工离职变AI,上班不能停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 23时20分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：为庆祝每周使用Codex的用户达到300万，我们将重置使用限制。",
@@ -1898,19 +2016,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
-        },
-        {
-          "title": "员工离职变AI,上班不能停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时37分 ~ 22时07分]"
         },
         {
           "title": "宁波高二女生将 AI「豆包」视为灵魂伴侣并为之休学，青少年过度沉迷 AI 会带来哪些风险？",
@@ -1967,11 +2072,12 @@
           "url": "https://www.cls.cn/detail/2337967",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "appearance_count": 3,
+          "time_info": "[22时06分 ~ 23时20分]"
         },
         {
           "title": "刘耀文流口水 AI生成",
@@ -1981,8 +2087,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "appearance_count": 3,
+          "time_info": "[22时06分 ~ 23时20分]"
         },
         {
           "title": "现在 AI 发展这么快，作为大学生，我们到底该重点培养哪些「AI 抢不走」的能力？",
@@ -2029,6 +2135,17 @@
           "time_info": "13时51分"
         },
         {
+          "title": "AI 工具的普及是提升还是抑制了人类思维能力？",
+          "url": "https://www.zhihu.com/question/2024910441617387730",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "国内大厂 Trae 、 Qoder 、 CodeBuddy AI 编辑器哪个好用？",
           "url": "https://www.zhihu.com/question/1951273247036380422",
           "source": "知乎",
@@ -2068,7 +2185,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         }
@@ -2079,17 +2196,6 @@
       "match_count": 22,
       "titles": [
         {
-          "title": "网传电子科技大学因学生多次缺勤早自习，给家长发送「早自习预警」短信，如何评价这一管理方式？有必要吗？",
-          "url": "https://www.zhihu.com/question/2024816734482219039",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
-        },
-        {
           "title": "正邦科技：3月销售生猪93.64万头，环比上升23.66%",
           "url": "https://flash.jin10.com/detail/20260408171423856800",
           "source": "金十数据",
@@ -2099,6 +2205,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
+        },
+        {
+          "title": "网传电子科技大学因学生多次缺勤早自习，给家长发送「早自习预警」短信，如何评价这一管理方式？有必要吗？",
+          "url": "https://www.zhihu.com/question/2024816734482219039",
+          "source": "知乎",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时06分 ~ 23时20分]"
         },
         {
           "title": "周二（4月7日），美股行业ETF多数收涨，半导体ETF涨0.99%，能源业ETF涨0.8%，科技行业ETF涨0.48%，可选消费ETF则收队1.18%，日常消费品ETF跌1.69%。",
@@ -2165,7 +2283,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         },
@@ -2327,7 +2445,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "欧洲油气板块指数在中东停火协议达成后成为跌幅最大的行业板块，跌幅一度达4.2%。",
@@ -2399,6 +2517,28 @@
           "time_info": "03时16分"
         },
         {
+          "title": "我国研发新型基因编辑技术 有望让重症地贫患者摆脱输血依赖",
+          "url": "https://flash.jin10.com/detail/20260408230144054800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "我国研发新型基因编辑技术 有望让重症地贫患者摆脱输血依赖",
+          "url": "https://wallstreetcn.com/livenews/3084447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "能否推荐一下电脑上特别有用的软件？",
           "url": "https://www.zhihu.com/question/637191861",
           "source": "知乎",
@@ -2468,7 +2608,7 @@
     },
     {
       "keyword_group": "美股 美元",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美元指数7日下跌",
@@ -2503,6 +2643,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 06时49分]"
+        },
+        {
+          "title": "美股股指涨幅收窄，纳斯达克100指数涨幅收窄至2.5%，此前一度上涨3.5%。",
+          "url": "https://flash.jin10.com/detail/20260408225557427800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美元指数刷新日低，报道称调停方巴基斯坦要求特朗普停火两周",
@@ -2552,8 +2703,21 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "内存价格为何会崩盘",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%B4%A9%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 23时20分]"
+        },
         {
           "title": "老板太坏,囤货拉涨内存价",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352891&amp;topic_name=%E8%80%81%E6%9D%BF%E5%A4%AA%E5%9D%8F%2C%E5%9B%A4%E8%B4%A7%E6%8B%89%E6%B6%A8%E5%86%85%E5%AD%98%E4%BB%B7",
@@ -2570,19 +2734,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[01时11分 ~ 22时07分]"
-        },
-        {
-          "title": "内存价格为何会崩盘",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%B4%A9%E7%9B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时37分 ~ 22时07分]"
         },
         {
           "title": "人民日报批某地为民办事沦为“数字游戏”：数据好看了，群众满意度却下降了",
@@ -2620,6 +2771,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 06时49分]"
+        },
+        {
+          "title": "当不同游戏玩家玩洛克王国世界",
+          "url": "https://www.douyin.com/hot/2458788",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         }
       ]
     },
