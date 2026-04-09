@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T02:03:48.187644+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-04-10T04:05:12.578903+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "人民日报政策问答·回应关切：我国国内成品油价格是如何调整的",
@@ -15,19 +15,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时05分]"
         },
         {
           "title": "字节发布全双工语音大模型Seeduplex",
           "url": "https://www.toutiao.com/trending/7626368681664626731/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 04时05分]"
+        },
+        {
+          "title": "科威特国家通讯社：一处国民卫队基地遭无人机袭击，造成重大物资损失，无人员伤亡。",
+          "url": "https://flash.jin10.com/detail/20260410032724176800",
+          "source": "金十数据",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时03分"
+          "time_info": "04时05分"
         },
         {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：我们绝不会放过那些袭击我们国家的罪恶侵略者。",
@@ -36,7 +48,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -48,8 +60,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时05分]"
         },
         {
           "title": "美国被曝将从部分北约国家撤出军事部署，因其未能对美以提供帮助，欧洲局势可能如何变化？北约有解体风险吗？",
@@ -59,8 +71,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时05分]"
         },
         {
           "title": "大疆Pocket 4将于4月16日发布",
@@ -70,8 +82,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时05分]"
         },
         {
           "title": "NASA发布有史以来最清晰月球照",
@@ -82,8 +94,30 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时05分]"
+        },
+        {
+          "title": "武汉发布暴雨红色预警",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AD%A6%E6%B1%89%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时03分]"
+          "time_info": "[04时04分 ~ 04时05分]"
+        },
+        {
+          "title": "委内瑞拉国家电视台：委内瑞拉代总统罗德里格斯抵达格林纳达，开启首次出访。",
+          "url": "https://flash.jin10.com/detail/20260410031545617800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
         },
         {
           "title": "伊朗外长与法国外长通话，呼吁欧洲国家制止以对黎袭击",
@@ -92,7 +126,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -103,7 +137,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -114,7 +148,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -125,9 +159,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "据消息人士称，俄罗斯总统特使德米特里耶夫正在美国，与美国总统特朗普政府的成员会晤，讨论乌克兰问题和经济合作。德米特里耶夫的此次访问正值美国对俄罗斯石油的制裁豁免将于4月11日到期之际。",
+          "url": "https://flash.jin10.com/detail/20260410024548617800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
         },
         {
           "title": "金砖国家新开发银行首次在华发行双向回拨机制70亿元人民币熊猫债券",
@@ -136,7 +181,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -147,7 +192,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -161,6 +206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "沙特国家通讯社：沙特能源部一名官员表示，此类袭击的持续导致供应减少、复苏放缓，影响消费国的能源供应安全，并加剧石油市场的波动性。",
+          "url": "https://flash.jin10.com/detail/20260410023246620800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.2%，报377.57点。 在十个板块中，北欧工业板块跌幅最大。 Coloplast A/S跌3.2%，在一众北欧个股里表现最差。",
@@ -177,8 +233,19 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "伊朗战争丨穆杰塔巴：霍尔木兹海峡管理将进入新阶段",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时04分 ~ 04时05分]"
+        },
         {
           "title": "伊朗战争丨特朗普要求内塔尼亚胡减少打击黎巴嫩",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -197,7 +264,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -231,8 +298,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时05分]"
         },
         {
           "title": "胡锡进：美国伊朗都想结束战争，但不知道如何妥协",
@@ -242,8 +309,33 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时05分]"
+        },
+        {
+          "title": "外交部回应以色列大规模空袭黎巴嫩",
+          "url": "https://www.toutiao.com/trending/7626568979781959699/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时05分]"
+        },
+        {
+          "title": "星链如何影响美伊战争",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%BE%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%BE%8E%E4%BC%8A%E6%88%98%E4%BA%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时05分]"
         },
         {
           "title": "美联储会议纪要：伊朗战争带来双重风险，许多官员担心通胀加剧或有加息可能",
@@ -257,38 +349,26 @@
           "time_info": "[00时22分 ~ 02时03分]"
         },
         {
-          "title": "星链如何影响美伊战争",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%BE%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%BE%8E%E4%BC%8A%E6%88%98%E4%BA%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时03分]"
-        },
-        {
-          "title": "外交部回应以色列大规模空袭黎巴嫩",
-          "url": "https://www.toutiao.com/trending/7626568979781959699/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时03分]"
-        },
-        {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：伊朗不寻求战争，但也不会放弃自身权利。",
           "url": "https://flash.jin10.com/detail/20260410013545849800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "美国民主党资深议员施压贝森特，询问财政部是否为战争后果进行过规划",
+          "url": "https://wallstreetcn.com/livenews/3085285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
         },
         {
           "title": "国际铜夜盘收涨0.21%，沪铜收涨0.19%，沪铝收涨0.39%，沪锌收涨0.13%，沪铅收跌0.39%，沪镍收跌0.60%，沪锡收中行那个0.97%。 氧化铝夜盘收跌1.16%，铝合金收涨0.77%。 不锈钢夜盘收涨0.87%。",
@@ -297,7 +377,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -327,7 +407,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
@@ -337,8 +417,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时05分]"
         },
         {
           "title": "OpenAI推出月租100美元的Pro档订阅服务。 可以比Plus档订阅获得多出五倍的Codex使用量。",
@@ -347,9 +427,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "CoreWeave Inc.发行17.5亿美元高收益（垃圾级）债券和30亿美元2031年到期可转债。 此前，该公司宣布，与扎克伯格旗下Meta Platforms Inc.围绕AI计算达成扩大化长期合作协议，有效期持续至2032年，金额大约210亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3085301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
         },
         {
           "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
@@ -360,8 +451,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时05分]"
         },
         {
           "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
@@ -371,8 +462,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时05分]"
         },
         {
           "title": "AI红利和普通人有何关系",
@@ -383,19 +474,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时05分]"
         },
         {
           "title": "玩具也要闯闯AI赛道",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时05分]"
         },
         {
           "title": "员工离职变AI,上班不能停",
@@ -406,8 +498,19 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时05分]"
+        },
+        {
+          "title": "Wait清唱挑战",
+          "url": "https://www.douyin.com/hot/2460968",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 04时05分]"
         },
         {
           "title": "亚马逊考虑向其他公司出售其AI芯片",
@@ -427,65 +530,37 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "Wait清唱挑战",
-          "url": "https://www.douyin.com/hot/2460968",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时03分]"
-        },
-        {
-          "title": "标普500指数涨幅扩大至0.7%，刷新日高。 现货白银日内涨幅达3.0%，报76.28美元/盎司。 布伦特原油5分钟内下跌0.51美元/桶，报95.13美元/桶。 WTI原油5分钟内下跌0.92美元/桶，报96.55美元/桶。 美国总统特朗普声称，对达成伊朗和平协议“持乐观态度”。",
-          "url": "https://wallstreetcn.com/livenews/3085261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
         {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.34%，暂报2510.64点，一度实现宽底U形反转。 MarketVectorTM数字资产100中盘指数跌0.91%，报2795.08点。 MarketVector数字资产100指数持平，报14321.46点。 目前，Solana涨0.05%，狗狗币跌0.88%，XPR持平。 比特币涨0.79%，暂报71841美元；以太坊跌0.36%，暂报2198.36美元。",
-          "url": "https://wallstreetcn.com/livenews/3085246",
+          "title": "件股再度集体重挫，AI智能体令行业增长前景受到沉重打击",
+          "url": "https://wallstreetcn.com/livenews/3085278",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时03分"
+          "time_info": "04时05分"
+        },
+        {
+          "title": "xAI的CFO Anthony Armstrong离职。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3085275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
         }
       ]
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【数据看盘】光迅科技龙虎榜现10亿抢筹大战 “北向+游资+机构” 涌入东山精密",
@@ -493,22 +568,35 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时05分]"
         },
         {
           "title": "西北大学：对教师贾某某涉嫌学术论文抄袭等问题启动调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32931467",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时05分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.70%，报25900点。 恒生科技指数主连夜盘收涨0.44%，报4839点。",
+          "url": "https://wallstreetcn.com/livenews/3085292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
         },
         {
           "title": "万亿阵营扩容至9家！2025年上市银行科技金融全景扫描：总规模逼近30万亿 最高增速60%",
@@ -524,6 +612,46 @@
       ]
     },
     {
+      "keyword_group": "美股 美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时05分]"
+        },
+        {
+          "title": "标普500指数涨幅扩大至0.7%，刷新日高。 现货白银日内涨幅达3.0%，报76.28美元/盎司。 布伦特原油5分钟内下跌0.51美元/桶，报95.13美元/桶。 WTI原油5分钟内下跌0.92美元/桶，报96.55美元/桶。 美国总统特朗普声称，对达成伊朗和平协议“持乐观态度”。",
+          "url": "https://wallstreetcn.com/livenews/3085261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.34%，暂报2510.64点，一度实现宽底U形反转。 MarketVectorTM数字资产100中盘指数跌0.91%，报2795.08点。 MarketVector数字资产100指数持平，报14321.46点。 目前，Solana涨0.05%，狗狗币跌0.88%，XPR持平。 比特币涨0.79%，暂报71841美元；以太坊跌0.36%，暂报2198.36美元。",
+          "url": "https://wallstreetcn.com/livenews/3085246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
       "match_count": 2,
       "titles": [
@@ -535,8 +663,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时05分]"
         },
         {
           "title": "游戏停服 补偿方案引氪金玩家不满",
