@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T00:19:04.477437+08:00",
-  "total_titles_processed": 316,
+  "generated_at": "2026-04-11T02:09:35.175257+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "小米食堂发布「小米」冰激凌，有标准版、 Pro 版、 Max 版三种版本，怎样看待小米把产品思维刻进日常？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时09分]"
         },
         {
           "title": "脑机接口等国家标准发布",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时09分]"
         },
         {
           "title": "创业板改革重大定调！事关优质创新企业上市17项举措出台",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时09分]"
         },
         {
           "title": "媒体称 NASA 发布有史以来「最清晰的月球照片」，是真的吗？有哪些细节值得关注？",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时09分]"
         },
         {
           "title": "法国总理勒科尔尼：我们将把国家对发展电力能源的支持力度翻一番。",
@@ -58,7 +58,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
         },
@@ -67,11 +67,12 @@
           "url": "https://wallstreetcn.com/livenews/3086019",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 02时09分]"
         },
         {
           "title": "抗议日乌无人机合作，俄罗斯召见日本大使",
@@ -80,7 +81,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
         },
@@ -91,9 +92,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "据华尔街日报：包括摩根大通在内的大型银行正准备为投资者提供一种新的方式，使其能够做空私募信贷基金的管理者。这些银行正与标普全球合作，推出信用违约互换指数，旨在保护买方免受指数成分公司违约的影响。",
+          "url": "https://flash.jin10.com/detail/20260411005438867800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "华尔街打造新款工具，来对赌私人信用。 银行业正与标普全球合作，将推出信用违约掉期（CDS）指数。 CDS指数将有助于保护买家不至于受到违约的冲击。 美国银行、高盛等下周将销售相关衍生品。 阿波罗、Ares、黑石集团多只基金将在指数至多12%。 Saba Capital等投资者推广相关新产品。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3086032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "市场消息：黑石集团将与高盛、花旗和摩根士丹利进行合作。",
+          "url": "https://flash.jin10.com/detail/20260411003734671800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         },
         {
           "title": "美中贸易全国委员会率企业代表团访粤，彰显深化合作强烈意愿",
@@ -102,7 +136,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
         },
@@ -113,9 +147,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "黑石集团考虑围绕数据中心收购公司的IPO与高盛为首的（银行）团体合作。",
+          "url": "https://wallstreetcn.com/livenews/3086028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         },
         {
           "title": "美中贸易全国委员会率企业代表团访粤 彰显深化合作强烈意愿",
@@ -124,7 +169,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
         },
@@ -135,7 +180,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
         },
@@ -146,7 +191,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
         },
@@ -157,7 +202,145 @@
           "ranks": [
             27
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "星穹铁道mappa合作官宣",
+          "url": "https://www.douyin.com/hot/2462304",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国际 外交 战争",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "外交部回应日本“降级”日中关系",
+          "url": "https://www.toutiao.com/trending/7627027600157707827/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时09分]"
+        },
+        {
+          "title": "中美“乒乓外交”55周年｜小球转动大球",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32936802",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时09分]"
+        },
+        {
+          "title": "伊朗战争丨万斯：相信与伊朗的谈判将取得积极成果",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普：若未达成协议，将加大对伊朗打击",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "报道：国泰君安国际前ECM主管负责其股票销售业务",
+          "url": "https://wallstreetcn.com/livenews/3086046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "巴西纸浆巨头Suzano：若美伊战争持续，全球卫生纸与纸巾价格将上涨",
+          "url": "https://wallstreetcn.com/livenews/3086044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "外交部回应日本「降级」日中关系，表示日方应以实际行动维护中日关系政治基础，如何看待日本这一举动？",
+          "url": "https://www.zhihu.com/question/2025958255118103113",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时09分]"
+        },
+        {
+          "title": "国际铜夜盘收涨1.20%，沪铜收涨1.04%，沪铝收涨0.32%，沪锌收跌0.59%，沪铅收跌0.54%，沪镍收涨0.04%，沪锡收跌0.09%。 氧化铝夜盘收涨0.15%，铝合金收涨0.59%。 不锈钢夜盘收涨2.01%。",
+          "url": "https://wallstreetcn.com/livenews/3086037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "伊朗最高领袖发慰问信哀悼其外交政策顾问",
+          "url": "https://wallstreetcn.com/livenews/3086041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "外交部：美方大肆迫害中国学生学者",
+          "url": "https://www.toutiao.com/trending/7627026889366749247/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "巴西财政部长：希望下周在国际货币基金组织会议上推进关于美方合作的谈判。",
+          "url": "https://flash.jin10.com/detail/20260410230143448800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
         }
@@ -175,8 +358,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时09分]"
         },
         {
           "title": "AI换脸偷声侵权，那么大模型训练呢？",
@@ -186,8 +369,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时09分]"
         },
         {
           "title": "美财长与美联储主席召开紧急会议，称 Claude 新模型对金融业有巨大风险，是指什么？究竟有多危险？",
@@ -197,8 +380,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时09分]"
         },
         {
           "title": "夫妻称用AI写公众号年赚200万被封号",
@@ -229,68 +412,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国际 外交 战争",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "伊朗战争丨万斯：相信与伊朗的谈判将取得积极成果",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
-        },
-        {
-          "title": "外交部回应日本“降级”日中关系",
-          "url": "https://www.toutiao.com/trending/7627027600157707827/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
-        },
-        {
-          "title": "中美“乒乓外交”55周年｜小球转动大球",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32936802",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
-        },
-        {
-          "title": "外交部回应日本「降级」日中关系，表示日方应以实际行动维护中日关系政治基础，如何看待日本这一举动？",
-          "url": "https://www.zhihu.com/question/2025958255118103113",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
-        },
-        {
-          "title": "巴西财政部长：希望下周在国际货币基金组织会议上推进关于美方合作的谈判。",
-          "url": "https://flash.jin10.com/detail/20260410230143448800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "00时19分"
         }
@@ -308,8 +430,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时09分]"
+        },
+        {
+          "title": "追觅科技俞浩要砸 2 亿年薪招首席科学家，疑因宇树科技挖人抢项目发飙，这薪资是什么水平？双方竞争关系如何？",
+          "url": "https://www.zhihu.com/question/2025970045474398222",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时09分]"
         },
         {
           "title": "创新高！稀土精矿价格连续第7个季度上调，二季度环比大涨45%",
@@ -323,24 +457,13 @@
           "time_info": "[00时18分 ~ 00时19分]"
         },
         {
-          "title": "追觅科技俞浩要砸 2 亿年薪招首席科学家，疑因宇树科技挖人抢项目发飙，这薪资是什么水平？双方竞争关系如何？",
-          "url": "https://www.zhihu.com/question/2025970045474398222",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
-        },
-        {
           "title": "纳斯达克100指数涨0.5%，刷新日高。成分股迈威尔科技涨6.7%，博通涨6.1%，AMD涨5%，阿斯麦ADR涨3.5%，核电股CEG涨3.2%，拉姆研究涨3.1%，Autodesk目前跌3.6%，财捷Intuit跌4.1%，Zscaler跌4.6%，CrowdStrike跌5.6%，Datadog跌7.2%，派拓网络PANW跌8.2%。",
           "url": "https://wallstreetcn.com/livenews/3086006",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
         },
@@ -351,7 +474,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
         }
@@ -359,7 +482,7 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "警方捣毁游戏外挂窝点全记录",
@@ -369,8 +492,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时09分]"
+        },
+        {
+          "title": "为什么有的人手游一单 648 猛猛冲，为精品单机游戏买单却抠抠搜搜不愿意？",
+          "url": "https://www.zhihu.com/question/2025560267992376641",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时09分]"
         },
         {
           "title": "哀鸿风评稀烂,龙族游戏危了",
@@ -380,19 +515,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时09分]"
         },
         {
-          "title": "为什么有的人手游一单 648 猛猛冲，为精品单机游戏买单却抠抠搜搜不愿意？",
-          "url": "https://www.zhihu.com/question/2025560267992376641",
-          "source": "知乎",
+          "title": "市场消息：“大空头”迈克尔·伯里（Michael Burry）表示，买入了京东、阿里巴巴、游戏驿站和FISERV的股票。",
+          "url": "https://flash.jin10.com/detail/20260411005748709800",
+          "source": "金十数据",
           "ranks": [
-            16
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         }
       ]
     },
@@ -405,11 +540,12 @@
           "url": "https://www.zhihu.com/question/47503655",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时09分]"
         },
         {
           "title": "伊朗代表团抵达巴基斯坦的细节被保密。 消息人士称，美国和伊朗的技术代表团当地时间周五上午抵达了巴基斯坦。 伊朗代表团将于周六参加谈判，尽管其就黎巴嫩事件发表了一些看法。（阿拉伯媒体事件报Al Hadath）",
@@ -418,7 +554,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
         }
