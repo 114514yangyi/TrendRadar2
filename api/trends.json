@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T05:43:14.677856+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-04-13T06:44:23.218429+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时44分]"
         },
         {
           "title": "中央台办受权发布十项促进两岸交流合作的政策措施",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时44分]"
         },
         {
           "title": "中央台办受权发布十项促进两岸交流合作的政策措施",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时44分]"
         },
         {
           "title": "国家广播电视总局发文，全国电视频道已经全面清除虚假宣传医药广告，这类广告常见套路有哪些？",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时44分]"
         },
         {
           "title": "伊朗：将在霍尔木兹海峡及赔偿问题上捍卫国家权利",
@@ -62,8 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时44分]"
         },
         {
           "title": "十项促进两岸交流合作措施发布",
@@ -74,8 +74,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时44分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队：霍尔木兹海峡对非军用船只开放。 让战斗舰通过霍尔木兹海峡违反停火协议。（伊朗国家电视台）",
@@ -182,6 +182,18 @@
           "time_info": "[03时02分 ~ 04时47分]"
         },
         {
+          "title": "（中东）地区多个国家正设法让美国与伊朗恢复对话。 新一轮伊美谈判可能会在数日内举行。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3086489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时44分]"
+        },
+        {
           "title": "中央台办受权发布十项促进两岸交流合作的政策措施",
           "url": "https://wallstreetcn.com/articles/3769754",
           "source": "华尔街见闻",
@@ -241,17 +253,6 @@
           "time_info": "[00时51分 ~ 01时42分]"
         },
         {
-          "title": "（中东）地区多个国家正设法让美国与伊朗恢复对话。 新一轮伊美谈判可能会在数日内举行。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3086489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
           "title": "据伊朗国家媒体：伊朗总统与俄罗斯总统通话时表示，德黑兰准备与邻国合作，实现无外部干涉的和平。",
           "url": "https://flash.jin10.com/detail/20260412231554242800",
           "source": "金十数据",
@@ -299,7 +300,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗战争丨伊媒还原美舰穿越霍尔木兹海峡失败细节",
@@ -311,6 +312,32 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时42分 ~ 05时43分]"
+        },
+        {
+          "title": "内塔尼亚胡称以色列对黎巴嫩的战争仍在继续",
+          "url": "https://wallstreetcn.com/livenews/3086479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            8,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 06时44分]"
+        },
+        {
+          "title": "“原油贸易巨头”维多在伊朗战争遭重创，华裔明星衍生品交易员重仓巨亏",
+          "url": "https://wallstreetcn.com/articles/3769756",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 06时44分]"
         },
         {
           "title": "以色列为何最不愿意停止战争",
@@ -327,20 +354,6 @@
           "time_info": "[00时51分 ~ 05时43分]"
         },
         {
-          "title": "内塔尼亚胡称以色列对黎巴嫩的战争仍在继续",
-          "url": "https://wallstreetcn.com/livenews/3086479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 05时43分]"
-        },
-        {
           "title": "伊朗战争丨伊朗严密监控海峡，对美军发出警告",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -352,48 +365,15 @@
           "time_info": "00时51分"
         },
         {
-          "title": "“原油贸易巨头”维多在伊朗战争遭重创，华裔明星衍生品交易员重仓巨亏",
-          "url": "https://wallstreetcn.com/articles/3769756",
-          "source": "华尔街见闻",
+          "title": "伊朗战争丨美军将封锁伊朗港口海上交通，时间公布",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 05时43分]"
-        },
-        {
-          "title": "伊朗外交部长：美国丝毫不吸取教训。善意换来善意，敌意带来敌意。",
-          "url": "https://flash.jin10.com/detail/20260413053454153800",
-          "source": "金十数据",
-          "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "伊朗外交部长：然而，就在距离《伊斯兰堡谅解备忘录》仅咫尺之遥时，我们却遭遇了极端主义、不断变换条件以及封锁。",
-          "url": "https://flash.jin10.com/detail/20260413053324765800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "伊朗外交部长：在47年来最高级别的密集谈判中，伊朗以诚意与美国展开对话，旨在结束战争。",
-          "url": "https://flash.jin10.com/detail/20260413053303808800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时44分"
         },
         {
           "title": "沙特外交部召见伊拉克大使。",
@@ -416,11 +396,48 @@
           "source": "金十数据",
           "ranks": [
             1,
-            12
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时44分]"
+        },
+        {
+          "title": "伊朗外交部长：美国丝毫不吸取教训。善意换来善意，敌意带来敌意。",
+          "url": "https://flash.jin10.com/detail/20260413053454153800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时43分]"
+          "time_info": "[05时43分 ~ 06时44分]"
+        },
+        {
+          "title": "伊朗外交部长：然而，就在距离《伊斯兰堡谅解备忘录》仅咫尺之遥时，我们却遭遇了极端主义、不断变换条件以及封锁。",
+          "url": "https://flash.jin10.com/detail/20260413053324765800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时44分]"
+        },
+        {
+          "title": "伊朗外交部长：在47年来最高级别的密集谈判中，伊朗以诚意与美国展开对话，旨在结束战争。",
+          "url": "https://flash.jin10.com/detail/20260413053303808800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时44分]"
         },
         {
           "title": "国际货币基金组织（IMF）总裁：IMF将因为伊朗战争而下调2026年预期。 2026年预期将取决于（中东石油）产量能按多快的速度恢复。 鉴于油轮没有抵达亚洲（市场），战争的印象显现出来。（CBS）",
@@ -510,6 +527,28 @@
           "time_info": "[00时51分 ~ 01时42分]"
         },
         {
+          "title": "国际油价开盘跳涨，美股期货跌超1%",
+          "url": "https://wallstreetcn.com/livenews/3086498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "国际原油大幅高开9.4%",
+          "url": "https://flash.jin10.com/detail/20260413060041314800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
           "title": "IMF总裁格奥尔基耶娃：IMF将因为伊朗战争而下调2026年预期。",
           "url": "https://flash.jin10.com/detail/20260412232722067800",
           "source": "金十数据",
@@ -545,8 +584,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时44分]"
         },
         {
           "title": "国产AI模型为何大多免费",
@@ -556,8 +595,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时44分]"
         },
         {
           "title": "境外涉黄AI软件绕过监管流入国内",
@@ -571,8 +610,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时44分]"
         },
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -583,8 +622,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时44分]"
         },
         {
           "title": "AI 会有情绪吗？",
@@ -595,8 +634,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时46分 ~ 05时43分]"
+          "appearance_count": 5,
+          "time_info": "[04时46分 ~ 06时44分]"
         },
         {
           "title": "央视曝光AI造黄产业链",
@@ -604,11 +643,12 @@
           "source": "微博",
           "ranks": [
             30,
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时46分 ~ 05时43分]"
+          "appearance_count": 5,
+          "time_info": "[04时46分 ~ 06时44分]"
         },
         {
           "title": "多款AI应用存在涉黄生成漏洞",
@@ -635,8 +675,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时44分]"
         },
         {
           "title": "“营养点滴”是黑科技还是新套路",
@@ -647,8 +687,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时44分]"
         },
         {
           "title": "五角大楼：俄在高科技无人机生产方面已超越美国",
@@ -685,11 +725,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时44分]"
         }
       ]
     },
@@ -705,8 +746,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时44分]"
         }
       ]
     }
