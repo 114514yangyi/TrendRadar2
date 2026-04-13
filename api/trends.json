@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T21:59:08.310967+08:00",
-  "total_titles_processed": 1420,
+  "generated_at": "2026-04-13T23:25:21.032751+08:00",
+  "total_titles_processed": 1532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 62,
+      "match_count": 71,
       "titles": [
         {
           "title": "伊朗战争丨伊媒还原美舰穿越霍尔木兹海峡失败细节",
@@ -17,6 +17,36 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时42分 ~ 05时43分]"
+        },
+        {
+          "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
+          "url": "https://wallstreetcn.com/articles/3769785",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时38分 ~ 23时25分]"
+        },
+        {
+          "title": "当大男子主义色彩的美国防长成为战争推手",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32955808",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时38分 ~ 23时25分]"
         },
         {
           "title": "“原油贸易巨头”维多在伊朗战争遭重创，华裔明星衍生品交易员重仓巨亏",
@@ -31,47 +61,18 @@
           "time_info": "[03时01分 ~ 11时39分]"
         },
         {
-          "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
-          "url": "https://wallstreetcn.com/articles/3769785",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时38分 ~ 21时59分]"
-        },
-        {
-          "title": "当大男子主义色彩的美国防长成为战争推手",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32955808",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时38分 ~ 21时59分]"
-        },
-        {
           "title": "外交部回应美伊未达成协议",
           "url": "https://www.cls.cn/detail/2342195",
           "source": "财联社热门",
           "ranks": [
             9,
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时05分 ~ 21时59分]"
+          "appearance_count": 6,
+          "time_info": "[17时05分 ~ 23时25分]"
         },
         {
           "title": "中国计划向伊朗提供武器？外交部回应",
@@ -79,11 +80,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时05分 ~ 21时59分]"
+          "appearance_count": 6,
+          "time_info": "[17时05分 ~ 23时25分]"
         },
         {
           "title": "伊朗战争丨美军将封锁伊朗港口海上交通，时间公布",
@@ -203,6 +205,17 @@
           "time_info": "19时23分"
         },
         {
+          "title": "伊朗战争丨特朗普威胁击沉靠近封锁线的伊朗船只",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "“4月已经调了三次” ，国际快递费又涨了",
           "url": "https://flash.jin10.com/detail/20260413071801275800",
           "source": "金十数据",
@@ -212,6 +225,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "伊朗申请不去美国踢世界杯，国际足协拒绝",
+          "url": "https://news.ifeng.com/c/8sI8apkUful",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时05分 ~ 23时25分]"
         },
         {
           "title": "菲律宾外交部长：东盟表示亟需召开能源部长级会议。",
@@ -236,13 +261,24 @@
           "time_info": "11时39分"
         },
         {
+          "title": "美媒刊文：打来打去，美国盟友成伊朗战争的“输家”",
+          "url": "https://news.ifeng.com/c/8sIWMif2ZqH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "国际海事组织：任何国家无权封锁国际海峡",
           "url": "https://wallstreetcn.com/livenews/3087006",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -284,18 +320,6 @@
           "time_info": "[00时51分 ~ 05时43分]"
         },
         {
-          "title": "伊朗申请不去美国踢世界杯，国际足协拒绝",
-          "url": "https://news.ifeng.com/c/8sI8apkUful",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时05分 ~ 21时59分]"
-        },
-        {
           "title": "伊朗外交部：伊朗与法国外长进行了电话交谈，双方就美以谈判的最新进展进行了讨论和交流。",
           "url": "https://flash.jin10.com/detail/20260413042837791800",
           "source": "金十数据",
@@ -307,6 +331,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时47分 ~ 06时44分]"
+        },
+        {
+          "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
+          "url": "https://www.cls.cn/detail/2342208",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 23时25分]"
         },
         {
           "title": "伊朗外交部长：美国丝毫不吸取教训。善意换来善意，敌意带来敌意。",
@@ -359,18 +395,6 @@
           "time_info": "[00时51分 ~ 04时47分]"
         },
         {
-          "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
-          "url": "https://www.cls.cn/detail/2342208",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 21时59分]"
-        },
-        {
           "title": "匈牙利蒂萨党赢得大选，外交部：愿同匈新政府加强高层交往",
           "url": "https://news.ifeng.com/c/8sI8XzNuvBp",
           "source": "凤凰网",
@@ -393,6 +417,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时38分 ~ 14时23分]"
+        },
+        {
+          "title": "中国正计划向伊朗提供武器？外交部：反对无根据的抹黑或恶意关联",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32959191",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 23时25分]"
         },
         {
           "title": "美国总统特朗普：石油价格一开始可能降不下来，但最终还是会跌的。 原油价格与汽油价格可能会在中期选举之前下跌，也可能会略微更高。 坦率来说，汽油价格涨势并没有我（原来）想象的那么多。 （美国和以色列发动的伊朗）战争爆发以来，股市跌幅并不是非常大。",
@@ -514,17 +550,6 @@
           "time_info": "[00时51分 ~ 01时42分]"
         },
         {
-          "title": "中国正计划向伊朗提供武器？外交部：反对无根据的抹黑或恶意关联",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32959191",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 21时59分]"
-        },
-        {
           "title": "外交部回应美伊谈判",
           "url": "https://www.toutiao.com/trending/7628143137936310291/",
           "source": "今日头条",
@@ -534,6 +559,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时05分 ~ 17时06分]"
+        },
+        {
+          "title": "市场消息：伊朗与阿曼外交部长在电话通话中讨论了美伊谈判问题。",
+          "url": "https://flash.jin10.com/detail/20260413225011975800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "金十图示：2026年04月13日（周一）上海金早盘价为1040.46元/克，较国际金价(1036.36元/克)，高4.1元/克",
@@ -547,13 +583,24 @@
           "time_info": "11时39分"
         },
         {
+          "title": "英国首相斯塔默：峰会将聚焦外交与军事规划。",
+          "url": "https://flash.jin10.com/detail/20260413224318722800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "卡塔尔外交部长：霍尔木兹海峡必须保持开放，不应被用作施压手段或谈判筹码。",
           "url": "https://wallstreetcn.com/livenews/3086999",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -575,7 +622,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -597,7 +644,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -608,9 +655,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：欧盟将继续根据国际法，拒绝任何限制海峡自由安全通航的安排。",
+          "url": "https://flash.jin10.com/detail/20260413222812227800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "英国首相斯塔默：美国、以色列同伊朗之间的“停火协议”“极其脆弱”。 伊朗在霍尔木兹海峡的行动造成了难以估量的经济损失。 为了让霍尔木兹海峡重新开放，正紧锣密鼓地研究可靠的解决方案。 与法国总统开会，讨论海峡重新开放问题，会议将侧重于外交计划与军事计划。 在我有生之年，全球的不安全程度从没有如此严重过。",
+          "url": "https://wallstreetcn.com/livenews/3087038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：IMF将因为伊朗战争而下调2026年预期。",
@@ -624,13 +693,24 @@
           "time_info": "00时51分"
         },
         {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：霍尔穆兹海峡正在发生的事情清楚地表明，需要建立一个强大的国际海上安全联盟。",
+          "url": "https://flash.jin10.com/detail/20260413222759662800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "沙特外交大臣同伊朗外长通电话",
           "url": "https://wallstreetcn.com/livenews/3086987",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -668,6 +748,17 @@
           "time_info": "19时23分"
         },
         {
+          "title": "欧盟外交政策负责人Kallas：霍尔木兹海峡目前正在发生的情况显然表明，国际社会急需建立一个强大的海上安全联盟。 欧盟将继续根据国际法，拒绝任何限制船只自由、安全通过该海峡的安排。",
+          "url": "https://wallstreetcn.com/livenews/3087032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "土耳其外交部长：在霍尔木兹海峡部署国际部队面临诸多困难，应通过外交途径予以解决。",
           "url": "https://flash.jin10.com/detail/20260413162502669800",
           "source": "金十数据",
@@ -696,7 +787,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -718,9 +809,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
+        },
+        {
+          "title": "土耳其敦促通过外交途径确保霍尔木兹海峡畅通",
+          "url": "https://wallstreetcn.com/livenews/3087028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "上期能源：20号胶、国际铜期权自4月22日起上市交易",
@@ -737,7 +839,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "周末要闻汇总：中央台办受权发布十项促进两岸交流合作的政策措施；主板ST股涨跌幅拟调整为10%",
@@ -821,13 +923,26 @@
           "time_info": "[11时38分 ~ 14时23分]"
         },
         {
+          "title": "不得向8岁以下儿童开放！网信办发布11条网络直播打赏规定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32958948",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时05分 ~ 23时25分]"
+        },
+        {
           "title": "上汽通用五菱与宁德时代达战略合作",
           "url": "https://wallstreetcn.com/livenews/3087009",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -858,13 +973,36 @@
           "time_info": "14时23分"
         },
         {
+          "title": "国家版“防癌说明书”一半与吃有关",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E7%89%88%E2%80%9C%E9%98%B2%E7%99%8C%E8%AF%B4%E6%98%8E%E4%B9%A6%E2%80%9D%E4%B8%80%E5%8D%8A%E4%B8%8E%E5%90%83%E6%9C%89%E5%85%B3",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 23时25分]"
+        },
+        {
+          "title": "非国家工作人员受贿行贿入罪门槛降低",
+          "url": "https://www.toutiao.com/trending/7627804722074452010/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "上汽通用五菱与宁德时代达战略合作",
           "url": "https://flash.jin10.com/detail/20260413214716963800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -878,19 +1016,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
-        },
-        {
-          "title": "不得向8岁以下儿童开放！网信办发布11条网络直播打赏规定",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32958948",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时05分 ~ 21时59分]"
         },
         {
           "title": "伊朗议会推进新方案：敌对国家舰队将被禁止通过霍尔木兹海峡",
@@ -932,6 +1057,17 @@
           "time_info": "[00时51分 ~ 04时47分]"
         },
         {
+          "title": "中办、国办：推动行业协会商会深化改革",
+          "url": "https://www.cls.cn/detail/2342439",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 23时25分]"
+        },
+        {
           "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫对美国总统特朗普表示：“如果你挑衅，我们就迎战；如果你以理相待，我们就以理相待。”",
           "url": "https://flash.jin10.com/detail/20260413020447925800",
           "source": "金十数据",
@@ -971,15 +1107,16 @@
           "time_info": "[00时51分 ~ 03时02分]"
         },
         {
-          "title": "中办、国办：推动行业协会商会深化改革",
-          "url": "https://www.cls.cn/detail/2342439",
-          "source": "财联社热门",
+          "title": "国家烟草专卖局原党组成员、副局长韩占武被“双开”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32958114",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 21时59分]"
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 23时25分]"
         },
         {
           "title": "英国政府发言人：我们正与法国及其他伙伴合作，组建广泛的联盟，以保护霍尔木兹海峡的航行自由。",
@@ -1076,17 +1213,6 @@
           "time_info": "[11时38分 ~ 11时39分]"
         },
         {
-          "title": "国家版“防癌说明书”一半与吃有关",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E7%89%88%E2%80%9C%E9%98%B2%E7%99%8C%E8%AF%B4%E6%98%8E%E4%B9%A6%E2%80%9D%E4%B8%80%E5%8D%8A%E4%B8%8E%E5%90%83%E6%9C%89%E5%85%B3",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 21时59分]"
-        },
-        {
           "title": "如何评价 2026 年 4 月米哈游《崩坏星穹铁道》与 MAPPA 合作，原创动画概念 PV 【死于午后】？",
           "url": "https://www.zhihu.com/question/2026038863504656298",
           "source": "知乎",
@@ -1098,17 +1224,6 @@
           "time_info": "[11时38分 ~ 11时39分]"
         },
         {
-          "title": "国家烟草专卖局原党组成员、副局长韩占武被“双开”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32958114",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 21时59分]"
-        },
-        {
           "title": "平台应提供打赏限额功能、不得向8岁以下儿童开放！网信办发布11条网络直播打赏规定",
           "url": "https://wallstreetcn.com/livenews/3086694",
           "source": "华尔街见闻-快讯",
@@ -1118,6 +1233,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "报道：由于新罗西斯克港遭无人机袭击，俄罗斯国家石油公司将原油转运至图阿普谢炼油厂",
+          "url": "https://wallstreetcn.com/livenews/3087046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "为稳油价，越南将免收燃油税政策延长至6月底",
@@ -1181,7 +1307,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1321,7 +1447,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "胡锡进：美伊谈判虽无成果，但有一些积极的东西值得注意",
@@ -1388,22 +1514,24 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 21时59分]"
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 23时25分]"
         },
         {
           "title": "最新金融数据出炉：一季度企业债、股票融资占比提升，科技、数字等领域获支持力度加大",
           "url": "https://www.cls.cn/detail/2342381",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 21时59分]"
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 23时25分]"
         },
         {
           "title": "五角大楼：俄在高科技无人机生产方面已超越美国",
@@ -1451,6 +1579,17 @@
           "time_info": "19时23分"
         },
         {
+          "title": "据港交所文件：华工科技产业股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20260413225351851800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "金十图示：2026年04月13日（周一）全球主要科技与互联网公司市值变化",
           "url": "https://flash.jin10.com/detail/20260413110140025800",
           "source": "金十数据",
@@ -1482,6 +1621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
+        },
+        {
+          "title": "华工科技向港交所递交上市申请",
+          "url": "https://wallstreetcn.com/livenews/3087043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "四川省“十五五”规划纲要：在航空发动机、能源装备、工业母机等领域，加快突破一批创新性、标志性装备",
@@ -1608,7 +1758,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "国产AI模型为何大多免费",
@@ -1662,6 +1812,20 @@
           "time_info": "[11时38分 ~ 19时23分]"
         },
         {
+          "title": "央视重锤!AI造黄产业链被扒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353133&amp;topic_name=%E5%A4%AE%E8%A7%86%E9%87%8D%E9%94%A4%21AI%E9%80%A0%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE%E8%A2%AB%E6%89%92",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时23分 ~ 23时25分]"
+        },
+        {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
           "url": "https://www.cls.cn/detail/2341199",
           "source": "财联社热门",
@@ -1674,20 +1838,6 @@
           "time_info": "[00时51分 ~ 06时44分]"
         },
         {
-          "title": "央视重锤!AI造黄产业链被扒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353133&amp;topic_name=%E5%A4%AE%E8%A7%86%E9%87%8D%E9%94%A4%21AI%E9%80%A0%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE%E8%A2%AB%E6%89%92",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时23分 ~ 21时59分]"
-        },
-        {
           "title": "守护未成年,AI伴侣全禁售",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
           "source": "贴吧",
@@ -1696,8 +1846,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 21时59分]"
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 23时25分]"
+        },
+        {
+          "title": "马上评｜谁来斩断AI“造黄”产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时05分 ~ 23时25分]"
         },
         {
           "title": "AI 会有情绪吗？",
@@ -1738,19 +1901,6 @@
           "time_info": "[11时38分 ~ 17时06分]"
         },
         {
-          "title": "马上评｜谁来斩断AI“造黄”产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时05分 ~ 21时59分]"
-        },
-        {
           "title": "央视曝光AI造黄产业链",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E9%80%A0%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -1768,11 +1918,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%80%E7%81%AB%E9%A5%BA%E5%AD%90%E9%A6%86%E5%BC%80%E5%A7%8B%E5%96%82AI%E9%BE%99%E8%99%BE%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 21时59分]"
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 23时25分]"
         },
         {
           "title": "央视曝光AI造黄产业链",
@@ -1809,6 +1960,17 @@
           "time_info": "11时39分"
         },
         {
+          "title": "日本软银集团计划发行美元债券和欧元债券，共六种到期时间。 该公司正与投资者们洽谈。 这批融资将用于支持OpenAI等目的。",
+          "url": "https://wallstreetcn.com/livenews/3087037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "在抨击梵蒂冈教皇之后，美国总统特朗普发布了一张自己化身成耶稣治愈病人的AI图片，其两侧还有老鹰、战斗机和自由女神像等形象。",
           "url": "https://flash.jin10.com/detail/20260413105150796800",
           "source": "金十数据",
@@ -1837,7 +1999,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1932,7 +2094,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -2007,11 +2169,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 21时59分]"
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 23时25分]"
         },
         {
           "title": "如何评价《苏丹的游戏》的一周年更新？",
@@ -2070,7 +2233,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         }
