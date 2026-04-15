@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T16:49:49.200546+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-04-15T18:23:09.033439+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 62,
+      "match_count": 65,
       "titles": [
         {
           "title": "外交部：中方从不承认印度非法设立的所谓“阿鲁纳恰尔邦”",
@@ -88,6 +88,17 @@
           "time_info": "[04时11分 ~ 06时56分]"
         },
         {
+          "title": "伊朗战争丨涉华油轮霍尔木兹折返，未突破美军封锁",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 18时23分]"
+        },
+        {
           "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
           "url": "https://www.cls.cn/detail/2344264",
           "source": "财联社热门",
@@ -98,6 +109,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时27分 ~ 16时49分]"
+        },
+        {
+          "title": "外交部：中方坚决反对胁迫外交",
+          "url": "https://news.ifeng.com/c/8sLT2sFHQC1",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 18时23分]"
         },
         {
           "title": "伊朗战争丨万斯：对当前美伊局势进展“感到乐观”",
@@ -144,6 +166,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 02时11分]"
+        },
+        {
+          "title": "特朗普称美国对伊朗的战争已经结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 18时23分]"
         },
         {
           "title": "特朗普：美国对伊朗的战争已经结束",
@@ -200,17 +236,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
-        },
-        {
-          "title": "伊朗战争丨涉华油轮霍尔木兹折返，未突破美军封锁",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
         },
         {
           "title": "WTI原油日内大跌4.00%，现报88.37美元/桶。市场开始发酵早前特朗普称“美国对伊朗的战争已经结束”的言论。",
@@ -293,15 +318,15 @@
           "time_info": "00时16分"
         },
         {
-          "title": "外交部：中方坚决反对胁迫外交",
-          "url": "https://news.ifeng.com/c/8sLT2sFHQC1",
-          "source": "凤凰网",
+          "title": "哈佛大学教授Rogoff称美元高估20% 警告市场对战争形势判断“过于天真”",
+          "url": "https://wallstreetcn.com/livenews/3088399",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时49分"
+          "time_info": "18时23分"
         },
         {
           "title": "伊朗要求五个中东国家赔偿战争损失，这一诉求背后隐藏着哪些深层战略意图？",
@@ -315,6 +340,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时52分 ~ 16时49分]"
+        },
+        {
+          "title": "专家谈五一国际航班部分取消",
+          "url": "https://www.douyin.com/hot/2466306",
+          "source": "抖音",
+          "ranks": [
+            11,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 18时23分]"
+        },
+        {
+          "title": "五一假期国际航班遭大规模取消？专家：燃油成本大涨为主因，国际低成本航司压力更大",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32969307",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 18时23分]"
         },
         {
           "title": "4天4位 国际政要为什么都往中国跑",
@@ -366,17 +416,26 @@
           "time_info": "[02时11分 ~ 06时56分]"
         },
         {
-          "title": "特朗普称美国对伊朗的战争已经结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
-          "source": "澎湃新闻",
+          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
+          "url": "https://news.ifeng.com/c/8sLS5AcutoB",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时27分 ~ 16时49分]"
+          "time_info": "[16时49分 ~ 18时23分]"
+        },
+        {
+          "title": "美军称已完全切断伊朗海上进出口贸易，已拦截 8 艘进出伊朗港口的油轮，对其国内国际市场有何影响？",
+          "url": "https://www.zhihu.com/question/2027712105613190656",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 18时23分]"
         },
         {
           "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
@@ -392,27 +451,15 @@
           "time_info": "[11时27分 ~ 16时49分]"
         },
         {
-          "title": "专家谈五一国际航班部分取消",
-          "url": "https://www.douyin.com/hot/2466306",
-          "source": "抖音",
+          "title": "50位主播挑战争夺100万美金",
+          "url": "https://search.bilibili.com/all?keyword=50%E4%BD%8D%E4%B8%BB%E6%92%AD%E6%8C%91%E6%88%98%E4%BA%89%E5%A4%BA100%E4%B8%87%E7%BE%8E%E9%87%91",
+          "source": "bilibili 热搜",
           "ranks": [
-            11,
-            13
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 16时49分]"
-        },
-        {
-          "title": "五一假期国际航班遭大规模取消？专家：燃油成本大涨为主因，国际低成本航司压力更大",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32969307",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 16时49分]"
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
         },
         {
           "title": "美媒：对以色列而言，无尽的战争是唯一的答案",
@@ -461,26 +508,15 @@
           "time_info": "[04时11分 ~ 05时58分]"
         },
         {
-          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
-          "url": "https://news.ifeng.com/c/8sLS5AcutoB",
-          "source": "凤凰网",
+          "title": "印度外交部发言人：印度继续从多元化来源购买石油。",
+          "url": "https://flash.jin10.com/detail/20260415175744583800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时49分"
-        },
-        {
-          "title": "美军称已完全切断伊朗海上进出口贸易，已拦截 8 艘进出伊朗港口的油轮，对其国内国际市场有何影响？",
-          "url": "https://www.zhihu.com/question/2027712105613190656",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
+          "time_info": "18时23分"
         },
         {
           "title": "战争导致供应中断，英国首相、荷兰首相会见能源领袖",
@@ -555,7 +591,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -577,7 +613,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -709,7 +745,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -728,7 +764,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 54,
+      "match_count": 59,
       "titles": [
         {
           "title": "驻外人员嫖娼遭仙人跳出卖国家秘密",
@@ -764,6 +800,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时27分 ~ 14时05分]"
+        },
+        {
+          "title": "王石委托律师发布声明：“被抓”纯属恶意捏造，人身自由不受任何限制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32972727",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 18时23分]"
         },
         {
           "title": "G-24主席：至关重要的是要避免重返普遍性补贴，并防止重蹈未能证明行之有效的政策覆辙。",
@@ -882,7 +932,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -947,19 +997,6 @@
           "time_info": "[06时56分 ~ 07时53分]"
         },
         {
-          "title": "王石委托律师发布声明：“被抓”纯属恶意捏造，人身自由不受任何限制",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32972727",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 16时49分]"
-        },
-        {
           "title": "美联储将迎来最富掌门人 Anthropic最快本周发布Opus 4.7 | 环球市场",
           "url": "https://www.cls.cn/detail/2344256",
           "source": "财联社热门",
@@ -973,6 +1010,29 @@
           "time_info": "[11时27分 ~ 16时49分]"
         },
         {
+          "title": "江苏最新癌情发布",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E6%9C%80%E6%96%B0%E7%99%8C%E6%83%85%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 18时23分]"
+        },
+        {
+          "title": "“大胆推进机制创新”！国家能源局加快培育氢能未来产业",
+          "url": "https://www.cls.cn/detail/2344596",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
+        },
+        {
           "title": "习近平同越共中央总书记、国家主席苏林举行会谈",
           "url": "https://wallstreetcn.com/livenews/3088128",
           "source": "华尔街见闻-快讯",
@@ -983,6 +1043,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时27分 ~ 16时49分]"
+        },
+        {
+          "title": "机构发布“2026中国大学排名”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32970088",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
         },
         {
           "title": "机构发布“2026中国大学排名”",
@@ -1014,7 +1085,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -1080,7 +1151,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -1096,13 +1167,24 @@
           "time_info": "11时27分"
         },
         {
+          "title": "广电总局发布微短剧精品创作传播计划",
+          "url": "https://wallstreetcn.com/livenews/3088389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "拆解国家准备的神器APP",
           "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E5%9B%BD%E5%AE%B6%E5%87%86%E5%A4%87%E7%9A%84%E7%A5%9E%E5%99%A8APP",
           "source": "bilibili 热搜",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -1127,17 +1209,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
-        },
-        {
-          "title": "江苏最新癌情发布",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E6%9C%80%E6%96%B0%E7%99%8C%E6%83%85%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
         },
         {
           "title": "阿根廷国家统计局：3月消费者价格环比上涨3.4%。截至3月的12个月累计通胀率为32.6%。",
@@ -1206,13 +1277,24 @@
           "time_info": "14时05分"
         },
         {
+          "title": "海湾阿拉伯国家合作委员会(GCC)秘书长：海湾地区正处于关键阶段。",
+          "url": "https://flash.jin10.com/detail/20260415174638132800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "博通美股盘前涨2.9%，公司与Meta延长定制芯片合作协议。",
           "url": "https://wallstreetcn.com/livenews/3088315",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -1259,6 +1341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "国务院办公厅印发《关于深化投资审批制度改革的意见》",
+          "url": "https://wallstreetcn.com/livenews/3088361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "男子贪图“讲课费”出卖国家秘密被抓",
@@ -1341,7 +1434,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "月薪3万，去内蒙草原给DeepSeek守机房",
@@ -1350,11 +1443,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 16时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 18时23分]"
         },
         {
           "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
@@ -1362,11 +1456,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时11分 ~ 16时49分]"
+          "appearance_count": 10,
+          "time_info": "[04时11分 ~ 18时23分]"
+        },
+        {
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 18时23分]"
         },
         {
           "title": "UP主揭秘AI短剧制作流程",
@@ -1383,18 +1490,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时16分 ~ 11时27分]"
-        },
-        {
-          "title": "AI承诺赔10万,用户索赔败诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 16时49分]"
         },
         {
           "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
@@ -1444,6 +1539,17 @@
           "time_info": "[00时16分 ~ 06时56分]"
         },
         {
+          "title": "一图看懂 | AI产业链业绩大比拼，多只10倍股净利增速“狂飙”",
+          "url": "https://www.cls.cn/detail/2344890",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
+        },
+        {
           "title": "报道：Anthropic准备Opus 4.7模型和AI设计工具。",
           "url": "https://wallstreetcn.com/livenews/3087917",
           "source": "华尔街见闻-快讯",
@@ -1453,6 +1559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "IBM宣布新的网络安全措施，帮助企业识别并衡量前沿AI模型带来的新风险。",
+          "url": "https://wallstreetcn.com/livenews/3088406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "OpenAI向有限群体发布网络安全模型，与Mythos展开角逐",
@@ -1537,6 +1654,17 @@
           "time_info": "[06时56分 ~ 07时53分]"
         },
         {
+          "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
+          "url": "https://www.zhihu.com/question/2027689506711630551",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
+        },
+        {
           "title": "Anthropic因Claude Code性能下降引发用户强烈不满",
           "url": "https://flash.jin10.com/detail/20260415013726810800",
           "source": "金十数据",
@@ -1587,7 +1715,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -1601,6 +1729,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "阿里ATH发布AI开发工具Meoo，已打通阿里云核心产品",
+          "url": "https://wallstreetcn.com/livenews/3088382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。",
@@ -1675,7 +1814,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -1727,7 +1866,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "全球存储大狂欢！SK海力士股价再创新高 闪迪、南亚科捷报频传",
@@ -1749,8 +1888,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时52分 ~ 16时49分]"
+          "appearance_count": 7,
+          "time_info": "[07时52分 ~ 18时23分]"
         },
         {
           "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
@@ -1775,6 +1914,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时56分 ~ 07时53分]"
+        },
+        {
+          "title": "工信部：加快打造“创新医药” 合力支持创新药早日生产、早日上市、早日进医院",
+          "url": "https://www.cls.cn/detail/2344395",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时05分 ~ 18时23分]"
         },
         {
           "title": "5天暴涨45% 张小泉被炒成“科技股”",
@@ -1802,6 +1954,17 @@
           "time_info": "[11时27分 ~ 14时05分]"
         },
         {
+          "title": "科技激发消费新动能",
+          "url": "https://www.toutiao.com/trending/7628910069140475401/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
+        },
+        {
           "title": "标普500指数的11个板块中，电信板块收涨3.18%，可选消费板块涨2.54%，信息技术/科技板块涨1.66%，能源板块收跌2.16%。",
           "url": "https://wallstreetcn.com/livenews/3087956",
           "source": "华尔街见闻-快讯",
@@ -1819,7 +1982,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -1857,16 +2020,38 @@
           "time_info": "00时16分"
         },
         {
-          "title": "工信部：加快打造“创新医药” 合力支持创新药早日生产、早日上市、早日进医院",
-          "url": "https://www.cls.cn/detail/2344395",
+          "title": "广州：高标准建成500个低空起降设施 组建具身智能机器人创新联合体",
+          "url": "https://wallstreetcn.com/livenews/3088400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "港股科技股卖空潮退去 小米集团近5日卖空股数降幅超90%",
+          "url": "https://www.cls.cn/detail/2344645",
           "source": "财联社热门",
           "ranks": [
-            9,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时05分 ~ 16时49分]"
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 18时23分]"
+        },
+        {
+          "title": "国办9号文落地 创新药定价松绑 首发价格机制文件正在制定中",
+          "url": "https://www.cls.cn/detail/2344771",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 18时23分]"
         },
         {
           "title": "30年期国债期货创新高，机构看多超长债行情",
@@ -1892,24 +2077,13 @@
           "time_info": "11时27分"
         },
         {
-          "title": "港股科技股卖空潮退去 小米集团近5日卖空股数降幅超90%",
-          "url": "https://www.cls.cn/detail/2344645",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
-        },
-        {
           "title": "港股收评：科指收涨1.2% 创新药板块领涨",
           "url": "https://flash.jin10.com/detail/20260415161544273800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -1931,7 +2105,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -1945,17 +2119,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
-        },
-        {
-          "title": "国办9号文落地 创新药定价松绑 首发价格机制文件正在制定中",
-          "url": "https://www.cls.cn/detail/2344771",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
         },
         {
           "title": "阿斯麦美股夜盘一度跌超2%，美光科技夜盘跌1.7%，台积电夜盘涨幅收窄至0.4%，阿斯麦上调全年销售指引，但Q2展望略逊于预期。",
@@ -1975,7 +2138,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -1986,7 +2149,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -1997,7 +2160,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -2019,7 +2182,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -2071,7 +2234,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "奇瑞高管称「很多车企根本不在意操控和驾驶，他们在意的是沙发冰箱」，如何看待这一言论？行业未来走向如何？",
@@ -2101,6 +2264,30 @@
           "time_info": "[06时56分 ~ 07时53分]"
         },
         {
+          "title": "言短意长｜善用技术温暖“热血”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32973602",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 18时23分]"
+        },
+        {
+          "title": "外卖软件真的会杀熟吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E5%8D%96%E8%BD%AF%E4%BB%B6%E7%9C%9F%E7%9A%84%E4%BC%9A%E6%9D%80%E7%86%9F%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 18时23分]"
+        },
+        {
           "title": "委内瑞拉代总统罗德里格斯：美国颁发的许可并不能提供长期的法律保障，对委内瑞拉的制裁应当予以解除。将倾听石油公司关于能源行业的建议和意见。",
           "url": "https://flash.jin10.com/detail/20260415051720953800",
           "source": "金十数据",
@@ -2125,26 +2312,15 @@
           "time_info": "[11时27分 ~ 14时05分]"
         },
         {
-          "title": "言短意长｜善用技术温暖“热血”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32973602",
+          "title": "数字赋能，技术何以为基层减负？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32939955",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
-        },
-        {
-          "title": "外卖软件真的会杀熟吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E5%8D%96%E8%BD%AF%E4%BB%B6%E7%9C%9F%E7%9A%84%E4%BC%9A%E6%9D%80%E7%86%9F%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
         },
         {
           "title": "行业周报：美国上周API原油库存增超600万桶",
@@ -2167,6 +2343,76 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
+        },
+        {
+          "title": "轻舟试验飞船已在轨完成多项关键技术验证",
+          "url": "https://wallstreetcn.com/livenews/3088359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 steam 显卡 内存 处理器",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "玩家老杨的游戏人生",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%AE%B6%E8%80%81%E6%9D%A8%E7%9A%84%E6%B8%B8%E6%88%8F%E4%BA%BA%E7%94%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            20,
+            13,
+            10,
+            21,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 18时23分]"
+        },
+        {
+          "title": "为什么电影 24 帧感觉很顺畅，但是游戏低于 60fps 就很难受呢？",
+          "url": "https://www.zhihu.com/question/2025990332119040866",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时05分 ~ 18时23分]"
+        },
+        {
+          "title": "识质存在游戏评测",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%86%E8%B4%A8%E5%AD%98%E5%9C%A8%E6%B8%B8%E6%88%8F%E8%AF%84%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 11时27分]"
+        },
+        {
+          "title": "国外新提案!游戏关服出离线版",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353276&amp;topic_name=%E5%9B%BD%E5%A4%96%E6%96%B0%E6%8F%90%E6%A1%88%21%E6%B8%B8%E6%88%8F%E5%85%B3%E6%9C%8D%E5%87%BA%E7%A6%BB%E7%BA%BF%E7%89%88",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
         }
       ]
     },
@@ -2245,52 +2491,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "玩家老杨的游戏人生",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%AE%B6%E8%80%81%E6%9D%A8%E7%9A%84%E6%B8%B8%E6%88%8F%E4%BA%BA%E7%94%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            20,
-            13,
-            10,
-            21,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 16时49分]"
-        },
-        {
-          "title": "识质存在游戏评测",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%86%E8%B4%A8%E5%AD%98%E5%9C%A8%E6%B8%B8%E6%88%8F%E8%AF%84%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时52分 ~ 11时27分]"
-        },
-        {
-          "title": "为什么电影 24 帧感觉很顺畅，但是游戏低于 60fps 就很难受呢？",
-          "url": "https://www.zhihu.com/question/2025990332119040866",
-          "source": "知乎",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时05分 ~ 16时49分]"
         }
       ]
     },
