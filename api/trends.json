@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T04:58:14.440756+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-04-17T05:54:59.558106+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 21,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗战争丨美参联会主席：将全球追击挂伊朗国旗船只",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 04时58分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 05时54分]"
         },
         {
           "title": "国家统计局谈国际能源价格大涨：我国能源资源供应充裕、平稳有序",
@@ -37,8 +37,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 05时54分]"
+        },
+        {
+          "title": "国际油价16日显著上涨",
+          "url": "https://flash.jin10.com/detail/20260417054240215800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "巴基斯坦外交部称下一轮美伊会谈日期尚未确定，伊朗称伊斯兰堡是与美国进行谈判的唯一地点，为何是伊斯兰堡？",
@@ -46,11 +57,56 @@
           "source": "知乎",
           "ranks": [
             19,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 05时54分]"
+        },
+        {
+          "title": "黎巴嫩财政部长：当前局势导致了进度延后，但政府仍打算就国际货币基金组织的援助计划达成协议。在条件允许且议会能够召集各委员会继续推行改革路径后，黎巴嫩政府正致力于尽快重启相关进程。目前正与世界银行合作，以期快速完成损失评估。",
+          "url": "https://flash.jin10.com/detail/20260417053550837800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "美国总统特朗普：意大利（在发动伊朗战争方面）不支持我们，我们将来也不会支持他们。",
+          "url": "https://wallstreetcn.com/livenews/3089591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "黎巴嫩财政部长：黎巴嫩代表团在华盛顿与国际货币基金组织进行了良好的会谈。",
+          "url": "https://flash.jin10.com/detail/20260417053358995800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "伊朗外交部：对在黎巴嫩实现停火表示欢迎",
+          "url": "https://wallstreetcn.com/livenews/3089590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "报道：特朗普能源主管将与各CEO们就美伊战争举行电话会议",
@@ -63,6 +119,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时26分 ~ 04时58分]"
+        },
+        {
+          "title": "据伊朗媒体：伊朗外交部发言人表示，伊朗强调以色列需全面撤出黎巴嫩南部地区。",
+          "url": "https://flash.jin10.com/detail/20260417041623246800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时54分]"
+        },
+        {
+          "title": "据伊朗媒体：伊朗外交部发言人表示，伊朗欢迎黎巴嫩停火，这是伊朗与美国在巴基斯坦调解下达成的停火协议的一部分。",
+          "url": "https://flash.jin10.com/detail/20260417041422151800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时54分]"
         },
         {
           "title": "第十六届北京国际电影节开幕",
@@ -98,6 +178,17 @@
           "time_info": "03时26分"
         },
         {
+          "title": "伊朗外交部：对在黎巴嫩实现停火表示欢迎",
+          "url": "https://flash.jin10.com/detail/20260417051934237800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
           "title": "俄外交部：美国封锁霍尔木兹海峡“非法”",
           "url": "https://wallstreetcn.com/livenews/3089495",
           "source": "华尔街见闻-快讯",
@@ -120,6 +211,17 @@
           "time_info": "03时26分"
         },
         {
+          "title": "七国集团（G7）声明：财长财长们讨论中东危机的经济与金融后果、关键矿物供应链、以及乌克兰问题。 各成员国财长在华盛顿举行的会议上讨论了中东危机的经济与金融后果、关键矿产供应链以及对乌克兰的支持。 各成员国财长一致认为，限制长期中东冲突给全球经济带来的成本具有紧迫性。 G7成员国对冲突给最脆弱国家带来的直接和间接影响保持高度警惕。 G7各成员国财长及央行行长重申了对乌克兰的支持。 各成员国财长讨论了维持对俄罗斯施压的必要性，以防止中东危机使其战争行动受益。 各成员国财长讨论了满足乌克兰能源需求的问题，以为即将到来的冬季做准备。",
+          "url": "https://wallstreetcn.com/livenews/3089582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
           "title": "肯尼亚央行行长：面对伊朗战争冲击，肯尼亚愿意允许本币先令贬值。",
           "url": "https://flash.jin10.com/detail/20260417004958627800",
           "source": "金十数据",
@@ -131,15 +233,15 @@
           "time_info": "01时24分"
         },
         {
-          "title": "据伊朗媒体：伊朗外交部发言人表示，伊朗强调以色列需全面撤出黎巴嫩南部地区。",
-          "url": "https://flash.jin10.com/detail/20260417041623246800",
+          "title": "声明显示：七国集团财长讨论了保持对俄罗斯施压的必要性，以防止中东危机使其战争努力受益。",
+          "url": "https://flash.jin10.com/detail/20260417050731317800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时58分"
+          "time_info": "05时54分"
         },
         {
           "title": "限特朗普战争权力议案遭美众院否决",
@@ -164,24 +266,13 @@
           "time_info": "01时24分"
         },
         {
-          "title": "据伊朗媒体：伊朗外交部发言人表示，伊朗欢迎黎巴嫩停火，这是伊朗与美国在巴基斯坦调解下达成的停火协议的一部分。",
-          "url": "https://flash.jin10.com/detail/20260417041422151800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
           "title": "美国官员们告知欧洲多个国家：（美国和以色列发动）伊朗战争之际，推迟武器交付。（路透）",
           "url": "https://wallstreetcn.com/livenews/3089552",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -192,7 +283,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -244,7 +335,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "如何看待 IDC 发布 2026 第一季度国内手机出货量数据，华为居首苹果次席，小米跌出前五？",
@@ -254,8 +345,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 05时54分]"
         },
         {
           "title": "国家网信办持续整治网上金融信息乱象",
@@ -266,8 +357,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 05时54分]"
         },
         {
           "title": "乌克兰濒临破产，目前可用资金仅够维持数月，为什么会这样？国家破产将会对乌克兰造成怎样的打击？",
@@ -276,11 +367,12 @@
           "ranks": [
             20,
             9,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 05时54分]"
         },
         {
           "title": "中国驻布基纳法索使馆发布提醒",
@@ -289,11 +381,12 @@
           "ranks": [
             28,
             17,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 05时54分]"
         },
         {
           "title": "越共中央总书记、国家主席苏林从北京乘高铁赴广西参访",
@@ -304,8 +397,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 05时54分]"
         },
         {
           "title": "欧洲央行管委Nagel：在4月会议前应保持政策选项开放",
@@ -386,6 +479,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "每个国家都希望自己的领土越大越好，为何会有英格兰扔掉印度的奇葩行为？",
+          "url": "https://www.zhihu.com/question/2025968812399272787",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
           "title": "市场消息：海湾国家和欧洲官员认为，美国需要六个月才能达成与伊朗的协议。",
           "url": "https://flash.jin10.com/detail/20260417003412678800",
           "source": "金十数据",
@@ -433,7 +537,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -443,8 +547,54 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 05时54分]"
+        },
+        {
+          "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
+          "url": "https://www.cls.cn/detail/2346308",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 05时54分]"
+        },
+        {
+          "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2346625",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 05时54分]"
+        },
+        {
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 05时54分]"
+        },
+        {
+          "title": "玩家AI生图捧洛克,网友一秒戳穿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 05时54分]"
         },
         {
           "title": "美国自1999年以来最大规模的工业股IPO：Madison Air Solutions美国IPO首日开盘报32美元，此前给出的IPO发行价为27美元。",
@@ -469,62 +619,17 @@
           "time_info": "03时26分"
         },
         {
-          "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
-          "url": "https://www.cls.cn/detail/2346308",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 04时58分]"
-        },
-        {
-          "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2346625",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 04时58分]"
-        },
-        {
-          "title": "AI承诺赔10万,用户索赔败诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 04时58分]"
-        },
-        {
-          "title": "玩家AI生图捧洛克,网友一秒戳穿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 04时58分]"
-        },
-        {
           "title": "Anthropic 发布 Claude Opus 4.7，性能如何？",
           "url": "https://www.zhihu.com/question/2028243941196054744",
           "source": "知乎",
           "ranks": [
             13,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时26分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[03时26分 ~ 05时54分]"
         },
         {
           "title": "Claude Opus4.7",
@@ -560,13 +665,24 @@
           "time_info": "01时24分"
         },
         {
+          "title": "解读AI蒸馏攻防战",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBAI%E8%92%B8%E9%A6%8F%E6%94%BB%E9%98%B2%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
           "title": "Upscale AI洽谈获得20亿美元估值，该公司的投资者包括老虎环球。",
           "url": "https://wallstreetcn.com/livenews/3089555",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -603,11 +719,24 @@
           "url": "https://wallstreetcn.com/livenews/3089571",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时54分]"
+        },
+        {
+          "title": "周四（4月16日），彭博电动汽车价格回报指数涨2.89%，报3980.01点，北京时间09:30-10:00涨势迅猛，随后持稳于3940点附近，21:30美股开盘后继续扩大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3089568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时54分]"
         },
         {
           "title": "彭博美元指数涨幅扩大，报道称，海湾国家与欧洲官员们认为，美国需要六个月时间才能与伊朗达成协议。",
@@ -621,24 +750,13 @@
           "time_info": "01时24分"
         },
         {
-          "title": "周四（4月16日），彭博电动汽车价格回报指数涨2.89%，报3980.01点，北京时间09:30-10:00涨势迅猛，随后持稳于3940点附近，21:30美股开盘后继续扩大涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3089568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
           "title": "周四（4月16日）纽约尾盘，ICE美元指数涨0.14%，报98.194点，日内交投区间为97.832-98.292点，北京时间16:00之前呈现出V形反转行情，随后持续交投于98.200点附近。 彭博美元指数涨0.07%，报1193.23点，日内交投区间为1189.77-1194.49点。 美元兑日元涨0.07%，报159.11日元，日内交投区间为158.27-159.31日元。 欧元兑日元跌0.05%，英镑兑日元跌0.15%。",
           "url": "https://wallstreetcn.com/livenews/3089556",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -649,7 +767,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         }
@@ -666,11 +784,12 @@
           "ranks": [
             10,
             5,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 05时54分]"
         },
         {
           "title": "【数据看盘】多家机构激烈博弈大族激光 量化联手游资抢筹长信科技",
@@ -681,8 +800,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 05时54分]"
+        },
+        {
+          "title": "标普500指数的11个板块多数收涨，能源板块涨1.55%，房地产板块涨1.01%，信息技术/科技板块涨0.78%，保健板块则收跌0.77%。",
+          "url": "https://wallstreetcn.com/livenews/3089570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时54分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.74%，报7192.18点，跳空高开之后，主要持稳于7200点附近，北京时间00:18曾涨至7256.75点。 热门中概股里，蔚来初步收涨6.7%，新东方涨4.8%，阿里涨4%，比亚迪、小米、小鹏、百度涨超3%，腾讯涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.55%，中国科技指数ETF（CQQQ）收涨1.04%。 XtrackersHarvest中证50（ASHS）收涨0.65%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
+          "url": "https://wallstreetcn.com/livenews/3089562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时54分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.46%，报26229点。 恒生科技指数主连夜盘收跌0.18%，报5077点。",
@@ -694,26 +837,43 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
+          "url": "https://flash.jin10.com/detail/20260417005843333800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
-          "title": "标普500指数的11个板块多数收涨，能源板块涨1.55%，房地产板块涨1.01%，信息技术/科技板块涨0.78%，保健板块则收跌0.77%。",
-          "url": "https://wallstreetcn.com/livenews/3089570",
+          "title": "NiSource美股盘后涨3.7%，该公司宣布与谷歌母公司Alphabet附属公司达成长期能源供应协议，用于后者在美国印第安纳州北部开发和运营大规模数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3089580",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时58分"
+          "time_info": "05时54分"
         },
         {
-          "title": "纳斯达克金龙中国指数收涨1.74%，报7192.18点，跳空高开之后，主要持稳于7200点附近，北京时间00:18曾涨至7256.75点。 热门中概股里，蔚来初步收涨6.7%，新东方涨4.8%，阿里涨4%，比亚迪、小米、小鹏、百度涨超3%，腾讯涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.55%，中国科技指数ETF（CQQQ）收涨1.04%。 XtrackersHarvest中证50（ASHS）收涨0.65%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
-          "url": "https://wallstreetcn.com/livenews/3089562",
+          "title": "OpenAI推出旨在药物研发的新AI模型，向谷歌发起挑战",
+          "url": "https://wallstreetcn.com/livenews/3089544",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         }
@@ -733,8 +893,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 05时54分]"
         },
         {
           "title": "据英国金融时报：美国石油行业高管敦促特朗普，应在伊朗提出对霍尔木兹海峡征收“通行费”问题上保持强硬立场。",
@@ -761,34 +921,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
-          "url": "https://flash.jin10.com/detail/20260417005843333800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "OpenAI推出旨在药物研发的新AI模型，向谷歌发起挑战",
-          "url": "https://wallstreetcn.com/livenews/3089544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
       "match_count": 1,
       "titles": [
@@ -799,11 +931,12 @@
           "ranks": [
             12,
             20,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 05时54分]"
         }
       ]
     }
