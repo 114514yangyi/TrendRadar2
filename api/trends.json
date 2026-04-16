@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T07:53:08.436470+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2026-04-16T11:35:01.761544+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 36,
+      "match_count": 44,
       "titles": [
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 11时35分]"
         },
         {
           "title": "特朗普称美国对伊朗的战争已经结束",
@@ -40,6 +40,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时58分 ~ 07时53分]"
+        },
+        {
+          "title": "50位主播挑战争夺100万美金",
+          "url": "https://search.bilibili.com/all?keyword=50%E4%BD%8D%E4%B8%BB%E6%92%AD%E6%8C%91%E6%88%98%E4%BA%89%E5%A4%BA100%E4%B8%87%E7%BE%8E%E9%87%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            12,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 11时35分]"
         },
         {
           "title": "美军称已完全切断伊朗海上进出口贸易，已拦截 8 艘进出伊朗港口的油轮，对其国内国际市场有何影响？",
@@ -68,17 +82,15 @@
           "time_info": "[02时09分 ~ 04时07分]"
         },
         {
-          "title": "50位主播挑战争夺100万美金",
-          "url": "https://search.bilibili.com/all?keyword=50%E4%BD%8D%E4%B8%BB%E6%92%AD%E6%8C%91%E6%88%98%E4%BA%89%E5%A4%BA100%E4%B8%87%E7%BE%8E%E9%87%91",
-          "source": "bilibili 热搜",
+          "title": "伊朗战争丨穆杰塔巴顾问威胁击沉美国军舰",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            12,
-            15
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时53分]"
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
         },
         {
           "title": "专访贾雷德·戴蒙德（下）：人类为何无法摆脱战争引力？",
@@ -180,9 +192,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "伊朗战争推动美国自二战以来首次接近成为原油净出口国",
+          "url": "https://flash.jin10.com/detail/20260416111930034800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         },
         {
           "title": "【伊朗议长卡利巴夫：黎巴嫩全面停火是抵抗阵线斗争的成果】伊朗伊斯兰议会议长卡利巴夫16日通过社交媒体发表声明称，黎巴嫩全面停火协议的达成与巩固，归功于真主党的英勇抵抗和“抵抗之弧”力量的团结。卡利巴夫指出，美国必须严格遵守相关协议。他强调，无论是在战争时期还是停火阶段，伊朗与抵抗力量始终有着共同的意志。卡利巴夫同时呼吁，美国应当反思其外交政策，纠正“以色列优先”的错误立场，从这一错误路线中撤回。（央视）",
@@ -197,6 +220,18 @@
           "time_info": "[05时58分 ~ 06时54分]"
         },
         {
+          "title": "美联储褐皮书：中东战争已成美国经济最主要不确定性来源",
+          "url": "https://www.cls.cn/detail/2345464",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 11时35分]"
+        },
+        {
           "title": "英国央行行长贝利：通胀正在上升。 伊朗战争将对（经济）活动造成负面影响。 这是一个非常重大的能源冲击。 （伊朗战争产生的）增速和通胀影响难以权衡。 （美国和以色列发动）伊朗战争之前，我本来预计会降息1-2次。 当前，这不再是我们的中心预期。",
           "url": "https://wallstreetcn.com/livenews/3088787",
           "source": "华尔街见闻-快讯",
@@ -209,15 +244,26 @@
           "time_info": "[05时58分 ~ 06时54分]"
         },
         {
-          "title": "美联储褐皮书：中东战争已成美国经济最主要不确定性来源",
-          "url": "https://www.cls.cn/detail/2345464",
-          "source": "财联社热门",
+          "title": "伊朗提出战争赔偿问题有何考量",
+          "url": "https://www.toutiao.com/trending/7628674935150772260/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
+          "title": "美防长赫格塞思遭弹劾 被控犯战争罪",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E9%98%B2%E9%95%BF%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D%E9%81%AD%E5%BC%B9%E5%8A%BE+%E8%A2%AB%E6%8E%A7%E7%8A%AF%E6%88%98%E4%BA%89%E7%BD%AA",
+          "source": "百度热搜",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
+          "time_info": "[11时34分 ~ 11时35分]"
         },
         {
           "title": "新西兰建筑公司警示：受伊朗战争引发的燃料相关影响",
@@ -242,6 +288,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时58分 ~ 06时54分]"
+        },
+        {
+          "title": "蔡皋和曹文轩，对话两位国际安徒生奖得主",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32977484",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
         },
         {
           "title": "国际油价15日微涨",
@@ -333,6 +390,17 @@
           "time_info": "04时07分"
         },
         {
+          "title": "国家统计局：国际原油市场波动总体来讲对我国影响较小",
+          "url": "https://flash.jin10.com/detail/20260416110356108800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "欧洲央行执行理事会成员Isabel Schnabel：通胀预期可能会变得更加脆弱。 欧洲央行可以承受“花时间来分析伊朗战争带来的冲击”所产生的影响。",
           "url": "https://wallstreetcn.com/livenews/3088774",
           "source": "华尔街见闻-快讯",
@@ -353,6 +421,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "国际足联主席表示伊朗队将参加世界杯",
+          "url": "https://flash.jin10.com/detail/20260416105819413800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         },
         {
           "title": "美联储穆萨莱姆：已将今年GDP增速预期从伊朗战争前的2%–2.5%下调至1.5%–2%。",
@@ -386,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "金十图示：2026年04月16日（周四）上海金早盘价为1057.8元/克，较国际金价(1055.87元/克)，高1.93元/克",
+          "url": "https://flash.jin10.com/detail/20260416105348870800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         },
         {
           "title": "伊朗外交部发言人：伊美是否延长停火无法确认",
@@ -424,7 +514,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 26,
+      "match_count": 42,
       "titles": [
         {
           "title": "王石委托律师发布声明：“被抓”纯属恶意捏造，人身自由不受任何限制",
@@ -461,11 +551,27 @@
             4,
             6,
             10,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 11时35分]"
+        },
+        {
+          "title": "国办印发《关于深化投资审批制度改革的意见》",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32976671",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            15,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 11时35分]"
         },
         {
           "title": "机构发布“2026中国大学排名”",
@@ -480,18 +586,39 @@
           "time_info": "[00时11分 ~ 07时53分]"
         },
         {
-          "title": "国办印发《关于深化投资审批制度改革的意见》",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32976671",
-          "source": "澎湃新闻",
+          "title": "国家发的电用不完的，国家电网会储存起来吗，还是浪费了？",
+          "url": "https://www.zhihu.com/question/320833834",
+          "source": "知乎",
           "ranks": [
-            20,
-            17,
-            15,
-            14
+            19,
+            10,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时53分]"
+          "appearance_count": 5,
+          "time_info": "[06时54分 ~ 11时35分]"
+        },
+        {
+          "title": "国家统计局：我国进出口有条件保持较好增长",
+          "url": "https://wallstreetcn.com/livenews/3088980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "国家统计局副局长毛盛勇：我国人工智能商业化、规模化运营取得了阶段性突破。截至今年3月，日均词元（Token）调用量突破140万亿，比上年末增长超40%。",
+          "url": "https://wallstreetcn.com/livenews/3088977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         },
         {
           "title": "驻外人员嫖娼遭仙人跳出卖国家秘密",
@@ -518,18 +645,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时09分 ~ 06时54分]"
-        },
-        {
-          "title": "国家发的电用不完的，国家电网会储存起来吗，还是浪费了？",
-          "url": "https://www.zhihu.com/question/320833834",
-          "source": "知乎",
-          "ranks": [
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时54分 ~ 07时53分]"
         },
         {
           "title": "美国能源部长表示：需彻底改革许可制度以推动项目建设",
@@ -601,6 +716,28 @@
           "time_info": "04时07分"
         },
         {
+          "title": "国家统计局：我国进出口有条件保持较好增长",
+          "url": "https://flash.jin10.com/detail/20260416111833365800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "国家统计局：一季度发电机组、铁路机车等中高端装备产量较快增长",
+          "url": "https://flash.jin10.com/detail/20260416111737700800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "乌克兰总理：与贝森特重点讨论了加强对俄罗斯制裁政策的必要性。",
           "url": "https://flash.jin10.com/detail/20260416032456776800",
           "source": "金十数据",
@@ -621,6 +758,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "日本外汇事务负责人三村淳：日本和美国已确认将在副部长层面就外汇进行合作。",
+          "url": "https://wallstreetcn.com/livenews/3088968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "国家统计局：一季度3D打印设备、锂离子电池、工业机器人产品产量同比分别增长54.0%、40.8%、33.2%。",
+          "url": "https://wallstreetcn.com/livenews/3088967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数大致持平，报385.89点。 在十个板块中，北欧医疗保健板块涨幅最大。 Spotify Technology SA涨4.2%，在一众北欧个股里领跑。",
@@ -645,6 +804,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "国家统计局：实现全年经济平稳运行和高质量发展完全有条件",
+          "url": "https://flash.jin10.com/detail/20260416111002289800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "【报道：伊朗将评估是否与美国举行下一轮谈判】伊朗塔斯尼姆通讯社15日援引知情人士消息报道，伊朗方面与巴基斯坦陆军参谋长穆尼尔率领的代表团举行会晤后，将进行必要评估再决定是否与美国开展下一轮谈判。 该知情人士说，在黎巴嫩实现停火对伊朗参与下一轮谈判会是一个积极信号。与此同时，美方必须坚持合理的谈判框架，不能提出过分要求或违反停火前所作承诺。 15日早些时候，巴基斯坦军方发布声明说，穆尼尔和巴基斯坦内政部长穆赫辛·纳克维当天率领巴代表团抵达伊朗首都德黑兰，继续推进斡旋美国和伊朗谈判。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3088687",
           "source": "华尔街见闻-快讯",
@@ -654,6 +824,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "国家统计局：国内市场供需改善、市场竞争秩序持续逐步优化是影响PPI上涨主导原因",
+          "url": "https://wallstreetcn.com/livenews/3088961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         },
         {
           "title": "【美军：对伊朗海上封锁48小时内无船只突破管控】4月15日，美国中央司令部表示，在美方对伊朗港口实施海上封锁的前48小时内，暂无任何船只突破美军封锁线。此外，已有9艘船只在美方指令下掉头返回伊朗港口或沿海区域。总部位于英国的海事分析公司温沃德14日发布报告称，美国对所有进出伊朗港口的船舶实施封锁后，仍有部分船舶进出霍尔木兹海峡，航运并未因美国封锁而完全停止。（央视）",
@@ -689,6 +870,17 @@
           "time_info": "05时58分"
         },
         {
+          "title": "国家统计局：我国能源资源供应充裕、平稳有序",
+          "url": "https://wallstreetcn.com/livenews/3088956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "美国调查特朗普对伊政策转向前发生的异常石油交易",
           "url": "https://wallstreetcn.com/livenews/3088681",
           "source": "华尔街见闻-快讯",
@@ -698,6 +890,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报165900元/吨，较上日16:30价格上涨800元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3088950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         },
         {
           "title": "Cadence与英伟达扩大合作伙伴关系，以在人工智能与加速计算时代重塑工程设计。",
@@ -711,6 +914,17 @@
           "time_info": "02时09分"
         },
         {
+          "title": "国家统计局：我国的出口韧性更强，外部形势对我国出口的影响可控",
+          "url": "https://flash.jin10.com/detail/20260416105642772800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "美国发布新一轮涉伊制裁措施",
           "url": "https://wallstreetcn.com/livenews/3088725",
           "source": "华尔街见闻-快讯",
@@ -722,6 +936,17 @@
           "time_info": "04时07分"
         },
         {
+          "title": "国家统计局：一季度经济表现可圈可点 供需两端都有明显改善",
+          "url": "https://wallstreetcn.com/livenews/3088947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "瑞士央行行长施莱格尔：瑞士对外部冲击的敞口对货币政策工具具有重要影响。",
           "url": "https://flash.jin10.com/detail/20260416012843474800",
           "source": "金十数据",
@@ -731,23 +956,242 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "国家统计局：一季度，全国规模以上工业产能利用率为73.6%，比上年四季度下降1.3个百分点，比上年同期下降0.5个百分点。",
+          "url": "https://wallstreetcn.com/livenews/3088941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "国家统计局：一季度知识产权产品投资增速较快",
+          "url": "https://flash.jin10.com/detail/20260416105146775800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "国家统计局：一季度全国居民人均消费支出7955元，比上年同期名义增长3.6%",
+          "url": "https://wallstreetcn.com/livenews/3088939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "国家统计局：要更关注固定资产投资的结构、效益、质量和可持续性",
+          "url": "https://flash.jin10.com/detail/20260416104931420800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科研 论文 大模型 科技 创新 成果",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "通用大模型直接接入股票行情数据，新的竞争信号来了？",
+          "url": "https://www.cls.cn/detail/2345128",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 07时53分]"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（4月16日）",
+          "url": "https://flash.jin10.com/detail/20260416071959311800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "伊朗议长卡利巴夫：黎巴嫩全面停火是抵抗阵线斗争的成果",
+          "url": "https://flash.jin10.com/detail/20260416052231796800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 07时53分]"
+        },
+        {
+          "title": "宁德时代Q1营收同比增长52%创新高，净利润增长48%，拟10派69.57元 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3770044",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
+          "title": "创新药定价自主权松绑！14条举措健全药品价格形成机制，释放了哪些信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32976185",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
+          "title": "全球客商纷纷“拥抱”中国科技",
+          "url": "https://www.toutiao.com/trending/7628988018821120042/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.57%，报26129点。 恒生科技指数主连夜盘收涨1.06%，报4977点。",
+          "url": "https://wallstreetcn.com/livenews/3088739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        },
+        {
+          "title": "蓝思科技：折叠屏在今年下半年就会开始放量 各板块增长点会在下半年和明年有集中式爆发",
+          "url": "https://wallstreetcn.com/livenews/3088962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "群核科技明日登陆港交所，险资领衔基石投资",
+          "url": "https://wallstreetcn.com/livenews/3088812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "美国石油出口创新高，试图“透支”石油储备平抑战时高油价",
+          "url": "https://flash.jin10.com/detail/20260416110418380800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "【报道：巴陆军参谋长访伊是因为核谈判取得“重大突破”】消息人士表示，巴基斯坦陆军参谋长此次亲身访问伊朗的原因是伊朗核问题谈判已取得“重大突破”，巴基斯坦方面对此抱有希望，认为有望达成成果。消息人士称，过去24小时内各方为此做了大量工作，埃及、巴基斯坦、沙特和土耳其在伊斯兰堡举行了会晤。巴方对沟通渠道保持畅通持乐观态度。巴基斯坦军方高层也一直在与美国政府沟通，尤其是与万斯保持联系。（半岛电视台）",
+          "url": "https://wallstreetcn.com/livenews/3088684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "金十图示：2026年04月16日（周四）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20260416105655217800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "标普500指数的11个板块多数收跌，原材料板块收跌1.3%，工业板块跌1.24%，能源板块跌0.28%，电信、可选消费板块则至多收涨1.37%，信息技术/科技板块涨2.08%。",
+          "url": "https://wallstreetcn.com/livenews/3088768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "蓝思科技：折叠屏在今年下半年就会开始放量 各板块增长点会在下半年和明年有集中式爆发",
+          "url": "https://flash.jin10.com/detail/20260416104855732800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.75%，报7068.97点。 热门中概股里，小马智行初步收涨7.8%，再鼎医药涨5.7%，Boss直聘涨5.5%，百度涨2.2%，阿里涨1.5%，腾讯涨0.8%。KWEB涨0.9%。 ETF中，中概互联网指数ETF（KWEB）收涨0.92%，中国科技指数ETF（CQQQ）收跌0.24%。 德银嘉实沪深300指数ETF（ASHR）收跌0.84%，XtrackersHarvest中证50（ASHS）收跌1.10%。",
+          "url": "https://wallstreetcn.com/livenews/3088758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         }
       ]
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI承诺赔10万,用户索赔败诉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 11时35分]"
         },
         {
           "title": "DeepSeek招人去内蒙草原“守机房”",
@@ -757,11 +1201,12 @@
             9,
             19,
             28,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 11时35分]"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
@@ -790,6 +1235,17 @@
           "time_info": "[05时58分 ~ 07时53分]"
         },
         {
+          "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
+          "url": "https://wallstreetcn.com/articles/3770049",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
           "title": "绩优基金一季报密集披露：多只基金规模大增，看多AI相关产业链",
           "url": "https://wallstreetcn.com/livenews/3088801",
           "source": "华尔街见闻-快讯",
@@ -800,6 +1256,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 07时53分]"
+        },
+        {
+          "title": "玩家AI生图捧洛克,网友一秒戳穿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
         },
         {
           "title": "美国参议院成员Whitehouse发函环境保护署（EPA），就（天然气发电站）燃机问题质问马斯克旗下人工智能初创公司xAI。",
@@ -824,13 +1291,24 @@
           "time_info": "00时11分"
         },
         {
+          "title": "港股AI应用板块走高，滴普科技(01384.HK)涨超21%，迈富时(02556.HK)涨超13%，小马智行-W(02026.HK)涨超10%，金蝶国际(00268.HK)、百度(09888.HK)涨6.8%。",
+          "url": "https://flash.jin10.com/detail/20260416111508470800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "报道：美国航司Spirit Airlines最早可能在本周开始清算",
           "url": "https://wallstreetcn.com/livenews/3088814",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -846,112 +1324,26 @@
           "time_info": "00时11分"
         },
         {
+          "title": "特斯拉变芯片股了？AI芯片“流片”落地，股价大涨近8%",
+          "url": "https://flash.jin10.com/detail/20260416105704343800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "美国民主党参议员就燃气轮机问题对xAI和环保署发起审查",
           "url": "https://wallstreetcn.com/livenews/3088802",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "通用大模型直接接入股票行情数据，新的竞争信号来了？",
-          "url": "https://www.cls.cn/detail/2345128",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时53分]"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（4月16日）",
-          "url": "https://flash.jin10.com/detail/20260416071959311800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "伊朗议长卡利巴夫：黎巴嫩全面停火是抵抗阵线斗争的成果",
-          "url": "https://flash.jin10.com/detail/20260416052231796800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时58分 ~ 07时53分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.57%，报26129点。 恒生科技指数主连夜盘收涨1.06%，报4977点。",
-          "url": "https://wallstreetcn.com/livenews/3088739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时07分"
-        },
-        {
-          "title": "群核科技明日登陆港交所，险资领衔基石投资",
-          "url": "https://wallstreetcn.com/livenews/3088812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "【报道：巴陆军参谋长访伊是因为核谈判取得“重大突破”】消息人士表示，巴基斯坦陆军参谋长此次亲身访问伊朗的原因是伊朗核问题谈判已取得“重大突破”，巴基斯坦方面对此抱有希望，认为有望达成成果。消息人士称，过去24小时内各方为此做了大量工作，埃及、巴基斯坦、沙特和土耳其在伊斯兰堡举行了会晤。巴方对沟通渠道保持畅通持乐观态度。巴基斯坦军方高层也一直在与美国政府沟通，尤其是与万斯保持联系。（半岛电视台）",
-          "url": "https://wallstreetcn.com/livenews/3088684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "标普500指数的11个板块多数收跌，原材料板块收跌1.3%，工业板块跌1.24%，能源板块跌0.28%，电信、可选消费板块则至多收涨1.37%，信息技术/科技板块涨2.08%。",
-          "url": "https://wallstreetcn.com/livenews/3088768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.75%，报7068.97点。 热门中概股里，小马智行初步收涨7.8%，再鼎医药涨5.7%，Boss直聘涨5.5%，百度涨2.2%，阿里涨1.5%，腾讯涨0.8%。KWEB涨0.9%。 ETF中，中概互联网指数ETF（KWEB）收涨0.92%，中国科技指数ETF（CQQQ）收跌0.24%。 德银嘉实沪深300指数ETF（ASHR）收跌0.84%，XtrackersHarvest中证50（ASHS）收跌1.10%。",
-          "url": "https://wallstreetcn.com/livenews/3088758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
         }
       ]
     },
@@ -1045,7 +1437,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "言短意长｜善用技术温暖献血者“热血”",
@@ -1098,6 +1490,17 @@
           "time_info": "[04时07分 ~ 07时53分]"
         },
         {
+          "title": "如何评价伊朗遭袭时美制通信设备集体失灵？发展本土技术有多重要？",
+          "url": "https://www.zhihu.com/question/2027751325488694656",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
           "title": "轮胎行业涨价潮再发酵，多家上市公司月内多轮调价，业内：预计后续还会有新一轮集中调价",
           "url": "https://www.cls.cn/detail/2345317",
           "source": "财联社热门",
@@ -1112,7 +1515,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中信建投：Anthropic最强模型Mythos推出，重点推荐谷歌链",
@@ -1121,7 +1524,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -1150,6 +1553,17 @@
           "time_info": "[05时58分 ~ 07时53分]"
         },
         {
+          "title": "谷歌最新SpaceX持股比例出炉 投资盈利有望达100000000000美元",
+          "url": "https://www.cls.cn/detail/2345498",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
           "title": "报道：谷歌母公司Alphabet料将因SpaceX投资而获得1000亿美元“意外之财”",
           "url": "https://wallstreetcn.com/livenews/3088724",
           "source": "华尔街见闻-快讯",
@@ -1164,18 +1578,19 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "国外新提案!游戏关服出离线版",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353276&amp;topic_name=%E5%9B%BD%E5%A4%96%E6%96%B0%E6%8F%90%E6%A1%88%21%E6%B8%B8%E6%88%8F%E5%85%B3%E6%9C%8D%E5%87%BA%E7%A6%BB%E7%BA%BF%E7%89%88",
           "source": "贴吧",
           "ranks": [
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 11时35分]"
         },
         {
           "title": "玩家老杨的游戏人生",
@@ -1189,14 +1604,36 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 11时35分]"
+        },
+        {
+          "title": "游戏主播芜湖大司马吐槽「每天需要狂送手机才能维持人气」，为什么现在游戏主播越来越难做了？",
+          "url": "https://www.zhihu.com/question/2027762134264673438",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
+          "title": "腾讯混元世界模型2.0开源，可一句话造出3D世界、生成3D游戏原型",
+          "url": "https://wallstreetcn.com/livenews/3088964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         }
       ]
     },
     {
       "keyword_group": "热点",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何看待俄罗斯外长拉夫罗夫访华？中俄在热点问题上还有哪些对表空间？",
@@ -1211,6 +1648,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时11分 ~ 07时53分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260416112253964800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         }
       ]
     }
