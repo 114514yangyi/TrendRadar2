@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T01:24:07.581671+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-17T03:26:32.190401+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "如何看待 IDC 发布 2026 第一季度国内手机出货量数据，华为居首苹果次席，小米跌出前五？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时26分]"
         },
         {
           "title": "国家网信办持续整治网上金融信息乱象",
@@ -26,8 +26,55 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时26分]"
+        },
+        {
+          "title": "欧洲央行管委Nagel：在4月会议前应保持政策选项开放",
+          "url": "https://wallstreetcn.com/livenews/3089548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "乌克兰濒临破产，目前可用资金仅够维持数月，为什么会这样？国家破产将会对乌克兰造成怎样的打击？",
+          "url": "https://www.zhihu.com/question/2028168681784434786",
+          "source": "知乎",
+          "ranks": [
+            20,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时26分]"
+        },
+        {
+          "title": "越共中央总书记、国家主席苏林从北京乘高铁赴广西参访",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32982197",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时26分]"
+        },
+        {
+          "title": "中国驻布基纳法索使馆发布提醒",
+          "url": "https://www.douyin.com/hot/2468059",
+          "source": "抖音",
+          "ranks": [
+            28,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时26分]"
         },
         {
           "title": "美前官员：特朗普欲“谈合作”，但其团队对华立场更为强硬",
@@ -41,48 +88,26 @@
           "time_info": "[01时23分 ~ 01时24分]"
         },
         {
-          "title": "越共中央总书记、国家主席苏林从北京乘高铁赴广西参访",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32982197",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
-        },
-        {
-          "title": "乌克兰濒临破产，目前可用资金仅够维持数月，为什么会这样？国家破产将会对乌克兰造成怎样的打击？",
-          "url": "https://www.zhihu.com/question/2028168681784434786",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
-        },
-        {
-          "title": "中国驻布基纳法索使馆发布提醒",
-          "url": "https://www.douyin.com/hot/2468059",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
-        },
-        {
           "title": "欧洲央行管委维勒鲁瓦：央行独立是货币政策成功的前提。",
           "url": "https://flash.jin10.com/detail/20260417005213596800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "欧洲央行内格尔：4月会议前应保持政策选择余地",
+          "url": "https://flash.jin10.com/detail/20260417025100729800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         },
         {
           "title": "英国央行货币政策委员泰勒：我更关注上行因素，重大的生产率提升即将到来。",
@@ -91,9 +116,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "美国总统特朗普在社交媒体上批评法官“出于政治动机”试图阻止白宫大型宴会厅项目建设，称其行为削弱国家安全。",
+          "url": "https://flash.jin10.com/detail/20260417024741416800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         },
         {
           "title": "海湾国家和欧洲官员认为美国需六个月才能达成伊朗协议",
@@ -102,7 +138,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         },
@@ -113,7 +149,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         },
@@ -124,15 +160,37 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "美国国务院：各方一致承认黎巴嫩安全部队对维护国家主权与国防负有唯一责任。以色列与黎巴嫩已请求美国推动两国进一步开展直接谈判。",
+          "url": "https://flash.jin10.com/detail/20260417023036978800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "美国国务院：黎巴嫩将采取实质性措施，防止真主党及其他非国家武装组织在其领土内对以色列目标发动任何袭击。",
+          "url": "https://flash.jin10.com/detail/20260417023007584800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         }
       ]
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "伊朗战争丨美参联会主席：将全球追击挂伊朗国旗船只",
@@ -142,8 +200,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时26分]"
+        },
+        {
+          "title": "报道：特朗普能源主管将与各CEO们就美伊战争举行电话会议",
+          "url": "https://wallstreetcn.com/livenews/3089546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         },
         {
           "title": "国家统计局谈国际能源价格大涨：我国能源资源供应充裕、平稳有序",
@@ -153,19 +222,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时26分]"
         },
         {
           "title": "巴基斯坦外交部称下一轮美伊会谈日期尚未确定，伊朗称伊斯兰堡是与美国进行谈判的唯一地点，为何是伊斯兰堡？",
           "url": "https://www.zhihu.com/question/2028145295125430592",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时26分]"
         },
         {
           "title": "德国财政部长：我认为伊朗战争的影响将持续一段时间。",
@@ -174,9 +244,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "国际原子能机构：乌克兰扎波罗热核电站的电力连接在大约40分钟后恢复。停电原因尚不清楚。",
+          "url": "https://flash.jin10.com/detail/20260417030056290800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         },
         {
           "title": "俄外交部：美国封锁霍尔木兹海峡“非法”",
@@ -185,9 +266,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "国际原子能机构：乌克兰扎波罗热核电站今晚暂时失去所有外部电源。",
+          "url": "https://flash.jin10.com/detail/20260417030009360800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         },
         {
           "title": "肯尼亚央行行长：面对伊朗战争冲击，肯尼亚愿意允许本币先令贬值。",
@@ -196,7 +288,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         },
@@ -207,7 +299,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         },
@@ -218,7 +310,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         },
@@ -229,9 +321,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "秘鲁央行行长：在战争期间加息为时尚早。",
+          "url": "https://flash.jin10.com/detail/20260417023205687800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "美国国务院：谈判旨在解决所有剩余问题，包括国际陆地边界的划定。",
+          "url": "https://flash.jin10.com/detail/20260417023059680800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         },
         {
           "title": "英国央行货币政策委员泰勒：劳动力市场对伊朗战争的反应是英国央行决策的关键。",
@@ -240,7 +354,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         }
@@ -248,7 +362,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -258,8 +372,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时26分]"
         },
         {
           "title": "美国自1999年以来最大规模的工业股IPO：Madison Air Solutions美国IPO首日开盘报32美元，此前给出的IPO发行价为27美元。",
@@ -268,9 +382,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "OpenAI发布用于药物研发的新款AI模型。",
+          "url": "https://wallstreetcn.com/livenews/3089544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         },
         {
           "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
@@ -280,8 +405,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时26分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -291,8 +416,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时26分]"
         },
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -302,8 +427,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时26分]"
         },
         {
           "title": "玩家AI生图捧洛克,网友一秒戳穿",
@@ -313,8 +438,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时26分]"
         },
         {
           "title": "Claude Opus4.7",
@@ -328,15 +453,128 @@
           "time_info": "[01时23分 ~ 01时24分]"
         },
         {
+          "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
+          "url": "https://flash.jin10.com/detail/20260417030201225800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
           "title": "在OpenAI宣布伦敦首个永久办公室后，Anthropic揭晓英国重大扩张计划",
           "url": "https://wallstreetcn.com/livenews/3089493",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "Anthropic 发布 Claude Opus 4.7，性能如何？",
+          "url": "https://www.zhihu.com/question/2028243941196054744",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "OpenAI发布Codex更新",
+          "url": "https://wallstreetcn.com/livenews/3089521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科研 论文 大模型 科技 创新 成果",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "同济通报「院长被质疑 Nature 论文数据造假」，已成立调查组，有哪些信息值得关注？若查实将有什么影响？",
+          "url": "https://www.zhihu.com/question/2028179039127433628",
+          "source": "知乎",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时26分]"
+        },
+        {
+          "title": "【数据看盘】多家机构激烈博弈大族激光 量化联手游资抢筹长信科技",
+          "url": "https://www.cls.cn/detail/2346360",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时26分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.46%，报26229点。 恒生科技指数主连夜盘收跌0.18%，报5077点。",
+          "url": "https://wallstreetcn.com/livenews/3089541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "github 技术 行业 软件",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据英国金融时报：美国石油行业高管敦促特朗普，应在伊朗提出对霍尔木兹海峡征收“通行费”问题上保持强硬立场。",
+          "url": "https://flash.jin10.com/detail/20260417030924363800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "中国海洋采油技术有多牛",
+          "url": "https://www.douyin.com/hot/2468545",
+          "source": "抖音",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时26分]"
+        },
+        {
+          "title": "我练拳击，痴迷于迈克泰森的技术，我身高 192，学他躲猫猫式可行吗？还是学标准式好？",
+          "url": "https://www.zhihu.com/question/2002416353139782462",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时26分]"
         }
       ]
     },
@@ -351,7 +589,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         },
@@ -362,65 +600,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【数据看盘】多家机构激烈博弈大族激光 量化联手游资抢筹长信科技",
-          "url": "https://www.cls.cn/detail/2346360",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
-        },
-        {
-          "title": "同济通报「院长被质疑 Nature 论文数据造假」，已成立调查组，有哪些信息值得关注？若查实将有什么影响？",
-          "url": "https://www.zhihu.com/question/2028179039127433628",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "github 技术 行业 软件",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中国海洋采油技术有多牛",
-          "url": "https://www.douyin.com/hot/2468545",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
-        },
-        {
-          "title": "我练拳击，痴迷于迈克泰森的技术，我身高 192，学他躲猫猫式可行吗？还是学标准式好？",
-          "url": "https://www.zhihu.com/question/2002416353139782462",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
         }
       ]
     },
@@ -435,7 +617,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         }
@@ -450,11 +632,12 @@
           "url": "https://www.zhihu.com/question/2027762134264673438",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时26分]"
         }
       ]
     }
