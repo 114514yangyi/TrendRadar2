@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T18:52:52.927523+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-04-25T19:45:23.544786+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -31,20 +31,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时07分 ~ 13时53分]"
-        },
-        {
-          "title": "AI图以假乱真,恐怖谷效应拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            4,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 18时52分]"
         },
         {
           "title": "中方反对美方污蔑抹黑中国AI产业",
@@ -87,6 +73,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时07分 ~ 17时03分]"
+        },
+        {
+          "title": "AI图以假乱真,恐怖谷效应拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            4,
+            8,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时07分 ~ 19时45分]"
         },
         {
           "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
@@ -154,11 +155,12 @@
             12,
             16,
             20,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 18时52分]"
+          "appearance_count": 14,
+          "time_info": "[01时07分 ~ 19时45分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -174,6 +176,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时07分 ~ 07时50分]"
+        },
+        {
+          "title": "DeepSeekV4更新了啥",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%9B%B4%E6%96%B0%E4%BA%86%E5%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 19时45分]"
         },
         {
           "title": "财晓得｜光纤涨价650%背后：AI需求“挤爆”光通信产业链",
@@ -219,19 +234,6 @@
           "time_info": "[01时07分 ~ 11时19分]"
         },
         {
-          "title": "DeepSeekV4更新了啥",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%9B%B4%E6%96%B0%E4%BA%86%E5%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 18时52分]"
-        },
-        {
           "title": "DeepSeekV4预览版本上线",
           "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E9%A2%84%E8%A7%88%E7%89%88%E6%9C%AC%E4%B8%8A%E7%BA%BF",
           "source": "bilibili 热搜",
@@ -275,17 +277,31 @@
           "time_info": "[13时53分 ~ 17时03分]"
         },
         {
+          "title": "DeepSeek如何适配国产芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 19时45分]"
+        },
+        {
           "title": "第一次对AI感到恐惧",
           "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9AI%E6%84%9F%E5%88%B0%E6%81%90%E6%83%A7&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
             4,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 18时52分]"
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 19时45分]"
         },
         {
           "title": "戛纳电影宫的中国AI时刻",
@@ -333,19 +349,6 @@
           "time_info": "[06时51分 ~ 17时03分]"
         },
         {
-          "title": "DeepSeek如何适配国产芯片",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 18时52分]"
-        },
-        {
           "title": "Claude降智了吗",
           "url": "https://search.bilibili.com/all?keyword=Claude%E9%99%8D%E6%99%BA%E4%BA%86%E5%90%97",
           "source": "bilibili 热搜",
@@ -354,11 +357,12 @@
             7,
             8,
             13,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 18时52分]"
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 19时45分]"
         },
         {
           "title": "黄仁勋要求英伟达所有员工用OpenAI",
@@ -370,6 +374,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "DeepSeekV4 尺度",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%20%E5%B0%BA%E5%BA%A6&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
+          "url": "https://www.toutiao.com/trending/7632545381678878254/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 19时45分]"
+        },
+        {
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 19时45分]"
         },
         {
           "title": "月之暗面与DeepSeek的“听牌”时刻",
@@ -395,15 +433,31 @@
           "time_info": "[04时58分 ~ 06时51分]"
         },
         {
-          "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
-          "url": "https://www.toutiao.com/trending/7632545381678878254/",
-          "source": "今日头条",
+          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            18,
+            16,
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 18时52分]"
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 19时45分]"
+        },
+        {
+          "title": "OpenAI创始人就未向警方举报枪击案嫌疑人一事致歉",
+          "url": "https://flash.jin10.com/detail/20260425162059332800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 19时45分]"
         },
         {
           "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
@@ -418,41 +472,16 @@
           "time_info": "[01时07分 ~ 03时05分]"
         },
         {
-          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
-          "url": "https://wallstreetcn.com/articles/3770880",
-          "source": "华尔街见闻",
+          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
+          "url": "https://www.cls.cn/detail/2355592",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 18时52分]"
-        },
-        {
-          "title": "OpenAI创始人就未向警方举报枪击案嫌疑人一事致歉",
-          "url": "https://flash.jin10.com/detail/20260425162059332800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 18时52分]"
-        },
-        {
-          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            15
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时53分 ~ 18时52分]"
+          "time_info": "[13时53分 ~ 19时45分]"
         },
         {
           "title": "DeepSeek V4初体验——读《三体》三部曲烧了54万token",
@@ -491,18 +520,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时53分 ~ 17时03分]"
-        },
-        {
-          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
-          "url": "https://www.cls.cn/detail/2355592",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 18时52分]"
         },
         {
           "title": "华为DCS AI解决方案全面支持DeepSeek-V4",
@@ -594,7 +611,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -701,7 +718,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "国常会：要紧盯全球科技前沿动向，围绕国家战略需求与产业发展需要，加强原创性引领性科技攻关",
@@ -728,8 +745,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 18时52分]"
+          "appearance_count": 14,
+          "time_info": "[01时07分 ~ 19时45分]"
         },
         {
           "title": "宛如核爆!DS-V4正式发布",
@@ -739,11 +756,12 @@
             10,
             14,
             18,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 18时52分]"
+          "appearance_count": 14,
+          "time_info": "[01时07分 ~ 19时45分]"
         },
         {
           "title": "稀土副总出卖7项国家机密",
@@ -753,11 +771,12 @@
             13,
             17,
             21,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 18时52分]"
+          "appearance_count": 14,
+          "time_info": "[01时07分 ~ 19时45分]"
         },
         {
           "title": "规范金融产品网络营销活动，央行等八部门发布管理办法",
@@ -826,6 +845,32 @@
           "time_info": "[01时07分 ~ 07时50分]"
         },
         {
+          "title": "国家发改委原秘书长伍浩被查",
+          "url": "https://www.toutiao.com/trending/7632618603930091566/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时45分]"
+        },
+        {
+          "title": "“日本已变成一个非常离谱的国家”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A5%E6%9C%AC%E5%B7%B2%E5%8F%98%E6%88%90%E4%B8%80%E4%B8%AA%E9%9D%9E%E5%B8%B8%E7%A6%BB%E8%B0%B1%E7%9A%84%E5%9B%BD%E5%AE%B6%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            1,
+            13,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 19时45分]"
+        },
+        {
           "title": "哥伦比亚和委内瑞拉就合作打击边境犯罪达成协议",
           "url": "https://wallstreetcn.com/livenews/3094325",
           "source": "华尔街见闻-快讯",
@@ -850,31 +895,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
-        },
-        {
-          "title": "国家发改委原秘书长伍浩被查",
-          "url": "https://www.toutiao.com/trending/7632618603930091566/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "“日本已变成一个非常离谱的国家”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A5%E6%9C%AC%E5%B7%B2%E5%8F%98%E6%88%90%E4%B8%80%E4%B8%AA%E9%9D%9E%E5%B8%B8%E7%A6%BB%E8%B0%B1%E7%9A%84%E5%9B%BD%E5%AE%B6%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            1,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 18时52分]"
         },
         {
           "title": "长安汽车北京车展发布“海纳百川”计划2.0，剑指2030海外销量150万辆",
@@ -941,6 +961,18 @@
           "time_info": "[17时03分 ~ 18时52分]"
         },
         {
+          "title": "阿塞拜疆总统：与乌克兰总统泽连斯基讨论了能源和军事工业合作。",
+          "url": "https://flash.jin10.com/detail/20260425173054972800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时45分]"
+        },
+        {
           "title": "越南延长电动汽车特别消费税优惠政策",
           "url": "https://flash.jin10.com/detail/20260425145247185800",
           "source": "金十数据",
@@ -989,15 +1021,15 @@
           "time_info": "[15时40分 ~ 17时03分]"
         },
         {
-          "title": "阿塞拜疆总统：与乌克兰总统泽连斯基讨论了能源和军事工业合作。",
-          "url": "https://flash.jin10.com/detail/20260425173054972800",
-          "source": "金十数据",
+          "title": "中国驻马里大使馆发布关于马里突发安全事件的领事提醒",
+          "url": "https://wallstreetcn.com/livenews/3094378",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时52分"
+          "time_info": "19时45分"
         },
         {
           "title": "欧盟官员Sefcovic：会见了美国财长贝森特，讨论了能源安全合作问题。",
@@ -1091,7 +1123,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗战争丨伊朗将与巴基斯坦举行会谈，但不与美谈判",
@@ -1140,11 +1172,12 @@
             6,
             15,
             16,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 18时52分]"
+          "appearance_count": 14,
+          "time_info": "[01时07分 ~ 19时45分]"
         },
         {
           "title": "伊朗战争丨凤凰直击德黑兰恢复赴华航班",
@@ -1154,8 +1187,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时40分 ~ 18时52分]"
+          "appearance_count": 4,
+          "time_info": "[15时40分 ~ 19时45分]"
         },
         {
           "title": "国际金价银价下跌",
@@ -1207,15 +1240,26 @@
           "time_info": "13时53分"
         },
         {
-          "title": "伊朗国防部发言人：敌人试图体面逃离战争泥潭",
-          "url": "https://wallstreetcn.com/livenews/3094364",
-          "source": "华尔街见闻-快讯",
+          "title": "国际海事组织：条件具备时即实施波斯湾被困海员疏散计划",
+          "url": "https://flash.jin10.com/detail/20260425192630673800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时52分"
+          "time_info": "19时45分"
+        },
+        {
+          "title": "国际海事组织：条件具备时即实施波斯湾被困海员疏散计划",
+          "url": "https://wallstreetcn.com/livenews/3094381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "战争的底层逻辑是什么",
@@ -1244,6 +1288,18 @@
           "time_info": "[15时40分 ~ 18时52分]"
         },
         {
+          "title": "伊朗国防部发言人：敌人试图体面逃离战争泥潭",
+          "url": "https://wallstreetcn.com/livenews/3094364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时45分]"
+        },
+        {
           "title": "国际油价24日涨跌不一",
           "url": "https://flash.jin10.com/detail/20260425034059542800",
           "source": "金十数据",
@@ -1253,6 +1309,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时59分 ~ 07时50分]"
+        },
+        {
+          "title": "海湾那边的战争还没结束，霍尔木斯海峡仍未开放，为什么油价会大跌？",
+          "url": "https://www.zhihu.com/question/2028435161100861987",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时45分]"
         },
         {
           "title": "日本“新型军国主义”恶苗滋长速度惊人，外交部：殷鉴不远，不可不察",
@@ -1277,6 +1345,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时40分 ~ 17时03分]"
+        },
+        {
+          "title": "76岁内塔尼亚胡证实患癌，未在“战争高峰期”公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33049971",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时45分]"
         },
         {
           "title": "埃及与巴基斯坦外长通话讨论美伊重回外交轨道",
@@ -1313,15 +1392,15 @@
           "time_info": "13时53分"
         },
         {
-          "title": "海湾那边的战争还没结束，霍尔木斯海峡仍未开放，为什么油价会大跌？",
-          "url": "https://www.zhihu.com/question/2028435161100861987",
-          "source": "知乎",
+          "title": "据沙特阿拉比亚电视台：一位伊朗外交消息人士表示，伊朗不会坐到一个由美国设定红线的谈判桌前。伊朗准备谈判，但不会投降，且伊朗已向巴基斯坦领导层重申其结束威胁和封锁的承诺。",
+          "url": "https://flash.jin10.com/detail/20260425183551651800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时52分"
+          "time_info": "19时45分"
         },
         {
           "title": "埃尼集团：市场低估了伊朗战争对能源价格的影响",
@@ -1333,17 +1412,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
-        },
-        {
-          "title": "76岁内塔尼亚胡证实患癌，未在“战争高峰期”公布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33049971",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
         },
         {
           "title": "欧盟：呼吁外交推动中东停火，保障霍尔木兹海峡航行自由",
@@ -1439,21 +1507,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时51分 ~ 18时52分]"
-        },
-        {
-          "title": "宇树创新破局,领跑智能新赛道",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353693&amp;topic_name=%E5%AE%87%E6%A0%91%E5%88%9B%E6%96%B0%E7%A0%B4%E5%B1%80%2C%E9%A2%86%E8%B7%91%E6%99%BA%E8%83%BD%E6%96%B0%E8%B5%9B%E9%81%93",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 18时52分]"
+          "appearance_count": 8,
+          "time_info": "[06时51分 ~ 19时45分]"
         },
         {
           "title": "【早报】国常会最新部署，事关科技创新；剑指财务造假，证监会新一轮专项行动启动",
@@ -1464,8 +1519,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 18时52分]"
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 19时45分]"
+        },
+        {
+          "title": "宇树创新破局,领跑智能新赛道",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353693&amp;topic_name=%E5%AE%87%E6%A0%91%E5%88%9B%E6%96%B0%E7%A0%B4%E5%B1%80%2C%E9%A2%86%E8%B7%91%E6%99%BA%E8%83%BD%E6%96%B0%E8%B5%9B%E9%81%93",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            22,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时07分 ~ 19时45分]"
         },
         {
           "title": "美伊谈判叠加强劲财报，美股高开，英特尔涨26%股价创新高，布油重回105美元，金银转涨",
@@ -1480,18 +1549,6 @@
           "time_info": "[01时07分 ~ 05时57分]"
         },
         {
-          "title": "国产新能源汽车黑科技：越开电越多",
-          "url": "https://www.toutiao.com/trending/7632182781422063158/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时50分 ~ 13时53分]"
-        },
-        {
           "title": "科创板4月行情火热：47只个股创新高 光通信板块表现抢眼",
           "url": "https://www.cls.cn/detail/2354762",
           "source": "财联社热门",
@@ -1502,8 +1559,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 18时52分]"
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 19时45分]"
+        },
+        {
+          "title": "国产新能源汽车黑科技：越开电越多",
+          "url": "https://www.toutiao.com/trending/7632182781422063158/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时50分 ~ 13时53分]"
         },
         {
           "title": "国产新能源汽车黑科技：越开电越多",
@@ -1620,7 +1689,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -1650,7 +1719,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "大三实习，老板每周带我去饭局，确实能接触到行业大佬，但每次都被迫喝酒（昨晚直接喝吐），该坚持还是放弃？",
@@ -1693,6 +1762,19 @@
           "time_info": "[01时07分 ~ 11时19分]"
         },
         {
+          "title": "华谊兄弟被正式申请破产，什么是压垮这头影视「骆驼」的最后一根稻草？其兴衰历程给行业带来哪些警示？",
+          "url": "https://www.zhihu.com/question/2031077519936287770",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时40分 ~ 19时45分]"
+        },
+        {
           "title": "NBA官方取消布克技术犯规",
           "url": "https://www.douyin.com/hot/2477164",
           "source": "抖音",
@@ -1704,19 +1786,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时07分 ~ 07时50分]"
-        },
-        {
-          "title": "华谊兄弟被正式申请破产，什么是压垮这头影视「骆驼」的最后一根稻草？其兴衰历程给行业带来哪些警示？",
-          "url": "https://www.zhihu.com/question/2031077519936287770",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时40分 ~ 18时52分]"
         },
         {
           "title": "美国寿险行业已将更多一般账户风险转移至海外",
@@ -1770,6 +1839,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "半导体超买程度史上最高，“大空头”Burry警告：技术性因素所致，该跑了",
+          "url": "https://wallstreetcn.com/articles/3770872",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "欧盟委员会副主席塞夫科维奇：钢铁行业朝积极方向发展。",
           "url": "https://flash.jin10.com/detail/20260425004248592800",
           "source": "金十数据",
@@ -1818,8 +1898,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 18时52分]"
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 19时45分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
@@ -1880,11 +1960,12 @@
             2,
             5,
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 18时52分]"
+          "appearance_count": 14,
+          "time_info": "[01时07分 ~ 19时45分]"
         },
         {
           "title": "洛克风靡全网,洋人翻墙肝游戏",
@@ -1893,22 +1974,36 @@
           "ranks": [
             17,
             21,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 18时52分]"
+          "appearance_count": 14,
+          "time_info": "[01时07分 ~ 19时45分]"
         },
         {
           "title": "设计师凌晨办公室猝死，因距下班超 10 小时且曾打游戏被拒认工伤，法律上如何认定？法院裁决会考量哪些因素？",
           "url": "https://www.zhihu.com/question/2031070115622384249",
           "source": "知乎",
           "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时45分]"
+        },
+        {
+          "title": "星铁幻月新游戏开幕战",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E5%B9%BB%E6%9C%88%E6%96%B0%E6%B8%B8%E6%88%8F%E5%BC%80%E5%B9%95%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时45分]"
         },
         {
           "title": "如何评价原神【向至冬，向未来】视频中对于游戏硬件配置兼顾性的言论？",
@@ -1920,17 +2015,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
-        },
-        {
-          "title": "星铁幻月新游戏开幕战",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E5%B9%BB%E6%9C%88%E6%96%B0%E6%B8%B8%E6%88%8F%E5%BC%80%E5%B9%95%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
         }
       ]
     },
