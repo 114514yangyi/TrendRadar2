@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T02:26:27.502134+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-04-29T04:23:40.912803+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时23分]"
         },
         {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时23分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时23分]"
         },
         {
           "title": "OpenAI的Codex登陆亚马逊Bedrock平台",
@@ -47,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         },
@@ -58,9 +58,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
+          "url": "https://www.zhihu.com/question/2032163714355263384",
+          "source": "知乎",
+          "ranks": [
+            5,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时23分]"
         },
         {
           "title": "马斯克律师：OpenAI“偷走了一个慈善机构”，针对AI公司及Altman的审判开启",
@@ -75,18 +88,6 @@
           "time_info": "[00时59分 ~ 02时26分]"
         },
         {
-          "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
-          "url": "https://www.zhihu.com/question/2032163714355263384",
-          "source": "知乎",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时26分]"
-        },
-        {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
           "url": "https://wallstreetcn.com/articles/3771064",
           "source": "华尔街见闻",
@@ -95,8 +96,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时23分]"
         },
         {
           "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
@@ -106,8 +107,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时23分]"
         },
         {
           "title": "AI海报杀疯,设计师饭碗被砸",
@@ -117,8 +118,20 @@
             24
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时23分]"
+        },
+        {
+          "title": "岗位被AI替代怎么办？杭州发布指引",
+          "url": "https://www.baidu.com/s?wd=%E5%B2%97%E4%BD%8D%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F%E6%9D%AD%E5%B7%9E%E5%8F%91%E5%B8%83%E6%8C%87%E5%BC%95",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时26分]"
+          "time_info": "[02时26分 ~ 04时23分]"
         },
         {
           "title": "OpenAI：华尔街日报的报道是标题党，公司各项业务“火力全开”",
@@ -127,9 +140,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "马斯克在 OpenAI 案件审判中出庭作证，称“掠夺慈善机构”绝不可取",
+          "url": "https://wallstreetcn.com/livenews/3095986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         },
         {
           "title": "亚马逊云服务(AWS)推出亚马逊快速桌面AI助手。亚马逊推出人工智能工具，旨在提升办公室员工的生产力。",
@@ -171,7 +195,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         },
@@ -209,15 +233,15 @@
           "time_info": "00时59分"
         },
         {
-          "title": "岗位被AI替代怎么办？杭州发布指引",
-          "url": "https://www.baidu.com/s?wd=%E5%B2%97%E4%BD%8D%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F%E6%9D%AD%E5%B7%9E%E5%8F%91%E5%B8%83%E6%8C%87%E5%BC%95",
-          "source": "百度热搜",
+          "title": "埃隆·马斯克在加州联邦法院的OpenAI案庭审中出庭作证。",
+          "url": "https://flash.jin10.com/detail/20260429030025624800",
+          "source": "金十数据",
           "ranks": [
-            24
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "04时23分"
         },
         {
           "title": "据知情人士透露，Airtel Africa Plc.考虑将Mobile Money部门英国IPO，寻求按高达100亿美元估值融资至多20亿美元。（彭博）",
@@ -237,15 +261,37 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "市场分析：科技股抛售潮折射出OpenAI的巨大影响力",
+          "url": "https://flash.jin10.com/detail/20260429025003263800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "马斯克将成为自己起诉OpenAI与Altman一案的第一位（出庭的）证人。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3095967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         }
       ]
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "中方回应日称“为长期战争做准备”",
@@ -256,8 +302,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时23分]"
         },
         {
           "title": "市场消息：伊朗议会国家安全委员会成员赫兹里安表示，阿联酋正采取措施与美国结盟，企图对伊朗发动新一轮攻击。阿联酋公民应当明白，在未来任何可能爆发的战争中，该国都将遭到严厉教训。",
@@ -266,20 +312,44 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         },
         {
-          "title": "伊朗战争丨伊朗陆军：战争尚未结束，正严阵以待",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
+          "title": "国际油价28日显著上涨",
+          "url": "https://flash.jin10.com/detail/20260429034931279800",
+          "source": "金十数据",
           "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "黎巴嫩官员：以色列对黎巴嫩南部民防成员的攻击是‘新的战争罪’。",
+          "url": "https://flash.jin10.com/detail/20260429034443988800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "中方回应高市称要为长期战争做准备，「日方挑衅动作频频，戳穿了其『和平国家』的自我标榜」，如何解读？",
+          "url": "https://www.zhihu.com/question/2032480791591134465",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时23分]"
         },
         {
           "title": "高市称为长期战争做好准备，外交部：日本是不是要重蹈历史覆辙？",
@@ -290,16 +360,15 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时23分]"
         },
         {
-          "title": "中方回应高市称要为长期战争做准备，「日方挑衅动作频频，戳穿了其『和平国家』的自我标榜」，如何解读？",
-          "url": "https://www.zhihu.com/question/2032480791591134465",
-          "source": "知乎",
+          "title": "伊朗战争丨伊朗陆军：战争尚未结束，正严阵以待",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            11
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -318,13 +387,35 @@
           "time_info": "[00时59分 ~ 02时26分]"
         },
         {
+          "title": "伊朗战争丨美军：港口封锁行动中已要求39艘船掉头",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "伊朗陆军：战争尚未结束，正严阵以待",
+          "url": "https://news.ifeng.com/c/8shTPbRP5sB",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
           "title": "印度航空企业：战争推高燃油成本，航班可能暂停",
           "url": "https://flash.jin10.com/detail/20260429013956159800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         },
@@ -357,7 +448,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         },
@@ -368,7 +459,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         },
@@ -382,12 +473,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "伊朗军方：当前仍定性为战争状态",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%EF%BC%9A%E5%BD%93%E5%89%8D%E4%BB%8D%E5%AE%9A%E6%80%A7%E4%B8%BA%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "伊朗：美“狂人外交”将世界推向失控",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E2%80%9C%E7%8B%82%E4%BA%BA%E5%A4%96%E4%BA%A4%E2%80%9D%E5%B0%86%E4%B8%96%E7%95%8C%E6%8E%A8%E5%90%91%E5%A4%B1%E6%8E%A7",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         }
       ]
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 8,
+      "match_count": 15,
       "titles": [
         {
           "title": "菲律宾拉拢域外国家搅局南海，南部战区发声",
@@ -397,8 +510,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时23分]"
         },
         {
           "title": "追觅发布火箭汽车，搭载专属定制的双固体火箭助推系统，百公里加速 0.9 秒，还有哪些亮点？",
@@ -408,8 +521,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时23分]"
         },
         {
           "title": "据Tanker Tracker：卫星图像显示，伊朗国家油轮公司旗下的10艘油轮已确认停泊在恰巴哈尔港附近的港口外。这表明，在美国实施海上封锁后，从伊朗出发的原油运输路线正在发生变化。",
@@ -431,8 +544,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时23分]"
         },
         {
           "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
@@ -440,11 +553,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时23分]"
         },
         {
           "title": "ADNOC：公司CEO讨论阿联酋与卡塔尔能源部长讨论能源领域的合作范围。",
@@ -453,9 +567,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "周二（4月28日）纽约尾盘，美元兑日元涨0.15%，报159.65日元，日内交投区间为158.96-159.79日元，日本央行宣布利率决议之际、在北京时间11:04显著跳水，随后逐步回升。 欧元兑日元涨0.01%，报186.990日元，日本央行行长举行新闻发布会之际，14:43刷新日低至186.07日元；英镑兑日元跌0.01%，报215.763日元，整体呈现出W形走势。",
+          "url": "https://wallstreetcn.com/livenews/3095984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司ADNOC首席执行官与卡塔尔能源大臣探讨阿联酋与卡塔尔在能源领域的合作方向。",
@@ -464,9 +589,75 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC将5月乌姆卢卢（UMM Lulu）原油价格设定为与穆尔班原油持平。",
+          "url": "https://flash.jin10.com/detail/20260429025700770800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC将5月份的穆尔班原油官方售价定为每桶110.75美元。",
+          "url": "https://flash.jin10.com/detail/20260429025354754800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司（ADNOC）：已将其基准穆尔班（Murban）原油5月份的官方售价（OSP）定为每桶110.75美元，较4月份每桶69.45美元的官方售价大幅上调。",
+          "url": "https://wallstreetcn.com/livenews/3095973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "海湾合作委员会秘书长贾西姆·布达维：委员会领导人重申，他们拒绝向通过霍尔木兹海峡的船只征收任何费用。",
+          "url": "https://flash.jin10.com/detail/20260429025152331800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "海湾合作委员会秘书长贾西姆·布达维：海湾合作委员会领导人在吉达峰会上重申，任何对海湾国家的攻击都将被视为对整个海湾的攻击。",
+          "url": "https://flash.jin10.com/detail/20260429025121271800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "海湾合作委员会秘书长贾西姆·布达维表示，在吉达举行的海湾合作委员会峰会谴责了伊朗的袭击，并补充说，这些袭击导致海湾国家与德黑兰之间的信任急剧下降。",
+          "url": "https://flash.jin10.com/detail/20260429025050446800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         },
         {
           "title": "河南省委省政府与国家烟草专卖局在京举行工作会谈",
@@ -483,7 +674,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "外贸屡创新高彰显中国产业链优势",
@@ -493,8 +684,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时23分]"
         },
         {
           "title": "科技巨头财报周前夕，标普纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
@@ -504,8 +695,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时23分]"
+        },
+        {
+          "title": "标普500指数的11个板块多数收涨，能源板块涨1.65%，房地产、日用消费品板块涨0.99%，电信、可选消费、工业板块则至多收跌0.88%，原材料板块跌0.17%，信息技术/科技跌1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3095997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         },
         {
           "title": "重登“股王”宝座！源杰科技频获融资客加仓，这两大千元股也正紧随",
@@ -515,8 +717,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时23分]"
         },
         {
           "title": "韩国散户，大举加仓中国科技巨头",
@@ -526,8 +728,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时23分]"
         },
         {
           "title": "未盈利第三单，湾区“H回A”首单，越疆科技闯关创业板",
@@ -537,8 +739,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时23分]"
         },
         {
           "title": "美国银行：预计5月美国高评级（投资级）公司债销售额将突破1900亿美元，创新冠疫情以来的新高。 鉴于上半年发行规模如此庞大，预计供应量将在下半年放缓。",
@@ -547,9 +749,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "标普500指数初步收跌0.4%，科技板块跌1.3%，原材料板块跌1%，工业、可选消费、电信至多跌0.8%，能源板块涨1.6%。 纳斯达克100指数初步收跌1%，成分股中，Arm控股初步收跌7.9%，Sandisk跌5.9%，应用材料跌5.8%，科磊跌4.6%，铿腾电子跌3.5%，阿斯麦ADR跌3.2%，新思科技跌2.8%，财捷Intuit涨2.7%，Workday涨2.8%。 半导体指数连跌两天。",
+          "url": "https://wallstreetcn.com/livenews/3095990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         },
         {
           "title": "晶澳科技全年净亏损46.1亿元人民币，预估亏损42.7亿元。 第一季度净亏损10.7亿元人民币。",
@@ -561,12 +774,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.21%，报25762点。 恒生科技指数主连夜盘收涨0.54%，报4861点。",
+          "url": "https://wallstreetcn.com/livenews/3095968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         }
       ]
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何看待《明末：渊虚之羽》被意大利游戏巨头以 3200W 收购？",
@@ -585,9 +809,49 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%BC%82%E7%8E%AF%E6%B8%B8%E6%88%8F%E6%B5%81%E7%A8%8B%E8%AE%BE%E5%AE%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 04时23分]"
+        },
+        {
+          "title": "如何评价《崩坏: 星穹铁道》于 4 月 28 日开启的「幻月新游戏·集结战」直播活动?",
+          "url": "https://www.zhihu.com/question/2032558583653586159",
+          "source": "知乎",
+          "ranks": [
+            11
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周二（4月28日）纽约尾盘，ICE美元指数涨0.16%，报98.656点，日内交投区间为98.426-98.874点，在持续的上行行情中、于北京时间20:11刷新日高，随后逐步回吐涨幅。 彭博美元指数涨0.16%，报1197.75点，日内交投区间为1195.04-1200.24点，也在美股开盘之前刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3095983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.59%，暂报2633.22点，北京时间07:55刷新日高至2688.46点，随后逐步下挫。 MarketVectorTM数字资产100中盘指数跌0.65%，报2834.73点。 MarketVector数字资产100指数跌0.52%，报15047.93点，08:48刷新日高至15274.89点，之后也逐步下挫。 目前，Solana跌0.70%，狗狗币涨1.97%，XRP涨1.11%。 比特币跌0.89%，暂报76078.21美元；以太坊跌0.02%，暂报2285.45美元。",
+          "url": "https://wallstreetcn.com/livenews/3095937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         }
@@ -604,24 +868,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.59%，暂报2633.22点，北京时间07:55刷新日高至2688.46点，随后逐步下挫。 MarketVectorTM数字资产100中盘指数跌0.65%，报2834.73点。 MarketVector数字资产100指数跌0.52%，报15047.93点，08:48刷新日高至15274.89点，之后也逐步下挫。 目前，Solana跌0.70%，狗狗币涨1.97%，XRP涨1.11%。 比特币跌0.89%，暂报76078.21美元；以太坊跌0.02%，暂报2285.45美元。",
-          "url": "https://wallstreetcn.com/livenews/3095937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         }
