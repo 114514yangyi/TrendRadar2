@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-28T11:52:36.314419+08:00",
-  "total_titles_processed": 825,
+  "generated_at": "2026-04-28T14:36:57.587631+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
-        {
-          "title": "中消协发布“五一”消费提示",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%B6%88%E5%8D%8F%E5%8F%91%E5%B8%83%E2%80%9C%E4%BA%94%E4%B8%80%E2%80%9D%E6%B6%88%E8%B4%B9%E6%8F%90%E7%A4%BA",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 11时52分]"
-        },
         {
           "title": "国家发改委：禁止外资收购Manus项目，要求撤销交易",
           "url": "https://wallstreetcn.com/articles/3770977",
           "source": "华尔街见闻",
           "ranks": [
             4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 14时36分]"
+        },
+        {
+          "title": "中消协发布“五一”消费提示",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%B6%88%E5%8D%8F%E5%8F%91%E5%B8%83%E2%80%9C%E4%BA%94%E4%B8%80%E2%80%9D%E6%B6%88%E8%B4%B9%E6%8F%90%E7%A4%BA",
+          "source": "百度热搜",
+          "ranks": [
             3
           ],
           "is_new": false,
@@ -54,17 +54,6 @@
           "time_info": "07时05分"
         },
         {
-          "title": "为什么沙发不靠墙的布局，大多数中国家庭都难以接受？",
-          "url": "https://www.zhihu.com/question/1961092724506714892",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
           "title": "美国国务卿卢比奥：现任领导人之下，古巴不可能推进经济改革。",
           "url": "https://wallstreetcn.com/livenews/3095272",
           "source": "华尔街见闻-快讯",
@@ -74,6 +63,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "为什么沙发不靠墙的布局，大多数中国家庭都难以接受？",
+          "url": "https://www.zhihu.com/question/1961092724506714892",
+          "source": "知乎",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 14时36分]"
         },
         {
           "title": "曝LCK或不参加沙特电竞国家杯",
@@ -100,6 +101,17 @@
           "time_info": "[00时48分 ~ 04时14分]"
         },
         {
+          "title": "网警发布五一网络安全指南",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E4%BA%94%E4%B8%80%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 14时36分]"
+        },
+        {
           "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：美联储领导者的潜在转变伴随着风险。 特朗普挑选的新一届美联储主席凯文·沃什强调，衡量通胀的指标应排除最极端的价格波动。 这种做法可能会使政策制定者对通胀动态的变化反应迟缓，因为转折点通常出现在“分布的尾部”——而这正是所谓的截尾均值指标剔除的成分。 沃什选择的通胀衡量指标对他有利，这与他对美联储应对疫情通胀反应迟缓的批评直接矛盾。",
           "url": "https://wallstreetcn.com/livenews/3095143",
           "source": "华尔街见闻-快讯",
@@ -124,15 +136,28 @@
           "time_info": "[00时48分 ~ 02时11分]"
         },
         {
-          "title": "网警发布五一网络安全指南",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E4%BA%94%E4%B8%80%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97",
-          "source": "bilibili 热搜",
+          "title": "国家能源局：今夏若出现大范围极端高温，全国最大电力负荷可能超过16亿千瓦",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33063121",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            19,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 14时36分]"
+        },
+        {
+          "title": "特朗普政府解散美国国家科学委员会",
+          "url": "https://www.toutiao.com/trending/7632880889321488425/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 14时36分]"
         },
         {
           "title": "白宫新闻秘书莱维特：期待与参议院合作推进美联储主席提名人沃什的确认。",
@@ -144,6 +169,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "提醒：北京时间14:30，日本央行行长植田和男召开货币政策新闻发布会。",
+          "url": "https://wallstreetcn.com/livenews/3095494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "A股福建板块局部异动，力鼎光电涨超3%，平潭发展跌幅收窄至0.84%，此前盘中跌近4%，海峡创新、漳州发展等个股跌幅收窄。消息面上，福建发改委表示，福建省将重点推进两岸经贸产业合作平台升级、台农台渔产业便利化发展、对台小额交易市场提质扩容等。",
+          "url": "https://flash.jin10.com/detail/20260428142930545800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "中证报头版文章：宏观调控将持续加大逆周期调节力度，储备增量政策",
@@ -196,18 +243,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "国家能源局：今夏若出现大范围极端高温，全国最大电力负荷可能超过16亿千瓦",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33063121",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -218,7 +254,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -245,17 +281,6 @@
           "time_info": "00时48分"
         },
         {
-          "title": "特朗普政府解散美国国家科学委员会",
-          "url": "https://www.toutiao.com/trending/7632880889321488425/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
           "title": "美国国会预算办公室主任：关税政策调整或使赤字增加1.1万亿美元",
           "url": "https://wallstreetcn.com/livenews/3095226",
           "source": "华尔街见闻-快讯",
@@ -273,7 +298,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -284,7 +309,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -300,6 +325,17 @@
           "time_info": "02时11分"
         },
         {
+          "title": "日本央行行长植田和男将于十分钟后召开货币政策新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260428142000001800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "美国财长贝森特警告那些与伊朗航空公司合作的企业。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3095221",
           "source": "华尔街见闻-快讯",
@@ -309,6 +345,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "澳大利亚外长黄英贤：澳大利亚和日本正在合作加强共同的能源安全，以塑造和平、稳定、繁荣的地区环境。",
+          "url": "https://flash.jin10.com/detail/20260428141944378800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "桥水基金创始人瑞·达利欧：持续的通胀压力加上经济增长放缓，使得政策制定者需要保持谨慎。",
@@ -328,7 +375,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         }
@@ -336,7 +383,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
@@ -355,11 +402,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 11时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 14时36分]"
         },
         {
           "title": "卡塔尔外交部：总理兼外长强调必须通过和平手段和对话解决危机根源。",
@@ -484,9 +532,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        },
+        {
+          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "卡塔尔国确认国际水道的航行自由是国际法的基本原则",
+          "url": "https://flash.jin10.com/detail/20260428143231983800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "伊朗外长感谢俄方声援和外交支持",
@@ -495,7 +565,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -520,6 +590,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "A股煤炭板块震荡走高，昊华能源午后涨停，晋控煤业、潞安环能、中煤能源、淮北矿业、山煤国际跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3095492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "国际海事组织：疏散被困海员的关键是推动局势降级",
@@ -564,6 +645,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "怎么看待各大医院纷纷开设国际部？市场化的国际部会不会占用医院的过多精力和资源，使得公立医院本末倒置？",
+          "url": "https://www.zhihu.com/question/2029666750866760121",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "鉴于政府内部对伊朗战争可能冲击选民家庭预算的担忧日益加剧，英国财政大臣里夫斯正考虑对私营部门的住房实施为期一年的租金冻结。",
@@ -627,7 +719,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -646,7 +738,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI海报杀疯,设计师饭碗被砸",
@@ -655,24 +747,12 @@
           "ranks": [
             2,
             4,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 11时52分]"
-        },
-        {
-          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
-          "url": "https://wallstreetcn.com/articles/3770953",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 11时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 14时36分]"
         },
         {
           "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
@@ -682,6 +762,31 @@
             8,
             9,
             10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 14时36分]"
+        },
+        {
+          "title": "“AI光算力第一股”来了！上海曦智科技今登陆港交所 全球知名机构争做基石投资者",
+          "url": "https://www.cls.cn/detail/2357540",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 14时36分]"
+        },
+        {
+          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
+          "url": "https://wallstreetcn.com/articles/3770953",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -714,6 +819,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "广东发布十五五规划纲要，事关AI、商业航天、光伏等",
+          "url": "https://www.cls.cn/detail/2357658",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "高盛：AI风险正加剧关于股票估值的争论",
           "url": "https://wallstreetcn.com/livenews/3095273",
           "source": "华尔街见闻-快讯",
@@ -723,17 +839,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
-        },
-        {
-          "title": "“AI光算力第一股”来了！上海曦智科技今登陆港交所 全球知名机构争做基石投资者",
-          "url": "https://www.cls.cn/detail/2357540",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
         },
         {
           "title": "被AI骗去毒蛇窝徒步",
@@ -838,6 +943,17 @@
           "time_info": "[00时48分 ~ 02时11分]"
         },
         {
+          "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
+          "url": "https://www.zhihu.com/question/2032163714355263384",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "百亿级私募一季度调仓动作曝光：积极加码科技，认准AI产业链",
           "url": "https://wallstreetcn.com/livenews/3095263",
           "source": "华尔街见闻-快讯",
@@ -855,9 +971,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        },
+        {
+          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云的算力资源？",
+          "url": "https://www.zhihu.com/question/2031729357580919027",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "伊拉克议员们表示：总统Nizar Amedi任命Ali al-Zaidi为总理。",
@@ -869,6 +996,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "国家发改委「禁止外资收购 Manus 项目，要求撤销交易」，此事对中国 AI 企业出海有何警示意义？",
+          "url": "https://www.zhihu.com/question/2032140708430266999",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "AI算力狂飙，内存厂商成最大赢家：美光、闪迪估值进入“重估时刻”",
+          "url": "https://flash.jin10.com/detail/20260428142500975800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "DeepSeek-V4-Pro优惠官宣延期，活动持续至今年5月31日",
+          "url": "https://wallstreetcn.com/livenews/3095470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "日媒称美军AI计划深度参与对伊打击",
@@ -918,7 +1078,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "国产开源大模型下载量破100亿次",
@@ -950,9 +1110,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 14时36分]"
         },
         {
           "title": "【早报】美股科技巨头冷暖不均，英伟达、英特尔齐创新高；一批A股公司一季度净利增超10倍",
@@ -961,7 +1121,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -1000,6 +1160,17 @@
           "time_info": "[04时14分 ~ 06时01分]"
         },
         {
+          "title": "4月28日投资避雷针：联翔股份、湘邮科技等11股明起将被实施ST",
+          "url": "https://www.cls.cn/detail/2357477",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 14时36分]"
+        },
+        {
           "title": "美股收盘：英伟达涨4%创新高",
           "url": "https://flash.jin10.com/detail/20260428040039049800",
           "source": "金十数据",
@@ -1010,17 +1181,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时05分]"
-        },
-        {
-          "title": "4月28日投资避雷针：联翔股份、湘邮科技等11股明起将被实施ST",
-          "url": "https://www.cls.cn/detail/2357477",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
         },
         {
           "title": "年内逾200家港股公司回购，科技、消费类公司最积极",
@@ -1045,13 +1205,24 @@
           "time_info": "07时05分"
         },
         {
+          "title": "恒生科技指数跌超2%，恒生指数跌超1%。剑桥科技跌超15%，宁德时代跌超7%，智谱跌超11%，舜宇光学科技跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3095484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "科思科技推出基于昇腾910B芯片的全国产全加固智能计算模组",
           "url": "https://flash.jin10.com/detail/20260428113121868800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -1076,6 +1247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "恒生指数午后跌超1%，恒生科技指数跌1.85%。",
+          "url": "https://wallstreetcn.com/livenews/3095453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.20%，报6868.78点。 热门中概股里，亚朵初步收跌5.4%，世纪互联跌4.2%，再鼎医药、华住、大全新能源至少跌3.5%，万国数据、B站、阿里跌超2%，蔚来涨0.6%，网易涨0.7%，新东方涨1.3%，文远知行涨2.4%。 ETF中，中概互联网指数ETF（KWEB）收跌1.63%，中国科技指数ETF（CQQQ）收涨0.36%。 德银嘉实沪深300指数ETF（ASHR）收跌0.49%，XtrackersHarvest中证50（ASHS）收涨0.71%。",
@@ -1295,7 +1477,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "A股两家行业龙头同遭立案",
@@ -1334,12 +1516,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "巴克莱第一季度固定收益、外汇及大宗商品收入17.2亿英镑，预估17.6亿英镑。 第一季度股票业务收入11.2亿英镑，预估10.4亿英镑。 第一季度投行业务手续费收入7.54亿英镑，预估6.824亿英镑。 第一季度利润总额81.6亿英镑，预估81.1亿英镑。 第一季度净利息收入37.4亿英镑，预估38.3亿英镑。 第一季度税前利润28.1亿英镑，预估28.5亿英镑。",
+          "url": "https://wallstreetcn.com/livenews/3095483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "「探店」网红白冰偷税超 900 万元被查，会对网红行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2032402751611783047",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "原油期权定价宽幅双向博弈，黄金寻觅技术性支撑？｜市场赔率数据表",
+          "url": "https://flash.jin10.com/detail/20260428142034253800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         }
       ]
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：“双英”+三大内存股收创纪录 标普纳指再刷新高",
@@ -1352,6 +1567,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时05分 ~ 11时52分]"
+        },
+        {
+          "title": "如何看待《明末：渊虚之羽》被意大利游戏巨头以 3200W 收购？",
+          "url": "https://www.zhihu.com/question/2032245202908346123",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         }
       ]
     }
