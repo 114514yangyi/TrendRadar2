@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T06:06:44.467601+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-04-29T08:02:01.483332+08:00",
+  "total_titles_processed": 652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -19,6 +19,18 @@
           "time_info": "[00时59分 ~ 06时06分]"
         },
         {
+          "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2358592",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 08时02分]"
+        },
+        {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
           "url": "https://www.zhihu.com/question/2031729357580919027",
           "source": "知乎",
@@ -30,15 +42,66 @@
           "time_info": "[00时59分 ~ 06时06分]"
         },
         {
-          "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2358592",
-          "source": "财联社热门",
+          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
+          "url": "https://wallstreetcn.com/articles/3771064",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            7,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 08时02分]"
+        },
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
+          "url": "https://www.zhihu.com/question/2032163714355263384",
+          "source": "知乎",
+          "ranks": [
+            5,
+            9,
+            20,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 08时02分]"
+        },
+        {
+          "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
+          "url": "https://wallstreetcn.com/articles/3771068",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 08时02分]"
+        },
+        {
+          "title": "AI海报杀疯,设计师饭碗被砸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 08时02分]"
         },
         {
           "title": "OpenAI的Codex登陆亚马逊Bedrock平台",
@@ -58,42 +121,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
         {
-          "title": "据The Information：OpenAI预计今年将有1.12亿用户订阅ChatGPT Go。",
-          "url": "https://flash.jin10.com/detail/20260429060010713800",
-          "source": "金十数据",
+          "title": "希捷科技绩报告及分析师电话会要点总结：AI推理拐点驱动结构性增长，HAMR技术进入收割期",
+          "url": "https://wallstreetcn.com/livenews/3096070",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "据The Information：OpenAI预计今年“8美元ChatGPT Go”的订阅量将大幅增长。",
-          "url": "https://flash.jin10.com/detail/20260429055922440800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "据AXIOS：OpenAI与Anthropic就先进网络模型与美国众议院委员会举行会议。",
-          "url": "https://flash.jin10.com/detail/20260429055656678800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时06分"
+          "time_info": "08时02分"
         },
         {
           "title": "据知情人士透露，黑石集团旗下QTS要求银行业提供20亿美元资金，用于保障（来自公用事业行业）AI电力供应。（彭博）",
@@ -105,32 +146,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
-        },
-        {
-          "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
-          "url": "https://www.zhihu.com/question/2032163714355263384",
-          "source": "知乎",
-          "ranks": [
-            5,
-            9,
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 06时06分]"
-        },
-        {
-          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
-          "url": "https://wallstreetcn.com/articles/3771064",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 06时06分]"
         },
         {
           "title": "马斯克律师：OpenAI“偷走了一个慈善机构”，针对AI公司及Altman的审判开启",
@@ -145,26 +160,40 @@
           "time_info": "[00时59分 ~ 02时26分]"
         },
         {
-          "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
-          "url": "https://wallstreetcn.com/articles/3771068",
-          "source": "华尔街见闻",
+          "title": "据The Information：OpenAI预计今年将有1.12亿用户订阅ChatGPT Go。",
+          "url": "https://flash.jin10.com/detail/20260429060010713800",
+          "source": "金十数据",
           "ranks": [
-            8
+            3,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 06时06分]"
+          "appearance_count": 2,
+          "time_info": "[06时06分 ~ 08时02分]"
         },
         {
-          "title": "AI海报杀疯,设计师饭碗被砸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
-          "source": "贴吧",
+          "title": "据The Information：OpenAI预计今年“8美元ChatGPT Go”的订阅量将大幅增长。",
+          "url": "https://flash.jin10.com/detail/20260429055922440800",
+          "source": "金十数据",
           "ranks": [
-            24
+            4,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 06时06分]"
+          "appearance_count": 2,
+          "time_info": "[06时06分 ~ 08时02分]"
+        },
+        {
+          "title": "据AXIOS：OpenAI与Anthropic就先进网络模型与美国众议院委员会举行会议。",
+          "url": "https://flash.jin10.com/detail/20260429055656678800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时06分 ~ 08时02分]"
         },
         {
           "title": "岗位被AI替代怎么办？杭州发布指引",
@@ -178,6 +207,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时26分 ~ 06时06分]"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "AI算力需求持续爆发，工业富联Q1营收同比增长57%，净利润增长103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771123",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "OpenAI：华尔街日报的报道是标题党，公司各项业务“火力全开”",
@@ -301,6 +352,17 @@
           "time_info": "00时59分"
         },
         {
+          "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
+          "url": "https://wallstreetcn.com/livenews/3096044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
           "title": "亚马逊云服务(AWS)与OpenAI宣布扩大合作伙伴关系。",
           "url": "https://flash.jin10.com/detail/20260429010529383800",
           "source": "金十数据",
@@ -337,7 +399,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "中方回应日称“为长期战争做准备”",
@@ -345,11 +407,27 @@
           "source": "今日头条",
           "ranks": [
             2,
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 08时02分]"
+        },
+        {
+          "title": "中方回应高市称要为长期战争做准备，「日方挑衅动作频频，戳穿了其『和平国家』的自我标榜」，如何解读？",
+          "url": "https://www.zhihu.com/question/2032480791591134465",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 08时02分]"
         },
         {
           "title": "市场消息：伊朗议会国家安全委员会成员赫兹里安表示，阿联酋正采取措施与美国结盟，企图对伊朗发动新一轮攻击。阿联酋公民应当明白，在未来任何可能爆发的战争中，该国都将遭到严厉教训。",
@@ -361,6 +439,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "高市称为长期战争做好准备，外交部：日本是不是要重蹈历史覆辙？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33061755",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 08时02分]"
         },
         {
           "title": "国际油价28日显著上涨",
@@ -391,35 +482,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
         {
-          "title": "中方回应高市称要为长期战争做准备，「日方挑衅动作频频，戳穿了其『和平国家』的自我标榜」，如何解读？",
-          "url": "https://www.zhihu.com/question/2032480791591134465",
-          "source": "知乎",
+          "title": "伊朗陆军：战争尚未结束，正严阵以待",
+          "url": "https://news.ifeng.com/c/8shTPbRP5sB",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            11,
-            6,
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时59分 ~ 06时06分]"
-        },
-        {
-          "title": "高市称为长期战争做好准备，外交部：日本是不是要重蹈历史覆辙？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33061755",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 06时06分]"
+          "time_info": "[04时23分 ~ 08时02分]"
         },
         {
           "title": "中方回应“日称为长期战争做准备”",
@@ -457,15 +533,37 @@
           "time_info": "[04时23分 ~ 06时06分]"
         },
         {
-          "title": "伊朗陆军：战争尚未结束，正严阵以待",
-          "url": "https://news.ifeng.com/c/8shTPbRP5sB",
+          "title": "伊朗战争丨受战事影响，特朗普支持率跌至任内新低",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时23分 ~ 06时06分]"
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "世界银行预测：受中东战争影响，今年全球能源价格将大涨24%",
+          "url": "https://www.cls.cn/detail/2358761",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "高市早苗称要为长期战争做准备，外交部：要重蹈覆辙？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069795",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "伊朗军方：当前仍定性为战争状态",
@@ -478,6 +576,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 06时06分]"
+        },
+        {
+          "title": "美国防部正式申请更名为“战争部”",
+          "url": "https://www.toutiao.com/trending/7633931706562756662/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "伊朗：美“狂人外交”将世界推向失控",
@@ -498,7 +607,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -509,7 +618,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -553,7 +662,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -567,6 +676,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "据华尔街日报：美国参议院搁置古巴战争权力决议案。",
+          "url": "https://flash.jin10.com/detail/20260429063013277800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "路透社/益普索调查：因生活成本担忧和伊朗战争，美国总统特朗普的支持率持续下滑，降至其任期内最低水平。",
@@ -597,7 +717,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         }
@@ -605,7 +725,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 16,
+      "match_count": 26,
       "titles": [
         {
           "title": "菲律宾拉拢域外国家搅局南海，南部战区发声",
@@ -615,8 +735,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 08时02分]"
         },
         {
           "title": "追觅发布火箭汽车，搭载专属定制的双固体火箭助推系统，百公里加速 0.9 秒，还有哪些亮点？",
@@ -631,15 +751,15 @@
           "time_info": "[00时59分 ~ 06时06分]"
         },
         {
-          "title": "据Tanker Tracker：卫星图像显示，伊朗国家油轮公司旗下的10艘油轮已确认停泊在恰巴哈尔港附近的港口外。这表明，在美国实施海上封锁后，从伊朗出发的原油运输路线正在发生变化。",
-          "url": "https://flash.jin10.com/detail/20260429002733297800",
-          "source": "金十数据",
+          "title": "白宫发布国宴嘉宾名单，马克·安德森、大卫·埃里森、黄仁勋、罗伯特·卡夫、梅格·奥尼尔、约翰·保尔森、史蒂芬·施瓦茨曼均位列嘉宾名单上。",
+          "url": "https://wallstreetcn.com/livenews/3096073",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时59分"
+          "time_info": "08时02分"
         },
         {
           "title": "净利同比增长近40%！3000亿PCB龙头发布一季报|盘后公告集锦",
@@ -650,8 +770,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 08时02分]"
         },
         {
           "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
@@ -663,8 +783,41 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 08时02分]"
+        },
+        {
+          "title": "据Tanker Tracker：卫星图像显示，伊朗国家油轮公司旗下的10艘油轮已确认停泊在恰巴哈尔港附近的港口外。这表明，在美国实施海上封锁后，从伊朗出发的原油运输路线正在发生变化。",
+          "url": "https://flash.jin10.com/detail/20260429002733297800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        },
+        {
+          "title": "李斌发布会邀请秦力洪上车躺平",
+          "url": "https://www.toutiao.com/trending/7632992020432408127/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "英伟达发布多模态“全能模型” 智能体效率跃升至竞品9倍",
+          "url": "https://www.cls.cn/detail/2358835",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "ADNOC：公司CEO讨论阿联酋与卡塔尔能源部长讨论能源领域的合作范围。",
@@ -678,15 +831,48 @@
           "time_info": "02时26分"
         },
         {
+          "title": "英国国家经济社会研究院：基于温和情景，将2026年英国经济增长预测从1.4%下调至0.9%。",
+          "url": "https://flash.jin10.com/detail/20260429070321824800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "英国国家经济社会研究院：预计在温和情景下，英国央行的利率将上调至4%。",
+          "url": "https://flash.jin10.com/detail/20260429070259394800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
           "title": "委内瑞拉临时总统罗德里格斯：我们接近于结束2024年开始的降息周期。在下次货币政策决策中，我们将考虑进行本轮周期中的最后一次降息。",
           "url": "https://flash.jin10.com/detail/20260429050445206800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "英国国家经济社会研究院：预计在“不利”的中东情境下，英国经济仅增长0.5%。",
+          "url": "https://flash.jin10.com/detail/20260429070238327800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "周二（4月28日）纽约尾盘，美元兑日元涨0.15%，报159.65日元，日内交投区间为158.96-159.79日元，日本央行宣布利率决议之际、在北京时间11:04显著跳水，随后逐步回升。 欧元兑日元涨0.01%，报186.990日元，日本央行行长举行新闻发布会之际，14:43刷新日低至186.07日元；英镑兑日元跌0.01%，报215.763日元，整体呈现出W形走势。",
@@ -698,6 +884,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "英国国家经济社会研究院：预计在不利情景下通胀峰值将超过6%。",
+          "url": "https://flash.jin10.com/detail/20260429070208010800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "英国国家经济社会研究院：在不利情景下，英国央行的关键利率应上升至5.25%。",
+          "url": "https://flash.jin10.com/detail/20260429070145059800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "中证报：持续深化改革，稳定和增强资本市场信心",
+          "url": "https://wallstreetcn.com/livenews/3096053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司ADNOC首席执行官与卡塔尔能源大臣探讨阿联酋与卡塔尔在能源领域的合作方向。",
@@ -766,6 +985,17 @@
           "time_info": "04时23分"
         },
         {
+          "title": "美国参议院民主党成员Warren发函给美联储理事鲍曼，谈及信用卡费率政策上限的时间线。",
+          "url": "https://wallstreetcn.com/livenews/3096045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
           "title": "海湾合作委员会秘书长贾西姆·布达维表示，在吉达举行的海湾合作委员会峰会谴责了伊朗的袭击，并补充说，这些袭击导致海湾国家与德黑兰之间的信任急剧下降。",
           "url": "https://flash.jin10.com/detail/20260429025050446800",
           "source": "金十数据",
@@ -791,7 +1021,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "外贸屡创新高彰显中国产业链优势",
@@ -801,8 +1031,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 08时02分]"
         },
         {
           "title": "科技巨头财报周前夕，标普纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
@@ -814,6 +1044,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时59分 ~ 06时06分]"
+        },
+        {
+          "title": "韩国散户，大举加仓中国科技巨头",
+          "url": "https://wallstreetcn.com/articles/3771058",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 08时02分]"
         },
         {
           "title": "标普500指数的11个板块多数收涨，能源板块涨1.65%，房地产、日用消费品板块涨0.99%，电信、可选消费、工业板块则至多收跌0.88%，原材料板块跌0.17%，信息技术/科技跌1.29%。",
@@ -838,17 +1080,6 @@
           "time_info": "[00时59分 ~ 06时06分]"
         },
         {
-          "title": "韩国散户，大举加仓中国科技巨头",
-          "url": "https://wallstreetcn.com/articles/3771058",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 06时06分]"
-        },
-        {
           "title": "未盈利第三单，湾区“H回A”首单，越疆科技闯关创业板",
           "url": "https://www.cls.cn/detail/2358554",
           "source": "财联社热门",
@@ -859,6 +1090,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时59分 ~ 06时06分]"
+        },
+        {
+          "title": "民科狂发 500 篇预印本论文，未经同意把女儿添加为作者，如何看待他的这些行为？",
+          "url": "https://www.zhihu.com/question/2030591570857177251",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时06分 ~ 08时02分]"
+        },
+        {
+          "title": "PCB龙头胜宏科技一季度营收突破55亿、净利增近四成 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771146",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "美国银行：预计5月美国高评级（投资级）公司债销售额将突破1900亿美元，创新冠疫情以来的新高。 鉴于上半年发行规模如此庞大，预计供应量将在下半年放缓。",
@@ -872,6 +1126,17 @@
           "time_info": "02时26分"
         },
         {
+          "title": "金十数据整理：每日科技要闻速递（4月29日）",
+          "url": "https://flash.jin10.com/detail/20260429072219970800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
           "title": "标普500指数初步收跌0.4%，科技板块跌1.3%，原材料板块跌1%，工业、可选消费、电信至多跌0.8%，能源板块涨1.6%。 纳斯达克100指数初步收跌1%，成分股中，Arm控股初步收跌7.9%，Sandisk跌5.9%，应用材料跌5.8%，科磊跌4.6%，铿腾电子跌3.5%，阿斯麦ADR跌3.2%，新思科技跌2.8%，财捷Intuit涨2.7%，Workday涨2.8%。 半导体指数连跌两天。",
           "url": "https://wallstreetcn.com/livenews/3095990",
           "source": "华尔街见闻-快讯",
@@ -883,13 +1148,24 @@
           "time_info": "04时23分"
         },
         {
+          "title": "韩国资金涌入 港股硬科技资产受青睐",
+          "url": "https://wallstreetcn.com/livenews/3096064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
           "title": "消息称白宫召集科技公司讨论有关Mythos的问题",
           "url": "https://flash.jin10.com/detail/20260429054408239800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -900,18 +1176,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "民科狂发 500 篇预印本论文，未经同意把女儿添加为作者，如何看待他的这些行为？",
-          "url": "https://www.zhihu.com/question/2030591570857177251",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -933,9 +1198,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "慧荣科技二季度营收指引超预期，股价盘后涨超20%",
+          "url": "https://wallstreetcn.com/livenews/3096046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.21%，报25762点。 恒生科技指数主连夜盘收涨0.54%，报4861点。",
@@ -955,24 +1231,25 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2358855",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时06分 ~ 08时02分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周二（4月28日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报214.75点，跳空低开之后，快速收复失地，随后再次扩大跌幅，又再次逐步收窄失地。 “超大”市值科技股指数跌1.10%，报416.16点，整体低位窄幅震荡。",
           "url": "https://wallstreetcn.com/livenews/3096026",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2358855",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -983,7 +1260,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -1022,7 +1299,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -1044,7 +1321,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         }
@@ -1114,7 +1391,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         }
