@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T12:37:30.890907+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2026-04-30T15:32:34.850668+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "速通教育部新发布38个专业",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 12时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 15时32分]"
         },
         {
           "title": "张雪称已经拒绝了半个亿的商务合作，只保留 4 个车队赞助，透露哪些信息？给网红创业者哪些启示？",
@@ -114,6 +114,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "上海快递行业劳动规则协议发布：明确每单派费直达比例下限",
+          "url": "https://wallstreetcn.com/livenews/3097286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "金十数据整理：美联储FOMC声明及鲍威尔发布会重点一览",
           "url": "https://flash.jin10.com/detail/20260430034232518800",
           "source": "金十数据",
@@ -147,6 +158,17 @@
           "time_info": "02时18分"
         },
         {
+          "title": "上海快递行业劳动规则协议发布：明确每单派费直达比例下限",
+          "url": "https://flash.jin10.com/detail/20260430150521961800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "提醒：北京时间02:00，美联储将发布FOMC利率决议声明。",
           "url": "https://wallstreetcn.com/livenews/3096837",
           "source": "华尔街见闻-快讯",
@@ -175,9 +197,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
+        },
+        {
+          "title": "伊朗首都大规模集会展示国家团结",
+          "url": "https://www.toutiao.com/trending/7634423952917037094/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "美联储4月货币政策会议关注点",
@@ -252,7 +285,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -307,7 +340,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -318,7 +351,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -381,7 +414,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -400,11 +433,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 12时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 15时32分]"
         },
         {
           "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
@@ -465,11 +499,26 @@
           "ranks": [
             14,
             13,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 12时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 15时32分]"
+        },
+        {
+          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也开始犹豫了？",
+          "url": "https://www.zhihu.com/question/2031783702569726072",
+          "source": "知乎",
+          "ranks": [
+            17,
+            7,
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时06分 ~ 15时32分]"
         },
         {
           "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
@@ -490,22 +539,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
-        },
-        {
-          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也开始犹豫了？",
-          "url": "https://www.zhihu.com/question/2031783702569726072",
-          "source": "知乎",
-          "ranks": [
-            17,
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时06分 ~ 12时37分]"
         },
         {
           "title": "软银计划让旗下一家新的人工智能与机器人公司在美上市，软银正寻求为该AI公司（名为Roze）争取高达1000亿美元的估值。（英国金融时报）",
@@ -559,11 +595,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 15时32分]"
+        },
+        {
+          "title": "美股燃料电池龙头暴涨超27% SOFC或成AI数据中心供电首选",
+          "url": "https://www.cls.cn/detail/2360333",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时02分 ~ 12时37分]"
+          "time_info": "[12时37分 ~ 15时32分]"
         },
         {
           "title": "AI 对画师的斩杀线大概在哪个位置？",
@@ -577,13 +626,35 @@
           "time_info": "[06时06分 ~ 06时07分]"
         },
         {
+          "title": "美股科技“四巨头”同日放榜 “AI烧钱”大战愈演愈烈",
+          "url": "https://www.cls.cn/detail/2360653",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "Anthropic 年收 300 亿，碾压 OpenAI，为什么 OpenAI 坐拥 9 亿周活用户，却被后来者反超？",
+          "url": "https://www.zhihu.com/question/2032816031513538587",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850517&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/M81HE4es14MxjHYisSNTw.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260430120045418800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -599,6 +670,17 @@
           "time_info": "02时18分"
         },
         {
+          "title": "“AI次贷危机”初现端倪：GitHub Copilot转向按量计费，撕开了\"补贴换增长\"的遮羞布",
+          "url": "https://wallstreetcn.com/articles/3771219",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "苹果(AAPL.O)计划在iOS 27中推出Siri相机模式和升级的视觉AI。",
           "url": "https://flash.jin10.com/detail/20260430002547989800",
           "source": "金十数据",
@@ -610,24 +692,13 @@
           "time_info": "00时48分"
         },
         {
-          "title": "美股燃料电池龙头暴涨超27% SOFC或成AI数据中心供电首选",
-          "url": "https://www.cls.cn/detail/2360333",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
           "title": "港股AI股局部走强，智谱(02513.HK)涨超6%，此前盘中涨超9%，MINIMAX-W(00100.HK)、群核科技(00068.HK)、澜起科技(06809.HK)等个股跟涨。",
           "url": "https://flash.jin10.com/detail/20260430115030095800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -638,9 +709,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
+        },
+        {
+          "title": "不小心触发了真能解决生活问题的AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%B0%8F%E5%BF%83%E8%A7%A6%E5%8F%91%E4%BA%86%E7%9C%9F%E8%83%BD%E8%A7%A3%E5%86%B3%E7%94%9F%E6%B4%BB%E9%97%AE%E9%A2%98%E7%9A%84AI%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "马斯克OpenAI案二日庭审证词总结",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8BOpenAI%E6%A1%88%E4%BA%8C%E6%97%A5%E5%BA%AD%E5%AE%A1%E8%AF%81%E8%AF%8D%E6%80%BB%E7%BB%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "DeepSeek上线识图模式",
@@ -674,13 +767,38 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "用AI代替员工的快开不起工资了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8AI%E4%BB%A3%E6%9B%BF%E5%91%98%E5%B7%A5%E7%9A%84%E5%BF%AB%E5%BC%80%E4%B8%8D%E8%B5%B7%E5%B7%A5%E8%B5%84%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         }
       ]
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "中国军号：日本打不起“长期战争”",
+          "url": "https://www.toutiao.com/trending/7634091296285593115/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            16,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 15时32分]"
+        },
         {
           "title": "钧正平：美国防部欲更名“战争部”，释放令人不安的信号",
           "url": "https://news.ifeng.com/c/8siyDCNvXlk",
@@ -711,20 +829,6 @@
           "ranks": [
             10,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 08时02分]"
-        },
-        {
-          "title": "中国军号：日本打不起“长期战争”",
-          "url": "https://www.toutiao.com/trending/7634091296285593115/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            16,
-            10,
-            20
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -782,8 +886,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[02时18分 ~ 15时32分]"
         },
         {
           "title": "伊朗战争丨伊朗议长：敌人正发起新一轮攻势，我们要团结",
@@ -806,6 +910,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时48分 ~ 02时18分]"
+        },
+        {
+          "title": "挑衅频频，高市叫嚣准备长期战争，谁给的胆子？",
+          "url": "https://news.ifeng.com/c/8sjn4aIpenE",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 15时32分]"
         },
         {
           "title": "国际金价继续回撤至4500美元附近",
@@ -837,20 +952,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
         {
-          "title": "挑衅频频，高市叫嚣准备长期战争，谁给的胆子？",
-          "url": "https://news.ifeng.com/c/8sjn4aIpenE",
+          "title": "伊朗战争丨美防长接受质询，对伊动武说法前后不一",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "15时32分"
         },
         {
           "title": "阿曼外交部长与联合国秘书长强调，各方需展现必要的灵活性，以达成切实可行的解决方案来解决争端。",
@@ -884,6 +999,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "泰国央行：预计泰国经济因中东战争将放缓。",
+          "url": "https://flash.jin10.com/detail/20260430150331787800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "阿曼外交部长、联合国秘书长强调加强国际努力，以恢复海上安全与航行自由的重要性。",
@@ -941,6 +1067,28 @@
           "time_info": "02时18分"
         },
         {
+          "title": "今天是国际不打小孩日",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%9B%BD%E9%99%85%E4%B8%8D%E6%89%93%E5%B0%8F%E5%AD%A9%E6%97%A5",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "挂单报告：国际现货黄金涨势不改 美日留意上行押注",
+          "url": "https://flash.jin10.com/detail/20260430150116768800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "【伊朗：谈判团队正遵照最高领袖指示尽最大努力进行外交斡旋】当地时间29日，负责选举、监督、罢黜伊朗最高领袖的最高权力机构伊朗专家会议表示，谈判团队正在遵照伊朗最高领袖的命令和指示开展工作，谈判团队正在尽最大努力进行外交斡旋。（央视）",
           "url": "https://wallstreetcn.com/livenews/3096901",
           "source": "华尔街见闻-快讯",
@@ -955,7 +1103,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "寒武纪Q1业绩再创新高 单季度利润超10亿 牛散章建平退出前十大股东",
@@ -989,7 +1137,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -998,11 +1146,23 @@
           "url": "https://www.cls.cn/detail/2360375",
           "source": "财联社热门",
           "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 15时32分]"
+        },
+        {
+          "title": "习近平在加强基础研究座谈会上强调 以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基",
+          "url": "https://www.cls.cn/detail/2360815",
+          "source": "财联社热门",
+          "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "15时32分"
         },
         {
           "title": "标普500指数初步收跌0.1%，公用事业板块跌1.2%，原材料板块跌1%，科技板块大致收平，能源板块涨2.1%。 纳斯达克100指数初步收涨0.5%，成分股中，恩智浦初步收涨25%，英特尔涨12.2%，希捷科技涨10.3%，星巴克涨8.5%，微芯科技、Sandisk、西部数据、AMD、高通、思科、美光至少涨2.5%，铿腾电子涨1.5%，Strategy跌4.7%，再生元制药跌6.3%，特许通讯跌7.9%，GEHC跌13%。",
@@ -1077,7 +1237,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         }
@@ -1149,7 +1309,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -1197,22 +1357,24 @@
           "url": "https://wallstreetcn.com/articles/3771319",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 15时32分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
           "url": "https://wallstreetcn.com/articles/3771311",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 15时32分]"
         },
         {
           "title": "谷歌母公司Alphabet：“不急于”在Gemini投放广告，但也还么有什么好说的。",
@@ -1313,7 +1475,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "明查｜榫卯技术“日本特有”？非也",
@@ -1337,6 +1499,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时48分 ~ 08时02分]"
+        },
+        {
+          "title": "工信部：一季度我国软件业务收入34920亿元，同比增长11.6%",
+          "url": "https://wallstreetcn.com/livenews/3097290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "微信从聊天工具变成了工作软件",
+          "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E4%BB%8E%E8%81%8A%E5%A4%A9%E5%B7%A5%E5%85%B7%E5%8F%98%E6%88%90%E4%BA%86%E5%B7%A5%E4%BD%9C%E8%BD%AF%E4%BB%B6&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "三星电子：面向英伟达的VERA RUBIN平台，率先启动行业的HBM4大规模生产及销售。",
