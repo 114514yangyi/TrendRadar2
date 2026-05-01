@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T12:12:31.728870+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2026-05-01T15:31:42.292228+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "众议院议长称美国“并未处于战争状态”，国会没必要介入",
@@ -26,11 +26,12 @@
             11,
             10,
             9,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时28分 ~ 12时12分]"
+          "appearance_count": 9,
+          "time_info": "[01时28分 ~ 15时31分]"
         },
         {
           "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
@@ -52,31 +53,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 15时31分]"
         },
         {
           "title": "美总统60天战争权限5月1日到期",
           "url": "https://www.toutiao.com/trending/7634457029344428074/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "何立峰会见比利时副首相兼外交大臣普雷沃",
-          "url": "https://wallstreetcn.com/livenews/3097787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 15时31分]"
         },
         {
           "title": "伊朗战争冲击石油市场下，巴西油气产量创历史新高",
@@ -100,6 +91,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时00分 ~ 08时01分]"
+        },
+        {
+          "title": "何立峰会见比利时副首相兼外交大臣普雷沃",
+          "url": "https://wallstreetcn.com/livenews/3097787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 15时31分]"
         },
         {
           "title": "外交部发布中方关于日本拥核问题的工作文件",
@@ -137,6 +140,17 @@
           "time_info": "[03时43分 ~ 03时44分]"
         },
         {
+          "title": "伊朗外交部：期待伊美谈判迅速达成结果并不现实",
+          "url": "https://news.ifeng.com/c/8slUlo0THc1",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 15时31分]"
+        },
+        {
           "title": "美国总统特朗普：我们在发动伊朗战争方面并不曾需要（来自北约的）任何帮助。",
           "url": "https://wallstreetcn.com/livenews/3097682",
           "source": "华尔街见闻-快讯",
@@ -147,6 +161,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 05时10分]"
+        },
+        {
+          "title": "美总统60天战争权限5月1日到期",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%80%BB%E7%BB%9F60%E5%A4%A9%E6%88%98%E4%BA%89%E6%9D%83%E9%99%905%E6%9C%881%E6%97%A5%E5%88%B0%E6%9C%9F",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 15时31分]"
         },
         {
           "title": "国际油价急涨急跌，创四年新高后直线跳水",
@@ -189,20 +214,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
         {
-          "title": "伊朗外交部：期待伊美谈判迅速达成结果并不现实",
-          "url": "https://news.ifeng.com/c/8slUlo0THc1",
+          "title": "伊朗战争丨特朗普就伊朗队赴美参加世界杯表态",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "15时31分"
+        },
+        {
+          "title": "美国总统 60 天战争权限将耗尽，这意味着什么？美国有可能结束对伊作战吗？",
+          "url": "https://www.zhihu.com/question/2033449603194779614",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "国际足联主席：已收到5亿份2026年世界杯球票购票需求",
@@ -222,7 +258,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -260,15 +296,15 @@
           "time_info": "03时44分"
         },
         {
-          "title": "美总统60天战争权限5月1日到期",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%80%BB%E7%BB%9F60%E5%A4%A9%E6%88%98%E4%BA%89%E6%9D%83%E9%99%905%E6%9C%881%E6%97%A5%E5%88%B0%E6%9C%9F",
-          "source": "百度热搜",
+          "title": "跨越29年的国际局势预言：美国如何精准踩中每颗雷丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260501142319472800",
+          "source": "金十数据",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "15时31分"
         },
         {
           "title": "美国总统特朗普谈伊朗参加世界杯：如果国际足联主席因凡蒂诺这么说，我就没意见。",
@@ -282,6 +318,17 @@
           "time_info": "03时44分"
         },
         {
+          "title": "新西兰总理：外交解决方案是关键，我对阿曼在支持谈判解决方案方面的努力表示赞扬。",
+          "url": "https://flash.jin10.com/detail/20260501142218254800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
           "title": "据伊朗学生通讯社：伊朗外交部发言人表示，期望与美国的谈判迅速取得成果是不切实际的。",
           "url": "https://flash.jin10.com/detail/20260501052857915800",
           "source": "金十数据",
@@ -291,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时00分"
+        },
+        {
+          "title": "特朗普称美国结束对伊朗战争",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "据华尔街日报：Meta Platforms CEO扎克伯格表示，公司将缩减公司各部门团队，伊朗战争导致公司销售出现“轨迹变化”。",
@@ -321,7 +379,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -343,7 +401,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
@@ -351,7 +409,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -359,11 +417,37 @@
           "source": "贴吧",
           "ranks": [
             2,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时28分 ~ 12时12分]"
+          "appearance_count": 9,
+          "time_info": "[01时28分 ~ 15时31分]"
+        },
+        {
+          "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2361477",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时28分 ~ 15时31分]"
+        },
+        {
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时28分 ~ 15时31分]"
         },
         {
           "title": "假如AI能模拟去世亲人",
@@ -379,19 +463,6 @@
           "time_info": "[01时28分 ~ 08时01分]"
         },
         {
-          "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2361477",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时28分 ~ 12时12分]"
-        },
-        {
           "title": "从硅谷视角看DeepSeekV4",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
           "source": "bilibili 热搜",
@@ -399,18 +470,6 @@
             11,
             13,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时28分 ~ 12时12分]"
-        },
-        {
-          "title": "AI魔改黑袍,星光姐被玩坏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            27
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -428,6 +487,17 @@
           "time_info": "[01时28分 ~ 08时01分]"
         },
         {
+          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
+          "url": "https://news.ifeng.com/c/8slj4BER3rc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 15时31分]"
+        },
+        {
           "title": "深圳14岁男孩用AI备考押中奥赛题",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B314%E5%B2%81%E7%94%B7%E5%AD%A9%E7%94%A8AI%E5%A4%87%E8%80%83%E6%8A%BC%E4%B8%AD%E5%A5%A5%E8%B5%9B%E9%A2%98%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -442,37 +512,41 @@
           "time_info": "[01时28分 ~ 07时00分]"
         },
         {
-          "title": "AI古代铠甲勇士完结篇",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
           "title": "如何评价 Anthropic 的 Claude Code 被曝出 HERMES.md 触发隐藏计费？",
           "url": "https://www.zhihu.com/question/2033162416024985618",
           "source": "知乎",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
         {
-          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
-          "url": "https://news.ifeng.com/c/8slj4BER3rc",
-          "source": "凤凰网",
+          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
+          "url": "https://www.cls.cn/detail/2361533",
+          "source": "财联社热门",
           "ranks": [
-            4
+            10,
+            8,
+            11,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时59分 ~ 15时31分]"
+        },
+        {
+          "title": "AI古代铠甲勇士完结篇",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 15时31分]"
         },
         {
           "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
@@ -488,19 +562,6 @@
           "time_info": "[01时28分 ~ 05时10分]"
         },
         {
-          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
-          "url": "https://www.cls.cn/detail/2361533",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时59分 ~ 12时12分]"
-        },
-        {
           "title": "中央网信办部署开展“清朗·整治AI应用乱象”专项行动",
           "url": "https://www.cls.cn/detail/2361143",
           "source": "财联社热门",
@@ -510,6 +571,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时28分 ~ 05时10分]"
+        },
+        {
+          "title": "DeepSeek多模态正式发布",
+          "url": "https://www.douyin.com/hot/2485029",
+          "source": "抖音",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 15时31分]"
+        },
+        {
+          "title": "人民日报：不能让AI生成内容误导公众",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E4%B8%8D%E8%83%BD%E8%AE%A9AI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E8%AF%AF%E5%AF%BC%E5%85%AC%E4%BC%97",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 15时31分]"
         },
         {
           "title": "扎克伯格：销售放缓归咎于战争，裁员则因AI成本",
@@ -522,28 +607,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时00分 ~ 08时01分]"
-        },
-        {
-          "title": "人民日报：不能让AI生成内容误导公众",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E4%B8%8D%E8%83%BD%E8%AE%A9AI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E8%AF%AF%E5%AF%BC%E5%85%AC%E4%BC%97",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "DeepSeek多模态正式发布",
-          "url": "https://www.douyin.com/hot/2485029",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
         },
         {
           "title": "DeepSeek思考过程好萌",
@@ -574,7 +637,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -629,7 +692,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -651,7 +714,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -687,12 +750,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "DeepSeek梦话大赏",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%A2%A6%E8%AF%9D%E5%A4%A7%E8%B5%8F%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "女子被AI误导闯入响尾蛇窝",
+          "url": "https://www.toutiao.com/trending/7634484856417468470/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         }
       ]
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "悟空号发布新成果",
@@ -747,6 +832,18 @@
           "time_info": "[01时28分 ~ 08时01分]"
         },
         {
+          "title": "欧盟 USB-C 统一充电法规正式覆盖笔记本领域，一个减少「充电器电子垃圾」的政策，实际影响最大的是谁？",
+          "url": "https://www.zhihu.com/question/2032859269834302754",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 15时31分]"
+        },
+        {
           "title": "中方关于日本拥核问题的工作文件发布",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%85%B3%E4%BA%8E%E6%97%A5%E6%9C%AC%E6%8B%A5%E6%A0%B8%E9%97%AE%E9%A2%98%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%96%87%E4%BB%B6%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -761,17 +858,6 @@
           "time_info": "[01时28分 ~ 07时00分]"
         },
         {
-          "title": "欧盟 USB-C 统一充电法规正式覆盖笔记本领域，一个减少「充电器电子垃圾」的政策，实际影响最大的是谁？",
-          "url": "https://www.zhihu.com/question/2032859269834302754",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
           "title": "天津发布房地产新政",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%8F%91%E5%B8%83%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%96%B0%E6%94%BF%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -781,6 +867,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时28分 ~ 07时00分]"
+        },
+        {
+          "title": "阿联酋退出OPEC，会不会引来其他国家效仿、纷纷增产？",
+          "url": "https://news.ifeng.com/c/8slWL0Fvw0O",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 15时31分]"
         },
         {
           "title": "伊朗外长阿拉格齐：今天是伊朗的‘波斯湾国家日’，这一天旨在纪念约400年前我们的先辈将葡萄牙人驱逐出霍尔木兹海峡的历史时刻。美国总统使用的是‘波斯湾’这一正确名称，而非五角大楼所炮制的虚假术语！然而，若以其他任何名称来替代‘霍尔木兹’，无疑将是一个‘极其严重的错误’。",
@@ -816,15 +913,26 @@
           "time_info": "01时28分"
         },
         {
-          "title": "阿联酋退出OPEC，会不会引来其他国家效仿、纷纷增产？",
-          "url": "https://news.ifeng.com/c/8slWL0Fvw0O",
-          "source": "凤凰网",
+          "title": "法国总理：国家的网络和安全服务将对系统进行攻击场景演练。将提前预判包括数字黑暗等危机场景，以应对最严重的情况。",
+          "url": "https://flash.jin10.com/detail/20260501142502686800",
+          "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "15时31分"
+        },
+        {
+          "title": "日本开始追加释放国家石油储备",
+          "url": "https://wallstreetcn.com/livenews/3097801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "惠州实施人才房票政策：不限户籍社保 最高补贴10万元",
@@ -833,7 +941,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -844,9 +952,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "日本开始追加释放国家石油储备",
+          "url": "https://flash.jin10.com/detail/20260501140710223800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "不爱睡觉的国家迎来了最懂他的奶茶",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E7%88%B1%E7%9D%A1%E8%A7%89%E7%9A%84%E5%9B%BD%E5%AE%B6%E8%BF%8E%E6%9D%A5%E4%BA%86%E6%9C%80%E6%87%82%E4%BB%96%E7%9A%84%E5%A5%B6%E8%8C%B6&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "印尼将成亚洲第5个有航母的国家",
@@ -858,6 +988,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "据日本共同社：日本开始追加释放国家石油储备。",
+          "url": "https://flash.jin10.com/detail/20260501135136965800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "马斯克：将于5月5日发布经过重建的平台。",
@@ -874,7 +1015,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "如何看待南开大学院长陈佺 Nature 子刊论文被「耿同学讲故事」实名举报数据造假？",
@@ -883,11 +1024,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时28分 ~ 12时12分]"
+          "appearance_count": 9,
+          "time_info": "[01时28分 ~ 15时31分]"
         },
         {
           "title": "三部门：扩大科技创新和技术改造贷款投放 进一步支持设备更新",
@@ -912,6 +1054,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时28分 ~ 08时01分]"
+        },
+        {
+          "title": "60秒看中国硬科技核心突破",
+          "url": "https://www.douyin.com/hot/2485299",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 15时31分]"
+        },
+        {
+          "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
+          "url": "https://www.cls.cn/detail/2361649",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 15时31分]"
         },
         {
           "title": "闻泰科技将变更为*ST闻泰",
@@ -939,27 +1105,27 @@
           "time_info": "08时01分"
         },
         {
-          "title": "60秒看中国硬科技核心突破",
-          "url": "https://www.douyin.com/hot/2485299",
-          "source": "抖音",
+          "title": "如何看待闻泰科技一年巨亏 87.48 亿，将「披星带帽」，退市风险悬顶？",
+          "url": "https://www.zhihu.com/question/2033139439564580001",
+          "source": "知乎",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "15时31分"
         },
         {
-          "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
-          "url": "https://www.cls.cn/detail/2361649",
-          "source": "财联社热门",
+          "title": "月销超7万零跑创新高",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%94%80%E8%B6%857%E4%B8%87%E9%9B%B6%E8%B7%91%E5%88%9B%E6%96%B0%E9%AB%98%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            12,
-            3
+            28,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 12时12分]"
+          "time_info": "[12时12分 ~ 15时31分]"
         },
         {
           "title": "Anthropic大模型Mythos的扩张包括日本（市场）。（日经新闻）",
@@ -979,7 +1145,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -1001,18 +1167,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "月销超7万零跑创新高",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%94%80%E8%B6%857%E4%B8%87%E9%9B%B6%E8%B7%91%E5%88%9B%E6%96%B0%E9%AB%98%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
@@ -1044,8 +1199,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时59分 ~ 12时12分]"
+          "appearance_count": 5,
+          "time_info": "[06时59分 ~ 15时31分]"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时59分 ~ 15时31分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -1058,19 +1226,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时28分 ~ 08时01分]"
-        },
-        {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时59分 ~ 12时12分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -1101,11 +1256,12 @@
           "url": "https://www.zhihu.com/question/2033115543276930640",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 15时31分]"
         },
         {
           "title": "谷歌公司：开始在配置谷歌的乘用车推广Gemini。",
@@ -1155,7 +1311,7 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "定档!国产显卡520上市发售",
@@ -1163,11 +1319,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时28分 ~ 12时12分]"
+          "appearance_count": 9,
+          "time_info": "[01时28分 ~ 15时31分]"
         },
         {
           "title": "孙杨玩游戏真打了范明一耳光",
@@ -1239,6 +1396,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时00分 ~ 08时01分]"
+        },
+        {
+          "title": "孙杨玩游戏真打了范明一耳光",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E6%9D%A8%E7%8E%A9%E6%B8%B8%E6%88%8F%E7%9C%9F%E6%89%93%E4%BA%86%E8%8C%83%E6%98%8E%E4%B8%80%E8%80%B3%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         }
       ]
     },
@@ -1316,7 +1484,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "涉嫌信披违法违规，科蓝软件、S佳通被证监会立案",
@@ -1327,8 +1495,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时28分 ~ 12时12分]"
+          "appearance_count": 9,
+          "time_info": "[01时28分 ~ 15时31分]"
         },
         {
           "title": "男子失联10日 手机用过的软件被删除",
@@ -1349,11 +1517,23 @@
           "url": "https://www.cls.cn/detail/2361707",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 15时31分]"
+        },
+        {
+          "title": "最低工资托底、划定派费直达底线，上海首份快递行业劳动规则协议出炉",
+          "url": "https://wallstreetcn.com/livenews/3097802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "15时31分"
         },
         {
           "title": "55岁招商金控总经理王小青出任招行行长，如何应对零售银行业务挑战？",
@@ -1362,7 +1542,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
@@ -1379,7 +1559,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
