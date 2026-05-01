@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T21:44:25.594516+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-05-01T23:04:46.800206+08:00",
+  "total_titles_processed": 1519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 56,
+      "match_count": 63,
       "titles": [
         {
           "title": "众议院议长称美国“并未处于战争状态”，国会没必要介入",
@@ -58,6 +58,18 @@
           "time_info": "[01时28分 ~ 08时01分]"
         },
         {
+          "title": "美国总统 60 天战争权限将耗尽，这意味着什么？美国有可能结束对伊作战吗？",
+          "url": "https://www.zhihu.com/question/2033449603194779614",
+          "source": "知乎",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时31分 ~ 23时04分]"
+        },
+        {
           "title": "美总统60天战争权限5月1日到期",
           "url": "https://www.toutiao.com/trending/7634457029344428074/",
           "source": "今日头条",
@@ -82,17 +94,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时01分 ~ 21时44分]"
-        },
-        {
-          "title": "美国总统 60 天战争权限将耗尽，这意味着什么？美国有可能结束对伊作战吗？",
-          "url": "https://www.zhihu.com/question/2033449603194779614",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时31分 ~ 21时44分]"
         },
         {
           "title": "伊朗司法部长：伊方从未离开谈判桌 但也不害怕战争",
@@ -366,9 +367,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
+        },
+        {
+          "title": "伊朗战争丨美军最大航母“福特”号已离开中东",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "国际足联主席：已收到5亿份2026年世界杯球票购票需求",
@@ -404,6 +416,28 @@
           "time_info": "17时55分"
         },
         {
+          "title": "国际货币基金组织：古兰沙将卸任国际货币基金组织经济顾问兼研究部主任一职。",
+          "url": "https://flash.jin10.com/detail/20260501222806805800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "乌克兰外交部长：俄罗斯5月9日的停火提议是莫斯科再次试图取悦美国。",
+          "url": "https://flash.jin10.com/detail/20260501222117386800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "美国总统特朗普：一旦伊朗战争结束，汽油价格将会下降。",
           "url": "https://flash.jin10.com/detail/20260501031709849800",
           "source": "金十数据",
@@ -426,6 +460,17 @@
           "time_info": "03时44分"
         },
         {
+          "title": "伊朗足协主席：国家队是否赴美参加世界杯仍需与国际足联沟通协调",
+          "url": "https://flash.jin10.com/detail/20260501221603622800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "特朗普60天战争权限将于5月1日到期",
           "url": "https://wallstreetcn.com/livenews/3097676",
           "source": "华尔街见闻-快讯",
@@ -435,6 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "美政府官员表示根据《战争权力法》，2 月 28 日开始的「敌对行动已结束」，美伊会彻底停火吗？",
+          "url": "https://www.zhihu.com/question/2033470223014163138",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "跨越29年的国际局势预言：美国如何精准踩中每颗雷丨Hi，今天怎么看？",
@@ -487,9 +543,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
+        },
+        {
+          "title": "伊朗足协主席：国家队是否赴美参加世界杯仍需与国际足联沟通协调",
+          "url": "https://wallstreetcn.com/livenews/3097934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "英国国王「查尔斯 III」在美国国会发表历史性演讲，他说了些什么，对当下国际经济和地缘局势有何影响？",
@@ -498,9 +565,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
+        },
+        {
+          "title": "埃克森美孚石油(XOM.N)CEO：伊朗战争并未改变埃克森美孚对其液化天然气投资组合的看法。",
+          "url": "https://flash.jin10.com/detail/20260501221048562800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗外交部发言人表示，期望与美国的谈判迅速取得成果是不切实际的。",
@@ -520,7 +598,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -531,7 +609,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -564,7 +642,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -608,7 +686,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -641,7 +719,414 @@
           "ranks": [
             29
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国家 改革 政策 发布 合作",
+      "match_count": 35,
+      "titles": [
+        {
+          "title": "悟空号发布新成果",
+          "url": "https://search.bilibili.com/all?keyword=%E6%82%9F%E7%A9%BA%E5%8F%B7%E5%8F%91%E5%B8%83%E6%96%B0%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 08时01分]"
+        },
+        {
+          "title": "GTA6还不发布的原因",
+          "url": "https://search.bilibili.com/all?keyword=GTA6%E8%BF%98%E4%B8%8D%E5%8F%91%E5%B8%83%E7%9A%84%E5%8E%9F%E5%9B%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            26,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 08时01分]"
+        },
+        {
+          "title": "上海快递行业劳动规则协议发布：面对投诉，不得未经核实就处罚快递员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33083077",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时28分 ~ 12时12分]"
+        },
+        {
+          "title": "中方发布关于日本拥核问题的工作文件，指出日本实际上不认同战败国身份，还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2033187099386590088",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 08时01分]"
+        },
+        {
+          "title": "中方关于日本拥核问题的工作文件发布",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%85%B3%E4%BA%8E%E6%97%A5%E6%9C%AC%E6%8B%A5%E6%A0%B8%E9%97%AE%E9%A2%98%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%96%87%E4%BB%B6%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7,
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时28分 ~ 07时00分]"
+        },
+        {
+          "title": "欧盟 USB-C 统一充电法规正式覆盖笔记本领域，一个减少「充电器电子垃圾」的政策，实际影响最大的是谁？",
+          "url": "https://www.zhihu.com/question/2032859269834302754",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 17时55分]"
+        },
+        {
+          "title": "中国交通运输协会、中国港口协会、中国船东互保协会、中国船东协会签署合作框架协议",
+          "url": "https://wallstreetcn.com/livenews/3097877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "雪佛龙(CVX.N)CEO：需要看到委内瑞拉政策的更多确定性。",
+          "url": "https://flash.jin10.com/detail/20260501185233798800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "“科创板八条”发布以来，科创板公司累计新增产业并购200余单",
+          "url": "https://wallstreetcn.com/livenews/3097874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "以军向黎巴嫩南部一村庄发布紧急撤离警告",
+          "url": "https://wallstreetcn.com/livenews/3097913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "阿联酋退出OPEC，会不会引来其他国家效仿、纷纷增产？",
+          "url": "https://news.ifeng.com/c/8slWL0Fvw0O",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 17时55分]"
+        },
+        {
+          "title": "深圳楼市新政发布 中介电话被打爆",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%A5%BC%E5%B8%82%E6%96%B0%E6%94%BF%E5%8F%91%E5%B8%83+%E4%B8%AD%E4%BB%8B%E7%94%B5%E8%AF%9D%E8%A2%AB%E6%89%93%E7%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 19时15分]"
+        },
+        {
+          "title": "天津发布房地产新政",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%8F%91%E5%B8%83%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%96%B0%E6%94%BF%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 07时00分]"
+        },
+        {
+          "title": "不爱睡觉的国家迎来了最懂他的奶茶",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E7%88%B1%E7%9D%A1%E8%A7%89%E7%9A%84%E5%9B%BD%E5%AE%B6%E8%BF%8E%E6%9D%A5%E4%BA%86%E6%9C%80%E6%87%82%E4%BB%96%E7%9A%84%E5%A5%B6%E8%8C%B6&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 17时55分]"
+        },
+        {
+          "title": "日本与澳大利亚将优先推进稀土和镍领域的合作。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3097851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 19时15分]"
+        },
+        {
+          "title": "多景区紧急发布限流通知",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E6%99%AF%E5%8C%BA%E7%B4%A7%E6%80%A5%E5%8F%91%E5%B8%83%E9%99%90%E6%B5%81%E9%80%9A%E7%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时15分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：今天是伊朗的‘波斯湾国家日’，这一天旨在纪念约400年前我们的先辈将葡萄牙人驱逐出霍尔木兹海峡的历史时刻。美国总统使用的是‘波斯湾’这一正确名称，而非五角大楼所炮制的虚假术语！然而，若以其他任何名称来替代‘霍尔木兹’，无疑将是一个‘极其严重的错误’。",
+          "url": "https://flash.jin10.com/detail/20260501005408136800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "美国加州州长纽森：在特朗普与伊朗的冲突持续61天后，国家平均汽油价格已达到每加仑4.30美元，涨幅近30%。此外，食品、运输、航班等价格也在上涨。特朗普政府和共和党国会对此的反应？沉默无声。",
+          "url": "https://flash.jin10.com/detail/20260501032134400800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "康菲石油：预计2026年下半年将于美国二叠纪盆地（Permian Basin）增加一座钻井平台。 预计全球石油需求将与去年持平；如果中东冲突持续，需求将面临更大的下行风险。 依赖进口的国家最终将在进入6月和7月时面临严重的供应短缺。",
+          "url": "https://wallstreetcn.com/livenews/3097643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "据日经新闻：日本、澳大利亚将优先推进稀土、镍领域的合作。",
+          "url": "https://flash.jin10.com/detail/20260501170832832800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "法国总理：国家的网络和安全服务将对系统进行攻击场景演练。将提前预判包括数字黑暗等危机场景，以应对最严重的情况。",
+          "url": "https://flash.jin10.com/detail/20260501142502686800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡发布了一段在健身房的视频，以证明自己身体健康。",
+          "url": "https://flash.jin10.com/detail/20260501212227734800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "日本开始追加释放国家石油储备",
+          "url": "https://wallstreetcn.com/livenews/3097801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "惠州实施人才房票政策：不限户籍社保 最高补贴10万元",
+          "url": "https://flash.jin10.com/detail/20260501105420210800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "德钦梅里雪山发布通告：禁止在景区未开发开放线路区域开展旅游及探险等活动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33085173",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "美国达拉斯联储主席洛根：越来越担心通胀前景。 反对美联储政策声明中隐含的降息倾向。 劳动力市场保持稳定，失业率在低水平。 冲突可能导致供应中断情况长期持续。 美联储接下来的举措很可能会是加息或降息。",
+          "url": "https://wallstreetcn.com/livenews/3097931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "美联储洛根：美联储目前不应发出暗示放松政策的指引。",
+          "url": "https://flash.jin10.com/detail/20260501220332866800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "日本开始追加释放国家石油储备",
+          "url": "https://flash.jin10.com/detail/20260501140710223800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰开始军队改革。",
+          "url": "https://flash.jin10.com/detail/20260501204108577800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "印尼将成亚洲第5个有航母的国家",
+          "url": "https://www.toutiao.com/trending/7634355630774206510/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "英国央行首席经济学家Pill：冲击会蔓延到何种程度存在高度不确定性。 货币政策委员会内部围绕金融紧缩问题讨论颇多。 政策不应因短期波动而过度反应。 货币政策委员会对第二轮效应的看法存在分歧。 维持利率不变更多是一个主动决策，并非被动决策。 货币政策委员会已强调其采取行动的意愿，且可能采取强力行动。 我的立场与货币政策委员会的中位数观点并没有太大不同。 我的观点是我们应该更迅速一点采取行动。 不处于被动的观望状态。",
+          "url": "https://wallstreetcn.com/livenews/3097891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "据日本共同社：日本开始追加释放国家石油储备。",
+          "url": "https://flash.jin10.com/detail/20260501135136965800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "美联储洛根：前瞻指引是重要的政策工具。",
+          "url": "https://flash.jin10.com/detail/20260501220132737800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "马斯克：将于5月5日发布经过重建的平台。",
+          "url": "https://wallstreetcn.com/livenews/3097654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "五角大楼的MICHAEL：在人工智能方面不能只依赖一个合作伙伴。",
+          "url": "https://wallstreetcn.com/livenews/3097888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         }
@@ -649,7 +1134,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -661,11 +1146,12 @@
             7,
             10,
             11,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时28分 ~ 21时44分]"
+          "appearance_count": 14,
+          "time_info": "[01时28分 ~ 23时04分]"
         },
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
@@ -675,11 +1161,12 @@
             20,
             27,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时28分 ~ 21时44分]"
+          "appearance_count": 14,
+          "time_info": "[01时28分 ~ 23时04分]"
         },
         {
           "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
@@ -695,6 +1182,21 @@
           "time_info": "[01时28分 ~ 15时31分]"
         },
         {
+          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
+          "url": "https://www.cls.cn/detail/2361533",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            11,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时59分 ~ 23时04分]"
+        },
+        {
           "title": "假如AI能模拟去世亲人",
           "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82AI%E8%83%BD%E6%A8%A1%E6%8B%9F%E5%8E%BB%E4%B8%96%E4%BA%B2%E4%BA%BA",
           "source": "bilibili 热搜",
@@ -706,20 +1208,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时28分 ~ 08时01分]"
-        },
-        {
-          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
-          "url": "https://www.cls.cn/detail/2361533",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时59分 ~ 19时15分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -735,6 +1223,21 @@
           "time_info": "[01时28分 ~ 12时12分]"
         },
         {
+          "title": "AI古代铠甲勇士完结篇",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            20,
+            16,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时12分 ~ 23时04分]"
+        },
+        {
           "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
           "url": "https://news.ifeng.com/c/8slj4BER3rc",
           "source": "凤凰网",
@@ -744,20 +1247,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时12分 ~ 17时55分]"
-        },
-        {
-          "title": "AI古代铠甲勇士完结篇",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            20,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时12分 ~ 21时44分]"
         },
         {
           "title": "DeepSeek多模态模型来了",
@@ -783,6 +1272,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时28分 ~ 07时00分]"
+        },
+        {
+          "title": "精神航空公司（Spirit Airlines）准备关闭。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3097947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "如何评价 Anthropic 的 Claude Code 被曝出 HERMES.md 触发隐藏计费？",
@@ -1041,381 +1541,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 32,
-      "titles": [
-        {
-          "title": "悟空号发布新成果",
-          "url": "https://search.bilibili.com/all?keyword=%E6%82%9F%E7%A9%BA%E5%8F%B7%E5%8F%91%E5%B8%83%E6%96%B0%E6%88%90%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            4
-          ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时28分 ~ 08时01分]"
-        },
-        {
-          "title": "GTA6还不发布的原因",
-          "url": "https://search.bilibili.com/all?keyword=GTA6%E8%BF%98%E4%B8%8D%E5%8F%91%E5%B8%83%E7%9A%84%E5%8E%9F%E5%9B%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            26,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时28分 ~ 08时01分]"
-        },
-        {
-          "title": "上海快递行业劳动规则协议发布：面对投诉，不得未经核实就处罚快递员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33083077",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时28分 ~ 12时12分]"
-        },
-        {
-          "title": "中方发布关于日本拥核问题的工作文件，指出日本实际上不认同战败国身份，还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2033187099386590088",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时28分 ~ 08时01分]"
-        },
-        {
-          "title": "中方关于日本拥核问题的工作文件发布",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%85%B3%E4%BA%8E%E6%97%A5%E6%9C%AC%E6%8B%A5%E6%A0%B8%E9%97%AE%E9%A2%98%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%96%87%E4%BB%B6%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7,
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 07时00分]"
-        },
-        {
-          "title": "欧盟 USB-C 统一充电法规正式覆盖笔记本领域，一个减少「充电器电子垃圾」的政策，实际影响最大的是谁？",
-          "url": "https://www.zhihu.com/question/2032859269834302754",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 17时55分]"
-        },
-        {
-          "title": "中国交通运输协会、中国港口协会、中国船东互保协会、中国船东协会签署合作框架协议",
-          "url": "https://wallstreetcn.com/livenews/3097877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "雪佛龙(CVX.N)CEO：需要看到委内瑞拉政策的更多确定性。",
-          "url": "https://flash.jin10.com/detail/20260501185233798800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "“科创板八条”发布以来，科创板公司累计新增产业并购200余单",
-          "url": "https://wallstreetcn.com/livenews/3097874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "以军向黎巴嫩南部一村庄发布紧急撤离警告",
-          "url": "https://wallstreetcn.com/livenews/3097913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "阿联酋退出OPEC，会不会引来其他国家效仿、纷纷增产？",
-          "url": "https://news.ifeng.com/c/8slWL0Fvw0O",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 17时55分]"
-        },
-        {
-          "title": "深圳楼市新政发布 中介电话被打爆",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E6%A5%BC%E5%B8%82%E6%96%B0%E6%94%BF%E5%8F%91%E5%B8%83+%E4%B8%AD%E4%BB%8B%E7%94%B5%E8%AF%9D%E8%A2%AB%E6%89%93%E7%88%86",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 19时15分]"
-        },
-        {
-          "title": "天津发布房地产新政",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%8F%91%E5%B8%83%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%96%B0%E6%94%BF%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 07时00分]"
-        },
-        {
-          "title": "不爱睡觉的国家迎来了最懂他的奶茶",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E7%88%B1%E7%9D%A1%E8%A7%89%E7%9A%84%E5%9B%BD%E5%AE%B6%E8%BF%8E%E6%9D%A5%E4%BA%86%E6%9C%80%E6%87%82%E4%BB%96%E7%9A%84%E5%A5%B6%E8%8C%B6&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 17时55分]"
-        },
-        {
-          "title": "日本与澳大利亚将优先推进稀土和镍领域的合作。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3097851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 19时15分]"
-        },
-        {
-          "title": "多景区紧急发布限流通知",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E6%99%AF%E5%8C%BA%E7%B4%A7%E6%80%A5%E5%8F%91%E5%B8%83%E9%99%90%E6%B5%81%E9%80%9A%E7%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时15分]"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：今天是伊朗的‘波斯湾国家日’，这一天旨在纪念约400年前我们的先辈将葡萄牙人驱逐出霍尔木兹海峡的历史时刻。美国总统使用的是‘波斯湾’这一正确名称，而非五角大楼所炮制的虚假术语！然而，若以其他任何名称来替代‘霍尔木兹’，无疑将是一个‘极其严重的错误’。",
-          "url": "https://flash.jin10.com/detail/20260501005408136800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "美国加州州长纽森：在特朗普与伊朗的冲突持续61天后，国家平均汽油价格已达到每加仑4.30美元，涨幅近30%。此外，食品、运输、航班等价格也在上涨。特朗普政府和共和党国会对此的反应？沉默无声。",
-          "url": "https://flash.jin10.com/detail/20260501032134400800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "康菲石油：预计2026年下半年将于美国二叠纪盆地（Permian Basin）增加一座钻井平台。 预计全球石油需求将与去年持平；如果中东冲突持续，需求将面临更大的下行风险。 依赖进口的国家最终将在进入6月和7月时面临严重的供应短缺。",
-          "url": "https://wallstreetcn.com/livenews/3097643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "据日经新闻：日本、澳大利亚将优先推进稀土、镍领域的合作。",
-          "url": "https://flash.jin10.com/detail/20260501170832832800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
-          "title": "法国总理：国家的网络和安全服务将对系统进行攻击场景演练。将提前预判包括数字黑暗等危机场景，以应对最严重的情况。",
-          "url": "https://flash.jin10.com/detail/20260501142502686800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡发布了一段在健身房的视频，以证明自己身体健康。",
-          "url": "https://flash.jin10.com/detail/20260501212227734800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "日本开始追加释放国家石油储备",
-          "url": "https://wallstreetcn.com/livenews/3097801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
-          "title": "惠州实施人才房票政策：不限户籍社保 最高补贴10万元",
-          "url": "https://flash.jin10.com/detail/20260501105420210800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "德钦梅里雪山发布通告：禁止在景区未开发开放线路区域开展旅游及探险等活动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33085173",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "日本开始追加释放国家石油储备",
-          "url": "https://flash.jin10.com/detail/20260501140710223800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰开始军队改革。",
-          "url": "https://flash.jin10.com/detail/20260501204108577800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "印尼将成亚洲第5个有航母的国家",
-          "url": "https://www.toutiao.com/trending/7634355630774206510/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "英国央行首席经济学家Pill：冲击会蔓延到何种程度存在高度不确定性。 货币政策委员会内部围绕金融紧缩问题讨论颇多。 政策不应因短期波动而过度反应。 货币政策委员会对第二轮效应的看法存在分歧。 维持利率不变更多是一个主动决策，并非被动决策。 货币政策委员会已强调其采取行动的意愿，且可能采取强力行动。 我的立场与货币政策委员会的中位数观点并没有太大不同。 我的观点是我们应该更迅速一点采取行动。 不处于被动的观望状态。",
-          "url": "https://wallstreetcn.com/livenews/3097891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "据日本共同社：日本开始追加释放国家石油储备。",
-          "url": "https://flash.jin10.com/detail/20260501135136965800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
-          "title": "马斯克：将于5月5日发布经过重建的平台。",
-          "url": "https://wallstreetcn.com/livenews/3097654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "五角大楼的MICHAEL：在人工智能方面不能只依赖一个合作伙伴。",
-          "url": "https://wallstreetcn.com/livenews/3097888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "21时44分"
         }
@@ -1423,7 +1549,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "如何看待南开大学院长陈佺 Nature 子刊论文被「耿同学讲故事」实名举报数据造假？",
@@ -1440,6 +1566,19 @@
           "time_info": "[01时28分 ~ 15时31分]"
         },
         {
+          "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
+          "url": "https://www.cls.cn/detail/2361649",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时01分 ~ 23时04分]"
+        },
+        {
           "title": "三部门：扩大科技创新和技术改造贷款投放 进一步支持设备更新",
           "url": "https://www.cls.cn/detail/2361259",
           "source": "财联社热门",
@@ -1452,28 +1591,16 @@
           "time_info": "[01时28分 ~ 12时12分]"
         },
         {
-          "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
-          "url": "https://www.cls.cn/detail/2361649",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时01分 ~ 21时44分]"
-        },
-        {
           "title": "如何看待闻泰科技一年巨亏 87.48 亿，将「披星带帽」，退市风险悬顶？",
           "url": "https://www.zhihu.com/question/2033139439564580001",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时31分 ~ 21时44分]"
+          "appearance_count": 6,
+          "time_info": "[15时31分 ~ 23时04分]"
         },
         {
           "title": "不写论文也能获学位：又一批高校首位工程博士亮相",
@@ -1488,6 +1615,17 @@
           "time_info": "[01时28分 ~ 08时01分]"
         },
         {
+          "title": "数读我国创新全方位加速突破",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%BB%E6%88%91%E5%9B%BD%E5%88%9B%E6%96%B0%E5%85%A8%E6%96%B9%E4%BD%8D%E5%8A%A0%E9%80%9F%E7%AA%81%E7%A0%B4%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 23时04分]"
+        },
+        {
           "title": "60秒看中国硬科技核心突破",
           "url": "https://www.douyin.com/hot/2485299",
           "source": "抖音",
@@ -1497,6 +1635,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时12分 ~ 15时31分]"
+        },
+        {
+          "title": "4月中国创新成绩单超提气",
+          "url": "https://www.douyin.com/hot/2485231",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 23时04分]"
         },
         {
           "title": "闻泰科技将变更为*ST闻泰",
@@ -1524,35 +1673,13 @@
           "time_info": "08时01分"
         },
         {
-          "title": "数读我国创新全方位加速突破",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%BB%E6%88%91%E5%9B%BD%E5%88%9B%E6%96%B0%E5%85%A8%E6%96%B9%E4%BD%8D%E5%8A%A0%E9%80%9F%E7%AA%81%E7%A0%B4%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "4月中国创新成绩单超提气",
-          "url": "https://www.douyin.com/hot/2485231",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
           "title": "费城半导体指数跌近1%。英伟达(NVDA.O)涨1.67%，台积电(TSM.N)跌0.82%，博通(AVGO.O)跌0.29%，美光科技(MU.O)跌0.6%。",
           "url": "https://flash.jin10.com/detail/20260501213326900800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -1590,6 +1717,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
+        },
+        {
+          "title": "美股存储板块走高，美光科技(MU.O)涨5.07%，闪迪(SNDK.O)涨4.03%，西部数据(WDC.O)转涨，希捷科技(STX.O)涨5.32%。",
+          "url": "https://flash.jin10.com/detail/20260501222150341800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "Anthropic大模型Mythos的扩张包括日本（市场）。（日经新闻）",
@@ -1631,7 +1769,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -1645,6 +1783,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "认真生活也是劳动成果",
+          "url": "https://www.douyin.com/hot/2485565",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "重庆：鼓励企业用好债券市场中长期、低成本资金 发行科技创新债券等创新产品",
@@ -1661,7 +1810,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
@@ -1672,8 +1821,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时59分 ~ 21时44分]"
+          "appearance_count": 10,
+          "time_info": "[06时59分 ~ 23时04分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -1686,8 +1835,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时59分 ~ 21时44分]"
+          "appearance_count": 10,
+          "time_info": "[06时59分 ~ 23时04分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -1709,11 +1858,12 @@
           "ranks": [
             7,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时55分 ~ 21时44分]"
+          "appearance_count": 5,
+          "time_info": "[17时55分 ~ 23时04分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -1762,6 +1912,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时12分 ~ 15时31分]"
+        },
+        {
+          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
+          "url": "https://wallstreetcn.com/articles/3771451",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "谷歌公司：开始在配置谷歌的乘用车推广Gemini。",
@@ -1823,11 +1984,12 @@
             17,
             19,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时28分 ~ 21时44分]"
+          "appearance_count": 14,
+          "time_info": "[01时28分 ~ 23时04分]"
         },
         {
           "title": "孙杨玩游戏真打了范明一耳光",
@@ -1920,15 +2082,15 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 23时04分]"
         }
       ]
     },
     {
       "keyword_group": "美股 美元",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "周四（4月30日）纽约尾盘，ICE美元指数跌0.88%，报98.090点，4月份累计下跌1.88%，整体交投区间为100.273-97.632点，大部分时间交投于99点下方。",
@@ -1959,7 +2121,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -2006,6 +2168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，全球科技股指数ETF、科技行业ETF、网络股指数ETF涨超1%，生物科技指数ETF跌超2%，区域银行ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3097921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         }
       ]
     },
@@ -2032,11 +2205,12 @@
           "ranks": [
             12,
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时12分 ~ 21时44分]"
+          "appearance_count": 7,
+          "time_info": "[12时12分 ~ 23时04分]"
         },
         {
           "title": "男子失联10日 手机用过的软件被删除",
@@ -2072,8 +2246,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时55分 ~ 21时44分]"
+          "appearance_count": 5,
+          "time_info": "[17时55分 ~ 23时04分]"
         },
         {
           "title": "最低工资托底、划定派费直达底线，上海首份快递行业劳动规则协议出炉",
