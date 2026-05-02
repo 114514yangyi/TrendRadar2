@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T08:36:47.359868+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-05-02T11:41:46.444271+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "美政府官员表示根据《战争权力法》，2 月 28 日开始的「敌对行动已结束」，美伊会彻底停火吗？",
@@ -20,6 +20,39 @@
           "time_info": "[01时05分 ~ 08时36分]"
         },
         {
+          "title": "国际海事组织决定加开会议商讨净零排放框架",
+          "url": "https://flash.jin10.com/detail/20260502102241513800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "国际海事组织决定加开会议商讨净零排放框架",
+          "url": "https://wallstreetcn.com/livenews/3098103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "伊朗战争丨特朗普：说我们没赢，这是叛国",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "特朗普称60天战争权限“完全违宪”",
           "url": "https://flash.jin10.com/detail/20260502005826166800",
           "source": "金十数据",
@@ -29,17 +62,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
-        },
-        {
-          "title": "国际货币基金组织：安哥拉石油产量显著下降，预计2025年财政和外部形势将进一步恶化。",
-          "url": "https://flash.jin10.com/detail/20260502080342462800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时36分"
         },
         {
           "title": "美国总统 60 天战争权限将耗尽，这意味着什么？美国有可能结束对伊作战吗？",
@@ -77,6 +99,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时22分 ~ 06时56分]"
+        },
+        {
+          "title": "国际货币基金组织：安哥拉石油产量显著下降，预计2025年财政和外部形势将进一步恶化。",
+          "url": "https://flash.jin10.com/detail/20260502080342462800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时36分 ~ 11时41分]"
         },
         {
           "title": "伊朗战争丨特朗普：对伊朗最新的谈判方案不满意",
@@ -148,6 +182,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
+          "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "伊朗外长称对外交持开放态度，但美国必须停止“威胁性言论”",
           "url": "https://flash.jin10.com/detail/20260502004442686800",
           "source": "金十数据",
@@ -176,7 +221,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时36分"
         },
@@ -206,7 +251,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -214,11 +259,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 08时36分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 11时41分]"
         },
         {
           "title": "AI古代铠甲勇士完结篇",
@@ -232,19 +278,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 08时36分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 11时41分]"
         },
         {
           "title": "假设 AI 蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗，那么真正的李白，底牌是什么？",
           "url": "https://www.zhihu.com/question/2029888609017422176",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时36分 ~ 11时41分]"
         },
         {
           "title": "美国航空公司Spirit Airlines准备最早周六美东时间03:00停止营业。（纽约时报）",
@@ -284,6 +331,17 @@
           "time_info": "[05时02分 ~ 06时56分]"
         },
         {
+          "title": "女子被AI误导闯入毒蛇窝，AI道歉承认“和送死没有区别”",
+          "url": "https://news.ifeng.com/c/8sn1WIx976g",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时36分 ~ 11时41分]"
+        },
+        {
           "title": "因AI热潮耗尽库存，苹果将Mac Mini起售价调高200美元",
           "url": "https://wallstreetcn.com/livenews/3098058",
           "source": "华尔街见闻-快讯",
@@ -308,6 +366,17 @@
           "time_info": "[06时56分 ~ 08时36分]"
         },
         {
+          "title": "AI热潮导致供应短缺 苹果公司将Mac Mini的起售价提高至799美元",
+          "url": "https://flash.jin10.com/detail/20260502095648869800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "假设 AI 蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗。那么真正的李白，底牌是什么？",
           "url": "https://www.zhihu.com/question/2029888609017422176",
           "source": "知乎",
@@ -319,15 +388,26 @@
           "time_info": "06时56分"
         },
         {
-          "title": "女子被AI误导闯入毒蛇窝，AI道歉承认“和送死没有区别”",
-          "url": "https://news.ifeng.com/c/8sn1WIx976g",
-          "source": "凤凰网",
+          "title": "美军使用AI技术在霍尔木兹海峡扫雷",
+          "url": "https://flash.jin10.com/detail/20260502085918272800",
+          "source": "金十数据",
           "ranks": [
-            11
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时36分"
+          "time_info": "11时41分"
+        },
+        {
+          "title": "美军使用AI技术在霍尔木兹海峡扫雷",
+          "url": "https://wallstreetcn.com/livenews/3098092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "美国总统特朗普：如果一个好的交易对航空公司Spirit Airlines有利，将达成一份协议。",
@@ -339,6 +419,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "美军使用AI技术在霍尔木兹海峡扫雷",
+          "url": "https://www.toutiao.com/trending/7634071718033837610/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "AI手搓小黄人产生意识了",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%89%8B%E6%90%93%E5%B0%8F%E9%BB%84%E4%BA%BA%E4%BA%A7%E7%94%9F%E6%84%8F%E8%AF%86%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "DeepSeek拟人 哇呀啧呜哇",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8B%9F%E4%BA%BA%20%E5%93%87%E5%91%80%E5%95%A7%E5%91%9C%E5%93%87&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "甲骨文加入五角大楼AI项目，股价刷新日高",
@@ -355,7 +468,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
@@ -365,8 +478,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 08时36分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 11时41分]"
         },
         {
           "title": "数读我国创新全方位加速突破",
@@ -398,8 +511,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 08时36分]"
+          "appearance_count": 3,
+          "time_info": "[06时56分 ~ 11时41分]"
+        },
+        {
+          "title": "认真生活也是劳动成果",
+          "url": "https://www.douyin.com/hot/2485565",
+          "source": "抖音",
+          "ranks": [
+            25,
+            23,
+            24,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 11时41分]"
         },
         {
           "title": "闻泰科技一夜“披星戴帽”",
@@ -416,20 +544,6 @@
           "time_info": "[01时05分 ~ 08时36分]"
         },
         {
-          "title": "认真生活也是劳动成果",
-          "url": "https://www.douyin.com/hot/2485565",
-          "source": "抖音",
-          "ranks": [
-            25,
-            23,
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 08时36分]"
-        },
-        {
           "title": "教师陈某论文数据存疑？南开大学成立调查组启动调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33088922",
           "source": "澎湃新闻",
@@ -440,6 +554,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时05分 ~ 06时56分]"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（5月2日）",
+          "url": "https://flash.jin10.com/detail/20260502093338044800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "科技巨头的财报启示",
+          "url": "https://wallstreetcn.com/articles/3771458",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "标普500指数的11个板块几乎全线溃败，能源板块收跌1.31%，工业、公用事业、保健、金融等板块至多跌0.93%，可选消费板块则收涨0.51%，信息技术/科技板块涨1.41%。",
@@ -501,8 +637,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 08时36分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 11时41分]"
         },
         {
           "title": "学生看成绩需付费使用专属软件？湖南辰溪县教育局：已叫停推送行为",
@@ -597,160 +733,9 @@
       ]
     },
     {
-      "keyword_group": "美股 美元",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "油轮期货指数ETF收涨6.64%，报174.18美元，突破4月9日所创收盘历史最高位169.97美元、逼近当天所创盘中历史最高位179.8999美元，本周累计上涨24.62%。",
-          "url": "https://wallstreetcn.com/livenews/3098085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时36分"
-        },
-        {
-          "title": "美股收盘，道指初步收跌0.31%、标普500指数涨0.29%、纳指涨0.89%。因Q1财报靓丽，苹果(AAPL.O)收涨3.24%、闪迪(SNDK.O)涨8.25%。英特尔(INTC.O)涨5.44%，收盘价为99.62美元创下新高。",
-          "url": "https://flash.jin10.com/detail/20260502040111732800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时36分]"
-        },
-        {
-          "title": "周五（5月1日），彭博电动汽车价格回报指数涨0.27%，报4065.97点，全天主要高位震荡、美股开盘以来呈现出V形走势，本周累计上涨2.48%。",
-          "url": "https://wallstreetcn.com/livenews/3098047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时56分]"
-        },
-        {
-          "title": "美股存储芯片指数涨3.5%创收盘历史新高，成分股闪迪、希捷、美光领跑",
-          "url": "https://wallstreetcn.com/livenews/3098084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时36分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
-          "url": "https://wallstreetcn.com/livenews/3098081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时36分"
-        },
-        {
-          "title": "美元指数本周跌超0.3%",
-          "url": "https://wallstreetcn.com/livenews/3098026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
-          "url": "https://wallstreetcn.com/articles/3771450",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 08时36分]"
-        },
-        {
-          "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
-          "url": "https://wallstreetcn.com/articles/3771356",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 06时56分]"
-        },
-        {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 08时36分]"
-        },
-        {
-          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
-          "url": "https://wallstreetcn.com/articles/3771451",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 08时36分]"
-        },
-        {
-          "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3098051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时56分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "原日本央行行长黑田东彦：实现了2%这一通胀目标。 有鉴于此，日本无需实施财政宽松、也无需放宽货币政策。 日本央行4月28日对加息选项保持克制是正确的。（日本读卖新闻）",
-          "url": "https://wallstreetcn.com/livenews/3098090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时36分"
-        },
         {
           "title": "新势力发布4月交付成绩：零跑破7万创新高、小鹏环比回暖 理想、蔚来待新车上市",
           "url": "https://www.cls.cn/detail/2361886",
@@ -761,8 +746,31 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 08时36分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 11时41分]"
+        },
+        {
+          "title": "墨西哥总统：愿与美国合作 但不会在基本原则上让步",
+          "url": "https://wallstreetcn.com/livenews/3098106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "原日本央行行长黑田东彦：实现了2%这一通胀目标。 有鉴于此，日本无需实施财政宽松、也无需放宽货币政策。 日本央行4月28日对加息选项保持克制是正确的。（日本读卖新闻）",
+          "url": "https://wallstreetcn.com/livenews/3098090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时36分 ~ 11时41分]"
         },
         {
           "title": "美国总统特朗普：将会对那些想要拥有核武器的国家采取措施。",
@@ -788,6 +796,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "只有肖战同时和三家大厂合作过",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%AA%E6%9C%89%E8%82%96%E6%88%98%E5%90%8C%E6%97%B6%E5%92%8C%E4%B8%89%E5%AE%B6%E5%A4%A7%E5%8E%82%E5%90%88%E4%BD%9C%E8%BF%87%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：我们将继续寻求额外机会，通过与之前接触较少的国家合作，来加强乌克兰的防御。",
           "url": "https://flash.jin10.com/detail/20260502014630827800",
           "source": "金十数据",
@@ -801,9 +820,168 @@
       ]
     },
     {
+      "keyword_group": "美股 美元",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "油轮期货指数ETF收涨6.64%，报174.18美元，突破4月9日所创收盘历史最高位169.97美元、逼近当天所创盘中历史最高位179.8999美元，本周累计上涨24.62%。",
+          "url": "https://wallstreetcn.com/livenews/3098085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时36分 ~ 11时41分]"
+        },
+        {
+          "title": "美股收盘，道指初步收跌0.31%、标普500指数涨0.29%、纳指涨0.89%。因Q1财报靓丽，苹果(AAPL.O)收涨3.24%、闪迪(SNDK.O)涨8.25%。英特尔(INTC.O)涨5.44%，收盘价为99.62美元创下新高。",
+          "url": "https://flash.jin10.com/detail/20260502040111732800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时02分 ~ 08时36分]"
+        },
+        {
+          "title": "美股存储芯片指数涨3.5%创收盘历史新高，成分股闪迪、希捷、美光领跑",
+          "url": "https://wallstreetcn.com/livenews/3098084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时36分 ~ 11时41分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
+          "url": "https://wallstreetcn.com/livenews/3098081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时36分 ~ 11时41分]"
+        },
+        {
+          "title": "周五（5月1日），彭博电动汽车价格回报指数涨0.27%，报4065.97点，全天主要高位震荡、美股开盘以来呈现出V形走势，本周累计上涨2.48%。",
+          "url": "https://wallstreetcn.com/livenews/3098047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 06时56分]"
+        },
+        {
+          "title": "美元指数本周跌超0.3%",
+          "url": "https://wallstreetcn.com/livenews/3098026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 11时41分]"
+        },
+        {
+          "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 06时56分]"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 11时41分]"
+        },
+        {
+          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
+          "url": "https://wallstreetcn.com/articles/3771451",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 11时41分]"
+        },
+        {
+          "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3098051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 06时56分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
       "match_count": 3,
       "titles": [
+        {
+          "title": "定档!国产显卡520上市发售",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353917&amp;topic_name=%E5%AE%9A%E6%A1%A3%21%E5%9B%BD%E4%BA%A7%E6%98%BE%E5%8D%A1520%E4%B8%8A%E5%B8%82%E5%8F%91%E5%94%AE",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 11时41分]"
+        },
         {
           "title": "如何说服家人同意自己从事游戏行业工作？",
           "url": "https://www.zhihu.com/question/37966419",
@@ -816,28 +994,17 @@
           "time_info": "[01时05分 ~ 08时36分]"
         },
         {
-          "title": "定档!国产显卡520上市发售",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353917&amp;topic_name=%E5%AE%9A%E6%A1%A3%21%E5%9B%BD%E4%BA%A7%E6%98%BE%E5%8D%A1520%E4%B8%8A%E5%B8%82%E5%8F%91%E5%94%AE",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 08时36分]"
-        },
-        {
           "title": "游戏驿站（GME）美股盘后涨4%，报道称该公司考虑收购eBay。 eBay盘后涨幅扩大至13%。",
           "url": "https://wallstreetcn.com/livenews/3098073",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            11
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 08时36分]"
+          "appearance_count": 3,
+          "time_info": "[06时56分 ~ 11时41分]"
         }
       ]
     }
