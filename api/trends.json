@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T11:57:11.219808+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2026-05-03T14:34:09.421839+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "赖清德搭斯威士兰国王“私人飞机”窜斯 外交部回应",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时59分 ~ 05时52分]"
+        },
+        {
+          "title": "央视被曝拒绝接受 18 亿元世界杯版权费，国际足联为何开天价？若无法转播谁最着急？",
+          "url": "https://www.zhihu.com/question/2033754202158147180",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 14时34分]"
         },
         {
           "title": "外交部回应赖清德乘“私人飞机”窜斯",
@@ -121,17 +132,6 @@
           "time_info": "[04时53分 ~ 07时55分]"
         },
         {
-          "title": "央视被曝拒绝接受 18 亿元世界杯版权费，国际足联为何开天价？若无法转播谁最着急？",
-          "url": "https://www.zhihu.com/question/2033754202158147180",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
-        },
-        {
           "title": "赖清德外窜斯威士兰 外交部回应",
           "url": "https://www.toutiao.com/trending/7635251961037590042/",
           "source": "今日头条",
@@ -184,11 +184,24 @@
           "url": "https://flash.jin10.com/detail/20260503110746505800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 14时34分]"
+        },
+        {
+          "title": "外交部就赖清德搭乘斯威士兰国王“私人飞机”窜斯答记者问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33093046",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 14时34分]"
         },
         {
           "title": "美学者称伊朗战争让所有人成输家",
@@ -201,6 +214,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时54分 ~ 11时57分]"
+        },
+        {
+          "title": "日战犯不认罪 中方质问什么才是战争",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%88%98%E7%8A%AF%E4%B8%8D%E8%AE%A4%E7%BD%AA+%E4%B8%AD%E6%96%B9%E8%B4%A8%E9%97%AE%E4%BB%80%E4%B9%88%E6%89%8D%E6%98%AF%E6%88%98%E4%BA%89",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 14时34分]"
         },
         {
           "title": "卡塔尔外交部：卡塔尔首相向伊朗外长阿拉格齐强调，关闭霍尔木兹海峡或将其用作施压手段将导致危机加深。",
@@ -287,26 +312,85 @@
           "time_info": "[11时56分 ~ 11时57分]"
         },
         {
-          "title": "外交部就赖清德搭乘斯威士兰国王“私人飞机”窜斯答记者问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33093046",
-          "source": "澎湃新闻",
+          "title": "伊朗战争丨伊官员：正研究超过8条贸易替代通道",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
           "ranks": [
-            12
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
+          "time_info": "[14时33分 ~ 14时34分]"
         },
         {
-          "title": "日战犯不认罪 中方质问什么才是战争",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%88%98%E7%8A%AF%E4%B8%8D%E8%AE%A4%E7%BD%AA+%E4%B8%AD%E6%96%B9%E8%B4%A8%E9%97%AE%E4%BB%80%E4%B9%88%E6%89%8D%E6%98%AF%E6%88%98%E4%BA%89",
-          "source": "百度热搜",
+          "title": "外交部发言人就东京审判开庭80周年答记者问",
+          "url": "https://wallstreetcn.com/livenews/3098225",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            8,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
+          "time_info": "[11时57分 ~ 14时34分]"
+        },
+        {
+          "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
+          "url": "https://wallstreetcn.com/livenews/3098221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 14时34分]"
+        },
+        {
+          "title": "外交部发言人就东京审判开庭80周年答记者问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33094242",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 14时34分]"
+        },
+        {
+          "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
+          "url": "https://flash.jin10.com/detail/20260503094347765800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 14时34分]"
+        },
+        {
+          "title": "广汽国际：1—4月出口量同比增长133.9%",
+          "url": "https://wallstreetcn.com/livenews/3098211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 14时34分]"
+        },
+        {
+          "title": "国际乒联回应女选手遭不当肢体接触",
+          "url": "https://www.toutiao.com/trending/7635286664638234662/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 14时34分]"
         },
         {
           "title": "日本为何打不起长期战争",
@@ -320,54 +404,32 @@
           "time_info": "[11时56分 ~ 11时57分]"
         },
         {
-          "title": "外交部发言人就东京审判开庭80周年答记者问",
-          "url": "https://wallstreetcn.com/livenews/3098225",
+          "title": "底特律汽车制造商警告称，由于中东战争导致局势紧张，今年因大宗商品价格上涨而造成的经济损失将高达50亿美元。",
+          "url": "https://flash.jin10.com/detail/20260503123150516800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "日本民众举行守护宪法集会 反对战争与军备扩张",
+          "url": "https://wallstreetcn.com/livenews/3098237",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
-          "url": "https://wallstreetcn.com/livenews/3098221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
-          "url": "https://flash.jin10.com/detail/20260503094347765800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "广汽国际：1—4月出口量同比增长133.9%",
-          "url": "https://wallstreetcn.com/livenews/3098211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "time_info": "14时34分"
         }
       ]
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
@@ -379,8 +441,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时59分 ~ 11时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 14时34分]"
         },
         {
           "title": "专访｜赵又廷：别让AI取代我就行",
@@ -400,11 +462,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时59分 ~ 11时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 14时34分]"
         },
         {
           "title": "如何看待 deepseek v4 pro2.5 折特价延长到 5 月 31 日？",
@@ -463,6 +526,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时59分 ~ 07时55分]"
+        },
+        {
+          "title": "云南的水果像极了AI生成的",
+          "url": "https://www.douyin.com/hot/2486796",
+          "source": "抖音",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 14时34分]"
         },
         {
           "title": "伯克希尔拒绝跟风押注AI，CEO延续巴菲特一贯的投资哲学",
@@ -548,17 +623,6 @@
           "time_info": "[11时56分 ~ 11时57分]"
         },
         {
-          "title": "云南的水果像极了AI生成的",
-          "url": "https://www.douyin.com/hot/2486796",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
-        },
-        {
           "title": "AI CPU推高DDR5内存需求，存储芯片“超级周期”或延续至2027年",
           "url": "https://wallstreetcn.com/articles/3771481",
           "source": "华尔街见闻",
@@ -580,6 +644,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时56分 ~ 11时57分]"
+        },
+        {
+          "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
+          "url": "https://wallstreetcn.com/articles/3771504",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 14时34分]"
+        },
+        {
+          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
+          "url": "https://wallstreetcn.com/articles/3771505",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 14时34分]"
         },
         {
           "title": "AI驱动电力需求爆发 伯克希尔能源业务迎增长窗口",
@@ -616,6 +702,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时59分 ~ 03时12分]"
+        },
+        {
+          "title": "公司引进AI后裁人违法吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%AC%E5%8F%B8%E5%BC%95%E8%BF%9BAI%E5%90%8E%E8%A3%81%E4%BA%BA%E8%BF%9D%E6%B3%95%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 14时34分]"
+        },
+        {
+          "title": "AI踩平量化门槛，普通人入局机会在哪？",
+          "url": "https://flash.jin10.com/detail/20260503120603824800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850519&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/VtW9z1ztEzuPtatCWeS0x.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260503120602300800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "在 AI 时代，最重要的能力是什么？",
@@ -664,8 +783,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时59分 ~ 11时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 14时34分]"
         },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -681,8 +800,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时59分 ~ 11时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 14时34分]"
         },
         {
           "title": "新势力发布4月交付成绩：零跑破7万创新高、小鹏环比回暖 理想、蔚来待新车上市",
@@ -692,11 +811,34 @@
             9,
             10,
             11,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时59分 ~ 11时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 14时34分]"
+        },
+        {
+          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362210",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 14时34分]"
+        },
+        {
+          "title": "五四演讲预告发布",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%94%E5%9B%9B%E6%BC%94%E8%AE%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 14时34分]"
         },
         {
           "title": "美国芝加哥联储主席Austan Goolsbee：（美联储在上周的会议上按8-4票将政策利率维持在3.5%-3.75%区间）这种存在分歧的决定显示了对货币政策路径提供“前瞻性指引”可能带来的复杂性，在这种情况下，三位支持该会议实际利率决策的官员也提出了异议。 既为鲍威尔能继续提供建议感到高兴，也对沃什的到来感到“兴奋”。 我非常喜欢（鲍威尔）。我很乐意看到他转任理事席位并留在那里。他一直很明智，且富有见地。 自己“很期待看到他（沃什）的到来，以及他将留下怎样的印记”。",
@@ -710,26 +852,15 @@
           "time_info": "[06时54分 ~ 07时55分]"
         },
         {
-          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
-          "url": "https://www.cls.cn/detail/2362210",
-          "source": "财联社热门",
+          "title": "高市访越发布新版“印太战略”，野心背后是藏不住的焦虑",
+          "url": "https://news.ifeng.com/c/8soD1idcu9G",
+          "source": "凤凰网",
           "ranks": [
-            3
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
-        },
-        {
-          "title": "五四演讲预告发布",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%94%E5%9B%9B%E6%BC%94%E8%AE%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
+          "appearance_count": 6,
+          "time_info": "[07时54分 ~ 14时34分]"
         },
         {
           "title": "古巴国家主席：美对古威胁升至“危险且前所未有”级别",
@@ -746,15 +877,15 @@
           "time_info": "[00时59分 ~ 04时53分]"
         },
         {
-          "title": "高市访越发布新版“印太战略”，野心背后是藏不住的焦虑",
-          "url": "https://news.ifeng.com/c/8soD1idcu9G",
+          "title": "政策反转？美联邦应急管理局返聘年初被裁雇员",
+          "url": "https://news.ifeng.com/c/8sow1fnzBF5",
           "source": "凤凰网",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时54分 ~ 11时57分]"
+          "time_info": "[11时56分 ~ 14时34分]"
         },
         {
           "title": "七个OPEC+国家原则上达成协议，将在6月将石油产量配额提高约18.8万桶/日。（路透）",
@@ -769,15 +900,16 @@
           "time_info": "[00时59分 ~ 03时12分]"
         },
         {
-          "title": "政策反转？美联邦应急管理局返聘年初被裁雇员",
-          "url": "https://news.ifeng.com/c/8sow1fnzBF5",
-          "source": "凤凰网",
+          "title": "古巴国家主席：美对古威胁升至“危险且前所未有”级别",
+          "url": "https://wallstreetcn.com/livenews/3098213",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            18,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
+          "time_info": "[11时57分 ~ 14时34分]"
         },
         {
           "title": "日本首相高市早苗：与越共中央总书记苏林以及总理黎明兴举行了会谈。双方确认，将以能源、关键矿产、人工智能、半导体以及太空等经济安全保障领域作为日越合作的新优先方向，共同推进相关合作。",
@@ -790,17 +922,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时59分 ~ 01时57分]"
-        },
-        {
-          "title": "古巴国家主席：美对古威胁升至“危险且前所未有”级别",
-          "url": "https://wallstreetcn.com/livenews/3098213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
         }
       ]
     },
@@ -838,22 +959,24 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时57分 ~ 11时57分]"
+          "appearance_count": 12,
+          "time_info": "[01时57分 ~ 14时34分]"
         },
         {
           "title": "飞猪：“五一”首日酒店间夜量创新高",
           "url": "https://wallstreetcn.com/livenews/3098232",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 14时34分]"
         },
         {
           "title": "颜宁回应「只会利用电镜发论文灌水」质疑，电镜在科研中扮演怎样的角色？",
@@ -874,11 +997,12 @@
           "url": "https://flash.jin10.com/detail/20260503093544952800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 14时34分]"
         },
         {
           "title": "“五一”假期首日 广东多项交通数据创新高",
@@ -934,11 +1058,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时55分]"
+          "appearance_count": 11,
+          "time_info": "[00时59分 ~ 14时34分]"
         }
       ]
     }
