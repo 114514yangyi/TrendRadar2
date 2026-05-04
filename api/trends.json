@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T17:28:03.331451+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2026-05-04T19:58:01.632719+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "外交部发言人就东京审判开庭80周年答记者问",
@@ -75,15 +75,38 @@
           "time_info": "[01时02分 ~ 07时57分]"
         },
         {
+          "title": "战争重燃预期升温，美股期货短线跳水，布油大涨5%，黄金跌逾1%",
+          "url": "https://wallstreetcn.com/articles/3771519",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时57分 ~ 19时58分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗称两枚导弹击中美军舰，美军否认",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时57分 ~ 19时58分]"
+        },
+        {
           "title": "日本自民党前干事长：战争正靠近日本",
           "url": "https://www.toutiao.com/trending/7635273847809523750/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时28分]"
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 19时58分]"
         },
         {
           "title": "美国已于上周日就结束伊朗战争的潜在协议递送了修订版草案，从而回应伊朗最新提出的建议。（Axios）",
@@ -415,7 +438,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -437,7 +460,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -448,9 +471,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        },
+        {
+          "title": "美股期货短线跳水，纳指期货跌近0.5%；美国国债下跌，2年期国债收益率上升5个基点至3.93%。 国际原油短线拉升，布油涨幅扩大至3%。 现货黄金回落至4550美元/盎司下方。",
+          "url": "https://wallstreetcn.com/livenews/3098462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "MSCI亚太指数上涨1.9%，抹去伊朗战争以来的跌幅。",
@@ -464,13 +498,24 @@
           "time_info": "12时01分"
         },
         {
+          "title": "伊朗外交部：美对停火的承诺及其他可能安排必须涵盖以色列",
+          "url": "https://wallstreetcn.com/livenews/3098458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "伊朗外交部发言人：任何欧佩克成员以“消极反应”的方式退出该组织都是无益的。 关于确保船只安全通过霍尔木兹海峡的协议，伊朗与阿曼的双边谈判正在进行中。",
           "url": "https://wallstreetcn.com/livenews/3098433",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -492,7 +537,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -503,7 +548,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -525,7 +570,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -536,7 +581,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -555,7 +600,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "深圳、广州、天津、武汉、苏州，接连发布楼市新政",
@@ -566,8 +611,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 17时28分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 19时58分]"
         },
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -579,8 +624,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 17时28分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 19时58分]"
         },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -592,8 +637,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 17时28分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 19时58分]"
         },
         {
           "title": "国家消防救援局：河南灵宝足浴店起火事发时，消防控制室无人值班值守",
@@ -623,6 +668,17 @@
           "time_info": "[03时14分 ~ 07时57分]"
         },
         {
+          "title": "乌克兰国家石油天然气公司（NAFTOGAZ）：5月3日，俄罗斯袭击了乌克兰东部的5个设施。",
+          "url": "https://flash.jin10.com/detail/20260504193936942800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "肯尼亚国家警察局表示，受近日持续强降雨影响，塔拉卡尼西郡、埃尔盖约-马拉奎特郡和基安布郡发生洪水和山体滑坡，目前已造成18人死亡。",
           "url": "https://flash.jin10.com/detail/20260504020748372800",
           "source": "金十数据",
@@ -634,6 +690,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时14分 ~ 05时54分]"
+        },
+        {
+          "title": "最不爱睡觉的国家举办睡觉大赛",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E4%B8%8D%E7%88%B1%E7%9D%A1%E8%A7%89%E7%9A%84%E5%9B%BD%E5%AE%B6%E4%B8%BE%E5%8A%9E%E7%9D%A1%E8%A7%89%E5%A4%A7%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 19时58分]"
         },
         {
           "title": "政策多维度发力，猪价拐点何时到来？",
@@ -671,17 +739,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时54分 ~ 06时54分]"
-        },
-        {
-          "title": "最不爱睡觉的国家举办睡觉大赛",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E4%B8%8D%E7%88%B1%E7%9D%A1%E8%A7%89%E7%9A%84%E5%9B%BD%E5%AE%B6%E4%B8%BE%E5%8A%9E%E7%9D%A1%E8%A7%89%E5%A4%A7%E8%B5%9B",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时28分]"
         },
         {
           "title": "伊朗第一副总统：石油部门的持续运作确保了经济稳定，帮助国家克服困难局面。",
@@ -792,9 +849,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        },
+        {
+          "title": "阿联酋：阿联酋阿布扎比国家石油公司ADNOC的船只在霍尔木兹海峡遭2架伊朗无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260504191548684800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "阿联酋能源部长：欧佩克对阿联酋决定退出该组织表现得相对平静。 所有人都认识到这是一个主权决定，并且阿联酋将会是一个负责任的生产国。 我有信心我们将与许多国家合作，包括欧佩克和欧佩克+成员国。 我们有责任为投资阿联酋的合作伙伴生产世界所需的能源，不受限制，并与所有其他生产国协作。 我们将根据市场需求以及本地产业的生产需要来衡量我们的合作。 不应允许任何人控制霍尔木兹海峡。",
@@ -803,7 +871,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -814,7 +882,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -830,13 +898,24 @@
           "time_info": "12时01分"
         },
         {
+          "title": "据伊朗国家电视台报道，伊朗海军称其阻止了美国军舰进入霍尔木兹海峡区域。",
+          "url": "https://wallstreetcn.com/livenews/3098464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "泽连斯基：乌欧一致同意加快推进落实无人机合作协议",
           "url": "https://flash.jin10.com/detail/20260504164442844800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -880,7 +959,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         }
@@ -888,7 +967,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
@@ -915,6 +994,32 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时01分 ~ 07时57分]"
+        },
+        {
+          "title": "美国豪赌AI,取代人类科学家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 19时58分]"
+        },
+        {
+          "title": "AI主播上电视,虚拟人抢饭碗?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时49分 ~ 19时58分]"
         },
         {
           "title": "湖南经视启用 AI 主播播新闻，这会成为一种趋势吗？你觉得 AI 主播怎么样？",
@@ -988,20 +1093,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 17时28分]"
-        },
-        {
-          "title": "美国豪赌AI,取代人类科学家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 17时28分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 19时58分]"
         },
         {
           "title": "云南的水果像极了AI生成的",
@@ -1053,16 +1146,29 @@
           "time_info": "[01时01分 ~ 07时57分]"
         },
         {
-          "title": "AI主播上电视,虚拟人抢饭碗?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
-          "source": "贴吧",
+          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
+          "url": "https://www.cls.cn/detail/2362279",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            1
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时49分 ~ 17时28分]"
+          "appearance_count": 8,
+          "time_info": "[06时54分 ~ 19时58分]"
+        },
+        {
+          "title": "孩子抱着 AI 聊三小时，问「十一楼飞出窗会摔到吗」，AI 竟称会慢慢飘起，为啥会这样？家长该怎么做？",
+          "url": "https://www.zhihu.com/question/2032522089656230991",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 19时58分]"
         },
         {
           "title": "AI狂潮继续！全球存储芯片大涨，SK海力士市值首破1000万亿韩元，布油涨2%，黄金失守4580美元",
@@ -1101,18 +1207,6 @@
           "time_info": "[07时57分 ~ 17时28分]"
         },
         {
-          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
-          "url": "https://www.cls.cn/detail/2362279",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时54分 ~ 17时28分]"
-        },
-        {
           "title": "央视披露公司用AI替岗35岁主管详情",
           "url": "https://www.toutiao.com/trending/7635183364001234963/",
           "source": "今日头条",
@@ -1139,16 +1233,27 @@
           "time_info": "12时01分"
         },
         {
-          "title": "孩子抱着 AI 聊三小时，问「十一楼飞出窗会摔到吗」，AI 竟称会慢慢飘起，为啥会这样？家长该怎么做？",
-          "url": "https://www.zhihu.com/question/2032522089656230991",
-          "source": "知乎",
+          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
+          "url": "https://wallstreetcn.com/articles/3771530",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            9
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 17时28分]"
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 19时58分]"
+        },
+        {
+          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
+          "url": "https://www.zhihu.com/question/2034643547668862086",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 19时58分]"
         },
         {
           "title": "公司引进AI后将员工降薪裁员",
@@ -1175,26 +1280,26 @@
           "time_info": "[01时01分 ~ 01时58分]"
         },
         {
-          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
-          "url": "https://wallstreetcn.com/articles/3771530",
+          "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
+          "url": "https://wallstreetcn.com/articles/3771537",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时28分]"
+          "time_info": "[19时57分 ~ 19时58分]"
         },
         {
-          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
-          "url": "https://www.zhihu.com/question/2034643547668862086",
-          "source": "知乎",
+          "title": "“房东”骗完租客转头问AI会被抓吗",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%BF%E4%B8%9C%E2%80%9D%E9%AA%97%E5%AE%8C%E7%A7%9F%E5%AE%A2%E8%BD%AC%E5%A4%B4%E9%97%AEAI%E4%BC%9A%E8%A2%AB%E6%8A%93%E5%90%97",
+          "source": "百度热搜",
           "ranks": [
-            11
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时28分]"
+          "time_info": "[19时57分 ~ 19时58分]"
         },
         {
           "title": "内存对AI CPU至关重要？韩媒：DRAM短缺将再持续一年",
@@ -1211,7 +1316,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "39 岁上海科技大学教授王晨辉为救至亲溺水去世，他的离去带给我们怎样的触动？遇到有人溺水该怎么做？",
@@ -1223,6 +1328,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时27分 ~ 17时28分]"
+        },
+        {
+          "title": "标普连创新高，但聪明钱在撤退，高盛交易台警告：闪崩只是时间问题",
+          "url": "https://wallstreetcn.com/articles/3771522",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时57分 ~ 19时58分]"
         },
         {
           "title": "小米集团持续走高，目前涨超10%。阿里巴巴、华虹半导体涨超6%。恒生科技指数现涨3.7%。",
@@ -1282,13 +1398,35 @@
           "time_info": "[14时49分 ~ 14时50分]"
         },
         {
+          "title": "大模型免费时代结束？豆包官宣新增付费订阅，主打生产力场景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33096657",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时57分 ~ 19时58分]"
+        },
+        {
+          "title": "港股科技股全线爆发 小米涨超8%",
+          "url": "https://www.toutiao.com/trending/7635863267747659818/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时57分 ~ 19时58分]"
+        },
+        {
           "title": "港股收盘：恒生指数收涨1.24%，恒生科技指数收涨2.16%。剑桥科技涨约16%，天数智芯涨约20%，小米集团涨超6%。",
           "url": "https://wallstreetcn.com/livenews/3098441",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1321,7 +1459,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1430,6 +1568,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "西班牙首相专机发生技术故障，紧急降落土耳其",
+          "url": "https://news.ifeng.com/c/8sq9uOah194",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时57分 ~ 19时58分]"
+        },
+        {
           "title": "银行业研究新方式，来规避与数据中心债务相关的风险。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3098305",
           "source": "华尔街见闻-快讯",
@@ -1442,18 +1592,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时55分 ~ 07时57分]"
-        },
-        {
-          "title": "西班牙首相专机发生技术故障，紧急降落土耳其",
-          "url": "https://news.ifeng.com/c/8sq9uOah194",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时57分 ~ 17时28分]"
         },
         {
           "title": "如何评价福建泉州某职业技术大学，学生因为走路玩手机被劝退？",
