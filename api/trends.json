@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T17:45:20.145550+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-05-10T19:05:39.211404+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时03分 ~ 17时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时03分 ~ 19时05分]"
         },
         {
           "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
@@ -125,8 +125,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时03分 ~ 17时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时03分 ~ 19时05分]"
         },
         {
           "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
@@ -162,8 +162,22 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 19时05分]"
+        },
+        {
+          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
+          "url": "https://wallstreetcn.com/articles/3771913",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时57分 ~ 17时45分]"
+          "time_info": "[12时04分 ~ 19时05分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -177,19 +191,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[04时54分 ~ 12时05分]"
-        },
-        {
-          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
-          "url": "https://wallstreetcn.com/articles/3771913",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时04分 ~ 17时45分]"
         },
         {
           "title": "35 岁主管被公司用 AI 替岗，月薪从 2.5 万降到 1.5 万，拒绝后被裁，面对技术替代，劳动者该怎么办？",
@@ -239,11 +240,12 @@
           "ranks": [
             4,
             14,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 17时45分]"
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 19时05分]"
         },
         {
           "title": "妈妈的AI在岁月里具象",
@@ -251,11 +253,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 17时45分]"
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 19时05分]"
         },
         {
           "title": "用AI花3个月完成百名程序员7年工作",
@@ -263,11 +266,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 17时45分]"
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 19时05分]"
         },
         {
           "title": "【社论】一本正经胡说八道，谁为AI幻觉担责？",
@@ -331,6 +335,17 @@
           "time_info": "[12时04分 ~ 17时45分]"
         },
         {
+          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
+          "url": "https://www.cls.cn/detail/2367107",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 19时05分]"
+        },
+        {
           "title": "DeepSeek被曝融资500亿",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%84500%E4%BA%BF%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -375,17 +390,6 @@
           "time_info": "07时57分"
         },
         {
-          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
-          "url": "https://www.cls.cn/detail/2367107",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
           "title": "消息人士：阿里巴巴将把千问AI与淘宝整合，推出智能购物服务",
           "url": "https://flash.jin10.com/detail/20260510100308967800",
           "source": "金十数据",
@@ -408,6 +412,17 @@
           "time_info": "12时05分"
         },
         {
+          "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2035400318624733173",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
           "title": "郑强：AI让中国迎来历史性机遇",
           "url": "https://www.toutiao.com/trending/7638111893248282163/",
           "source": "今日头条",
@@ -422,7 +437,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "国际奥委会被曝已叫停电竞奥运会，是真的吗？是什么影响了电竞「入奥」？未来还有机会成为奥运会项目吗？",
@@ -493,15 +508,15 @@
           "time_info": "[06时56分 ~ 07时57分]"
         },
         {
-          "title": "据国际文传电讯社：俄罗斯称乌克兰违反停火协议。",
-          "url": "https://flash.jin10.com/detail/20260510171223159800",
+          "title": "据国际文传电讯社：克里姆林宫表示，俄罗斯认为亚美尼亚向乌克兰总统泽连斯基提供了“发表反俄言论的平台”是不可接受的。",
+          "url": "https://flash.jin10.com/detail/20260510183608430800",
           "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时45分"
+          "time_info": "19时05分"
         },
         {
           "title": "据AXIOS网站：美国国务卿鲁比奥和美国特使威特科夫周六在迈阿密会见了卡塔尔首相，旨在推动达成结束伊朗战争的协议。",
@@ -522,11 +537,12 @@
           "ranks": [
             5,
             15,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 17时45分]"
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 19时05分]"
         },
         {
           "title": "伊朗外长：停止侵略、放弃无理要求是推进外交进程必要条件",
@@ -539,6 +555,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 03时15分]"
+        },
+        {
+          "title": "据国际文传电讯社：俄罗斯称乌克兰违反停火协议。",
+          "url": "https://flash.jin10.com/detail/20260510171223159800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 19时05分]"
         },
         {
           "title": "卡塔尔外交部：卡塔尔首相兼外交大臣与沙特外交大臣通电话，讨论为缓和地区局势所做的努力。",
@@ -578,6 +606,19 @@
           "time_info": "[05时55分 ~ 07时57分]"
         },
         {
+          "title": "受伊朗战争推升油价影响，沙特阿美利润飙升26%",
+          "url": "https://wallstreetcn.com/livenews/3101112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 19时05分]"
+        },
+        {
           "title": "巴林外交大臣：巴林谴责并强烈不满伊朗持续干涉其内政、威胁海湾国家安全与稳定的行为。",
           "url": "https://flash.jin10.com/detail/20260510043001446800",
           "source": "金十数据",
@@ -595,18 +636,6 @@
           "source": "凤凰网",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 17时45分]"
-        },
-        {
-          "title": "受伊朗战争推升油价影响，沙特阿美利润飙升26%",
-          "url": "https://wallstreetcn.com/livenews/3101112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -633,6 +662,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时04分 ~ 12时05分]"
+        },
+        {
+          "title": "伊朗战争丨议会发言人：伊方将不再保持克制",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "机构：伊朗战争正以前所未有的速度消耗全球石油缓冲库存",
@@ -781,7 +821,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "妥协了?韩国参加电竞国家杯",
@@ -794,8 +834,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时03分 ~ 17时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时03分 ~ 19时05分]"
         },
         {
           "title": "普京：俄中油气领域合作将迈出重大一步",
@@ -805,8 +845,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时04分 ~ 17时45分]"
+          "appearance_count": 5,
+          "time_info": "[12时04分 ~ 19时05分]"
         },
         {
           "title": "莫德纳与美军合作研究汉坦病毒疫苗",
@@ -835,17 +875,6 @@
           "time_info": "[06时56分 ~ 07时57分]"
         },
         {
-          "title": "伊朗总统：谈判并非投降 旨在捍卫国家利益",
-          "url": "https://flash.jin10.com/detail/20260510171430184800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
           "title": "2026年国家基本医疗保险药品目录调整工作方案公开征求意见",
           "url": "https://flash.jin10.com/detail/20260509223144734800",
           "source": "金十数据",
@@ -857,37 +886,15 @@
           "time_info": "00时03分"
         },
         {
-          "title": "伊拉克国家石油营销组织SOMO：伊拉克将6月巴士拉中质原油对北美和南美的官方售价定为较阿格斯含硫原油升水10.20美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260510171059844800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
-          "title": "伊朗总统：谈判并非投降，旨在捍卫国家利益",
-          "url": "https://wallstreetcn.com/livenews/3101127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
-          "title": "伊拉克国家石油营销组织SOMO：伊拉克将6月巴士拉中质原油对欧洲的官方售价定为较即期布伦特原油价格升水2.45美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260510171017321800",
-          "source": "金十数据",
+          "title": "放行卡塔尔商船，伊朗向海湾国家释放积极信号",
+          "url": "https://news.ifeng.com/c/8t0moPsqScq",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时45分"
+          "time_info": "19时05分"
         },
         {
           "title": "美的首款鸿蒙智选空调上市，系双方战略合作首款深度共创产品",
@@ -896,11 +903,12 @@
           "ranks": [
             1,
             11,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 17时45分]"
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 19时05分]"
         },
         {
           "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
@@ -908,11 +916,60 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            11
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 19时05分]"
+        },
+        {
+          "title": "伊朗总统：谈判并非投降，旨在捍卫国家利益",
+          "url": "https://wallstreetcn.com/livenews/3101127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时29分 ~ 17时45分]"
+          "time_info": "[17时45分 ~ 19时05分]"
+        },
+        {
+          "title": "伊朗总统：谈判并非投降 旨在捍卫国家利益",
+          "url": "https://flash.jin10.com/detail/20260510171430184800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 19时05分]"
+        },
+        {
+          "title": "伊拉克国家石油营销组织SOMO：伊拉克将6月巴士拉中质原油对北美和南美的官方售价定为较阿格斯含硫原油升水10.20美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260510171059844800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 19时05分]"
+        },
+        {
+          "title": "伊拉克国家石油营销组织SOMO：伊拉克将6月巴士拉中质原油对欧洲的官方售价定为较即期布伦特原油价格升水2.45美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260510171017321800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 19时05分]"
         },
         {
           "title": "俄罗斯总统普京：他们预计俄罗斯会遭遇惨重失败，国家在几个月内崩溃。但这一切并没有发生。然后他们陷入了这个困境，现在无法摆脱。",
@@ -959,33 +1016,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 17时45分]"
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 19时05分]"
         },
         {
           "title": "伊拉克国家石油营销组织SOMO：伊拉克将6月巴士拉中质原油对亚洲的官方售价定为较阿曼/迪拜平均价升水4.30美元/桶。",
           "url": "https://flash.jin10.com/detail/20260510170923190800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 19时05分]"
         },
         {
           "title": "世卫组织总干事谭德塞：世卫组织专家正在与西班牙卫生部合作，对乘客进行流行病学评估。",
           "url": "https://flash.jin10.com/detail/20260510170344779800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 19时05分]"
         },
         {
           "title": "商务部发布关于2026年度牛肉保障措施执行提示信息",
@@ -994,7 +1054,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -1005,7 +1065,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -1027,7 +1087,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -1049,7 +1109,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -1082,7 +1142,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         }
@@ -1103,8 +1163,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时03分 ~ 17时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时03分 ~ 19时05分]"
         },
         {
           "title": "科技赋能 向新而行",
@@ -1127,8 +1187,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时03分 ~ 17时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时03分 ~ 19时05分]"
         },
         {
           "title": "千亿级私募景林资产一季度大手笔加码科技与消费",
@@ -1165,8 +1225,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 17时45分]"
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 19时05分]"
         },
         {
           "title": "狂卖80亿美元微软持仓！知名科技对冲基金“十年持股一朝清仓”",
@@ -1214,11 +1274,12 @@
           "ranks": [
             9,
             8,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时04分 ~ 17时45分]"
+          "appearance_count": 5,
+          "time_info": "[12时04分 ~ 19时05分]"
         },
         {
           "title": "男子打游戏中闪光弹主机不断冒火花",
@@ -1292,7 +1353,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         }
