@@ -1,443 +1,11 @@
 {
-  "generated_at": "2026-05-10T19:05:39.211404+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-05-10T21:45:08.725145+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 34,
-      "titles": [
-        {
-          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 07时57分]"
-        },
-        {
-          "title": "报道：字节跳动计划将AI基础设施支出增加25%",
-          "url": "https://wallstreetcn.com/articles/3771900",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时03分 ~ 17时45分]"
-        },
-        {
-          "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
-          "url": "https://www.cls.cn/detail/2366780",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 19时05分]"
-        },
-        {
-          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            14,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时03分 ~ 15时29分]"
-        },
-        {
-          "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
-          "url": "https://wallstreetcn.com/articles/3771893",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 12时05分]"
-        },
-        {
-          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
-          "url": "https://wallstreetcn.com/articles/3771878",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 07时57分]"
-        },
-        {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时03分 ~ 15时29分]"
-        },
-        {
-          "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
-          "url": "https://www.zhihu.com/question/2036152296388523178",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            12,
-            10,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 07时57分]"
-        },
-        {
-          "title": "DeepSeek睁眼,开放识图模式",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 19时05分]"
-        },
-        {
-          "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33120610",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 06时56分]"
-        },
-        {
-          "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
-          "url": "https://www.cls.cn/detail/2366653",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 06时56分]"
-        },
-        {
-          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
-          "url": "https://www.cls.cn/detail/2367077",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时57分 ~ 19时05分]"
-        },
-        {
-          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
-          "url": "https://wallstreetcn.com/articles/3771913",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时04分 ~ 19时05分]"
-        },
-        {
-          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
-          "url": "https://www.cls.cn/detail/2366733",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时54分 ~ 12时05分]"
-        },
-        {
-          "title": "35 岁主管被公司用 AI 替岗，月薪从 2.5 万降到 1.5 万，拒绝后被裁，面对技术替代，劳动者该怎么办？",
-          "url": "https://www.zhihu.com/question/2034624017219499142",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 06时56分]"
-        },
-        {
-          "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3101062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            27,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 07时57分]"
-        },
-        {
-          "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2035400318624733173",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时04分 ~ 17时45分]"
-        },
-        {
-          "title": "报道：阿里巴巴整合千问AI与淘宝，推出智能对话购物服务",
-          "url": "https://wallstreetcn.com/livenews/3101101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 19时05分]"
-        },
-        {
-          "title": "妈妈的AI在岁月里具象",
-          "url": "https://www.douyin.com/hot/2494006",
-          "source": "抖音",
-          "ranks": [
-            5,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时29分 ~ 19时05分]"
-        },
-        {
-          "title": "用AI花3个月完成百名程序员7年工作",
-          "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E8%8A%B13%E4%B8%AA%E6%9C%88%E5%AE%8C%E6%88%90%E7%99%BE%E5%90%8D%E7%A8%8B%E5%BA%8F%E5%91%987%E5%B9%B4%E5%B7%A5%E4%BD%9C",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时29分 ~ 19时05分]"
-        },
-        {
-          "title": "【社论】一本正经胡说八道，谁为AI幻觉担责？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33138759",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 15时29分]"
-        },
-        {
-          "title": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
-          "url": "https://www.cls.cn/detail/2367033",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 15时29分]"
-        },
-        {
-          "title": "AI基础设施投资风向转变：AMD、英特尔与美光飙涨，英伟达光环渐褪",
-          "url": "https://wallstreetcn.com/articles/3771897",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 15时29分]"
-        },
-        {
-          "title": "Deepseek和阿里谈崩了？市场人士回应",
-          "url": "https://www.baidu.com/s?wd=Deepseek%E5%92%8C%E9%98%BF%E9%87%8C%E8%B0%88%E5%B4%A9%E4%BA%86%EF%BC%9F%E5%B8%82%E5%9C%BA%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 12时05分]"
-        },
-        {
-          "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33143971",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 17时45分]"
-        },
-        {
-          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
-          "url": "https://www.cls.cn/detail/2367107",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 19时05分]"
-        },
-        {
-          "title": "DeepSeek被曝融资500亿",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%84500%E4%BA%BF%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 17时45分]"
-        },
-        {
-          "title": "用AI花3个月完成百名程序员7年工作",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8AI%E8%8A%B13%E4%B8%AA%E6%9C%88%E5%AE%8C%E6%88%90%E7%99%BE%E5%90%8D%E7%A8%8B%E5%BA%8F%E5%91%987%E5%B9%B4%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 12时05分]"
-        },
-        {
-          "title": "SK 海力士利润率 72% 碾压英伟达，人均年终奖超 60 万元，带飞韩国楼市婚恋市场，这场 AI 造富能持续多久？",
-          "url": "https://www.zhihu.com/question/2036476955948799322",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "AI修复美国公布UFO照片",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%BF%AE%E5%A4%8D%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83UFO%E7%85%A7%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "消息人士：阿里巴巴将把千问AI与淘宝整合，推出智能购物服务",
-          "url": "https://flash.jin10.com/detail/20260510100308967800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "据一位知情人士透露，阿里巴巴(09988.HK)正准备公布其人工智能平台Qwen与电商平台淘宝的整合计划，此举旨在通过对话而非关键词搜索来推动购物。",
-          "url": "https://flash.jin10.com/detail/20260510095522522800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2035400318624733173",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
-          "title": "郑强：AI让中国迎来历史性机遇",
-          "url": "https://www.toutiao.com/trending/7638111893248282163/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "国际 外交 战争",
-      "match_count": 32,
+      "match_count": 43,
       "titles": [
         {
           "title": "国际奥委会被曝已叫停电竞奥运会，是真的吗？是什么影响了电竞「入奥」？未来还有机会成为奥运会项目吗？",
@@ -497,6 +65,17 @@
           "time_info": "[04时54分 ~ 15时29分]"
         },
         {
+          "title": "伊朗战争丨伊朗已就美国的提案作出回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 21时45分]"
+        },
+        {
           "title": "美国国务院：美国国务卿鲁比奥会晤卡塔尔首相兼外交大臣。",
           "url": "https://flash.jin10.com/detail/20260510060427069800",
           "source": "金十数据",
@@ -508,15 +87,26 @@
           "time_info": "[06时56分 ~ 07时57分]"
         },
         {
-          "title": "据国际文传电讯社：克里姆林宫表示，俄罗斯认为亚美尼亚向乌克兰总统泽连斯基提供了“发表反俄言论的平台”是不可接受的。",
-          "url": "https://flash.jin10.com/detail/20260510183608430800",
+          "title": "据伊朗媒体报道，伊朗对美国提案的回应聚焦于结束战争以及确保海湾地区和霍尔木兹海峡的海上安全。",
+          "url": "https://flash.jin10.com/detail/20260510211749499800",
           "source": "金十数据",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时05分"
+          "time_info": "21时45分"
+        },
+        {
+          "title": "伊朗已回应美国提出的结束战争方案",
+          "url": "https://wallstreetcn.com/livenews/3101140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "据AXIOS网站：美国国务卿鲁比奥和美国特使威特科夫周六在迈阿密会见了卡塔尔首相，旨在推动达成结束伊朗战争的协议。",
@@ -569,6 +159,18 @@
           "time_info": "[17时45分 ~ 19时05分]"
         },
         {
+          "title": "据国际文传电讯社：克里姆林宫表示，俄罗斯认为亚美尼亚向乌克兰总统泽连斯基提供了“发表反俄言论的平台”是不可接受的。",
+          "url": "https://flash.jin10.com/detail/20260510183608430800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时05分 ~ 21时45分]"
+        },
+        {
           "title": "卡塔尔外交部：卡塔尔首相兼外交大臣与沙特外交大臣通电话，讨论为缓和地区局势所做的努力。",
           "url": "https://flash.jin10.com/detail/20260510035409434800",
           "source": "金十数据",
@@ -580,6 +182,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时54分 ~ 07时57分]"
+        },
+        {
+          "title": "受伊朗战争推升油价影响，沙特阿美利润飙升26%",
+          "url": "https://wallstreetcn.com/livenews/3101112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 21时45分]"
         },
         {
           "title": "巴林外交大臣：伊朗的行径公然违反国际法规则、联合国宪章以及睦邻友好原则。",
@@ -606,19 +222,6 @@
           "time_info": "[05时55分 ~ 07时57分]"
         },
         {
-          "title": "受伊朗战争推升油价影响，沙特阿美利润飙升26%",
-          "url": "https://wallstreetcn.com/livenews/3101112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时29分 ~ 19时05分]"
-        },
-        {
           "title": "巴林外交大臣：巴林谴责并强烈不满伊朗持续干涉其内政、威胁海湾国家安全与稳定的行为。",
           "url": "https://flash.jin10.com/detail/20260510043001446800",
           "source": "金十数据",
@@ -631,6 +234,17 @@
           "time_info": "[05时55分 ~ 07时57分]"
         },
         {
+          "title": "伊朗已回应美国提出的结束战争方案",
+          "url": "https://www.toutiao.com/trending/7638239152550448650/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 21时45分]"
+        },
+        {
           "title": "伊朗战争丨伊朗足协提出参加世界杯10项条件",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -640,6 +254,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时29分 ~ 17时45分]"
+        },
+        {
+          "title": "伊朗已回应美国提出的结束战争方案",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%87%BA%E7%9A%84%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%E6%96%B9%E6%A1%88%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 21时45分]"
         },
         {
           "title": "国际足联为中国市场低头",
@@ -670,9 +295,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：根据拟议计划，现阶段谈判将聚焦于结束战争。",
+          "url": "https://flash.jin10.com/detail/20260510202547607800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "机构：伊朗战争正以前所未有的速度消耗全球石油缓冲库存",
@@ -741,6 +377,28 @@
           "time_info": "01时56分"
         },
         {
+          "title": "卡塔尔外交部长：利用霍尔木兹海峡作为施压工具只会加深危机。",
+          "url": "https://flash.jin10.com/detail/20260510193148095800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "卡塔尔外交部长告诉伊朗外长，各方应积极响应调解努力，以结束战争。",
+          "url": "https://flash.jin10.com/detail/20260510192604028800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "埃及外交部：巴林王国及其他海湾国家的安全是埃及国家安全不可分割的一部分。",
           "url": "https://flash.jin10.com/detail/20260510003658094800",
           "source": "金十数据",
@@ -796,6 +454,17 @@
           "time_info": "15时29分"
         },
         {
+          "title": "卡塔尔外交部：海上航行安全是安全与稳定的基本支柱，任何情况下都不能妥协。",
+          "url": "https://flash.jin10.com/detail/20260510192047750800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "美国国务院：美国国务卿鲁比奥与卡塔尔首相兼外交大臣会晤。美国支持卡塔尔的防御，并强调了继续紧密协调以威慑威胁、促进中东地区的稳定与安全的重要性。",
           "url": "https://flash.jin10.com/detail/20260510084450433800",
           "source": "金十数据",
@@ -805,6 +474,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "卡塔尔外交部：此次袭击是一次“严重的升级”，威胁到该地区海上交通和重要供应的安全。",
+          "url": "https://flash.jin10.com/detail/20260510190933360800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "卡塔尔外交部：谴责在卡塔尔水域内对货船的无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260510190736242800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "沙特外交部：全力支持兄弟国家巴林王国采取的措施，以应对旨在破坏国家安全并寻求动摇巴林王国安全与稳定的活动。",
@@ -820,23 +511,458 @@
       ]
     },
     {
-      "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 27,
+      "keyword_group": "AI Qwen DeepSeek Claude",
+      "match_count": 35,
       "titles": [
         {
-          "title": "妥协了?韩国参加电竞国家杯",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354134&amp;topic_name=%E5%A6%A5%E5%8D%8F%E4%BA%86%3F%E9%9F%A9%E5%9B%BD%E5%8F%82%E5%8A%A0%E7%94%B5%E7%AB%9E%E5%9B%BD%E5%AE%B6%E6%9D%AF",
-          "source": "贴吧",
+          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            13,
-            14,
-            15
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 07时57分]"
+        },
+        {
+          "title": "报道：字节跳动计划将AI基础设施支出增加25%",
+          "url": "https://wallstreetcn.com/articles/3771900",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时03分 ~ 17时45分]"
+        },
+        {
+          "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
+          "url": "https://www.cls.cn/detail/2366780",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时03分 ~ 19时05分]"
         },
+        {
+          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            14,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 15时29分]"
+        },
+        {
+          "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
+          "url": "https://wallstreetcn.com/articles/3771893",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 12时05分]"
+        },
+        {
+          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
+          "url": "https://www.cls.cn/detail/2367077",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时57分 ~ 21时45分]"
+        },
+        {
+          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
+          "url": "https://wallstreetcn.com/articles/3771913",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时04分 ~ 21时45分]"
+        },
+        {
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 07时57分]"
+        },
+        {
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 15时29分]"
+        },
+        {
+          "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
+          "url": "https://www.zhihu.com/question/2036152296388523178",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            12,
+            10,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 07时57分]"
+        },
+        {
+          "title": "DeepSeek睁眼,开放识图模式",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时03分 ~ 21时45分]"
+        },
+        {
+          "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120610",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 06时56分]"
+        },
+        {
+          "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
+          "url": "https://www.cls.cn/detail/2366653",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 06时56分]"
+        },
+        {
+          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
+          "url": "https://www.cls.cn/detail/2366733",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时54分 ~ 12时05分]"
+        },
+        {
+          "title": "35 岁主管被公司用 AI 替岗，月薪从 2.5 万降到 1.5 万，拒绝后被裁，面对技术替代，劳动者该怎么办？",
+          "url": "https://www.zhihu.com/question/2034624017219499142",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 06时56分]"
+        },
+        {
+          "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3101062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 07时57分]"
+        },
+        {
+          "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2035400318624733173",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 17时45分]"
+        },
+        {
+          "title": "妈妈的AI在岁月里具象",
+          "url": "https://www.douyin.com/hot/2494006",
+          "source": "抖音",
+          "ranks": [
+            5,
+            9,
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时29分 ~ 21时45分]"
+        },
+        {
+          "title": "报道：阿里巴巴整合千问AI与淘宝，推出智能对话购物服务",
+          "url": "https://wallstreetcn.com/livenews/3101101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 19时05分]"
+        },
+        {
+          "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33143971",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时04分 ~ 21时45分]"
+        },
+        {
+          "title": "用AI花3个月完成百名程序员7年工作",
+          "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E8%8A%B13%E4%B8%AA%E6%9C%88%E5%AE%8C%E6%88%90%E7%99%BE%E5%90%8D%E7%A8%8B%E5%BA%8F%E5%91%987%E5%B9%B4%E5%B7%A5%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 19时05分]"
+        },
+        {
+          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
+          "url": "https://www.cls.cn/detail/2367107",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时45分 ~ 21时45分]"
+        },
+        {
+          "title": "【社论】一本正经胡说八道，谁为AI幻觉担责？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33138759",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 15时29分]"
+        },
+        {
+          "title": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
+          "url": "https://www.cls.cn/detail/2367033",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 15时29分]"
+        },
+        {
+          "title": "AI基础设施投资风向转变：AMD、英特尔与美光飙涨，英伟达光环渐褪",
+          "url": "https://wallstreetcn.com/articles/3771897",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 15时29分]"
+        },
+        {
+          "title": "Deepseek和阿里谈崩了？市场人士回应",
+          "url": "https://www.baidu.com/s?wd=Deepseek%E5%92%8C%E9%98%BF%E9%87%8C%E8%B0%88%E5%B4%A9%E4%BA%86%EF%BC%9F%E5%B8%82%E5%9C%BA%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 12时05分]"
+        },
+        {
+          "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2035400318624733173",
+          "source": "知乎",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时05分 ~ 21时45分]"
+        },
+        {
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 21时45分]"
+        },
+        {
+          "title": "DeepSeek被曝融资500亿",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%84500%E4%BA%BF%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 17时45分]"
+        },
+        {
+          "title": "用AI花3个月完成百名程序员7年工作",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8AI%E8%8A%B13%E4%B8%AA%E6%9C%88%E5%AE%8C%E6%88%90%E7%99%BE%E5%90%8D%E7%A8%8B%E5%BA%8F%E5%91%987%E5%B9%B4%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时04分 ~ 12时05分]"
+        },
+        {
+          "title": "SK 海力士利润率 72% 碾压英伟达，人均年终奖超 60 万元，带飞韩国楼市婚恋市场，这场 AI 造富能持续多久？",
+          "url": "https://www.zhihu.com/question/2036476955948799322",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        },
+        {
+          "title": "AI修复美国公布UFO照片",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BF%AE%E5%A4%8D%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83UFO%E7%85%A7%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "消息人士：阿里巴巴将把千问AI与淘宝整合，推出智能购物服务",
+          "url": "https://flash.jin10.com/detail/20260510100308967800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "据一位知情人士透露，阿里巴巴(09988.HK)正准备公布其人工智能平台Qwen与电商平台淘宝的整合计划，此举旨在通过对话而非关键词搜索来推动购物。",
+          "url": "https://flash.jin10.com/detail/20260510095522522800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "郑强：AI让中国迎来历史性机遇",
+          "url": "https://www.toutiao.com/trending/7638111893248282163/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国家 改革 政策 发布 合作",
+      "match_count": 28,
+      "titles": [
         {
           "title": "普京：俄中油气领域合作将迈出重大一步",
           "url": "https://news.ifeng.com/c/8t0VMfrttCv",
@@ -845,8 +971,24 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时04分 ~ 19时05分]"
+          "appearance_count": 7,
+          "time_info": "[12时04分 ~ 21时45分]"
+        },
+        {
+          "title": "妥协了?韩国参加电竞国家杯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354134&amp;topic_name=%E5%A6%A5%E5%8D%8F%E4%BA%86%3F%E9%9F%A9%E5%9B%BD%E5%8F%82%E5%8A%A0%E7%94%B5%E7%AB%9E%E5%9B%BD%E5%AE%B6%E6%9D%AF",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时03分 ~ 21时45分]"
         },
         {
           "title": "莫德纳与美军合作研究汉坦病毒疫苗",
@@ -864,6 +1006,18 @@
           "time_info": "[00时03分 ~ 12时05分]"
         },
         {
+          "title": "放行卡塔尔商船，伊朗向海湾国家释放积极信号",
+          "url": "https://news.ifeng.com/c/8t0moPsqScq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时05分 ~ 21时45分]"
+        },
+        {
           "title": "卡尼暗示愿与美墨深化贸易合作",
           "url": "https://flash.jin10.com/detail/20260510052401016800",
           "source": "金十数据",
@@ -873,6 +1027,21 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 07时57分]"
+        },
+        {
+          "title": "美的首款鸿蒙智选空调上市，系双方战略合作首款深度共创产品",
+          "url": "https://wallstreetcn.com/livenews/3101104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            19,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 21时45分]"
         },
         {
           "title": "2026年国家基本医疗保险药品目录调整工作方案公开征求意见",
@@ -886,42 +1055,18 @@
           "time_info": "00时03分"
         },
         {
-          "title": "放行卡塔尔商船，伊朗向海湾国家释放积极信号",
-          "url": "https://news.ifeng.com/c/8t0moPsqScq",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
-          "title": "美的首款鸿蒙智选空调上市，系双方战略合作首款深度共创产品",
-          "url": "https://wallstreetcn.com/livenews/3101104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 19时05分]"
-        },
-        {
           "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
           "url": "https://wallstreetcn.com/livenews/3101113",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
             11,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时29分 ~ 19时05分]"
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 21时45分]"
         },
         {
           "title": "伊朗总统：谈判并非投降，旨在捍卫国家利益",
@@ -929,11 +1074,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 19时05分]"
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 21时45分]"
         },
         {
           "title": "伊朗总统：谈判并非投降 旨在捍卫国家利益",
@@ -958,6 +1104,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时45分 ~ 19时05分]"
+        },
+        {
+          "title": "伊朗军方：对伊制裁国家“在通过霍尔木兹海峡时将面临困难”",
+          "url": "https://wallstreetcn.com/livenews/3101109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 21时45分]"
         },
         {
           "title": "伊拉克国家石油营销组织SOMO：伊拉克将6月巴士拉中质原油对欧洲的官方售价定为较即期布伦特原油价格升水2.45美元/桶。",
@@ -1011,19 +1171,6 @@
           "time_info": "[04时54分 ~ 07时57分]"
         },
         {
-          "title": "伊朗军方：对伊制裁国家“在通过霍尔木兹海峡时将面临困难”",
-          "url": "https://wallstreetcn.com/livenews/3101109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时29分 ~ 19时05分]"
-        },
-        {
           "title": "伊拉克国家石油营销组织SOMO：伊拉克将6月巴士拉中质原油对亚洲的官方售价定为较阿曼/迪拜平均价升水4.30美元/桶。",
           "url": "https://flash.jin10.com/detail/20260510170923190800",
           "source": "金十数据",
@@ -1046,6 +1193,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时45分 ~ 19时05分]"
+        },
+        {
+          "title": "中央气象台发布强对流天气蓝色预警",
+          "url": "https://www.toutiao.com/trending/7637856670856986687/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 21时45分]"
         },
         {
           "title": "商务部发布关于2026年度牛肉保障措施执行提示信息",
@@ -1163,8 +1321,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 19时05分]"
+          "appearance_count": 17,
+          "time_info": "[00时03分 ~ 21时45分]"
         },
         {
           "title": "科技赋能 向新而行",
@@ -1187,8 +1345,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 19时05分]"
+          "appearance_count": 17,
+          "time_info": "[00时03分 ~ 21时45分]"
         },
         {
           "title": "千亿级私募景林资产一季度大手笔加码科技与消费",
@@ -1275,11 +1433,12 @@
             9,
             8,
             2,
-            3
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时04分 ~ 19时05分]"
+          "appearance_count": 7,
+          "time_info": "[12时04分 ~ 21时45分]"
         },
         {
           "title": "男子打游戏中闪光弹主机不断冒火花",
