@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-11T04:58:16.125727+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-05-11T05:58:21.848386+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "伊朗已回应美国提出的结束战争方案",
+          "url": "https://www.cls.cn/detail/2367306",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时58分]"
+        },
         {
           "title": "伊朗战争丨超20艘美国军舰参与封锁伊朗任务",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
@@ -19,16 +32,15 @@
           "time_info": "[01时57分 ~ 03时19分]"
         },
         {
-          "title": "伊朗已回应美国提出的结束战争方案",
-          "url": "https://www.cls.cn/detail/2367306",
-          "source": "财联社热门",
+          "title": "伊朗战争丨美国商船遭伊朗无人机袭击",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时58分]"
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时58分]"
         },
         {
           "title": "伊朗已回应美国提出的结束战争方案",
@@ -54,17 +66,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
-        },
-        {
-          "title": "伊朗战争丨美国商船遭伊朗无人机袭击",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
         },
         {
           "title": "据法新社：以色列总理本雅明·内塔尼亚胡周日在接受采访时表示，只有将伊朗的浓缩铀库存“清除掉”，美以对伊朗的战争才算真正结束。",
@@ -109,11 +110,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            21
+            21,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时58分]"
         },
         {
           "title": "美国驻联合国大使：特朗普在回归战争之前给予外交一切机会。",
@@ -128,6 +130,30 @@
           "time_info": "[01时58分 ~ 03时19分]"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社援引消息人士报道，伊朗在回应中要求立即结束战争，并确保不再对伊朗发动新的袭击。",
+          "url": "https://flash.jin10.com/detail/20260511034926914800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时58分]"
+        },
+        {
+          "title": "消息人士：伊朗对美最新回应聚焦结束地区战争",
+          "url": "https://wallstreetcn.com/livenews/3101169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时58分]"
+        },
+        {
           "title": "卡塔尔外交部：卡塔尔外交国务大臣会见德国总理政治与安全顾问。",
           "url": "https://flash.jin10.com/detail/20260511022831048800",
           "source": "金十数据",
@@ -140,26 +166,52 @@
           "time_info": "[03时19分 ~ 04时58分]"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社援引消息人士报道，伊朗在回应中要求立即结束战争，并确保不再对伊朗发动新的袭击。",
-          "url": "https://flash.jin10.com/detail/20260511034926914800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "消息人士：伊朗对美最新回应聚焦结束地区战争",
-          "url": "https://wallstreetcn.com/livenews/3101169",
+          "title": "伊朗媒体Tasnim：据知情人士透露，华尔街日报有关德黑兰向美国做出回应的报道“大部分失实”。 此前，华尔街日报报道称，伊朗在回应美国关于结束这场为期10周战争的最新提议时，表示愿意将其储备的部分高浓缩铀转移至第三国，但拒绝了拆除其核设施的提议。",
+          "url": "https://wallstreetcn.com/livenews/3101167",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            8,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时58分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社援引伊朗消息人士报道，伊朗在回应中要求在“所有战线”结束战争。",
+          "url": "https://flash.jin10.com/detail/20260511034436607800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时58分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯（alhadath）援引消息人士报道，伊朗方面要求停止战争并提供保证，以换取开放霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260511032524099800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时58分]"
+        },
+        {
+          "title": "伊朗外交部：伊朗新任驻越南大使与越南外长会面。",
+          "url": "https://flash.jin10.com/detail/20260511032317652800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时58分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：与伊朗的战争尚未结束。",
@@ -173,17 +225,6 @@
           "time_info": "00时05分"
         },
         {
-          "title": "伊朗媒体Tasnim：据知情人士透露，华尔街日报有关德黑兰向美国做出回应的报道“大部分失实”。 此前，华尔街日报报道称，伊朗在回应美国关于结束这场为期10周战争的最新提议时，表示愿意将其储备的部分高浓缩铀转移至第三国，但拒绝了拆除其核设施的提议。",
-          "url": "https://wallstreetcn.com/livenews/3101167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
           "title": "伊朗回应美方提议：聚焦结束地区战争 愿就核计划与海峡问题谈判",
           "url": "https://flash.jin10.com/detail/20260511021055839800",
           "source": "金十数据",
@@ -193,17 +234,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社援引伊朗消息人士报道，伊朗在回应中要求在“所有战线”结束战争。",
-          "url": "https://flash.jin10.com/detail/20260511034436607800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
         },
         {
           "title": "法国总统马克龙回应伊朗对法英军舰的警告，表示不存在部署问题，但随时准备为国际使命提供协助。",
@@ -239,26 +269,15 @@
           "time_info": "00时05分"
         },
         {
-          "title": "据沙特媒体哈达斯（alhadath）援引消息人士报道，伊朗方面要求停止战争并提供保证，以换取开放霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260511032524099800",
-          "source": "金十数据",
+          "title": "PIMCO：伊朗战争可能导致美联储加息",
+          "url": "https://wallstreetcn.com/livenews/3101175",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "伊朗外交部：伊朗新任驻越南大使与越南外长会面。",
-          "url": "https://flash.jin10.com/detail/20260511032317652800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "time_info": "05时58分"
         },
         {
           "title": "伊朗已回应美国提出的结束战争方案",
@@ -318,8 +337,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时58分]"
         },
         {
           "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
@@ -330,8 +349,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时58分]"
         },
         {
           "title": "DeepSeek 大范围开放识图模式，你能用了吗？体验感如何？",
@@ -343,8 +362,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时58分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -356,8 +375,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时58分]"
         },
         {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
@@ -368,8 +387,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时58分]"
         },
         {
           "title": "妈妈的AI在岁月里具象",
@@ -378,11 +397,12 @@
           "ranks": [
             15,
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时58分]"
         },
         {
           "title": "GAI新歌太费口红",
@@ -395,8 +415,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时58分]"
         },
         {
           "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
@@ -407,8 +427,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时58分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -419,8 +439,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时58分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
@@ -430,8 +450,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时57分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时57分 ~ 05时58分]"
         },
         {
           "title": "AI正在污染我们的判断力",
@@ -503,8 +523,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时58分]"
         },
         {
           "title": "普京：俄中油气领域合作将迈出重大一步",
@@ -514,8 +534,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时58分]"
         },
         {
           "title": "国家体育总局：希望大家关注运动员赛场表现，不组织、不参与庆生等活动",
@@ -526,8 +546,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时58分]"
         },
         {
           "title": "妥协了?韩国参加电竞国家杯",
@@ -538,8 +558,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时58分]"
         },
         {
           "title": "据黎巴嫩国家通讯社：西班牙首相专机因技术故障在土耳其紧急降落。",
@@ -636,8 +656,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时58分]"
         },
         {
           "title": "美科技股“火爆行情”很快结束？资深分析师列四大信号力证！",
@@ -648,8 +668,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时58分]"
         }
       ]
     },
@@ -674,11 +694,12 @@
           "url": "https://www.zhihu.com/question/2035872181381486169",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 05时58分]"
         }
       ]
     },
@@ -693,11 +714,12 @@
           "ranks": [
             2,
             10,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 05时58分]"
         }
       ]
     },
@@ -710,11 +732,12 @@
           "url": "https://www.zhihu.com/question/2036969921725321338",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时58分]"
         }
       ]
     }
