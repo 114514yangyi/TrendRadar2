@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T08:03:15.246534+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2026-05-11T13:03:07.372046+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗已回应美国提出的结束战争方案",
@@ -15,11 +15,12 @@
             7,
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 08时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时05分 ~ 13时03分]"
         },
         {
           "title": "伊朗战争丨超20艘美国军舰参与封锁伊朗任务",
@@ -46,6 +47,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时57分 ~ 08时03分]"
+        },
+        {
+          "title": "外交部官宣特朗普访华日期",
+          "url": "https://www.toutiao.com/trending/7638433306853281331/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 13时03分]"
         },
         {
           "title": "伊朗战争丨美国商船遭伊朗无人机袭击",
@@ -79,6 +91,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时02分 ~ 08时03分]"
+        },
+        {
+          "title": "伊朗战争丨谈判陷入僵局，内塔尼亚胡：战争还没结束",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 13时03分]"
+        },
+        {
+          "title": "【早报】伊朗回应美国所提结束战争方案，美称“完全不可接受”；全球芯片LOF、中韩半导体ETF华泰柏瑞停牌1小时",
+          "url": "https://www.cls.cn/detail/2367370",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时02分 ~ 13时03分]"
         },
         {
           "title": "伊朗已回应美国提出的结束战争方案",
@@ -115,6 +150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "李家超：香港要发展成国际医疗创新枢纽",
+          "url": "https://wallstreetcn.com/livenews/3101360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗与埃及外交部长通话，就地区最新局势以及在巴基斯坦斡旋下进行的伊美外交进程相关议题进行了讨论与磋商。",
@@ -180,17 +226,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时58分 ~ 07时00分]"
-        },
-        {
-          "title": "【早报】伊朗回应美国所提结束战争方案，美称“完全不可接受”；全球芯片LOF、中韩半导体ETF华泰柏瑞停牌1小时",
-          "url": "https://www.cls.cn/detail/2367370",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 08时03分]"
         },
         {
           "title": "美国驻联合国大使：特朗普在回归战争之前给予外交一切机会。",
@@ -299,6 +334,17 @@
           "time_info": "03时19分"
         },
         {
+          "title": "国际油价持续走高，WTI原油期货盘中触及100.31美元/桶，日内涨约5%。",
+          "url": "https://wallstreetcn.com/livenews/3101351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
           "title": "法国总统马克龙回应伊朗对法英军舰的警告，表示不存在部署问题，但随时准备为国际使命提供协助。",
           "url": "https://flash.jin10.com/detail/20260511005346732800",
           "source": "金十数据",
@@ -308,6 +354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "欧洲央行Guindos呼吁对利率保持“谨慎”，称战争会冲击经济",
+          "url": "https://wallstreetcn.com/livenews/3101348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "伊朗对美国方案的回应聚焦“结束战争与海上安全”",
@@ -390,18 +447,19 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 16,
+      "match_count": 24,
       "titles": [
         {
           "title": "放行卡塔尔商船，伊朗向海湾国家释放积极信号",
           "url": "https://news.ifeng.com/c/8t0moPsqScq",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 08时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时05分 ~ 13时03分]"
         },
         {
           "title": "普京：俄中油气领域合作将迈出重大一步",
@@ -415,29 +473,31 @@
           "time_info": "[00时05分 ~ 08时03分]"
         },
         {
-          "title": "妥协了?韩国参加电竞国家杯",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354134&amp;topic_name=%E5%A6%A5%E5%8D%8F%E4%BA%86%3F%E9%9F%A9%E5%9B%BD%E5%8F%82%E5%8A%A0%E7%94%B5%E7%AB%9E%E5%9B%BD%E5%AE%B6%E6%9D%AF",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 08时03分]"
-        },
-        {
           "title": "国家体育总局：希望大家关注运动员赛场表现，不组织、不参与庆生等活动",
           "url": "https://m.thepaper.cn/newsDetail_forward_33151105",
           "source": "澎湃新闻",
           "ranks": [
             16,
             17,
-            20
+            20,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 07时00分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 13时03分]"
+        },
+        {
+          "title": "妥协了?韩国参加电竞国家杯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354134&amp;topic_name=%E5%A6%A5%E5%8D%8F%E4%BA%86%3F%E9%9F%A9%E5%9B%BD%E5%8F%82%E5%8A%A0%E7%94%B5%E7%AB%9E%E5%9B%BD%E5%AE%B6%E6%9D%AF",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时05分 ~ 13时03分]"
         },
         {
           "title": "国家体育总局中国奥委会贺信",
@@ -457,7 +517,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -472,6 +532,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时58分]"
+        },
+        {
+          "title": "马英九前下属：两岸若合作，科技经济武力都是世界第一",
+          "url": "https://news.ifeng.com/c/8t2C2FzVuec",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 13时03分]"
         },
         {
           "title": "伊朗总统：谈判并非投降，旨在捍卫国家利益",
@@ -527,9 +598,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "马来西亚和印尼央行达成协议，内容涵盖货币政策、支付系统与数字化、金融部门发展及信息共享。",
+          "url": "https://flash.jin10.com/detail/20260511121028243800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉现在是一个非常幸福的国家。他们曾经痛苦，现在却很快乐。现在的石油产量巨大。",
@@ -554,15 +636,59 @@
           "time_info": "00时05分"
         },
         {
+          "title": "据英国金融时报：英国国家医疗服务体系将授予Palantir公司的承包商对患者数据的“无限访问权”。",
+          "url": "https://flash.jin10.com/detail/20260511120925025800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
           "title": "美国总统特朗普在社交媒体上发帖批评最高法院大法官关税裁决让美国损失了1590亿美元、出生公民权裁决危害国家安全。",
           "url": "https://flash.jin10.com/detail/20260511063947355800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "欧洲央行副行长金多斯：我主要担心的是，欧元区的财政空间相当有限，而此时我们需要增加国防开支，一些国家正寻求应对能源价格冲击，经济增长预计也将放缓。所有这些因素将导致许多国家的财政状况恶化。",
+          "url": "https://flash.jin10.com/detail/20260511120801011800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "马来西亚和印尼央行签署协议，加强双边合作。",
+          "url": "https://flash.jin10.com/detail/20260511120658841800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "余承东：智界V9将于5月15日发布",
+          "url": "https://wallstreetcn.com/livenews/3101338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "据沙特媒体哈达斯（alhadath）：英国和法国将主持召开约40个国家国防部长会议，议题涉及霍尔木兹海峡。",
@@ -574,12 +700,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时00分"
+        },
+        {
+          "title": "欧洲央行副行长金多斯：我认为在决定下一步利率政策之前，我们应该再等等。",
+          "url": "https://flash.jin10.com/detail/20260511120446243800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "山西调整住房公积金贷款和提取政策",
+          "url": "https://wallstreetcn.com/livenews/3101332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         }
       ]
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
         {
           "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
@@ -626,11 +774,12 @@
             3,
             9,
             6,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 08时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时05分 ~ 13时03分]"
         },
         {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
@@ -646,6 +795,20 @@
           "time_info": "[00时05分 ~ 08时03分]"
         },
         {
+          "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
+          "url": "https://www.cls.cn/detail/2367192",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时57分 ~ 13时03分]"
+        },
+        {
           "title": "GAI新歌太费口红",
           "url": "https://www.douyin.com/hot/2494398",
           "source": "抖音",
@@ -654,24 +817,12 @@
             20,
             14,
             18,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 08时03分]"
-        },
-        {
-          "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
-          "url": "https://www.cls.cn/detail/2367192",
-          "source": "财联社热门",
-          "ranks": [
-            13,
             11,
-            12
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时57分 ~ 08时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时05分 ~ 13时03分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -679,11 +830,12 @@
           "source": "贴吧",
           "ranks": [
             23,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 08时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时05分 ~ 13时03分]"
         },
         {
           "title": "妈妈的AI在岁月里具象",
@@ -705,11 +857,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 05时58分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 13时03分]"
         },
         {
           "title": "AI正在污染我们的判断力",
@@ -725,6 +878,61 @@
           "time_info": "[01时57分 ~ 08时03分]"
         },
         {
+          "title": "美伊局势再度紧张，油价跳涨、黄金下跌，AI浪潮下韩股涨超4%，SK海力士涨10%、三星再创新高",
+          "url": "https://wallstreetcn.com/articles/3771942",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 13时03分]"
+        },
+        {
+          "title": "论文严查AI使用率是否合理",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 13时03分]"
+        },
+        {
+          "title": "花生AI是什么",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B1%E7%94%9FAI%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 13时03分]"
+        },
+        {
+          "title": "今年的AI+能化，相当于2023~2024年的AI+红利，2025年的AI+资源",
+          "url": "https://wallstreetcn.com/articles/3771929",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 13时03分]"
+        },
+        {
+          "title": "CPU、存储、光通信……华尔街解读AI股史诗级狂热：市场热衷追逐“瓶颈”！",
+          "url": "https://www.cls.cn/detail/2367427",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 13时03分]"
+        },
+        {
           "title": "Kimi与DeepSeek到底谁更值钱",
           "url": "https://www.toutiao.com/trending/7638234526786784804/",
           "source": "今日头条",
@@ -734,6 +942,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 01时58分]"
+        },
+        {
+          "title": "给淘宝AI试穿评个夯",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%99%E6%B7%98%E5%AE%9DAI%E8%AF%95%E7%A9%BF%E8%AF%84%E4%B8%AA%E5%A4%AF%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 13时03分]"
         },
         {
           "title": "世界周刊谈美国AI暗钱网络",
@@ -758,6 +977,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "2.11倍领先！中国AI大模型周调用量再超美国",
+          "url": "https://wallstreetcn.com/livenews/3101343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
           "title": "怎么看华尔街两大佬截然相反的AI预判",
           "url": "https://www.toutiao.com/trending/7638222320863022643/",
           "source": "今日头条",
@@ -772,7 +1002,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "谁是这波增量资金主力？融资净买入创年内新高，加杠杆押科技",
@@ -821,6 +1051,92 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时59分 ~ 08时03分]"
+        },
+        {
+          "title": "月之暗面Kimi创始人在人民日报刊文：让中国大模型成为全球创新的基座",
+          "url": "https://www.cls.cn/detail/2367387",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 13时03分]"
+        },
+        {
+          "title": "前4月新疆霍尔果斯公路口岸出入境客流创新高",
+          "url": "https://wallstreetcn.com/livenews/3101349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "港股午评：恒生指数跌0.29% 恒生科技指数涨0.04%",
+          "url": "https://flash.jin10.com/detail/20260511120448928800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "github 技术 行业 软件",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "如何看待张本智和在 2 比 0 领先的前提下，被梁靖崑连扳三局逆转，他输在哪里，是技术还是心态？",
+          "url": "https://www.zhihu.com/question/2036969921725321338",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时58分 ~ 13时03分]"
+        },
+        {
+          "title": "有人每天烧 20 亿 Token，三个月重写公司 100 多名程序员七八年的项目，这对行业冲击有多大？",
+          "url": "https://www.zhihu.com/question/2036875406062479233",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 13时03分]"
+        },
+        {
+          "title": "奥迪高管炮轰行业乱象，称用改装车刷圈速刷成绩和用户没关系，怎样看待这种观点？车企刷圈速为的是什么？",
+          "url": "https://www.zhihu.com/question/2036481418109215498",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 13时03分]"
+        },
+        {
+          "title": "高校设立「婴发展」专业教「带娃」，已招两届本科生，为啥「带娃」还需要读个本科？会让托育行业更专业吗？",
+          "url": "https://www.zhihu.com/question/2033281258353072047",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 13时03分]"
         }
       ]
     },
@@ -871,26 +1187,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时58分 ~ 05时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "github 技术 行业 软件",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待张本智和在 2 比 0 领先的前提下，被梁靖崑连扳三局逆转，他输在哪里，是技术还是心态？",
-          "url": "https://www.zhihu.com/question/2036969921725321338",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时58分 ~ 08时03分]"
         }
       ]
     }
