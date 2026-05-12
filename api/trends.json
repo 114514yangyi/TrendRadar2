@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-05-12T07:02:45.532797+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-05-12T11:53:52.949526+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
-        {
-          "title": "外交部介绍特朗普访华安排和中方期待",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%AE%89%E6%8E%92%E5%92%8C%E4%B8%AD%E6%96%B9%E6%9C%9F%E5%BE%85",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 07时02分]"
-        },
         {
           "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
           "url": "https://news.ifeng.com/c/8t2b0FtT2VP",
           "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 11时53分]"
+        },
+        {
+          "title": "外交部介绍特朗普访华安排和中方期待",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%AE%89%E6%8E%92%E5%92%8C%E4%B8%AD%E6%96%B9%E6%9C%9F%E5%BE%85",
+          "source": "百度热搜",
           "ranks": [
             1
           ],
@@ -47,11 +47,25 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 07时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 11时53分]"
+        },
+        {
+          "title": "外交部介绍特朗普访华具体安排和中方期待",
+          "url": "https://wallstreetcn.com/articles/3771976",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 11时53分]"
         },
         {
           "title": "今年春季美国国际本科新生人数下降20%",
@@ -60,9 +74,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "外交部回应普京最新涉华表态",
+          "url": "https://www.toutiao.com/trending/7638533400014143534/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         },
         {
           "title": "美国总统特朗普：伊朗的提议是一个愚蠢的方案。 我有一个对伊朗的计划。 重申伊朗不能拥有核武器。 伊朗封锁是“军事天才”的一部分。 （发动伊朗战争）是在为全球服务。 （我）根本没有压力，将全胜。 （伊朗的）领袖们被（美国和以色列）杀害了。",
@@ -82,21 +107,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "外交部介绍特朗普访华具体安排和中方期待",
-          "url": "https://wallstreetcn.com/articles/3771976",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 07时02分]"
         },
         {
           "title": "406亿元！中芯国际并购重组案审议通过",
@@ -158,13 +171,24 @@
           "time_info": "[05时24分 ~ 07时02分]"
         },
         {
+          "title": "外交部回应普京最新涉华表态",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%99%AE%E4%BA%AC%E6%9C%80%E6%96%B0%E6%B6%89%E5%8D%8E%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
           "title": "我国牵头制定5项天然气国际标准发布",
           "url": "https://flash.jin10.com/detail/20260512062220722800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -175,9 +199,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。沪银涨超6%，液化石油气（LPG）涨超5%，铂、沪铜、国际铜、燃料油、低硫燃料油（LU）涨超2%；跌幅方面，多晶硅跌超4%，工业硅、焦煤、烧碱跌超2%，生猪、氧化铝、棕榈油跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260512113033440800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         },
         {
           "title": "美伊谈判受挫吓不倒金属市场 国际铜价逼近历史高位",
@@ -202,6 +237,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "外交部：中美元首将就事关中美关系以及世界和平与发展的重大问题深入交换意见",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33155631",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
           "title": "据路透社/益普索调查：66%的美国人表示特朗普没有清楚解释美国在伊朗战争中的目标。",
           "url": "https://flash.jin10.com/detail/20260512021907048800",
           "source": "金十数据",
@@ -219,9 +265,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "交通运输部：处罚9家国际集装箱班轮运输公司和7家无船承运业务经营者",
+          "url": "https://wallstreetcn.com/livenews/3101970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         },
         {
           "title": "国际足联来华谈判前表态：降一半行不",
@@ -260,7 +317,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 13,
+      "match_count": 21,
       "titles": [
         {
           "title": "把AI用到了最有意义的场合",
@@ -269,11 +326,52 @@
           "ranks": [
             5,
             7,
-            8
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 07时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 11时53分]"
+        },
+        {
+          "title": "AI时代如何评价各专业",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%90%84%E4%B8%93%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            22,
+            25,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 11时53分]"
+        },
+        {
+          "title": "AI原创短片国产爱死机",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            22,
+            20,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 11时53分]"
+        },
+        {
+          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
+          "url": "https://wallstreetcn.com/articles/3772036",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         },
         {
           "title": "市场消息：美国俄克拉何马州HF Sinclair炼油厂发生大火，现场浓烟滚滚。",
@@ -285,6 +383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "OpenAI冲刺IPO之际 其CEO奥尔特曼恐面临严厉审查",
+          "url": "https://flash.jin10.com/detail/20260512113842509800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         },
         {
           "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
@@ -312,33 +421,6 @@
           "time_info": "[00时08分 ~ 07时02分]"
         },
         {
-          "title": "AI时代如何评价各专业",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%90%84%E4%B8%93%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 07时02分]"
-        },
-        {
-          "title": "AI原创短片国产爱死机",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            22,
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 07时02分]"
-        },
-        {
           "title": "AI正把韩国推成全球最疯狂牛市",
           "url": "https://www.toutiao.com/trending/7638535831472311827/",
           "source": "今日头条",
@@ -352,6 +434,17 @@
           "time_info": "[00时08分 ~ 07时02分]"
         },
         {
+          "title": "美媒：马斯克的Grok在AI竞赛中正节节败退",
+          "url": "https://flash.jin10.com/detail/20260512112729019800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
           "title": "Mosaic Co.（MOS）评估在美国的稀土机会。",
           "url": "https://wallstreetcn.com/livenews/3101750",
           "source": "华尔街见闻-快讯",
@@ -363,6 +456,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "Deepseek分析145斤怎么瘦到100斤",
+          "url": "https://s.weibo.com/weibo?q=Deepseek%E5%88%86%E6%9E%90145%E6%96%A4%E6%80%8E%E4%B9%88%E7%98%A6%E5%88%B0100%E6%96%A4&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
           "title": "OpenAI：推出面向网络防御人员的前沿人工智能Daybreak。Daybreak整合了OpenAI最强大的模型、Codex以及我们的安全合作伙伴，以加速网络防御并持续保障软件安全。",
           "url": "https://flash.jin10.com/detail/20260512044813399800",
           "source": "金十数据",
@@ -372,6 +476,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "据华尔街日报：美国众议院监督委员会已启动一项调查，以探究有关OpenAI CEO奥尔特曼潜在的利益冲突，同时多位共和党州检察长呼吁美国证交会（SEC）进行审查。",
+          "url": "https://flash.jin10.com/detail/20260512112222106800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "据华尔街日报：随着OpenAI准备进行IPO，其CEO奥尔特曼的个人投资正受到共和党人日益严格的审查。",
+          "url": "https://flash.jin10.com/detail/20260512112128825800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         },
         {
           "title": "美国总统特朗普最快将于周一签署关于AI安全的命令。（华盛顿邮报）",
@@ -394,6 +520,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "上海AI实验室联合团队攻克芯片核心材料光刻胶稳定制备难题",
+          "url": "https://wallstreetcn.com/livenews/3101983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "期权疯狂看涨+技术面破位！被AI行情遗忘的白银杀回来了？",
+          "url": "https://flash.jin10.com/detail/20260512111430507800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         },
         {
           "title": "CORTIS新歌ACAI的MV来了",
@@ -421,7 +569,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "央行：继续实施好适度宽松的货币政策",
@@ -433,6 +581,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时08分 ~ 07时02分]"
+        },
+        {
+          "title": "中国央行Q1货币政策执行报告：继续实施好适度宽松的货币政策，密切关注外部输入型通胀影响",
+          "url": "https://wallstreetcn.com/articles/3771998",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时03分 ~ 11时53分]"
         },
         {
           "title": "特朗普拟暂停美国汽油税 政策仍需国会立法批准",
@@ -474,7 +635,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -490,6 +651,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "日本财长：日美“非常良好地协调”汇率政策，贝森特被指默许干预",
+          "url": "https://flash.jin10.com/detail/20260512113628039800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
           "title": "据沙特阿拉比亚电视台：消息人士称，伊朗外长阿拉格齐将于本周前往印度新德里，参加5月14日至15日举行的金砖国家外长会议。",
           "url": "https://flash.jin10.com/detail/20260512023346751800",
           "source": "金十数据",
@@ -501,16 +673,37 @@
           "time_info": "03时03分"
         },
         {
-          "title": "中国央行Q1货币政策执行报告：继续实施好适度宽松的货币政策，密切关注外部输入型通胀影响",
-          "url": "https://wallstreetcn.com/articles/3771998",
-          "source": "华尔街见闻",
+          "title": "特朗普：中国是一个令人惊叹的国家",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            7
+            6
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时03分 ~ 07时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "iOS 26.5正式版发布",
+          "url": "https://search.bilibili.com/all?keyword=iOS%2026.5%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "韩国总统府政策室长金容范称，人工智能公民红利并不意味着暴利税。",
+          "url": "https://wallstreetcn.com/livenews/3101985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         },
         {
           "title": "龚正率上海市代表团在辽宁沈阳与许昆林王新伟会谈交流，共商沪辽交流合作大计",
@@ -522,13 +715,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报195650元/吨，较上日16:30价格上涨250元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3101980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "韩国政策高层称人工智能公民红利将取自超额税收 而非企业利润",
+          "url": "https://wallstreetcn.com/livenews/3101973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         }
       ]
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "如何看待耿同学举报上海大学转化医学院院长苏某最新 Nature 子刊论文数据造假？究竟是怎么回事？",
+          "url": "https://www.zhihu.com/question/2037418739952521787",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
         {
           "title": "【焦点复盘】创业板指涨逾3%续创近11年新高，硬科技赛道全线爆发，绿电概念人气股晋级4连板",
           "url": "https://www.cls.cn/detail/2367989",
@@ -566,15 +792,37 @@
           "time_info": "[05时24分 ~ 07时02分]"
         },
         {
+          "title": "一线城市二手房成交连创新高，但购房者普遍未用足杠杆",
+          "url": "https://wallstreetcn.com/articles/3772029",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
           "title": "一线城市二手房成交连创新高，居民中长期贷款增长有待修复",
           "url": "https://wallstreetcn.com/livenews/3101880",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         },
         {
           "title": "标普500指数的11个板块涨跌各异，能源板块收涨2.63%，原材料、工业、信息技术/科技板块至少涨1%，电信板块则收跌2.33%。",
@@ -612,6 +860,112 @@
       ]
     },
     {
+      "keyword_group": "github 技术 行业 软件",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "挖掘机量价齐涨，工程机械行业景气度攀升",
+          "url": "https://wallstreetcn.com/livenews/3101896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "英国审慎监管局（PRA）的伍兹表示，有理由预期 ChatGPT 和 Mythos 将给英国金融服务行业带来“相当严重的 disruption（冲击/扰乱）”。 英国金融行为监管局（FCA）的拉蒂表示，对私募市场中的诚信问题及金融犯罪风险感到“担忧”。",
+          "url": "https://wallstreetcn.com/livenews/3101759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        },
+        {
+          "title": "钠电、固液、五代铁锂 超3000家电池生态企业共话技术迭代|CIBF2026前瞻",
+          "url": "https://www.cls.cn/detail/2368000",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 07时02分]"
+        },
+        {
+          "title": "如何看待软件负责人认为，相比于多拿几个项目，写代码都是次要的？",
+          "url": "https://www.zhihu.com/question/1922615320071364674",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时24分]"
+        },
+        {
+          "title": "伊朗：核技术不在与美国会谈的议程之内。（IRIB）",
+          "url": "https://wallstreetcn.com/livenews/3101753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        },
+        {
+          "title": "我国国产高端数控机床智能组线可靠性与质量一体化技术取得突破",
+          "url": "https://wallstreetcn.com/livenews/3101995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "能源业ETF收涨超2.6%，与半导体ETF领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3101849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "龙芯中科：龙芯3A6000主流行业出货量突破100万片",
+          "url": "https://flash.jin10.com/detail/20260512110204299800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "我国国产高端数控机床智能组线可靠性与质量一体化技术取得突破",
+          "url": "https://flash.jin10.com/detail/20260512110103025800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 美元",
       "match_count": 6,
       "titles": [
@@ -620,11 +974,12 @@
           "url": "https://www.cls.cn/detail/2368457",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 11时53分]"
         },
         {
           "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
@@ -685,75 +1040,42 @@
       ]
     },
     {
-      "keyword_group": "github 技术 行业 软件",
-      "match_count": 6,
+      "keyword_group": "游戏 steam 显卡 内存 处理器",
+      "match_count": 3,
       "titles": [
         {
-          "title": "挖掘机量价齐涨，工程机械行业景气度攀升",
-          "url": "https://wallstreetcn.com/livenews/3101896",
-          "source": "华尔街见闻-快讯",
+          "title": "为什么《王者荣耀世界》的开发成本看起来这么高？游戏开发的主要开销在哪里？",
+          "url": "https://www.zhihu.com/question/2019850821072898030",
+          "source": "知乎",
           "ranks": [
-            1
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时03分 ~ 05时24分]"
+        },
+        {
+          "title": "曾经每天玩 5 小时游戏的人，为什么在二十多岁后会「断崖式」地对游戏失去兴趣？",
+          "url": "https://www.zhihu.com/question/1969364589067105538",
+          "source": "知乎",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "11时53分"
         },
         {
-          "title": "英国审慎监管局（PRA）的伍兹表示，有理由预期 ChatGPT 和 Mythos 将给英国金融服务行业带来“相当严重的 disruption（冲击/扰乱）”。 英国金融行为监管局（FCA）的拉蒂表示，对私募市场中的诚信问题及金融犯罪风险感到“担忧”。",
-          "url": "https://wallstreetcn.com/livenews/3101759",
-          "source": "华尔街见闻-快讯",
+          "title": "Steam手柄评测",
+          "url": "https://search.bilibili.com/all?keyword=Steam%E6%89%8B%E6%9F%84%E8%AF%84%E6%B5%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "钠电、固液、五代铁锂 超3000家电池生态企业共话技术迭代|CIBF2026前瞻",
-          "url": "https://www.cls.cn/detail/2368000",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 07时02分]"
-        },
-        {
-          "title": "如何看待软件负责人认为，相比于多拿几个项目，写代码都是次要的？",
-          "url": "https://www.zhihu.com/question/1922615320071364674",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 05时24分]"
-        },
-        {
-          "title": "伊朗：核技术不在与美国会谈的议程之内。（IRIB）",
-          "url": "https://wallstreetcn.com/livenews/3101753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "能源业ETF收涨超2.6%，与半导体ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3101849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "11时53分"
         }
       ]
     },
@@ -782,24 +1104,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么《王者荣耀世界》的开发成本看起来这么高？游戏开发的主要开销在哪里？",
-          "url": "https://www.zhihu.com/question/2019850821072898030",
-          "source": "知乎",
-          "ranks": [
-            20,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 05时24分]"
         }
       ]
     },
