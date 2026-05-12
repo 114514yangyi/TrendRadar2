@@ -1,11 +1,463 @@
 {
-  "generated_at": "2026-05-12T14:55:33.393639+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2026-05-12T17:46:41.240414+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "国家 改革 政策 发布 合作",
+      "match_count": 40,
+      "titles": [
+        {
+          "title": "央行：继续实施好适度宽松的货币政策",
+          "url": "https://www.cls.cn/detail/2368168",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 07时02分]"
+        },
+        {
+          "title": "中国央行Q1货币政策执行报告：继续实施好适度宽松的货币政策，密切关注外部输入型通胀影响",
+          "url": "https://wallstreetcn.com/articles/3771998",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时03分 ~ 17时46分]"
+        },
+        {
+          "title": "宇树发布载人变形机甲 390万元起售",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E5%8F%98%E5%BD%A2%E6%9C%BA%E7%94%B2+390%E4%B8%87%E5%85%83%E8%B5%B7%E5%94%AE",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 17时46分]"
+        },
+        {
+          "title": "宇树发布载人变形机甲",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E5%8F%98%E5%BD%A2%E6%9C%BA%E7%94%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 17时46分]"
+        },
+        {
+          "title": "宇树科技发布载人变形机甲 390万元起",
+          "url": "https://www.toutiao.com/trending/7638860347448757798/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "中美禁毒合作，细节披露",
+          "url": "https://news.ifeng.com/c/8t4BHCvjSi6",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "特朗普拟暂停美国汽油税 政策仍需国会立法批准",
+          "url": "https://flash.jin10.com/detail/20260511234158758800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨0.8%，报382.93点。 在十个板块中，北欧医疗保健板块涨幅最大。 Fastighets AB Balder涨5.8%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3101761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        },
+        {
+          "title": "宇树发布 GD01 载人变形机甲，定价 390 万元起，目标客户可能是谁？这一定价合理吗？",
+          "url": "https://www.zhihu.com/question/2037512541304262884",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "宇树科技发布载人变形机甲 390万起",
+          "url": "https://www.toutiao.com/trending/7638860347448757798/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "泽连斯基与德国防长会晤 推进多项军事及能源合作",
+          "url": "https://flash.jin10.com/detail/20260511234131022800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：今天，我将召集一个特别审查小组，对影响美国军人的军事司法体系各个方面展开全面、长期、覆盖整个国防部门的审查。该小组将提升信任、增强部队实力、推动真正改革，并帮助确保我们的作战人员获得他们应得的世界一流军事司法体系。",
+          "url": "https://flash.jin10.com/detail/20260512064012577800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国海军：美国海军福特号航母打击群（CVN 78）在响应国家号召后，正式启程回家。今天，来自航母航空联队（CVW）8的各个中队开始回到各自基地。旗舰和驱逐舰中队（DESRON）2的舰艇将在接下来的几天内抵达，正式结束此次部署。",
+          "url": "https://flash.jin10.com/detail/20260512023919796800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "日本财长：日美“非常良好地协调”汇率政策，贝森特被指默许干预",
+          "url": "https://flash.jin10.com/detail/20260512113628039800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "中微半导：正式发布自研 32 M bit SPI NOR Flash 芯片",
+          "url": "https://wallstreetcn.com/livenews/3102201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "钢铁侠成真!宇树发布载人机甲",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354208&amp;topic_name=%E9%92%A2%E9%93%81%E4%BE%A0%E6%88%90%E7%9C%9F%21%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E6%9C%BA%E7%94%B2",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "据沙特阿拉比亚电视台：消息人士称，伊朗外长阿拉格齐将于本周前往印度新德里，参加5月14日至15日举行的金砖国家外长会议。",
+          "url": "https://flash.jin10.com/detail/20260512023346751800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "特朗普：中国是一个令人惊叹的国家",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 17时46分]"
+        },
+        {
+          "title": "宇树发布首款载人变形机甲：一拳能锤倒砖墙，售价390万元起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33162316",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 17时46分]"
+        },
+        {
+          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 17时46分]"
+        },
+        {
+          "title": "A股重回4200点 国家队买了谁",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E9%87%8D%E5%9B%9E4200%E7%82%B9+%E5%9B%BD%E5%AE%B6%E9%98%9F%E4%B9%B0%E4%BA%86%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 17时46分]"
+        },
+        {
+          "title": "印度与俄罗斯就关键矿产合作协议进行深入谈判",
+          "url": "https://flash.jin10.com/detail/20260512173805735800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "宇树发布GD01载人变形机甲 定价390万元起",
+          "url": "https://www.cls.cn/detail/2368783",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "玉渊谭天：独家披露中美禁毒合作细节",
+          "url": "https://wallstreetcn.com/livenews/3102070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "iOS 26.5正式版发布",
+          "url": "https://search.bilibili.com/all?keyword=iOS%2026.5%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "国家发改委价格成本和认证中心赴浙江省开展虚拟电厂调研",
+          "url": "https://wallstreetcn.com/livenews/3102183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "英国利率期货定价显示，到12月英国央行政策利率将收紧约68个基点，而周一预测为约56个基点。",
+          "url": "https://flash.jin10.com/detail/20260512143237050800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "韩国总统府政策室长金容范称，人工智能公民红利并不意味着暴利税。",
+          "url": "https://wallstreetcn.com/livenews/3101985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "A股重回4200点 国家队买了谁",
+          "url": "https://www.toutiao.com/trending/7638837837990743606/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "龚正率上海市代表团在辽宁沈阳与许昆林王新伟会谈交流，共商沪辽交流合作大计",
+          "url": "https://wallstreetcn.com/livenews/3101742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报195650元/吨，较上日16:30价格上涨250元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3101980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "宇树科技发布双臂人形机器人，价格 2.69 万元起，使用场景有哪些？值得买吗？",
+          "url": "https://www.zhihu.com/question/2033154931448918850",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "韩国政策高层称人工智能公民红利将取自超额税收 而非企业利润",
+          "url": "https://wallstreetcn.com/livenews/3101973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "市场分析：日本央行4月会议纪要为政策选项预留空间",
+          "url": "https://flash.jin10.com/detail/20260512142208366800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "默沙东签署本土合作协议，持续扩展在华创新合作网络",
+          "url": "https://wallstreetcn.com/livenews/3102167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "中美首次联合发布禁毒声明",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E9%A6%96%E6%AC%A1%E8%81%94%E5%90%88%E5%8F%91%E5%B8%83%E7%A6%81%E6%AF%92%E5%A3%B0%E6%98%8E%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "宇树科技发布载人机甲，投资人回应",
+          "url": "https://flash.jin10.com/detail/20260512172818984800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "北京“两区”数据出境负面清单发布 国内首批拓展至全市域",
+          "url": "https://wallstreetcn.com/livenews/3102040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "5月12日，国家主席习近平在北京同塔吉克斯坦总统拉赫蒙举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260512172549147800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "国家药监局局长黄果会见新加坡卫生科学局局长蔡瑞文并签署合作备忘录",
+          "url": "https://wallstreetcn.com/livenews/3102038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "国际 外交 战争",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
@@ -49,11 +501,12 @@
           "ranks": [
             5,
             8,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 14时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 17时46分]"
         },
         {
           "title": "外交部介绍特朗普访华具体安排和中方期待",
@@ -67,6 +520,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时08分 ~ 11时53分]"
+        },
+        {
+          "title": "外交部就中美关系和台湾问题答问",
+          "url": "https://www.toutiao.com/trending/7638197019953791012/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "今年春季美国国际本科新生人数下降20%",
@@ -97,9 +561,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "国际护士节",
+          "url": "https://www.douyin.com/hot/2495939",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "国际银行在日本市场迎来“大丰收”",
@@ -119,7 +594,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -159,6 +634,19 @@
           "time_info": "[00时08分 ~ 07时02分]"
         },
         {
+          "title": "外交部回应普京最新涉华表态",
+          "url": "https://www.toutiao.com/trending/7638533400014143534/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 17时46分]"
+        },
+        {
           "title": "据英国《卫报》：英国外交大臣向英国首相斯塔默表示，他应推动权力“有序交接”。",
           "url": "https://flash.jin10.com/detail/20260512051032897800",
           "source": "金十数据",
@@ -169,18 +657,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 07时02分]"
-        },
-        {
-          "title": "外交部回应普京最新涉华表态",
-          "url": "https://www.toutiao.com/trending/7638533400014143534/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 14时55分]"
         },
         {
           "title": "英国外交大臣Copper告诉首相斯塔默，他应该要看到一个有序的权力交接。（英国卫报）",
@@ -268,7 +744,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -306,6 +782,28 @@
           "time_info": "07时02分"
         },
         {
+          "title": "克里姆林宫：（就俄罗斯总统普京关于乌克兰战争“即将结束”的言论发表评论）和平进程的进展表明战争即将结束。",
+          "url": "https://flash.jin10.com/detail/20260512173117279800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "南向资金今日净买入7.9亿元。港股通（沪）方面，快手-W、澜起科技分别获净买入3.16亿港元、1.9亿港元；中芯国际净卖出额居首，金额为4.86亿港元；港股通（深）方面，中芯国际、泡泡玛特分别获净买入2.9亿港元、0.3亿港元；华虹半导体净卖出额居首，金额为8.05亿港元。",
+          "url": "https://flash.jin10.com/detail/20260512173113769800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "交通运输部：处罚9家国际集装箱班轮运输公司和7家无船承运业务经营者",
           "url": "https://wallstreetcn.com/livenews/3101970",
           "source": "华尔街见闻-快讯",
@@ -326,6 +824,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "外交部回应巴拉圭总统窜台",
+          "url": "https://www.toutiao.com/trending/7638702006052257828/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "卡塔尔外交部：总理接到科威特外交部长的电话，讨论了地区局势和降级冲突的努力。",
@@ -352,313 +861,8 @@
       ]
     },
     {
-      "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 27,
-      "titles": [
-        {
-          "title": "央行：继续实施好适度宽松的货币政策",
-          "url": "https://www.cls.cn/detail/2368168",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 07时02分]"
-        },
-        {
-          "title": "中国央行Q1货币政策执行报告：继续实施好适度宽松的货币政策，密切关注外部输入型通胀影响",
-          "url": "https://wallstreetcn.com/articles/3771998",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时03分 ~ 14时55分]"
-        },
-        {
-          "title": "宇树科技发布载人变形机甲 390万元起",
-          "url": "https://www.toutiao.com/trending/7638860347448757798/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "宇树发布载人变形机甲 390万元起售",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E5%8F%98%E5%BD%A2%E6%9C%BA%E7%94%B2+390%E4%B8%87%E5%85%83%E8%B5%B7%E5%94%AE",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "特朗普拟暂停美国汽油税 政策仍需国会立法批准",
-          "url": "https://flash.jin10.com/detail/20260511234158758800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数涨0.8%，报382.93点。 在十个板块中，北欧医疗保健板块涨幅最大。 Fastighets AB Balder涨5.8%，在一众北欧个股里领跑。",
-          "url": "https://wallstreetcn.com/livenews/3101761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "宇树发布载人变形机甲",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E5%8F%98%E5%BD%A2%E6%9C%BA%E7%94%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "泽连斯基与德国防长会晤 推进多项军事及能源合作",
-          "url": "https://flash.jin10.com/detail/20260511234131022800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "美国国防部长赫格塞思：今天，我将召集一个特别审查小组，对影响美国军人的军事司法体系各个方面展开全面、长期、覆盖整个国防部门的审查。该小组将提升信任、增强部队实力、推动真正改革，并帮助确保我们的作战人员获得他们应得的世界一流军事司法体系。",
-          "url": "https://flash.jin10.com/detail/20260512064012577800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "美国海军：美国海军福特号航母打击群（CVN 78）在响应国家号召后，正式启程回家。今天，来自航母航空联队（CVW）8的各个中队开始回到各自基地。旗舰和驱逐舰中队（DESRON）2的舰艇将在接下来的几天内抵达，正式结束此次部署。",
-          "url": "https://flash.jin10.com/detail/20260512023919796800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "日本财长：日美“非常良好地协调”汇率政策，贝森特被指默许干预",
-          "url": "https://flash.jin10.com/detail/20260512113628039800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "据沙特阿拉比亚电视台：消息人士称，伊朗外长阿拉格齐将于本周前往印度新德里，参加5月14日至15日举行的金砖国家外长会议。",
-          "url": "https://flash.jin10.com/detail/20260512023346751800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "特朗普：中国是一个令人惊叹的国家",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 14时55分]"
-        },
-        {
-          "title": "玉渊谭天：独家披露中美禁毒合作细节",
-          "url": "https://wallstreetcn.com/livenews/3102070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "iOS 26.5正式版发布",
-          "url": "https://search.bilibili.com/all?keyword=iOS%2026.5%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "英国利率期货定价显示，到12月英国央行政策利率将收紧约68个基点，而周一预测为约56个基点。",
-          "url": "https://flash.jin10.com/detail/20260512143237050800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "韩国总统府政策室长金容范称，人工智能公民红利并不意味着暴利税。",
-          "url": "https://wallstreetcn.com/livenews/3101985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "A股重回4200点 国家队买了谁",
-          "url": "https://www.toutiao.com/trending/7638837837990743606/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "A股重回4200点 国家队买了谁",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E9%87%8D%E5%9B%9E4200%E7%82%B9+%E5%9B%BD%E5%AE%B6%E9%98%9F%E4%B9%B0%E4%BA%86%E8%B0%81",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "宇树发布首款载人变形机甲：一拳能锤倒砖墙，售价390万元起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33162316",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "龚正率上海市代表团在辽宁沈阳与许昆林王新伟会谈交流，共商沪辽交流合作大计",
-          "url": "https://wallstreetcn.com/livenews/3101742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报195650元/吨，较上日16:30价格上涨250元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3101980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "韩国政策高层称人工智能公民红利将取自超额税收 而非企业利润",
-          "url": "https://wallstreetcn.com/livenews/3101973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "市场分析：日本央行4月会议纪要为政策选项预留空间",
-          "url": "https://flash.jin10.com/detail/20260512142208366800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "北京“两区”数据出境负面清单发布 国内首批拓展至全市域",
-          "url": "https://wallstreetcn.com/livenews/3102040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "国家药监局局长黄果会见新加坡卫生科学局局长蔡瑞文并签署合作备忘录",
-          "url": "https://wallstreetcn.com/livenews/3102038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "把AI用到了最有意义的场合",
@@ -669,11 +873,24 @@
             7,
             8,
             2,
-            9
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 14时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 17时46分]"
+        },
+        {
+          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
+          "url": "https://wallstreetcn.com/articles/3772036",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 17时46分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -684,11 +901,12 @@
             22,
             25,
             18,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 14时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 17时46分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -700,22 +918,12 @@
             20,
             15,
             17,
-            23
+            23,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 14时55分]"
-        },
-        {
-          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
-          "url": "https://wallstreetcn.com/articles/3772036",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 14时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 17时46分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -760,7 +968,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -776,6 +984,30 @@
           "time_info": "00时08分"
         },
         {
+          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
+          "url": "https://www.cls.cn/detail/2368705",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 17时46分]"
+        },
+        {
+          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
+          "url": "https://www.zhihu.com/question/2037128887558207003",
+          "source": "知乎",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 17时46分]"
+        },
+        {
           "title": "AI正把韩国推成全球最疯狂牛市",
           "url": "https://www.toutiao.com/trending/7638535831472311827/",
           "source": "今日头条",
@@ -787,28 +1019,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时08分 ~ 07时02分]"
-        },
-        {
-          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
-          "url": "https://www.cls.cn/detail/2368705",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
-          "url": "https://www.zhihu.com/question/2037128887558207003",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
         },
         {
           "title": "美媒：马斯克的Grok在AI竞赛中正节节败退",
@@ -888,6 +1098,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "OpenAI预计：在与微软的最新协议下，到2030年公司将节省970亿美元",
+          "url": "https://wallstreetcn.com/livenews/3102179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "Bain & Co.投资OpenAI Deployment Company。",
           "url": "https://wallstreetcn.com/livenews/3101802",
           "source": "华尔街见闻-快讯",
@@ -938,7 +1159,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -949,7 +1170,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -963,12 +1184,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "报道：特斯拉AI6.5芯片或转移至英特尔",
+          "url": "https://wallstreetcn.com/livenews/3102164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         }
       ]
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "如何看待耿同学举报上海大学转化医学院院长苏某最新 Nature 子刊论文数据造假？究竟是怎么回事？",
@@ -983,6 +1215,28 @@
           "time_info": "[11时53分 ~ 14时55分]"
         },
         {
+          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
+          "url": "https://wallstreetcn.com/articles/3772023",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 17时46分]"
+        },
+        {
+          "title": "百亿私募数量增至136家 总数再创新高",
+          "url": "https://wallstreetcn.com/livenews/3102203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "【焦点复盘】创业板指涨逾3%续创近11年新高，硬科技赛道全线爆发，绿电概念人气股晋级4连板",
           "url": "https://www.cls.cn/detail/2367989",
           "source": "财联社热门",
@@ -993,17 +1247,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时08分 ~ 07时02分]"
-        },
-        {
-          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
-          "url": "https://wallstreetcn.com/articles/3772023",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
         },
         {
           "title": "千问+淘宝！试水大模型变现新入口",
@@ -1026,8 +1269,32 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 17时46分]"
+        },
+        {
+          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 17时46分]"
+        },
+        {
+          "title": "哈佛教授：中美元首峰会最大成果或是避免局势升级",
+          "url": "https://news.ifeng.com/c/8t43s8azZuq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时53分 ~ 14时55分]"
+          "time_info": "[14时55分 ~ 17时46分]"
         },
         {
           "title": "英国金融科技公司 Wise 在美双重上市，完成交易首秀",
@@ -1040,29 +1307,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 07时02分]"
-        },
-        {
-          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 14时55分]"
-        },
-        {
-          "title": "哈佛教授：中美元首峰会最大成果或是避免局势升级",
-          "url": "https://news.ifeng.com/c/8t43s8azZuq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
         },
         {
           "title": "一线城市二手房成交连创新高，居民中长期贷款增长有待修复",
@@ -1104,7 +1348,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -1118,6 +1362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "宇树科技首席执行官王兴兴一行到雄安新区考察调研",
+          "url": "https://wallstreetcn.com/livenews/3102161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         }
       ]
     },
@@ -1306,6 +1561,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "曾经每天玩 5 小时游戏的人，为什么在二十多岁后会「断崖式」地对游戏失去兴趣？",
+          "url": "https://www.zhihu.com/question/1969364589067105538",
+          "source": "知乎",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 17时46分]"
+        },
+        {
           "title": "为什么《王者荣耀世界》的开发成本看起来这么高？游戏开发的主要开销在哪里？",
           "url": "https://www.zhihu.com/question/2019850821072898030",
           "source": "知乎",
@@ -1316,17 +1583,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时03分 ~ 05时24分]"
-        },
-        {
-          "title": "曾经每天玩 5 小时游戏的人，为什么在二十多岁后会「断崖式」地对游戏失去兴趣？",
-          "url": "https://www.zhihu.com/question/1969364589067105538",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 14时55分]"
         },
         {
           "title": "Steam手柄评测",
