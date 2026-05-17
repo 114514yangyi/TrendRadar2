@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T05:02:55.631481+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-05-18T07:00:25.703936+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -36,11 +36,12 @@
           "ranks": [
             8,
             10,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 07时00分]"
         },
         {
           "title": "国际原子能机构：阿联酋巴拉卡核电站辐射水平正常",
@@ -49,11 +50,24 @@
           "ranks": [
             12,
             14,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 07时00分]"
+        },
+        {
+          "title": "消息人士：国际刑事法院检察官已申请对数名以官员签发“秘密逮捕令”",
+          "url": "https://wallstreetcn.com/livenews/3104911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 07时00分]"
         },
         {
           "title": "传国际刑事法院检察官申请逮捕以官员",
@@ -86,7 +100,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -100,17 +114,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
-        },
-        {
-          "title": "消息人士：国际刑事法院检察官已申请对数名以官员签发“秘密逮捕令”",
-          "url": "https://wallstreetcn.com/livenews/3104911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
         },
         {
           "title": "阿联酋外长与国际原子能机构总干事就无人机袭击事件通电话",
@@ -141,7 +144,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -174,7 +177,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -193,7 +196,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "国家防总向贵州调拨中央防汛抗旱物资",
@@ -202,22 +205,12 @@
           "ranks": [
             3,
             5,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时02分]"
-        },
-        {
-          "title": "加拿大公共卫生署17日证实，该国国家微生物实验室经过复核检测，正式确诊一名正在不列颠哥伦比亚省接受隔离的“洪迪厄斯”号邮轮乘员感染汉坦病毒。",
-          "url": "https://flash.jin10.com/detail/20260518041554919800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 07时00分]"
         },
         {
           "title": "无锡大动作！一边建大规模“Token工厂”、一边与SK海力士深化合作",
@@ -227,8 +220,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 07时00分]"
+        },
+        {
+          "title": "加拿大公共卫生署17日证实，该国国家微生物实验室经过复核检测，正式确诊一名正在不列颠哥伦比亚省接受隔离的“洪迪厄斯”号邮轮乘员感染汉坦病毒。",
+          "url": "https://flash.jin10.com/detail/20260518041554919800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 07时00分]"
+        },
+        {
+          "title": "“新债王”、DoubleLine Capital的CEOJeffrey Gundlach：在美国通胀率高于美联储政策利率之际，美联储（候任）主席凯文·沃什处境艰难。 美联储下一次行动可能会加息。 预计美国下一次披露的CPI通胀率将高于4.0%（但不到5.0%）。 看好大宗商品，对黄金持中性看法。 我肯定担心私人信用市场（的现状）。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3104901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 07时00分]"
         },
         {
           "title": "宁德时代与厦门市深化战略合作，加快零碳科技城建设与低空经济布局",
@@ -243,15 +260,15 @@
           "time_info": "[01时06分 ~ 03时19分]"
         },
         {
-          "title": "“新债王”、DoubleLine Capital的CEOJeffrey Gundlach：在美国通胀率高于美联储政策利率之际，美联储（候任）主席凯文·沃什处境艰难。 美联储下一次行动可能会加息。 预计美国下一次披露的CPI通胀率将高于4.0%（但不到5.0%）。 看好大宗商品，对黄金持中性看法。 我肯定担心私人信用市场（的现状）。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3104901",
-          "source": "华尔街见闻-快讯",
+          "title": "澳大利亚国库部长查默斯：已对六名股东发出命令，要求其剥离所持北方矿业（Northern Minerals）股份。这一决定完全符合国库部及外国投资审查委员会的建议，旨在保护国家利益并确保遵守我国的外国投资框架。",
+          "url": "https://flash.jin10.com/detail/20260518063255303800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时02分"
+          "time_info": "07时00分"
         },
         {
           "title": "据阿联酋国家通讯社报道，在巴拉卡核电站遭无人机袭击后，阿联酋外长与包括沙特外长在内的多位地区同行通了电话。",
@@ -271,7 +288,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -355,8 +372,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 07时00分]"
         },
         {
           "title": "【早报】俄罗斯总统普京将访华；商务部公布中美经贸磋商初步成果",
@@ -366,8 +383,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 07时00分]"
         },
         {
           "title": "如何看待长鑫科技 2026 年 Q1 净利润狂飙至 330 亿，营收暴增 719%？",
@@ -377,8 +394,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 07时00分]"
         },
         {
           "title": "长鑫科技招股书更新：一季度营收同比增长719%，净利润330亿元，上半年盈利指引大超预期",
@@ -388,8 +405,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 07时00分]"
         },
         {
           "title": "霍尔木兹6月重开是“异想天开”！这家银行认为：夏天油价可能创新高，从而冲击股市",
@@ -399,8 +416,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 07时00分]"
         },
         {
           "title": "西安电子科技大学某导师官宣跑路，个人主页三连喊「我跑了」，可能是什么情况？反映了大学教育生态什么问题？",
@@ -408,11 +425,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 07时00分]"
         },
         {
           "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
@@ -422,8 +440,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 07时00分]"
         },
         {
           "title": "长鑫科技预计上半年净利超500亿元",
@@ -435,8 +453,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 07时00分]"
         },
         {
           "title": "2026年医保目录调整新增预申报，允许商保创新药申报医保目录",
@@ -471,7 +489,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -511,8 +529,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 07时00分]"
         },
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -522,8 +540,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 07时00分]"
         },
         {
           "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
@@ -532,11 +550,12 @@
           "ranks": [
             2,
             4,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 07时00分]"
         },
         {
           "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
@@ -546,21 +565,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时02分]"
-        },
-        {
-          "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
-          "url": "https://wallstreetcn.com/livenews/3104889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 07时00分]"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -570,8 +576,22 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 07时00分]"
+        },
+        {
+          "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
+          "url": "https://wallstreetcn.com/livenews/3104889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            12,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 07时00分]"
         },
         {
           "title": "博主：中国AI算力产业链正在全面腾飞",
@@ -580,7 +600,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -609,8 +629,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 07时00分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2038737314017432936",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 07时00分]"
         }
       ]
     },
@@ -626,8 +663,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 07时00分]"
         }
       ]
     },
@@ -640,11 +677,12 @@
           "url": "https://www.cls.cn/detail/2373077",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 07时00分]"
         }
       ]
     }
