@@ -1,183 +1,11 @@
 {
-  "generated_at": "2026-05-19T03:54:53.062624+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-05-19T05:20:10.724809+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "丁薛祥：算力是国家综合国力的重要体现，要统筹布局、有序建设",
-          "url": "https://www.cls.cn/detail/2374423",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时54分]"
-        },
-        {
-          "title": "国家统计局：4月份一线城市商品住宅销售价格环比上涨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33192383",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时54分]"
-        },
-        {
-          "title": "两部门对广西柳州市柳南区5.2级地震启动国家地震灾害四级应急响应，派出工作组指导工作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33192050",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时54分]"
-        },
-        {
-          "title": "美、布两油短线大幅跳水，现货金银快速拉升。特朗普称，应中东国家请求暂缓原定于明天进行的对伊朗的攻击。",
-          "url": "https://flash.jin10.com/detail/20260519030540752800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "伊朗总统：对话不意味投降，将全力捍卫国家尊严",
-          "url": "https://wallstreetcn.com/livenews/3105575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "“四常”国家元首相继访华为哪般",
-          "url": "https://www.toutiao.com/trending/7640963348221182006/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时54分]"
-        },
-        {
-          "title": "湖北武汉发布暴雨红色预警",
-          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E6%AD%A6%E6%B1%89%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时54分]"
-        },
-        {
-          "title": "“四常”国家元首为何相继访华",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%9B%9B%E5%B8%B8%E2%80%9D%E5%9B%BD%E5%AE%B6%E5%85%83%E9%A6%96%E4%B8%BA%E4%BD%95%E7%9B%B8%E7%BB%A7%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时54分]"
-        },
-        {
-          "title": "CNBC记者：美国官员表示，伊朗国家媒体关于美国同意在谈判期间解除石油制裁的报道是虚假的。",
-          "url": "https://wallstreetcn.com/livenews/3105528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "戴尔宣布与英伟达合作，推出一系列戴尔人工智能工厂的重大进展。",
-          "url": "https://flash.jin10.com/detail/20260519010108942800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "美国财政部发布与俄罗斯相关的通用许可。",
-          "url": "https://wallstreetcn.com/livenews/3105554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "专家：中国已成稳定与合作的引力场",
-          "url": "https://www.toutiao.com/trending/7640537089741832235/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "美国财长贝森特：此次延期将提供额外的灵活性，将与一些国家合作，根据需要提供具体许可证。该一般许可证将有助于稳定原油市场，确保石油能够到达最需要能源的国家。",
-          "url": "https://flash.jin10.com/detail/20260519003614430800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "美国财长贝森特：美国将发布一项为期30天的临时通用许可证，以允许暂时获取俄罗斯石油。",
-          "url": "https://flash.jin10.com/detail/20260519003450961800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：七国集团（G7）并没有考虑针对债券抛售采取协调行动，每个国家将针对自身市场形势做出回应。 需要针对汇率进行适当的应对。 投机交易是市场波动的一个因素。",
-          "url": "https://wallstreetcn.com/livenews/3105547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI恶意P图白嫖,卖家哭晕",
@@ -187,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 05时20分]"
         },
         {
           "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
@@ -198,19 +26,53 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 05时20分]"
+        },
+        {
+          "title": "马斯克：将针对美国陪审团的OpenAI判决结果向第九巡回法庭提出上诉。",
+          "url": "https://wallstreetcn.com/livenews/3105609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起",
           "url": "https://www.cls.cn/detail/2374303",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 05时20分]"
+        },
+        {
+          "title": "马斯克：（关于OpenAI 裁决）法官和陪审团实际上从未对案件的是非曲直做出裁决，只是针对日程上的一个技术性问题进行了裁定。",
+          "url": "https://flash.jin10.com/detail/20260519044502123800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "马斯克：（关于OpenAI 裁决）我将向第九巡回法院提出上诉。",
+          "url": "https://flash.jin10.com/detail/20260519044208799800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "戴尔AI服务器新增1,000家客户，全力进军企业级用户市场",
@@ -257,6 +119,17 @@
           "time_info": "01时34分"
         },
         {
+          "title": "马斯克：（关于OpenAI 裁决）奥克兰法官的裁决创造了可怕的先例。",
+          "url": "https://flash.jin10.com/detail/20260519043702372800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
           "title": "戴尔：与英伟达合作的“AI工厂”在技术上取得进展，涵盖代理式人工智能、数据编排、下一代基础设施以及不断扩展的开放生态系统。",
           "url": "https://flash.jin10.com/detail/20260519010809536800",
           "source": "金十数据",
@@ -274,9 +147,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "Gradiant宣布完成E轮融资，公司估值达20亿美元，助力加快AI、半导体以及工业水务基建领域布局。 随着Gradiant依托AI基建和先进制造业务实现业绩大幅增长，新资金将用于支持战略性并购、新一代技术研发以及上市筹备工作。",
+          "url": "https://wallstreetcn.com/livenews/3105584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "马斯克起诉Altman案败诉，强制OpenAI重组的企图落空",
@@ -285,7 +169,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -296,7 +180,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -307,7 +191,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -325,8 +209,203 @@
       ]
     },
     {
+      "keyword_group": "国家 改革 政策 发布 合作",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "丁薛祥：算力是国家综合国力的重要体现，要统筹布局、有序建设",
+          "url": "https://www.cls.cn/detail/2374423",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 05时20分]"
+        },
+        {
+          "title": "国家统计局：4月份一线城市商品住宅销售价格环比上涨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33192383",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 05时20分]"
+        },
+        {
+          "title": "两部门对广西柳州市柳南区5.2级地震启动国家地震灾害四级应急响应，派出工作组指导工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33192050",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 05时20分]"
+        },
+        {
+          "title": "美国国务院：正与美国疾控中心及军方密切合作，根据评估的接触风险和健康需求，制定可能受埃博拉病毒影响的美国公民的撤侨方案。",
+          "url": "https://flash.jin10.com/detail/20260519045438783800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "美、布两油短线大幅跳水，现货金银快速拉升。特朗普称，应中东国家请求暂缓原定于明天进行的对伊朗的攻击。",
+          "url": "https://flash.jin10.com/detail/20260519030540752800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "伊朗总统：对话不意味投降，将全力捍卫国家尊严",
+          "url": "https://wallstreetcn.com/livenews/3105575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "辉立证券日本研究部主管Kazuhiro Sasaki表示：投资者（对日本财政问题）的担忧根深蒂固，人们担心，如果政府发布补充预算，财政状况可能会恶化。",
+          "url": "https://wallstreetcn.com/livenews/3105608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "“四常”国家元首相继访华为哪般",
+          "url": "https://www.toutiao.com/trending/7640963348221182006/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 05时20分]"
+        },
+        {
+          "title": "湖北武汉发布暴雨红色预警",
+          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E6%AD%A6%E6%B1%89%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 05时20分]"
+        },
+        {
+          "title": "“四常”国家元首为何相继访华",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%9B%9B%E5%B8%B8%E2%80%9D%E5%9B%BD%E5%AE%B6%E5%85%83%E9%A6%96%E4%B8%BA%E4%BD%95%E7%9B%B8%E7%BB%A7%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 05时20分]"
+        },
+        {
+          "title": "CNBC记者：美国官员表示，伊朗国家媒体关于美国同意在谈判期间解除石油制裁的报道是虚假的。",
+          "url": "https://wallstreetcn.com/livenews/3105528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "戴尔宣布与英伟达合作，推出一系列戴尔人工智能工厂的重大进展。",
+          "url": "https://flash.jin10.com/detail/20260519010108942800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "美国财政部发布与俄罗斯相关的通用许可。",
+          "url": "https://wallstreetcn.com/livenews/3105554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "专家：中国已成稳定与合作的引力场",
+          "url": "https://www.toutiao.com/trending/7640537089741832235/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "美国财长贝森特：此次延期将提供额外的灵活性，将与一些国家合作，根据需要提供具体许可证。该一般许可证将有助于稳定原油市场，确保石油能够到达最需要能源的国家。",
+          "url": "https://flash.jin10.com/detail/20260519003614430800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "美国财长贝森特：美国将发布一项为期30天的临时通用许可证，以允许暂时获取俄罗斯石油。",
+          "url": "https://flash.jin10.com/detail/20260519003450961800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：七国集团（G7）并没有考虑针对债券抛售采取协调行动，每个国家将针对自身市场形势做出回应。 需要针对汇率进行适当的应对。 投机交易是市场波动的一个因素。",
+          "url": "https://wallstreetcn.com/livenews/3105547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "国际 外交 战争",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "外交部回应特朗普涉台表态",
@@ -336,8 +415,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 05时20分]"
         },
         {
           "title": "外交部介绍普京访华相关安排",
@@ -347,8 +426,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 05时20分]"
         },
         {
           "title": "国际铜夜盘收涨0.50%，沪铜收涨0.51%，沪铝收涨0.48%，沪锌收跌0.06%，沪铅收涨0.24%，沪镍收涨0.42%，沪锡收涨0.98%。 氧化铝夜盘收跌1.02%，铝合金收涨0.59%。 不锈钢夜盘收跌0.71%。",
@@ -380,7 +459,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -394,6 +473,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "【伊朗最高领袖重申将考虑开辟新战线】伊朗最高领袖穆杰塔巴·哈梅内伊的社交媒体账号18日再次摘发其上任后首份声明，重申将考虑在敌人不擅长的领域开辟新战线。声明说，关于开辟其他战线的问题，相关研究已经完成，“敌人在这些领域经验极少且极度脆弱”。声明表示，如果“战争状态”持续，伊朗将开辟这些新战线。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3105597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "美国3月国际资本净流入 1507亿美元，前值 1845亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3105590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "美伊战争加剧通胀，投资者蜂拥挤入大宗商品ETF",
@@ -416,34 +517,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "黎巴嫩总统：将“竭尽所能”制止以色列对黎战争",
+          "url": "https://wallstreetcn.com/livenews/3105583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         }
       ]
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "【每日收评】三大指数缩量整理小幅收跌，科技股有所回暖，存储芯片、机器人概念反复活跃",
           "url": "https://www.cls.cn/detail/2374260",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 05时20分]"
         },
         {
           "title": "杭州公司推宠物翻译神器，大模型 + 超 500 万条声纹数据，号称准确率 94%，是真突破还是智商税？",
           "url": "https://www.zhihu.com/question/2039331976692200758",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 05时20分]"
         },
         {
           "title": "科技大佬Gavin Baker：亚马逊芯片是黑马，太空数据中心快来了，台积电在帮所有人避泡沫",
@@ -454,8 +568,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 05时20分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.21%，报25558点。 恒生科技指数主连夜盘收跌0.58%，报4817点。",
@@ -464,7 +578,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -486,7 +600,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -497,9 +611,114 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "标普500指数的11个板块多数收涨，能源板块涨1.81%，日用消费品、金融、房地产板块至少涨1.14%，工业板块则收跌0.42%，信息技术/科技板块跌0.97%。",
+          "url": "https://wallstreetcn.com/livenews/3105593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.72%，报6790.67点。 热门中概股里，理想初步收跌9.8%，日月光半导体跌6.6%，蔚来、小鹏跌超3%，阿里巴巴涨0.5%，小米涨1.4%，百度涨1.8%。 ETF中，中概互联网指数ETF（KWEB）收跌0.39%，中国科技指数ETF（CQQQ）收涨0.54%。 德银嘉实沪深300指数ETF（ASHR）收跌0.45%，MSCI新兴市场ex中国ETF（EMXC）收跌0.05%，XtrackersHarvest中证50（ASHS）收涨0.06%。",
+          "url": "https://wallstreetcn.com/livenews/3105589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "标普500指数收跌5.45点，跌幅0.07%，报7403.05点。 道琼斯工业平均指数收涨159.95点，涨幅0.32%，报49686.12点。 纳斯达克综合指数（纳指）收跌134.411点，跌幅0.51%，报26090.734点。 纳斯达克100指数收跌130.832点，跌幅0.45%，报28994.368点。 纳斯达克科技市值加权指数收跌0.93%，报2806.6477点。 费城半导体指数收跌2.47%，报11302.516点。 费城证交所KBW银行指数收涨0.68%，报163.90点。 道琼斯KBW地区银行指数收涨1.45%，报131.80点。 罗素2000指数收跌0.65%，报2775.102点。 纳斯达克生物科技指数收跌1.85%，报5717.60点。 标普中盘股400指数收跌0.16%，纳斯达克美国中等市值指数涨0.19%。 恐慌指数VIX收跌3.36%，报17.81。",
+          "url": "https://wallstreetcn.com/livenews/3105587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 美元",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美元指数18日下跌",
+          "url": "https://flash.jin10.com/detail/20260519045712884800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "美元指数重新跌超0.3%",
+          "url": "https://wallstreetcn.com/livenews/3105573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "周一（5月18日），美股AI软件先驱指数涨1.76%，报107.43点。 15只成分股普遍收涨，ServiceNOW涨8.78%，ESTC涨6.54%，GitLab涨6.04%，MongoDB、HubSpot、ServiceNOW、Salesforce、Adobe、C3.ai至少涨1.16%，铿腾电子、新思科技则至多收跌0.79%，甲骨文跌3.29%。",
+          "url": "https://wallstreetcn.com/livenews/3105605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "周一（5月18日），美股信息科技指数收跌2.77%，报374.24点。 成分股Credo科技集团控股收跌9.24%，Nebius集团跌9.13%，Lumentum控股跌8.83%，Ondas Inc.跌8.66%，应用数字公司跌8.04%，Astera Labs跌7.35%，康宁公司跌6.91%，Rigetti计算跌6.89%，希捷科技跌6.87%，D-Wave Quantum跌6.34%，美光科技跌5.95%跌幅第十一大。 Adobe则收涨3.25%表现第九，Salesforce涨3.44%，CrowdStrike涨4.17%，Snowflake涨4.30%，摩托罗拉解决方案（MSI）涨4.32%，埃森哲涨5.17%，MongoDB涨5.72%，FICO涨7.58%，ServiceNOW涨8.87%领跑。",
+          "url": "https://wallstreetcn.com/livenews/3105603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "周一（5月18日），美股存储芯片与硬件供应链指数跌5.25%，报172.53点。 成分股全线溃败，希捷科技跌6.87%，美光科技跌5.95%，Sandisk跌5.30%，应用材料跌5.28%，泰瑞达跌4.98%，西部数据跌4.84%，Rambus跌2.59%，拉姆研究跌2.37%。",
+          "url": "https://wallstreetcn.com/livenews/3105599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周一（5月18日），美国科技股七巨头（Magnificent 7）指数跌0.57%，报225.86点。 “超大”市值科技股指数跌0.54%，报447.23点。",
+          "url": "https://wallstreetcn.com/livenews/3105598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         }
       ]
     },
@@ -515,8 +734,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 05时20分]"
         },
         {
           "title": "广西一官方号发“套圈美女游戏”视频引争议",
@@ -526,8 +745,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 05时20分]"
         },
         {
           "title": "黄仁勋：预计内存需求将超过产能",
@@ -536,7 +755,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -547,16 +766,66 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "keyword_group": "github 技术 行业 软件",
+      "match_count": 3,
       "titles": [
+        {
+          "title": "中国4月规模以上工业增加值同比增长4.1%，装备和高技术制造业增长较快，集成电路产量增长22.1%",
+          "url": "https://wallstreetcn.com/articles/3772480",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 05时20分]"
+        },
+        {
+          "title": "医药行业合规整治再加码",
+          "url": "https://www.toutiao.com/trending/7641159062533029907/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 05时20分]"
+        },
+        {
+          "title": "美股行业ETF涨跌各异，能源业ETF涨约1.9%，半导体ETF跌超1.8%",
+          "url": "https://wallstreetcn.com/livenews/3105594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周一（5月18日），美股人工智能（AI）赢家指数跌3.21%，报377.39点。 成分股Nebius集团收跌9.13%，摩丁制造MOD跌8.90%，Lumentum跌8.83%跌幅第三大，康宁公司、美光科技进入跌幅前十大，在收涨的七只成分股中，谷歌A、亚马逊涨幅最小，微软涨0.38%，Palantir涨0.86%，Arm控股涨2.85%。",
+          "url": "https://wallstreetcn.com/livenews/3105604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
         {
           "title": "戴尔：谷歌与戴尔合作，在戴尔PowerEdge XE9780服务器上通过谷歌分布式云推出Gemini 3闪存模型。",
           "url": "https://flash.jin10.com/detail/20260519010215789800",
@@ -567,40 +836,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数重新跌超0.3%",
-          "url": "https://wallstreetcn.com/livenews/3105573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "github 技术 行业 软件",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国4月规模以上工业增加值同比增长4.1%，装备和高技术制造业增长较快，集成电路产量增长22.1%",
-          "url": "https://wallstreetcn.com/articles/3772480",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时54分]"
         }
       ]
     }
