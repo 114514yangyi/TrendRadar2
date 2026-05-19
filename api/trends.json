@@ -1,11 +1,260 @@
 {
-  "generated_at": "2026-05-20T03:08:31.622159+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-05-20T05:27:31.469908+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "英伟达(NVDA.O)：与谷歌云助力下一波人工智能开发者。",
+          "url": "https://flash.jin10.com/detail/20260520043717324800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2375879",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时27分]"
+        },
+        {
+          "title": "谷歌发布Gemini for science，来帮助研究",
+          "url": "https://wallstreetcn.com/livenews/3106216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "谷歌高管坚持其“登月级”清洁能源愿景绝不动摇",
+          "url": "https://wallstreetcn.com/livenews/3106253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
+          "url": "https://wallstreetcn.com/articles/3772609",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "谷歌人工智能负责人宣布推出面向科学的研究导向型Gemini。",
+          "url": "https://flash.jin10.com/detail/20260520024925231800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "市场消息：谷歌首款音频眼镜将于秋季上市。",
+          "url": "https://flash.jin10.com/detail/20260520024715957800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "谷歌面向AI时代彻底重构搜索，并重磅发布系列编程工具",
+          "url": "https://wallstreetcn.com/livenews/3106214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "英伟达：与谷歌云助力下一波人工智能开发者。",
+          "url": "https://wallstreetcn.com/livenews/3106251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "谷歌高管Shahram Izadi讨论智能眼镜称，“我们来聊聊今年有哪些新品上市”。 他逐一盘点了将于今年秋季出货的Warby Parker和Gentle Monster联名款智能音频眼镜。 “而且没错，它们可以完美适配 Android 和 iOS 两大系统的设备。” 对于如何称呼这类智能眼镜，谷歌和三星似乎已经达成了共识，给出了它们最中意的官方定义：“智能眼镜”（Intelligent Eyewear）。",
+          "url": "https://wallstreetcn.com/livenews/3106212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "谷歌展示Google Flow Music。",
+          "url": "https://wallstreetcn.com/livenews/3106211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "谷歌Gemini：新的语音功能和 Gemini Spark 将于今夏在 macOS 的 Gemini 应用上推出。",
+          "url": "https://flash.jin10.com/detail/20260520022605113800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "谷歌公司将根据许可协议招聘AI初创公司Contextual的员工。",
+          "url": "https://wallstreetcn.com/livenews/3106205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "谷歌Gemini：上个月我们发布了适用于macOS的Gemini应用。在接下来的几周里，我们将把 Gemini Spar 引入Gemini 桌面应用，以帮助处理本地文件整理或将PDF数据直接提取到Google Sheets中。",
+          "url": "https://flash.jin10.com/detail/20260520022256133800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "谷歌发布通用购物车Universal Intelligent Shopping Cart，今年夏季将在美国推出。 将出现在搜索与Gemini APP。",
+          "url": "https://wallstreetcn.com/livenews/3106204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "谷歌公司将在美国面向AI Ultra订阅用户推出Gemini Spark测试版。",
+          "url": "https://wallstreetcn.com/livenews/3106203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini Omni 今天将上线 Gemini应用，面向付费用户。用户可以通过任意组合的文本、图片和视频输入来实现创意。只需打开 Gemini，从相册中附加一个视频，然后进行修改。就是这么简单。",
+          "url": "https://flash.jin10.com/detail/20260520021523065800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "谷歌母公司Alphabet的投资者们在谷歌广告诉讼中获得集体诉讼地位。（彭博法律Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3106144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "谷歌新增Android Vibe编程支持到Google AI Studio。",
+          "url": "https://wallstreetcn.com/livenews/3106201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "沃比·帕克（warby Parker）股价上涨2.7%，此前该公司与谷歌及三星达成合作，联手开发智能眼镜。",
+          "url": "https://wallstreetcn.com/livenews/3106200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "谷歌I/O大会要点总结",
+          "url": "https://wallstreetcn.com/livenews/3106229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "谷歌发布Gemini 3.5系列模型",
+          "url": "https://wallstreetcn.com/livenews/3106192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "泰国取消60天免签政策",
@@ -16,8 +265,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时27分]"
         },
         {
           "title": "Polymarket达成数据合作，发力深耕私人市场预测业务",
@@ -42,6 +291,19 @@
           "time_info": "00时28分"
         },
         {
+          "title": "泰国内阁决定取消60天免签政策，恢复为免签入境30天左右",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33199720",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时27分]"
+        },
+        {
           "title": "泰国内阁决定取消60天免签政策",
           "url": "https://www.toutiao.com/trending/7640490810502922259/",
           "source": "今日头条",
@@ -49,20 +311,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时08分]"
-        },
-        {
-          "title": "泰国内阁决定取消60天免签政策，恢复为免签入境30天左右",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33199720",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时27分]"
         },
         {
           "title": "电影《监狱来的妈妈》引争议，国家电影局回应",
@@ -72,8 +322,31 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时27分]"
+        },
+        {
+          "title": "泰国内阁决定取消60天免签政策",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%86%85%E9%98%81%E5%86%B3%E5%AE%9A%E5%8F%96%E6%B6%8860%E5%A4%A9%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时08分]"
+          "time_info": "[00时28分 ~ 05时27分]"
+        },
+        {
+          "title": "突发！900亿芯片股遭国家大基金减持|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2375836",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 05时27分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.3%，报382.79点。 在十个板块中，北欧金融板块涨幅最大。 Evolution AB涨7.3%，在一众北欧个股里表现最佳。",
@@ -98,26 +371,15 @@
           "time_info": "00时28分"
         },
         {
-          "title": "泰国内阁决定取消60天免签政策",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%86%85%E9%98%81%E5%86%B3%E5%AE%9A%E5%8F%96%E6%B6%8860%E5%A4%A9%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96",
-          "source": "百度热搜",
+          "title": "美国电网运营商PJM Interconnection LLC.针对5月20日发布最大化发电应急/负荷管理警告。",
+          "url": "https://wallstreetcn.com/livenews/3106250",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "突发！900亿芯片股遭国家大基金减持|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2375836",
-          "source": "财联社热门",
-          "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "05时27分"
         },
         {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：很明显，伊朗正崛起成为一个强大而有影响力的国家。",
@@ -153,6 +415,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "武汉市联合调查组发布情况通报",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%B8%82%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%E5%8F%91%E5%B8%83%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：实现人口增长是有必要的，通过坚定推行正确的人口增长政策，伊朗民族将能够在未来发挥重要作用，实现战略性的飞跃，并为创建伊朗新文明迈出坚实步伐。",
           "url": "https://flash.jin10.com/detail/20260519233458115800",
           "source": "金十数据",
@@ -162,6 +435,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3106244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         },
         {
           "title": "澳门公布“三五”规划咨询文本 对接国家“十五五”谋划发展蓝图",
@@ -203,7 +487,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -221,213 +505,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2375879",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时08分]"
-        },
-        {
-          "title": "谷歌发布Gemini for science，来帮助研究",
-          "url": "https://wallstreetcn.com/livenews/3106216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
-          "url": "https://wallstreetcn.com/articles/3772609",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "谷歌人工智能负责人宣布推出面向科学的研究导向型Gemini。",
-          "url": "https://flash.jin10.com/detail/20260520024925231800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "市场消息：谷歌首款音频眼镜将于秋季上市。",
-          "url": "https://flash.jin10.com/detail/20260520024715957800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "谷歌面向AI时代彻底重构搜索，并重磅发布系列编程工具",
-          "url": "https://wallstreetcn.com/livenews/3106214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "谷歌高管Shahram Izadi讨论智能眼镜称，“我们来聊聊今年有哪些新品上市”。 他逐一盘点了将于今年秋季出货的Warby Parker和Gentle Monster联名款智能音频眼镜。 “而且没错，它们可以完美适配 Android 和 iOS 两大系统的设备。” 对于如何称呼这类智能眼镜，谷歌和三星似乎已经达成了共识，给出了它们最中意的官方定义：“智能眼镜”（Intelligent Eyewear）。",
-          "url": "https://wallstreetcn.com/livenews/3106212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "谷歌展示Google Flow Music。",
-          "url": "https://wallstreetcn.com/livenews/3106211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "谷歌Gemini：新的语音功能和 Gemini Spark 将于今夏在 macOS 的 Gemini 应用上推出。",
-          "url": "https://flash.jin10.com/detail/20260520022605113800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "谷歌公司将根据许可协议招聘AI初创公司Contextual的员工。",
-          "url": "https://wallstreetcn.com/livenews/3106205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "谷歌Gemini：上个月我们发布了适用于macOS的Gemini应用。在接下来的几周里，我们将把 Gemini Spar 引入Gemini 桌面应用，以帮助处理本地文件整理或将PDF数据直接提取到Google Sheets中。",
-          "url": "https://flash.jin10.com/detail/20260520022256133800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "谷歌发布通用购物车Universal Intelligent Shopping Cart，今年夏季将在美国推出。 将出现在搜索与Gemini APP。",
-          "url": "https://wallstreetcn.com/livenews/3106204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "谷歌公司将在美国面向AI Ultra订阅用户推出Gemini Spark测试版。",
-          "url": "https://wallstreetcn.com/livenews/3106203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini Omni 今天将上线 Gemini应用，面向付费用户。用户可以通过任意组合的文本、图片和视频输入来实现创意。只需打开 Gemini，从相册中附加一个视频，然后进行修改。就是这么简单。",
-          "url": "https://flash.jin10.com/detail/20260520021523065800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "谷歌母公司Alphabet的投资者们在谷歌广告诉讼中获得集体诉讼地位。（彭博法律Blaw）",
-          "url": "https://wallstreetcn.com/livenews/3106144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "谷歌新增Android Vibe编程支持到Google AI Studio。",
-          "url": "https://wallstreetcn.com/livenews/3106201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "沃比·帕克（warby Parker）股价上涨2.7%，此前该公司与谷歌及三星达成合作，联手开发智能眼镜。",
-          "url": "https://wallstreetcn.com/livenews/3106200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "谷歌发布Gemini 3.5系列模型",
-          "url": "https://wallstreetcn.com/livenews/3106192",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
@@ -438,8 +517,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时27分]"
         },
         {
           "title": "AI抢爆CPU产能！英特尔被传敦促PC厂商转用18A高端芯片",
@@ -468,11 +547,12 @@
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 05时27分]"
         },
         {
           "title": "【焦点复盘】沪指企稳反弹涨近1%，物理AI概念活跃不减，Token经济产业链热度扩散",
@@ -483,8 +563,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时27分]"
         },
         {
           "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
@@ -495,8 +575,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时27分]"
         },
         {
           "title": "DeepSeek：特殊字符引发模型幻觉，不涉及安全问题或隐私泄露",
@@ -506,8 +586,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时27分]"
         },
         {
           "title": "赢!米哈游携千亿进军AI行业",
@@ -517,8 +597,30 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时27分]"
+        },
+        {
+          "title": "莫奈钓出嘉豪哥,真迹变AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354399&amp;topic_name=%E8%8E%AB%E5%A5%88%E9%92%93%E5%87%BA%E5%98%89%E8%B1%AA%E5%93%A5%2C%E7%9C%9F%E8%BF%B9%E5%8F%98AI",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时27分]"
+        },
+        {
+          "title": "AI恶意P图白嫖,卖家哭晕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354385&amp;topic_name=AI%E6%81%B6%E6%84%8FP%E5%9B%BE%E7%99%BD%E5%AB%96%2C%E5%8D%96%E5%AE%B6%E5%93%AD%E6%99%95",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时27分]"
         },
         {
           "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
@@ -532,32 +634,43 @@
           "time_info": "[00时28分 ~ 03时08分]"
         },
         {
-          "title": "莫奈钓出嘉豪哥,真迹变AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354399&amp;topic_name=%E8%8E%AB%E5%A5%88%E9%92%93%E5%87%BA%E5%98%89%E8%B1%AA%E5%93%A5%2C%E7%9C%9F%E8%BF%B9%E5%8F%98AI",
-          "source": "贴吧",
+          "title": "中专生花10天手搓AI短片火遍全网",
+          "url": "https://www.toutiao.com/trending/7640988449969864731/",
+          "source": "今日头条",
           "ranks": [
-            16
+            25
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         },
         {
-          "title": "AI恶意P图白嫖,卖家哭晕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354385&amp;topic_name=AI%E6%81%B6%E6%84%8FP%E5%9B%BE%E7%99%BD%E5%AB%96%2C%E5%8D%96%E5%AE%B6%E5%93%AD%E6%99%95",
-          "source": "贴吧",
+          "title": "xAI允许在OpenClaw中使用Grok。",
+          "url": "https://wallstreetcn.com/livenews/3106232",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            26
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "OpenAI 推出“保证算力容量”服务，打响锁定长期客户续约战",
+          "url": "https://wallstreetcn.com/livenews/3106231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         }
       ]
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "大外交丨特殊历史节点的第25次访华，普京在中俄关系的“播种好时节”来访",
@@ -567,8 +680,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时27分]"
         },
         {
           "title": "一无人机在黑海击中了一艘中国货船？外交部回应",
@@ -578,8 +691,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时27分]"
         },
         {
           "title": "外交部回应菲律宾总统马科斯涉台言论",
@@ -587,11 +700,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时27分]"
         },
         {
           "title": "首都国际机场高速两侧挂起中俄国旗",
@@ -602,8 +716,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时27分]"
         },
         {
           "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
@@ -614,8 +728,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时27分]"
+        },
+        {
+          "title": "欧洲央行管委科赫尔：如果伊朗战争局面没有改善，预计将在6月加息。",
+          "url": "https://flash.jin10.com/detail/20260520041238784800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         },
         {
           "title": "美国副总统万斯：无论总统特朗普作何决定，伊朗战争都不可能永远持续下去。",
@@ -624,15 +749,26 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "欧洲央行管委Kocher：如果伊朗战争局势没有改善，6月可能不得不加息",
+          "url": "https://wallstreetcn.com/livenews/3106242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         }
       ]
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -642,8 +778,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时27分]"
         },
         {
           "title": "方岱宁院士逝世，享年 68 岁，你对他的成果和经历有哪些印象？",
@@ -653,8 +789,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时27分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.40%，报25603点。 恒生科技指数主连夜盘收跌0.08%，报4851点。",
@@ -663,7 +799,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -675,14 +811,86 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时27分]"
+        },
+        {
+          "title": "标普500指数的11个板块涨跌各异，原材料板块收跌2.27%，电信、可选消费、金融、工业板块至多跌1.58%，信息技术/科技板块跌0.71%跌幅最小，能源板块则收涨1.03%。",
+          "url": "https://wallstreetcn.com/livenews/3106243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "标普500指数收跌49.44点，跌幅0.67%，报7353.61点。 道琼斯工业平均指数收跌322.24点，跌幅0.65%，报49363.88点。 纳斯达克综合指数（纳指）收跌220.024点，跌幅0.84%，报25870.71点。 纳斯达克100指数收跌175.524点，跌幅0.61%，报28818.844点。 纳斯达克科技市值加权指数收跌0.81%，报2783.99点。 费城半导体指数收涨0.03%，报11305.495点。 费城证交所KBW银行指数收跌0.84%，报162.52点。 道琼斯KBW地区银行指数收跌0.51%，报131.12点。 罗素2000指数收跌1.01%，报2747.074点。 纳斯达克生物科技指数收涨0.04%，报5719.92点。 标普中盘股400指数收跌0.96%，纳斯达克美国中等市值指数跌0.74%。 恐慌指数VIX收涨1.40%，报18.07。",
+          "url": "https://wallstreetcn.com/livenews/3106235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "周二（5月19日）纽约尾盘，彭博谷物分类指数跌0.14%，报32.8808点，北京时间14:45涨至33.3410点刷新日高，随后逐步下挫。 CBOT玉米期货跌0.37%，CBOT小麦期货涨0.53%。 CBOT大豆期货跌0.23%，报12.1025美元/蒲式耳，豆粕期货跌0.66%，豆油期货跌0.34%。",
+          "url": "https://wallstreetcn.com/livenews/3106221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "周二（5月19日），美股行业ETF多数收跌，航空业ETF收跌2.90%，金融业ETF、网络股指数ETF、可选消费ETF跌1.11%，半导体ETF跌0.4%，医疗业ETF涨1.1%，能源业ETF涨1.17%。",
+          "url": "https://wallstreetcn.com/livenews/3106247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "周二（5月19日），彭博电动汽车价格回报指数跌1.94%，报3843.70点。 北京时间09:45开始一波加速下跌的行情，美股开盘再次加速下跌。",
+          "url": "https://wallstreetcn.com/livenews/3106240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "彭博美元指数涨超0.3%",
+          "url": "https://wallstreetcn.com/livenews/3106228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         }
       ]
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国又一行业全球爆单",
@@ -693,8 +901,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时27分]"
         },
         {
           "title": "历史上首次！芯片股与软件股关联度跌入负值区间",
@@ -703,9 +911,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "行业周报：美国上周API原油库存骤降超900万桶",
+          "url": "https://wallstreetcn.com/livenews/3106249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         },
         {
           "title": "根据行业组织Unicon的估计，高管教育项目市场未来十年规模预计将超过12亿美元。",
@@ -714,24 +933,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周二（5月19日）纽约尾盘，彭博谷物分类指数跌0.14%，报32.8808点，北京时间14:45涨至33.3410点刷新日高，随后逐步下挫。 CBOT玉米期货跌0.37%，CBOT小麦期货涨0.53%。 CBOT大豆期货跌0.23%，报12.1025美元/蒲式耳，豆粕期货跌0.66%，豆油期货跌0.34%。",
-          "url": "https://wallstreetcn.com/livenews/3106221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         }
@@ -749,8 +951,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时27分]"
         }
       ]
     }
