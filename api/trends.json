@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T03:04:48.529148+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-05-22T05:43:09.468820+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
         },
         {
           "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
         },
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
         },
         {
           "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
@@ -49,30 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
-        },
-        {
-          "title": "报道：OpenAI在第一季度创造57亿美元收入",
-          "url": "https://wallstreetcn.com/livenews/3107589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "据The Information：Anthropic的年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
-          "url": "https://flash.jin10.com/detail/20260522022949905800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时04分"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
         },
         {
           "title": "涨停封单最高超百亿元！京东方A签约康宁搅动AI封装产业链",
@@ -82,8 +60,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
+        },
+        {
+          "title": "报道：OpenAI在第一季度创造57亿美元收入",
+          "url": "https://wallstreetcn.com/livenews/3107589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
         },
         {
           "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
@@ -94,8 +83,45 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
+        },
+        {
+          "title": "据The Information：Anthropic的年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
+          "url": "https://flash.jin10.com/detail/20260522022949905800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
+          "url": "https://wallstreetcn.com/articles/3772780",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
+        },
+        {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            27,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
         },
         {
           "title": "不小心把DeepSeek叫成豆包",
@@ -111,28 +137,16 @@
           "time_info": "[00时20分 ~ 03时04分]"
         },
         {
-          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
-          "url": "https://wallstreetcn.com/articles/3772780",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
-        },
-        {
-          "title": "AI还原祖国人注射V1后的战斗力",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
-          "source": "bilibili 热搜",
+          "title": "Anthropic 被曝 300 亿美元融资，投前估值超 9000 亿，AI 泡沫到底有没有天花板？",
+          "url": "https://www.zhihu.com/question/2037993874522629479",
+          "source": "知乎",
           "ranks": [
             17,
-            27
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
+          "time_info": "[03时04分 ~ 05时43分]"
         },
         {
           "title": "为什么搞AI的赚不过卖存储的",
@@ -152,7 +166,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
         },
@@ -174,7 +188,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
         },
@@ -185,18 +199,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "Anthropic 被曝 300 亿美元融资，投前估值超 9000 亿，AI 泡沫到底有没有天花板？",
-          "url": "https://www.zhihu.com/question/2037993874522629479",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
         },
@@ -207,7 +210,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
         },
@@ -248,7 +251,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "如何看待 5 月 21 日小米发布的 YU7 GT 及 YU7 标准版，有哪些亮点与不足？",
@@ -259,8 +262,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
         },
         {
           "title": "小米YU7 GT正式发布 售价38.99万元",
@@ -270,8 +273,80 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
+        },
+        {
+          "title": "小米发布首款耳夹式耳机 首销价799元",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E8%80%B3%E5%A4%B9%E5%BC%8F%E8%80%B3%E6%9C%BA+%E9%A6%96%E9%94%80%E4%BB%B7799%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
+        },
+        {
+          "title": "普京访华24小时丨行程高效紧凑，中俄迈向更高质量务实合作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204657",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
+        },
+        {
+          "title": "小米新品发布会",
+          "url": "https://www.douyin.com/hot/2507460",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
+        },
+        {
+          "title": "别练了再练进国家队怎么办",
+          "url": "https://www.douyin.com/hot/2507063",
+          "source": "抖音",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
+        },
+        {
+          "title": "小米17 Max发布 售价4799元起",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B317+Max%E5%8F%91%E5%B8%83+%E5%94%AE%E4%BB%B74799%E5%85%83%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
+        },
+        {
+          "title": "半年之内，u17/u23 两支国家队接连冲入亚洲杯决赛，这个结果说明我们的青训做对了什么？",
+          "url": "https://www.zhihu.com/question/2040374881741714131",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 05时43分]"
         },
         {
           "title": "小米发布首款耳夹式耳机",
@@ -286,61 +361,16 @@
           "time_info": "[00时20分 ~ 03时04分]"
         },
         {
-          "title": "普京访华24小时丨行程高效紧凑，中俄迈向更高质量务实合作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204657",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
-        },
-        {
-          "title": "小米新品发布会",
-          "url": "https://www.douyin.com/hot/2507460",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
-        },
-        {
-          "title": "小米发布首款耳夹式耳机 首销价799元",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E8%80%B3%E5%A4%B9%E5%BC%8F%E8%80%B3%E6%9C%BA+%E9%A6%96%E9%94%80%E4%BB%B7799%E5%85%83",
+          "title": "小米YU7新标准版发布 23.35万元起售",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3YU7%E6%96%B0%E6%A0%87%E5%87%86%E7%89%88%E5%8F%91%E5%B8%83+23.35%E4%B8%87%E5%85%83%E8%B5%B7%E5%94%AE",
           "source": "百度热搜",
           "ranks": [
-            17
+            28,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
-        },
-        {
-          "title": "别练了再练进国家队怎么办",
-          "url": "https://www.douyin.com/hot/2507063",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
-        },
-        {
-          "title": "小米17 Max发布 售价4799元起",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B317+Max%E5%8F%91%E5%B8%83+%E5%94%AE%E4%BB%B74799%E5%85%83%E8%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
+          "time_info": "[03时04分 ~ 05时43分]"
         },
         {
           "title": "战锤颅骨节发布会",
@@ -348,17 +378,6 @@
           "source": "bilibili 热搜",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
-        },
-        {
-          "title": "半年之内，u17/u23 两支国家队接连冲入亚洲杯决赛，这个结果说明我们的青训做对了什么？",
-          "url": "https://www.zhihu.com/question/2040374881741714131",
-          "source": "知乎",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -385,6 +404,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "土耳其主要反对派领袖厄泽尔表示，其所在政党和国家都不会向此次“政变”屈服。",
+          "url": "https://flash.jin10.com/detail/20260522043949751800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         },
         {
           "title": "据日经新闻：川崎重工将与英伟达合作开展物理人工智能，并在美国开设机器人中心。英伟达的仿真技术将应用于川崎重工的Corleo。除了英伟达，川崎重工将与微软和富士通在美国中心合作。川崎重工与英伟达的合作将初步聚焦于医疗和移动领域。",
@@ -415,18 +445,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "小米YU7新标准版发布 23.35万元起售",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3YU7%E6%96%B0%E6%A0%87%E5%87%86%E7%89%88%E5%8F%91%E5%B8%83+23.35%E4%B8%87%E5%85%83%E8%B5%B7%E5%94%AE",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
         },
@@ -445,7 +464,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美副防长能否访华与特朗普如何处理对台军售挂钩？外交部回应",
@@ -455,8 +474,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
         },
         {
           "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
@@ -467,8 +486,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
+        },
+        {
+          "title": "消息人士称，美国国土安全部部长马林警告航空公司高管，特朗普政府可能暂停部分“庇护城市”机场的国际旅行处理服务。",
+          "url": "https://flash.jin10.com/detail/20260522053538980800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         },
         {
           "title": "对于美国起诉劳尔·卡斯特罗，外交部说了3个“反对”2个“停止”",
@@ -478,8 +508,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
         },
         {
           "title": "中国领导人可能访问朝鲜？外交部回应",
@@ -487,11 +517,12 @@
           "source": "今日头条",
           "ranks": [
             15,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
         },
         {
           "title": "特朗普称将与赖清德就对台军售交谈，外交部回应",
@@ -502,19 +533,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
         },
         {
           "title": "外交部介绍夏巴兹访华有关情况",
           "url": "https://www.douyin.com/hot/2507173",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 05时43分]"
         },
         {
           "title": "外交部回应“特朗普将与赖清德交谈”",
@@ -556,7 +588,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
         },
@@ -567,7 +599,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
         },
@@ -578,15 +610,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "国际油价21日下跌",
+          "url": "https://flash.jin10.com/detail/20260522040856863800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         }
       ]
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "A股放量回调，小作文惹祸？多家基金公司一线解读：高位科技兑现与海外利率扰动是主因",
@@ -596,8 +639,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
         },
         {
           "title": "砺算科技 7g100 国产显卡开启预约，12GB 售 3299 元，其市场竞争力如何？",
@@ -605,11 +648,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
         },
         {
           "title": "投了长鑫科技 合肥赚了一个合肥",
@@ -617,17 +661,51 @@
           "source": "今日头条",
           "ranks": [
             20,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
+        },
+        {
+          "title": "据科技媒体TechCrunsh：Alphabet(GOOG.O)旗下Waymo已暂停在旧金山、洛杉矶、凤凰城和迈阿密的高速公路上提供Robotaxi服务。",
+          "url": "https://flash.jin10.com/detail/20260522051629687800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "标普500指数的11个板块多数收涨，公用事业板块涨1.03%，可选消费板块涨0.77%，信息技术/科技板块涨0.28%，能源板块跌1.01%，日用消费品板块跌1.63%。",
+          "url": "https://wallstreetcn.com/livenews/3107621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.50%，报6659.19点。 热门中概股里，贝壳初步收跌6.5%，新东方跌4.5%，B站跌3.7%，万国数据跌3.5%，腾讯跌3.1%，百度跌2.9%，阿里跌2.1%，小米跌1.3%，大全新能源涨2.4%，文远知行涨3.4%，阿特斯太阳能涨8.5%。 ETF中，中国科技指数ETF（CQQQ）收跌1.92%，中概互联网指数ETF（KWEB）收跌1.74%。 XtrackersHarvest中证50（ASHS）收跌2.39%，德银嘉实沪深300指数ETF（ASHR）收跌0.73%，MSCI新兴市场ex中国ETF（EMXC）收涨1.40%。",
+          "url": "https://wallstreetcn.com/livenews/3107612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         }
       ]
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国产显卡7G100评测",
@@ -635,11 +713,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
         },
         {
           "title": "闲鱼遇神人,用豆包鉴内存真伪",
@@ -649,8 +728,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
         },
         {
           "title": "三星内存工人或将获得280万人民币奖金！工会即将就新协议投票",
@@ -659,9 +738,59 @@
           "ranks": [
             13
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时04分 ~ 05时43分]"
+        },
+        {
+          "title": "三星内存工人奖金或达280万元",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E5%86%85%E5%AD%98%E5%B7%A5%E4%BA%BA%E5%A5%96%E9%87%91%E6%88%96%E8%BE%BE280%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 05时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中东股市收盘播报｜周四（5月21日），土耳其伊斯坦布尔证交所全国100指数收跌6.05%，报13163.88点，整体持续走低，北京时间22:20以来加速下跌，逼近4月7日收盘位12921.56点。 伊斯坦布尔证交所银行指数收跌8.63%，报14947.10点，逼近11月18日收盘位14472.10点。。 土耳其里拉兑美元反弹至45.5811里拉刷新日高，北京时间22:32曾跌至45.6269里拉创历史新低。",
+          "url": "https://wallstreetcn.com/livenews/3107536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "周四（5月21日），美股行业ETF多数收涨，全球航空业ETF涨2.12%，全球科技股指数ETF涨1.17%，公用事业ETF涨1.10%，网络股指数ETF、科技行业ETF至少涨0.82%，半导体ETF涨0.57%，能源业ETF跌1.12%。",
+          "url": "https://wallstreetcn.com/livenews/3107625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时04分"
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美元指数21日上涨",
+          "url": "https://flash.jin10.com/detail/20260522040912332800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         }
       ]
     },
@@ -678,8 +807,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 05时43分]"
         },
         {
           "title": "美联储巴尔金：软件行业以外的雇主尚未因人工智能减少员工人数。",
@@ -688,26 +817,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中东股市收盘播报｜周四（5月21日），土耳其伊斯坦布尔证交所全国100指数收跌6.05%，报13163.88点，整体持续走低，北京时间22:20以来加速下跌，逼近4月7日收盘位12921.56点。 伊斯坦布尔证交所银行指数收跌8.63%，报14947.10点，逼近11月18日收盘位14472.10点。。 土耳其里拉兑美元反弹至45.5811里拉刷新日高，北京时间22:32曾跌至45.6269里拉创历史新低。",
-          "url": "https://wallstreetcn.com/livenews/3107536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "03时04分"
         }
       ]
     }
