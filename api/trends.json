@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T18:02:28.459328+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2026-06-03T22:58:58.587393+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 41,
+      "match_count": 47,
       "titles": [
         {
           "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
@@ -26,11 +26,12 @@
           "ranks": [
             3,
             9,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时49分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[02时49分 ~ 22时58分]"
         },
         {
           "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
@@ -42,6 +43,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时49分 ~ 05时54分]"
+        },
+        {
+          "title": "AI脸泛滥成灾,建模师没活了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时01分 ~ 22时58分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
@@ -56,17 +69,6 @@
           "time_info": "[07时54分 ~ 12时57分]"
         },
         {
-          "title": "AI脸泛滥成灾,建模师没活了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
-        },
-        {
           "title": "微软：MAI-THINKING-1是微软人工智能旗下首个推理大模型。",
           "url": "https://wallstreetcn.com/livenews/3113243",
           "source": "华尔街见闻-快讯",
@@ -76,6 +78,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "瑞达利欧：AI泡沫终将破裂",
+          "url": "https://wallstreetcn.com/livenews/3113888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "孙正义重登亚洲首富，称 AI 才刚起步，体量有望达到互联网热潮 50 倍，怎么理解该判断？其首富位子能坐多久？",
+          "url": "https://www.zhihu.com/question/2045380781644763655",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "腾讯云宣布 DeepSeek-V4 系列模型降价，最高降幅达 97.5%，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2045220633466725057",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "花旗预计同程旅行受惠与腾讯微信AI智能体潜在紧密合作",
@@ -193,13 +228,24 @@
           "time_info": "[18时01分 ~ 18时02分]"
         },
         {
+          "title": "胡彦斌一个月开发出 App，AI 时代将给普通人带来哪些机会？",
+          "url": "https://www.zhihu.com/question/2044389352550164119",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "英特尔美股盘前涨超4%，新处理器Xeon 6 Plus亮相，进军AI整机柜市场。",
           "url": "https://wallstreetcn.com/livenews/3113678",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -314,6 +360,17 @@
           "time_info": "02时50分"
         },
         {
+          "title": "王珞丹谈手搓AI短片创作过程",
+          "url": "https://www.toutiao.com/trending/7646685572421238803/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "学者：AI是当前全球股市最清晰主线",
           "url": "https://www.toutiao.com/trending/7646756159151410742/",
           "source": "今日头条",
@@ -389,6 +446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "AI数据中心 淡水资源",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%20%E6%B7%A1%E6%B0%B4%E8%B5%84%E6%BA%90&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "微软展示用于办公的桌面AI设备。 微软展示用于AI互联办公的数字工牌。 微软正与高通、联发科合作开发新设备。 作为“索拉拉项目”的一部分，微软官方展示了一款基于联发科（MediaTek）芯片打造的台式设备。 展示了一款与高通（Qualcomm）合作设计的便携式设备，旨在满足随时随地与智能体进行互动的需求。 预告了一款便携式“索拉拉项目”设备所具备的医疗患者签到/登记功能。",
@@ -471,7 +539,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "中央巡视办原主任黎晓宏接受中央纪委国家监委审查调查",
@@ -532,6 +600,17 @@
           "time_info": "05时54分"
         },
         {
+          "title": "“国家不让你胖” 也没让你瘦啊",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%9B%BD%E5%AE%B6%E4%B8%8D%E8%AE%A9%E4%BD%A0%E8%83%96%E2%80%9D+%E4%B9%9F%E6%B2%A1%E8%AE%A9%E4%BD%A0%E7%98%A6%E5%95%8A",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "微软(MSFT.O)高管：将与梅奥诊所合作共同开发人工智能模型。",
           "url": "https://flash.jin10.com/detail/20260603023241627800",
           "source": "金十数据",
@@ -541,6 +620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我希望伊朗领导人能为国家带来真正的未来。",
+          "url": "https://flash.jin10.com/detail/20260603225328942800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "受台风“蔷薇”影响，日本和歌山县发布最高等级5级警戒。（央视）",
@@ -571,7 +661,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -588,6 +678,18 @@
           "time_info": "[12时57分 ~ 18时02分]"
         },
         {
+          "title": "这一眼国家地理的含金量",
+          "url": "https://www.douyin.com/hot/2521035",
+          "source": "抖音",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 22时58分]"
+        },
+        {
           "title": "张杰工作室发布声明",
           "url": "https://www.douyin.com/hot/2521059",
           "source": "抖音",
@@ -600,16 +702,16 @@
           "time_info": "[02时49分 ~ 07时54分]"
         },
         {
-          "title": "这一眼国家地理的含金量",
-          "url": "https://www.douyin.com/hot/2521035",
-          "source": "抖音",
+          "title": "老挝国家主席参访阿里中文致谢数字人",
+          "url": "https://www.toutiao.com/trending/7646725346187939370/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            11
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 18时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 22时58分]"
         },
         {
           "title": "在国家最需要的时候，他和歼-8顶住了",
@@ -635,16 +737,16 @@
           "time_info": "[12时57分 ~ 18时02分]"
         },
         {
-          "title": "老挝国家主席参访阿里中文致谢数字人",
-          "url": "https://www.toutiao.com/trending/7646725346187939370/",
-          "source": "今日头条",
+          "title": "9分钟看完索尼SOP发布会",
+          "url": "https://search.bilibili.com/all?keyword=9%E5%88%86%E9%92%9F%E7%9C%8B%E5%AE%8C%E7%B4%A2%E5%B0%BCSOP%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "bilibili 热搜",
           "ranks": [
-            20,
-            26
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 18时02分]"
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 22时58分]"
         },
         {
           "title": "阿布扎比国家石油公司贸易主管指出： 8月份为油价转折点",
@@ -664,20 +766,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "9分钟看完索尼SOP发布会",
-          "url": "https://search.bilibili.com/all?keyword=9%E5%88%86%E9%92%9F%E7%9C%8B%E5%AE%8C%E7%B4%A2%E5%B0%BCSOP%E5%8F%91%E5%B8%83%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时57分"
+          "time_info": "18时02分"
         },
         {
           "title": "美国总统特朗普：我们国家金融系统的使用权限必须仅限于那些拥有合法居留权、从事合法正当商业活动的人。",
@@ -724,6 +815,28 @@
           "time_info": "07时54分"
         },
         {
+          "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3113868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "国家发改委：推进国有经济布局优化",
+          "url": "https://www.toutiao.com/trending/7646777981235232778/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "沃什：将在继承美联储优良传统的同时，对改革展开“务实清醒”的讨论",
           "url": "https://wallstreetcn.com/livenews/3113319",
           "source": "华尔街见闻-快讯",
@@ -733,6 +846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "中国海警寸海不让捍卫国家主权",
+          "url": "https://www.toutiao.com/trending/7647109473798864947/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "微软发布全新量子芯片",
@@ -760,7 +884,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "5月A股新开户同比大增78%，逼近2.6亿，“科技行情”拉动入市",
@@ -787,6 +911,28 @@
           "time_info": "[02时49分 ~ 07时54分]"
         },
         {
+          "title": "长线外资看好中国 持续加码硬科技",
+          "url": "https://www.cls.cn/detail/2389959",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "纳斯达克100指数转涨，费城半导体指数涨超1.6%，生物科技指数反弹超0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3113886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "迈威尔科技美股盘后涨9.4%。",
           "url": "https://wallstreetcn.com/livenews/3113304",
           "source": "华尔街见闻-快讯",
@@ -796,6 +942,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "2088元！新晋“股王”再创新高，次新市场局部活跃，这些标的后劲仍强",
+          "url": "https://www.cls.cn/detail/2389702",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
@@ -848,22 +1005,46 @@
           "url": "https://wallstreetcn.com/articles/3773737",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时01分 ~ 22时58分]"
         },
         {
           "title": "【每日收评】市场午后震荡加剧，创业板指冲高回落涨1.65%，科技赛道延续强势",
           "url": "https://www.cls.cn/detail/2389664",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时01分 ~ 22时58分]"
+        },
+        {
+          "title": "【焦点复盘】市场延续极致二八分化，个股炸板率超四成，科技与能源板块再现跷跷板",
+          "url": "https://www.cls.cn/detail/2389696",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我希望美国和以色列平等投资，共享投资成果。",
+          "url": "https://flash.jin10.com/detail/20260603225129582800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "分析人士：科技仍是长期主线，短期交易拥挤度需充分消化",
@@ -938,7 +1119,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -957,18 +1138,19 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "外交部：关税战、贸易战不符合任何一方的利益",
           "url": "https://www.cls.cn/detail/2389546",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时01分 ~ 22时58分]"
         },
         {
           "title": "伊朗外长阿拉格齐：伊朗与沙特外长在电话中讨论了外交努力。",
@@ -994,6 +1176,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时49分 ~ 12时57分]"
+        },
+        {
+          "title": "科威特外交部要求两名伊朗驻科外交人员离境",
+          "url": "https://wallstreetcn.com/livenews/3113883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "外交部：战事再起不符合任何一方利益",
@@ -1068,9 +1261,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "国际油价一度涨超2%，美军称伊朗在整个中东范围发动袭击",
+          "url": "https://wallstreetcn.com/articles/3773721",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "【鲁比奥：美伊仍在谈 协议何时达成不确定】美国国务卿鲁比奥2日在国会参议院外交关系委员会举行的听证会上表示，美国仍在与伊朗谈判，但他不确定何时能达成协议。 这是美国和以色列2月底对伊朗发起大规模军事行动后，鲁比奥首次在国会作证。 回答议员关于美伊谈判进展的提问时，他说，“我们正在同伊朗谈判”，伊朗“已经同意就其核计划的一些内容展开谈判，而就在一个月前，甚至一年前，他们连谈都不愿谈”。（新华社）",
@@ -1090,9 +1294,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：由于战争，以色列科技崛起，中东及周边国家表示“我们想与您合作”。",
+          "url": "https://flash.jin10.com/detail/20260603225042805800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "外交部：“台独”势力已沦为民族败类",
@@ -1106,13 +1321,46 @@
           "time_info": "07时54分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：这场战争展示了以色列的技术实力，不仅体现在战场上，也体现在“平民战场”。",
+          "url": "https://flash.jin10.com/detail/20260603224837739800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：经过两年半的战争，（以色列）货币是我们历史上最强水平，出口正在飙升。",
+          "url": "https://flash.jin10.com/detail/20260603224815853800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "美国国务卿卢比奥：总统特朗普知道挑起伊朗战争的经济后果。",
+          "url": "https://wallstreetcn.com/livenews/3113867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "粤港澳大湾区今年开行国际班列突破2万车",
           "url": "https://wallstreetcn.com/livenews/3113656",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
@@ -1171,6 +1419,19 @@
           "time_info": "[07时54分 ~ 12时57分]"
         },
         {
+          "title": "杜祥琬院士声明：从未参与也未委托任何单位将核技术应用于垃圾焚烧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33294537",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 22时58分]"
+        },
+        {
           "title": "曾经无人问津的软件股，如今人人趋之若鹜",
           "url": "https://wallstreetcn.com/articles/3773692",
           "source": "华尔街见闻",
@@ -1182,18 +1443,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时54分 ~ 18时02分]"
-        },
-        {
-          "title": "杜祥琬院士声明：从未参与也未委托任何单位将核技术应用于垃圾焚烧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33294537",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 18时02分]"
         },
         {
           "title": "中方回应欧盟拟减少对亚洲技术依赖",
@@ -1224,7 +1473,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -1265,8 +1514,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 18时02分]"
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 22时58分]"
         },
         {
           "title": "周二（6月2日），美股AI软件先驱指数跌3.37%，报128.60点。",
@@ -1336,11 +1585,12 @@
           "ranks": [
             6,
             11,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时49分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[02时49分 ~ 22时58分]"
         },
         {
           "title": "海力士火灾,内存涨价理由+1",
@@ -1349,11 +1599,12 @@
           "ranks": [
             9,
             15,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时49分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[02时49分 ~ 22时58分]"
         },
         {
           "title": "网易游戏 26 年新游计划降至 4 款，10+ 在研项目被砍，是失血太多或谨慎观望？如何评价现今网易游戏的策略？",
