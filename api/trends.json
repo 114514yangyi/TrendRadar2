@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T07:54:28.461403+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-06-03T12:57:17.586391+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 29,
+      "match_count": 37,
       "titles": [
         {
           "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
@@ -16,19 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时49分 ~ 07时54分]"
-        },
-        {
-          "title": "白嫖结束!豆包AI开始收费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时49分 ~ 07时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时49分 ~ 12时57分]"
         },
         {
           "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
@@ -42,6 +31,30 @@
           "time_info": "[02时49分 ~ 05时54分]"
         },
         {
+          "title": "白嫖结束!豆包AI开始收费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时49分 ~ 12时57分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
+          "url": "https://www.cls.cn/detail/2388968",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 12时57分]"
+        },
+        {
           "title": "微软：MAI-THINKING-1是微软人工智能旗下首个推理大模型。",
           "url": "https://wallstreetcn.com/livenews/3113243",
           "source": "华尔街见闻-快讯",
@@ -53,26 +66,27 @@
           "time_info": "02时50分"
         },
         {
-          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
-          "url": "https://www.cls.cn/detail/2388968",
-          "source": "财联社热门",
+          "title": "花旗预计同程旅行受惠与腾讯微信AI智能体潜在紧密合作",
+          "url": "https://flash.jin10.com/detail/20260603122307738800",
+          "source": "金十数据",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时54分"
+          "time_info": "12时57分"
         },
         {
           "title": "AI坑健身小白买20kg哑铃",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时49分 ~ 07时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时49分 ~ 12时57分]"
         },
         {
           "title": "我用AI做了祖国人胜利结局",
@@ -109,6 +123,17 @@
           "time_info": "[02时49分 ~ 02时50分]"
         },
         {
+          "title": "网传一些公司因为 token 太贵开始限额了，会重返「古法编程」吗？AI 全栈可行性如何，只适合大公司吗？",
+          "url": "https://www.zhihu.com/question/2045210107105862467",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
           "title": "微软(MSFT.O)人工智能负责人：MAI Image 2.5及其Flash版本在图像编辑方面的得分已超越Nano Banana 2。",
           "url": "https://flash.jin10.com/detail/20260603022937536800",
           "source": "金十数据",
@@ -137,7 +162,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -153,13 +178,24 @@
           "time_info": "02时50分"
         },
         {
+          "title": "据路透援引消息人士报道，DeepSeek计划在首轮融资中筹集约70亿美元，估值高达590亿美元。腾讯与宁德时代将成为DeepSeek最大的外部投资者；网易和京东也计划参投。",
+          "url": "https://flash.jin10.com/detail/20260603121634379800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
           "title": "美国众议院推出跨党派立法草案，建议在AI繁荣期保护作者，Adobe支持这样的建议。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3113331",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -184,6 +220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
+          "url": "https://www.cls.cn/detail/2388950",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "微软(MSFT.O)人工智能负责人：MAI-TRANSCRIBE-1.5模型是所有超大规模云服务商同类模型中成本效益最高的。",
@@ -230,15 +277,37 @@
           "time_info": "02时50分"
         },
         {
+          "title": "翘楚演员回应被认成AI",
+          "url": "https://www.douyin.com/hot/2521565",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
           "title": "澳大利亚5月AIG建筑业表现指数 -9.9，前值-19.3。",
           "url": "https://flash.jin10.com/detail/20260603070002418800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "网民利用AI造谣“女子搭乘地铁遭掀裙摆”，被长沙警方行政拘留7日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33291195",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "微软首席执行官（CEO）在 Build 大会上宣布，将把 Windows AI API 拓展至更多个人电脑（PC）。 推出Surface RTX Spark Dev Box，这是一款紧凑型开发者PC。",
@@ -258,9 +327,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "AI脸 生理性厌恶",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%84%B8%20%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "微软展示用于办公的桌面AI设备。 微软展示用于AI互联办公的数字工牌。 微软正与高通、联发科合作开发新设备。 作为“索拉拉项目”的一部分，微软官方展示了一款基于联发科（MediaTek）芯片打造的台式设备。 展示了一款与高通（Qualcomm）合作设计的便携式设备，旨在满足随时随地与智能体进行互动的需求。 预告了一款便携式“索拉拉项目”设备所具备的医疗患者签到/登记功能。",
@@ -280,7 +360,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -291,7 +371,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -313,9 +393,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "【腾讯AI产业应用大会在即，即将发布系列智能体应用新品】据腾讯云官号账号信息，腾讯2026AI产业应用大会即将在北京举办。作为腾讯年度最重要的AI产品发布平台，此次将发布系列智能体应用新品，并将公布infra等基础设施升级新进展。与此同时，腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生将于腾讯AI首席科学家姚顺雨同台对话，解读AI下半场腾讯在AI赛道的最新布局和思考。（澎湃新闻）",
+          "url": "https://wallstreetcn.com/livenews/3113463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "微软推出Web IQ套件，包含一系列AI原生Grounding API。 Web IQ是一款针对AI系统的搜索引擎。 针对新AI设备推出Project Solara。 在该项目下，芯片将运行AI智能体（AI Agents）而非传统的应用程序（Apps），并直接与云计算数据中心进行通信。 推出可让OpenClaw在Windows系统上顺畅运行的技术支持方案。",
@@ -332,7 +423,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "中央巡视办原主任黎晓宏接受中央纪委国家监委审查调查",
@@ -340,11 +431,12 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时49分 ~ 07时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时49分 ~ 12时57分]"
         },
         {
           "title": "教育部发布2026年高考预警信息",
@@ -403,6 +495,17 @@
           "time_info": "05时54分"
         },
         {
+          "title": "微软全面押注智能体时代：发布新模型、展示新终端、重塑应用生态",
+          "url": "https://www.cls.cn/detail/2388956",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
           "title": "张杰工作室发布声明",
           "url": "https://www.douyin.com/hot/2521059",
           "source": "抖音",
@@ -426,15 +529,59 @@
           "time_info": "[02时49分 ~ 05时54分]"
         },
         {
+          "title": "这一眼国家地理的含金量",
+          "url": "https://www.douyin.com/hot/2521035",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
           "title": "阿布扎比国家石油公司贸易主管指出： 8月份为油价转折点",
           "url": "https://wallstreetcn.com/livenews/3113334",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "9分钟看完索尼SOP发布会",
+          "url": "https://search.bilibili.com/all?keyword=9%E5%88%86%E9%92%9F%E7%9C%8B%E5%AE%8C%E7%B4%A2%E5%B0%BCSOP%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "马克龙夫妇探望法国国家足球队",
+          "url": "https://www.douyin.com/hot/2521797",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "地产商治国？“小特朗普”将任代理国家情报总监",
+          "url": "https://news.ifeng.com/c/8teUlNkkPvO",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "美国总统特朗普：我们国家金融系统的使用权限必须仅限于那些拥有合法居留权、从事合法正当商业活动的人。",
@@ -454,7 +601,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -470,13 +617,24 @@
           "time_info": "02时50分"
         },
         {
+          "title": "老挝国家主席参访阿里中文致谢数字人",
+          "url": "https://www.toutiao.com/trending/7646725346187939370/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
           "title": "美联储主席沃什在寄出并经路透社查阅的备忘录中表示：我们的重中之重将是正确制定政策，以服务于我们的职责和国家利益。我们将确保创造一个支持我们员工发挥最大所长、成就事业的环境。 当我们发现更好的替代方案时，我们不会依赖过去的惯常做法，在接下来的几个季度里，我希望我们能共同对美联储的战略、政策和运营展开公开、务实清醒的讨论。”",
           "url": "https://wallstreetcn.com/livenews/3113320",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -487,7 +645,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -498,7 +656,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -517,7 +675,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "再升科技：相关主体编造虚假内容、误导资本市场，必要时将报案",
@@ -530,6 +688,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时49分 ~ 07时54分]"
+        },
+        {
+          "title": "5月A股新开户同比大增78%，逼近2.6亿，“科技行情”拉动入市",
+          "url": "https://www.cls.cn/detail/2389049",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "迈威尔科技美股盘后涨9.4%。",
@@ -595,9 +764,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "港股午评：恒生指数早盘震荡下行 科技权重股回调",
+          "url": "https://flash.jin10.com/detail/20260603120652973800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "人民日报：科研容不得半点虚假",
@@ -606,15 +786,59 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "6月3日午间收评：创业板指涨近4%站上4200点，“易中天”股价齐创新高",
+          "url": "https://wallstreetcn.com/livenews/3113477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "宇树科技科创板 IPO 过会，这意味着什么？将给国产人形机器人行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2044829108081775769",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "再升科技股价大跌后发声明",
+          "url": "https://www.douyin.com/hot/2521658",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "创业板指站上4200点，为历史首次，日内涨超3.6%，权重股中际旭创、新易盛、天孚通信、蓝思科技、鼎泰高科均刷新历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3113465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         }
       ]
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "我国光通信技术实现重要突破，全球首条三波段超低损耗多芯光缆线路正式开通",
@@ -643,11 +867,12 @@
           "url": "https://www.cls.cn/detail/2388994",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 12时57分]"
         },
         {
           "title": "基于CPO技术！英伟达Spectrum-X硅光交换机全面量产",
@@ -655,11 +880,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时49分 ~ 07时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时49分 ~ 12时57分]"
         },
         {
           "title": "曾经无人问津的软件股，如今人人趋之若鹜",
@@ -667,11 +893,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时54分 ~ 07时54分]"
+          "appearance_count": 3,
+          "time_info": "[05时54分 ~ 12时57分]"
+        },
+        {
+          "title": "杜祥琬院士声明：从未参与也未委托任何单位将核技术应用于垃圾焚烧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33294537",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "加拿大政府负责加美贸易的部长勒布朗：讨论了对高额行业特定关税的减免。",
@@ -683,6 +921,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "比亚迪 5 月汽车销量达 38.3 万辆年内首次增长，这对其市场份额与新能源汽车行业意味着什么？",
+          "url": "https://www.zhihu.com/question/2044859839910827099",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "行业周报：美国上周API原油库存锐减超670万桶",
@@ -706,11 +955,12 @@
           "url": "https://wallstreetcn.com/articles/3773650",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 12时57分]"
         },
         {
           "title": "周二（6月2日），美股AI软件先驱指数跌3.37%，报128.60点。",
@@ -791,11 +1041,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时49分 ~ 07时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时49分 ~ 12时57分]"
         },
         {
           "title": "是什么造成了菲律宾外交的矛盾姿态",
@@ -804,7 +1055,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -826,7 +1077,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         }
@@ -841,22 +1092,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354801&amp;topic_name=G%E8%83%96%E5%8A%9B%E6%8C%BA%E9%BB%84%E6%B2%B9%2CSteam%E9%AB%98%E5%B1%82%E6%8C%A8%E6%80%BC",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时49分 ~ 07时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时49分 ~ 12时57分]"
         },
         {
           "title": "海力士火灾,内存涨价理由+1",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354789&amp;topic_name=%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%81%AB%E7%81%BE%2C%E5%86%85%E5%AD%98%E6%B6%A8%E4%BB%B7%E7%90%86%E7%94%B1%2B1",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时49分 ~ 07时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时49分 ~ 12时57分]"
         },
         {
           "title": "网易游戏 26 年新游计划降至 4 款，10+ 在研项目被砍，是失血太多或谨慎观望？如何评价现今网易游戏的策略？",
@@ -900,6 +1153,18 @@
           "time_info": "[02时49分 ~ 07时54分]"
         },
         {
+          "title": "800亿美元！谷歌启动史上最大规模股权融资，伯克希尔参投100亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33289350",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 12时57分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：从6月2日起，将更新美国预测市场政策，禁止在俄亥俄州投放预测市场合约及相关产品的广告。",
           "url": "https://flash.jin10.com/detail/20260603022348534800",
           "source": "金十数据",
@@ -909,17 +1174,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
-        },
-        {
-          "title": "800亿美元！谷歌启动史上最大规模股权融资，伯克希尔参投100亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33289350",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
         }
       ]
     }
