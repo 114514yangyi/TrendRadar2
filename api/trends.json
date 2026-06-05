@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-06-06T04:54:24.750780+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-06-06T06:21:47.130601+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
-          "url": "https://wallstreetcn.com/articles/3773843",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时54分]"
-        },
         {
           "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
           "url": "https://wallstreetcn.com/articles/3773915",
@@ -27,8 +15,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时21分]"
+        },
+        {
+          "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
+          "url": "https://wallstreetcn.com/articles/3773843",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时21分]"
         },
         {
           "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
@@ -42,17 +43,6 @@
           "time_info": "[03时01分 ~ 04时54分]"
         },
         {
-          "title": "英媒：Meta拟通过股票发行筹集数百亿美元资金 以支持在AI领域的雄心",
-          "url": "https://flash.jin10.com/detail/20260606041131799800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        },
-        {
           "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
           "url": "https://wallstreetcn.com/articles/3773921",
           "source": "华尔街见闻",
@@ -60,19 +50,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时21分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
           "url": "https://www.cls.cn/detail/2391959",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时21分]"
         },
         {
           "title": "严防作弊!高考期间AI搜题关停",
@@ -83,19 +74,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时54分]"
-        },
-        {
-          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
-          "url": "https://wallstreetcn.com/articles/3773907",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时21分]"
         },
         {
           "title": "马上评｜该对AI外呼骚扰电话出手了",
@@ -103,11 +83,36 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时21分]"
+        },
+        {
+          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
+          "url": "https://wallstreetcn.com/articles/3773907",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时21分]"
+        },
+        {
+          "title": "英媒：Meta拟通过股票发行筹集数百亿美元资金 以支持在AI领域的雄心",
+          "url": "https://flash.jin10.com/detail/20260606041131799800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 06时21分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
@@ -131,6 +136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
+          "url": "https://www.cls.cn/detail/2392497",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "Meta考虑对消费者AI智能体工具收费每个月200美元。（The Information）",
@@ -161,9 +177,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "阿波罗资管和黑石集团已为Anthropic敲定350亿美元的融资方案，用于扩建其AI基础设施。",
+          "url": "https://wallstreetcn.com/livenews/3115354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "英国央行行长贝利：英国的关键问题在于经济增长。 过去的经验表明，创新影响到（经济）增长需要时间。 可能不是所有行业都有足够的资源来利用人工智能（AI）。",
@@ -172,7 +199,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         },
@@ -191,7 +218,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "中方回应美国制裁古巴国家主席",
@@ -202,8 +229,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时21分]"
+        },
+        {
+          "title": "教育部发布2026年高考十问十答",
+          "url": "https://www.douyin.com/hot/2524066",
+          "source": "抖音",
+          "ranks": [
+            5,
+            10,
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时21分]"
         },
         {
           "title": "市场消息：欧盟正推动对以色列国家安全部长本-格维尔实施制裁。",
@@ -228,19 +269,6 @@
           "time_info": "00时06分"
         },
         {
-          "title": "教育部发布2026年高考十问十答",
-          "url": "https://www.douyin.com/hot/2524066",
-          "source": "抖音",
-          "ranks": [
-            5,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时54分]"
-        },
-        {
           "title": "美国白宫：在120天内，国防部、国家情报总监办公室（DNI）以及所有包含情报体系（IC）部门的机构负责人，将审查并更新采购流程，以确保从多个供应商引入人工智能模型。",
           "url": "https://flash.jin10.com/detail/20260606023340196800",
           "source": "金十数据",
@@ -250,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "美国能源部长赖特：已尝试与加州州长纽森合作，解决该州的炼油危机。",
+          "url": "https://flash.jin10.com/detail/20260606053430419800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "美国白宫：美国将在90天内发布《自主化武器系统指令》的更新版本。",
@@ -296,13 +335,46 @@
           "time_info": "03时02分"
         },
         {
+          "title": "市场消息：伊拉克国家安全顾问称，关于伊拉克将支付霍尔木兹海峡过境费的说法完全是虚假且毫无根据的。",
+          "url": "https://flash.jin10.com/detail/20260606050637407800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "周五（6月5日），彭博电动汽车价格回报指数跌4.10%，报3776.20点，北京时间08:00开盘以来持续下挫，16:00-20:00（美国非农就业报告发布之前）持稳于3860点上方，本周累计下跌5.88%，6月3日08:00高开至4108.09点，随后持续走低。",
+          "url": "https://wallstreetcn.com/livenews/3115353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国能源部长Wright：美国考虑在加州储备石油。 已尝试与加利福尼亚州州长纽森展开合作，从而应对该州面临的石油精炼困局（炼油瓶颈）。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3115364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
           "title": "美国政府发布关于铝、钢铁、铜关税的指引。标普目前跌2.6%，道指跌711点、跌幅1.38%，纳指跌4%，半导体指数重挫9.1%。",
           "url": "https://wallstreetcn.com/livenews/3115314",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         }
@@ -310,7 +382,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "黄岩岛有一不明结构物消失？外交部回应",
@@ -321,8 +393,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时21分]"
         },
         {
           "title": "外交部回应黄岩岛结构物问题",
@@ -331,11 +403,12 @@
           "ranks": [
             6,
             4,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时21分]"
         },
         {
           "title": "国际空间站宇航员准备随时撤离",
@@ -344,11 +417,12 @@
           "ranks": [
             17,
             8,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时21分]"
         },
         {
           "title": "俄罗斯财年头五个月预算赤字占GDP比重为2.6%。（国际文传电讯社）",
@@ -360,6 +434,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "国际油价5日下跌",
+          "url": "https://flash.jin10.com/detail/20260606052913926800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "中国国际商会对外投资合作工作委员会成立大会即将举办",
@@ -393,6 +478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "国际金价在非农日跌约3.3%，白银跌8%，纽约铜跌超4%",
+          "url": "https://wallstreetcn.com/livenews/3115341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         }
       ]
     },
@@ -407,22 +503,12 @@
           "ranks": [
             2,
             3,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时54分]"
-        },
-        {
-          "title": "谷歌与SpaceX签署协议 计划以每月9.2亿美元的价格购买算力",
-          "url": "https://flash.jin10.com/detail/20260606042427126800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时54分"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时21分]"
         },
         {
           "title": "美国证券交易委员会（SEC）文件显示，SpaceX已在当地时间2026年6月5日与谷歌签署云服务协议，以获取算力支持。",
@@ -447,13 +533,25 @@
           "time_info": "03时02分"
         },
         {
+          "title": "谷歌与SpaceX签署协议 计划以每月9.2亿美元的价格购买算力",
+          "url": "https://flash.jin10.com/detail/20260606042427126800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 06时21分]"
+        },
+        {
           "title": "SpaceX与谷歌签署300亿美元算力协议",
           "url": "https://wallstreetcn.com/livenews/3115327",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         },
@@ -483,8 +581,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 06时21分]"
         },
         {
           "title": "标普500指数的11个板块中，信息技术/科技板块收跌5.78%，可选消费、原材料板块至多跌2.43%，能源板块跌1.77%，电信板块跌1.65%，工业板块跌1.1%，日用消费品板块则涨1.64%。",
@@ -493,7 +591,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         },
@@ -504,7 +602,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         },
@@ -515,7 +613,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         },
@@ -526,7 +624,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         },
@@ -537,7 +635,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         }
@@ -545,8 +643,19 @@
     },
     {
       "keyword_group": "美股 美元",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美元指数5日上涨",
+          "url": "https://flash.jin10.com/detail/20260606052940978800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
         {
           "title": "周五（6月5日），美股行业ETF涨跌各异，半导体ETF收盘重挫9.22%，全球科技股指数ETF跌7.32%，科技行业ETF跌6.66%，网络股指数ETF跌3.24%，公用事业ETF涨0.93%，日常消费品ETF涨1.71%。",
           "url": "https://wallstreetcn.com/livenews/3115328",
@@ -554,9 +663,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "迈威尔科技（美满电子）美股盘后涨6%，该公司将被纳入标普500指数。 伟创力盘后上涨3.9%。",
+          "url": "https://wallstreetcn.com/livenews/3115352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
@@ -565,7 +685,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         }
@@ -573,8 +693,30 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "夏日游戏节2026",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%8A%822026",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "归唐夏日游戏节全新预告",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%92%E5%94%90%E5%A4%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%8A%82%E5%85%A8%E6%96%B0%E9%A2%84%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
         {
           "title": "UP主接力开发游戏",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8E%A5%E5%8A%9B%E5%BC%80%E5%8F%91%E6%B8%B8%E6%88%8F",
@@ -582,7 +724,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         }
@@ -590,8 +732,19 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "微博被禁言，追觅遭排查，俞浩内部群发声：精力必须100%放在技术研发和产品上",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33317134",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
         {
           "title": "据伊朗媒体Fars News：美国尚未向伊朗足球队的部分技术和行政人员签发世界杯签证。",
           "url": "https://flash.jin10.com/detail/20260606034147571800",
@@ -599,7 +752,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         }
