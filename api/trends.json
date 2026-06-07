@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T19:55:32.503709+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2026-06-07T22:10:22.955418+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 29,
+      "match_count": 38,
       "titles": [
         {
           "title": "香港天文台发布黄色暴雨警告。",
@@ -64,13 +64,35 @@
           "time_info": "[06时11分 ~ 08时12分]"
         },
         {
+          "title": "以色列内阁批准任命本·埃兹拉为新任国家安全顾问",
+          "url": "https://wallstreetcn.com/livenews/3115576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "以色列内阁批准任命本·埃兹拉为新任国家安全顾问",
+          "url": "https://flash.jin10.com/detail/20260607215041686800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "英伟达CEO黄仁勋与SK集团会长崔泰源将于周一宣布合作计划。（NewSis）",
           "url": "https://wallstreetcn.com/livenews/3115546",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -108,11 +130,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 19时55分]"
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 22时10分]"
         },
         {
           "title": "阿拉斯加航空首席财务官表示，有望在二季度财报电话会议上恢复发布业绩指引。",
@@ -164,6 +187,19 @@
           "time_info": "[13时45分 ~ 19时55分]"
         },
         {
+          "title": "伊朗要求解冻240亿美元资产后，美国拟将伊朗资产用于海湾国家重建",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33327663",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 22时10分]"
+        },
+        {
           "title": "美国拟动用伊朗被冻结资产赔偿海湾国家损失 或成停火谈判“新刺激”",
           "url": "https://www.cls.cn/detail/2392742",
           "source": "财联社热门",
@@ -172,20 +208,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 19时55分]"
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 22时10分]"
         },
         {
-          "title": "伊朗要求解冻240亿美元资产后，美国拟将伊朗资产用于海湾国家重建",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33327663",
-          "source": "澎湃新闻",
+          "title": "英伟达CEO黄仁勋：我们明天可能会发布一些公告。 明天将与三星副会长会面。 内存短缺问题将持续数年。",
+          "url": "https://wallstreetcn.com/livenews/3115545",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            15
+            6,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时27分 ~ 19时55分]"
+          "time_info": "[19时55分 ~ 22时10分]"
         },
         {
           "title": "美国国家飓风中心表示，阿曼达已减弱为热带低气压。",
@@ -198,6 +234,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 08时12分]"
+        },
+        {
+          "title": "国家防总工作组赶赴重庆",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E9%98%B2%E6%80%BB%E5%B7%A5%E4%BD%9C%E7%BB%84%E8%B5%B6%E8%B5%B4%E9%87%8D%E5%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 22时10分]"
         },
         {
           "title": "“世界最难的考试”来自这个国家",
@@ -217,31 +265,64 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
         {
-          "title": "英伟达CEO黄仁勋：我们明天可能会发布一些公告。 明天将与三星副会长会面。 内存短缺问题将持续数年。",
-          "url": "https://wallstreetcn.com/livenews/3115545",
+          "title": "国家防总派出工作组赶赴重庆",
+          "url": "https://www.toutiao.com/trending/7648587109258887187/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "中央气象台继续发布暴雨橙色预警",
+          "url": "https://www.toutiao.com/trending/7648611591676903451/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "特朗普：若达成协议 或可与伊朗合作回收并销毁其高浓缩铀",
+          "url": "https://flash.jin10.com/detail/20260607212252758800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "OPEC+声明：七个OPEC+国家将在七月将石油产量配额提高18.8万桶/日",
+          "url": "https://wallstreetcn.com/livenews/3115559",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时55分"
+          "time_info": "22时10分"
         },
         {
-          "title": "国家防总工作组赶赴重庆",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E9%98%B2%E6%80%BB%E5%B7%A5%E4%BD%9C%E7%BB%84%E8%B5%B6%E8%B5%B4%E9%87%8D%E5%BA%86",
-          "source": "百度热搜",
+          "title": "辽宁：推进丹东边境经济合作区、边民互市贸易区高质量发展",
+          "url": "https://wallstreetcn.com/livenews/3115558",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时55分"
+          "time_info": "22时10分"
         },
         {
           "title": "据The Information报道，白宫人工智能高级政策顾问克里希南将离职。",
@@ -299,6 +380,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "报道：英伟达与SK将宣布合作计划，黄仁勋称芯片短缺将持续数年",
+          "url": "https://wallstreetcn.com/livenews/3115546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "海湾合作委员会秘书长：伊朗继续其恐怖活动的行为证明了其破坏安全的意图。",
           "url": "https://flash.jin10.com/detail/20260606194054552800",
           "source": "金十数据",
@@ -308,6 +400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "伊朗媒体报道称，伊朗最高国家安全委员会正在召开紧急会议，讨论以色列在贝鲁特南郊的空袭事件。",
+          "url": "https://flash.jin10.com/detail/20260607205810386800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "中央气象台6月6日18时发布暴雨黄色预警",
@@ -357,7 +460,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -366,11 +469,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 19时55分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 22时10分]"
         },
         {
           "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
@@ -437,6 +541,18 @@
           "time_info": "[00时13分 ~ 08时12分]"
         },
         {
+          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
+          "url": "https://www.cls.cn/detail/2392589",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时12分 ~ 22时10分]"
+        },
+        {
           "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3115505",
           "source": "华尔街见闻-快讯",
@@ -450,16 +566,42 @@
           "time_info": "[06时11分 ~ 17时27分]"
         },
         {
-          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
-          "url": "https://www.cls.cn/detail/2392589",
-          "source": "财联社热门",
+          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
+          "url": "https://wallstreetcn.com/articles/3774032",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            12
+            9,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[08时12分 ~ 19时55分]"
+          "time_info": "[13时44分 ~ 22时10分]"
+        },
+        {
+          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
+          "url": "https://wallstreetcn.com/articles/3774027",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时44分 ~ 22时10分]"
+        },
+        {
+          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时44分 ~ 22时10分]"
         },
         {
           "title": "高考新增AI监考员",
@@ -494,29 +636,6 @@
           "ranks": [
             8,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时44分 ~ 19时55分]"
-        },
-        {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时44分 ~ 19时55分]"
-        },
-        {
-          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
-          "url": "https://wallstreetcn.com/articles/3774027",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -561,19 +680,6 @@
           "time_info": "[17时27分 ~ 19时55分]"
         },
         {
-          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时44分 ~ 19时55分]"
-        },
-        {
           "title": "AI写的高考作文你打几分",
           "url": "https://www.douyin.com/hot/2525981",
           "source": "抖音",
@@ -595,6 +701,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时27分 ~ 19时55分]"
+        },
+        {
+          "title": "AI短剧 100集浓缩成3分钟",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20100%E9%9B%86%E6%B5%93%E7%BC%A9%E6%88%903%E5%88%86%E9%92%9F&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 22时10分]"
         },
         {
           "title": "AI写的高考作文你打几分",
@@ -619,6 +737,17 @@
           "time_info": "[13时44分 ~ 13时45分]"
         },
         {
+          "title": "AI炒完芯片后，下一轮被抢的会是谁？",
+          "url": "https://flash.jin10.com/detail/20260607214620913800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "北大UP主手搓AI猫娘",
           "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E5%A4%A7UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%8C%AB%E5%A8%98",
           "source": "bilibili 热搜",
@@ -628,6 +757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850545&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/Lk5lb_SlH5TkzfY-AB4dV.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260607214619409800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "OpenAI计划大幅升级ChatGPT 以创造更多收入",
@@ -663,17 +803,6 @@
           "time_info": "13时45分"
         },
         {
-          "title": "AI短剧 100集浓缩成3分钟",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20100%E9%9B%86%E6%B5%93%E7%BC%A9%E6%88%903%E5%88%86%E9%92%9F&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        },
-        {
           "title": "北京高考作文考教老人用AI",
           "url": "https://flash.jin10.com/detail/20260607113905644800",
           "source": "金十数据",
@@ -699,7 +828,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 21,
+      "match_count": 30,
       "titles": [
         {
           "title": "国际空间站宇航员准备随时撤离，释放了什么信号？",
@@ -729,6 +858,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时13分 ~ 13时45分]"
+        },
+        {
+          "title": "世界杯伊朗代表团十余人遭美国拒签，伊朗足协将向国际足联申诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33326338",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时44分 ~ 22时10分]"
         },
         {
           "title": "伊朗外交部谴责美军多次违反停火协议",
@@ -796,19 +939,6 @@
           "time_info": "[04时16分 ~ 08时12分]"
         },
         {
-          "title": "世界杯伊朗代表团十余人遭美国拒签，伊朗足协将向国际足联申诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33326338",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时44分 ~ 19时55分]"
-        },
-        {
           "title": "日本两大航司拟再上调国际航线燃油附加费",
           "url": "https://wallstreetcn.com/livenews/3115523",
           "source": "华尔街见闻-快讯",
@@ -865,6 +995,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "中国临床试验研究者国际领军人才培训项目在上海正式启动",
+          "url": "https://wallstreetcn.com/livenews/3115563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "国际原子能机构：袭击对设施的燃料接收建筑造成了重大损害，附近建筑也受到爆炸波的影响。",
@@ -933,6 +1074,17 @@
           "time_info": "00时13分"
         },
         {
+          "title": "国际航空运输协会：将2026年全球航空业利润预测下调至230亿美元，较之前的410亿美元大幅减少，原因是伊朗战争带来的干扰和燃料成本上升。",
+          "url": "https://flash.jin10.com/detail/20260607210321154800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "如何看待原体安格朗（Angron）及吞世者，或者战争猎犬军团？",
           "url": "https://www.zhihu.com/question/532584934",
           "source": "知乎",
@@ -944,6 +1096,61 @@
           "time_info": "06时11分"
         },
         {
+          "title": "国际航空运输协会：航空业今年的燃料总支出将达到3500亿美元，较2025年的2520亿美元有所上升。",
+          "url": "https://flash.jin10.com/detail/20260607210305392800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "乌称乏核燃料贮存设施遭袭 国际原子能机构将进行调查",
+          "url": "https://wallstreetcn.com/livenews/3115554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "国际航空运输协会：预计布伦特原油平均价格将达到每桶95美元，高于2025年的每桶69美元。",
+          "url": "https://flash.jin10.com/detail/20260607210244421800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "国际航空运输协会：预计2026年航空公司的每位乘客利润为4.50美元，低于2025年的9.10美元。",
+          "url": "https://flash.jin10.com/detail/20260607210229811800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "国际航空运输协会：2026年航空业利润率预测下调至2%，低于此前的3.9%。",
+          "url": "https://flash.jin10.com/detail/20260607210205072800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "外交部祝各位发小高考成功",
           "url": "https://www.toutiao.com/trending/7648125791746310186/",
           "source": "今日头条",
@@ -953,12 +1160,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "国际航空运输协会：中东航空公司预计今年将出现合计净亏损43亿美元，而2025年则预计盈利72亿美元。",
+          "url": "https://flash.jin10.com/detail/20260607210155665800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "国际航空运输协会：航空业整体收入预计在2026年达到1.165万亿美元，较2025年的1.065万亿美元有所增长。",
+          "url": "https://flash.jin10.com/detail/20260607210135427800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         }
       ]
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "九大科技股一日蒸发万亿美元！一文纵览华尔街解读周五抛售",
@@ -971,19 +1200,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 19时55分]"
-        },
-        {
-          "title": "全球科技股遭遇“黑色星期五”",
-          "url": "https://www.toutiao.com/trending/7648563166284382250/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 22时10分]"
         },
         {
           "title": "格雷博智能动力科技递表港交所",
@@ -992,9 +1210,32 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
+        },
+        {
+          "title": "中信建投：当前海外科技板块整体维持择优增持、逢低布局的核心策略",
+          "url": "https://wallstreetcn.com/livenews/3115568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "全球科技股遭遇“黑色星期五”",
+          "url": "https://www.toutiao.com/trending/7648563166284382250/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 22时10分]"
         },
         {
           "title": "深观察｜激发文化创新活力，加快文化产业高质量发展",
@@ -1006,6 +1247,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时14分 ~ 06时11分]"
+        },
+        {
+          "title": "考生考完数学称“出题好创新”",
+          "url": "https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%80%83%E5%AE%8C%E6%95%B0%E5%AD%A6%E7%A7%B0%E2%80%9C%E5%87%BA%E9%A2%98%E5%A5%BD%E5%88%9B%E6%96%B0%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 22时10分]"
         },
         {
           "title": "百度成立数字人创新业务部",
@@ -1020,26 +1273,37 @@
           "time_info": "[17时27分 ~ 19时55分]"
         },
         {
-          "title": "考生考完数学称“出题好创新”",
-          "url": "https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%80%83%E5%AE%8C%E6%95%B0%E5%AD%A6%E7%A7%B0%E2%80%9C%E5%87%BA%E9%A2%98%E5%A5%BD%E5%88%9B%E6%96%B0%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        },
-        {
           "title": "中信证券：短期美股科技股调整，市场料将继续维持高波动状态",
           "url": "https://flash.jin10.com/detail/20260607184311159800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
+        },
+        {
+          "title": "黄玉峰谈2026上海高考作文：要注意科技与想象的辩证关系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33328819",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "专家：高考语文全国卷作文以“变”与“不变”引导学生在创新中把握恒常",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33327996",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "如何评价 2026 高考上海卷作文题，「科技改造想象」是不是很容易找到写作切入点？",
@@ -1051,12 +1315,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "“科技改造世界时，也改造着我们的想象”，2026年上海高考作文题新鲜出炉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33327993",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         }
       ]
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "加码严打,短剧行业遭整改",
@@ -1066,11 +1341,12 @@
             12,
             18,
             23,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 19时55分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 22时10分]"
         },
         {
           "title": "阿斯麦：马斯克将出席本公司闭门技术研讨会，讨论Terafab项目",
@@ -1108,6 +1384,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "中国逐日工程多项关键技术获新突破",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%80%90%E6%97%A5%E5%B7%A5%E7%A8%8B%E5%A4%9A%E9%A1%B9%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E8%8E%B7%E6%96%B0%E7%AA%81%E7%A0%B4%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "清洁低碳氢煤混烧技术取得重大突破",
+          "url": "https://www.douyin.com/hot/2526517",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "京东方A回应存储涨价对显示行业的影响",
@@ -1150,8 +1448,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 19时55分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 22时10分]"
         },
         {
           "title": "报道：黄仁勋周日将会见韩国游戏公司CEO，SK海力士老板回应HBM会谈提问，预告“下周另有安排”",
@@ -1172,11 +1470,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354946&amp;topic_name=%E6%B8%B8%E6%88%8F%E5%9C%88%E9%81%AD%E6%AF%92%E6%89%8B%2C%E5%A5%B3%E4%BB%86%E5%8F%98%E4%B8%AB%E5%A4%B4",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 22时10分]"
         },
         {
           "title": "英伟达CEO黄仁勋：内存短缺将持续数年。",
@@ -1185,7 +1484,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -1239,11 +1538,12 @@
           "url": "https://wallstreetcn.com/articles/3774034",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 22时10分]"
         }
       ]
     },
