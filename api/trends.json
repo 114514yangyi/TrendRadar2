@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T05:55:22.850803+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-06-10T07:22:51.036225+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 05时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 07时22分]"
         },
         {
           "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
@@ -38,20 +38,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
         {
-          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
-          "url": "https://www.cls.cn/detail/2394903",
-          "source": "财联社热门",
+          "title": "知情人士：SpaceX轨道AI计算测试计划将提前至2027年",
+          "url": "https://flash.jin10.com/detail/20260610063641524800",
+          "source": "金十数据",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 05时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
@@ -59,11 +59,24 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 05时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 07时22分]"
+        },
+        {
+          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
+          "url": "https://www.cls.cn/detail/2394903",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 07时22分]"
         },
         {
           "title": "中东暂歇火、AI牛股继续嗨 高盛提醒动量交易风险 | 今夜看点",
@@ -94,11 +107,23 @@
           "url": "https://wallstreetcn.com/articles/3774243",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 07时22分]"
+        },
+        {
+          "title": "消息人士：SpaceX告知投资者，其目标是在2027年启动轨道AI计算测试。",
+          "url": "https://flash.jin10.com/detail/20260610062928337800",
+          "source": "金十数据",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时55分"
+          "time_info": "07时22分"
         },
         {
           "title": "欧盟勒令Meta暂停针对AI竞争对手们限制WhatsApp。 要求该公司在五个工作日内做到合规。",
@@ -110,6 +135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "苹果发布 Siri AI 等 AI 功能，市值一夜蒸发超 5700 亿元，为何投资者反应平平？",
+          "url": "https://www.zhihu.com/question/2047616042067834810",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "富国银行警示：AI概念股遭遇猛烈抛售，给狂热投资者敲响“清道夫式”警钟",
@@ -129,7 +165,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
@@ -140,7 +176,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
@@ -178,6 +214,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "针对美国AI标准与创新中心，白宫要求Caisi停止披露公共报告。 Caisi被要求暂停披露关于AI模型评估的信息。 这反映白宫正加强对人工智能模型的管控。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3117045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
           "title": "布局“AI+能源” 南通三年行动方案出炉",
           "url": "https://wallstreetcn.com/livenews/3116916",
           "source": "华尔街见闻-快讯",
@@ -195,7 +242,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         }
@@ -203,19 +250,8 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
-        {
-          "title": "据华尔街日报：特朗普政府要求人工智能测试机构停止发布公开报告，反映白宫正加强对人工智能模型的管控。",
-          "url": "https://flash.jin10.com/detail/20260610055143921800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
         {
           "title": "明晟公司MSCI北欧国家指数跌1.5%，报381.70点。 在十个板块中，北欧工业板块跌幅最大。 诺基亚跌7.0%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3116939",
@@ -228,17 +264,64 @@
           "time_info": "00时09分"
         },
         {
+          "title": "深化改革落地两月，创业板IPO暖意起",
+          "url": "https://wallstreetcn.com/livenews/3117064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "据华尔街日报：特朗普政府要求人工智能测试机构停止发布公开报告，反映白宫正加强对人工智能模型的管控。",
+          "url": "https://flash.jin10.com/detail/20260610055143921800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 07时22分]"
+        },
+        {
           "title": "德国退出法德 FCAS 战斗机项目，将对欧洲防务合作带来哪些挑战？",
           "url": "https://www.zhihu.com/question/2047473562320164586",
           "source": "知乎",
           "ranks": [
             11,
             18,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 05时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 07时22分]"
+        },
+        {
+          "title": "武磊国家队百场纪念，第101次上场！中泰男足0比0",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33344405",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 07时22分]"
+        },
+        {
+          "title": "国足为武磊举行国家队百场纪念仪式",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E4%B8%BA%E6%AD%A6%E7%A3%8A%E4%B8%BE%E8%A1%8C%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%99%BE%E5%9C%BA%E7%BA%AA%E5%BF%B5%E4%BB%AA%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 07时22分]"
         },
         {
           "title": "美国最大电网运营商PJM针对其大西洋中部及南部服务区发布了6月11日至12日的高温天气预警。",
@@ -252,6 +335,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "DR007重回政策利率上方，资金面由超宽松回归均衡",
+          "url": "https://wallstreetcn.com/livenews/3117055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
           "title": "美国国家飓风中心（NHC）：风暴“克里斯蒂娜”（Cristina）在尼加拉瓜西北部沿海附近移动缓慢；预计未来几天中美洲部分地区将出现强降雨。",
           "url": "https://flash.jin10.com/detail/20260610023444030800",
           "source": "金十数据",
@@ -263,15 +357,26 @@
           "time_info": "03时22分"
         },
         {
-          "title": "武磊国家队百场纪念，第101次上场！中泰男足0比0",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33344405",
-          "source": "澎湃新闻",
+          "title": "美国对于伊朗南部的袭击已经减弱。（伊朗国家电视台）",
+          "url": "https://wallstreetcn.com/livenews/3117053",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时55分"
+          "time_info": "07时22分"
+        },
+        {
+          "title": "据伊朗国家媒体：在美国对伊朗南部地区发动袭击后，目前局势已恢复平静。",
+          "url": "https://flash.jin10.com/detail/20260610061434000800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "国家体育总局科研所与世卫组织签署合作意向书",
@@ -285,13 +390,24 @@
           "time_info": "00时09分"
         },
         {
+          "title": "日本与英国料将围绕离岸（海上）风电合作达成共识。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3117048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
           "title": "以色列国防军：在监测到有发射物从黎巴嫩射向以色列北部多个定居点后，后方司令部发布了预防性指令。当局要求民众在警报响起时进入掩体或安全空间。",
           "url": "https://flash.jin10.com/detail/20260610050419639800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
@@ -302,7 +418,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
@@ -316,17 +432,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
-        },
-        {
-          "title": "国足为武磊举行国家队百场纪念仪式",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E4%B8%BA%E6%AD%A6%E7%A3%8A%E4%B8%BE%E8%A1%8C%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%99%BE%E5%9C%BA%E7%BA%AA%E5%BF%B5%E4%BB%AA%E5%BC%8F",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时55分"
         },
         {
           "title": "阿布扎比国家石油公司首席执行官：阿布扎比国家石油公司的子公司XRG对加拿大上游和液化天然气领域的机会非常感兴趣。",
@@ -346,7 +451,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
@@ -365,7 +470,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "外交部：已向韩方提出严正交涉",
@@ -376,8 +481,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 05时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 07时22分]"
         },
         {
           "title": "韩国议员窜访台湾，外交部表态",
@@ -387,8 +492,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 05时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 07时22分]"
         },
         {
           "title": "伊朗外长重申霍尔木兹海峡不是国际水域",
@@ -409,8 +514,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 05时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 07时22分]"
         },
         {
           "title": "遭美拒签裁判无缘执法世界杯：感谢国际足联支持，将专注未来",
@@ -421,19 +526,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 05时55分]"
-        },
-        {
-          "title": "据纽约邮报：美国针对伊朗的报复性打击大约在30分钟前开始。美军声明中提到行动保持“对等性”，这可能暗示此次打击并非要重回全面战争状态。",
-          "url": "https://flash.jin10.com/detail/20260610052954565800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 07时22分]"
         },
         {
           "title": "美方将阿里巴巴、比亚迪等列入“涉军”清单，外交部：敦促美方停止无理打压中企",
@@ -442,7 +536,40 @@
           "ranks": [
             13
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 07时22分]"
+        },
+        {
+          "title": "伊朗外交部长：我们强大的武装部队绝不会让任何袭击或主权威胁免遭报复（定将对等血战到底）。 尽管美国在战场上屡遭惨败，但它依然愚蠢地选择来测试我们的钢铁意志。 如果你们（美军）想要保全自身性命，就立刻滚出我们的地区！",
+          "url": "https://wallstreetcn.com/livenews/3117062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "国际油价重挫5%！美能源部长称霍尔木兹海峡石油运输量正显著回升",
+          "url": "https://www.cls.cn/detail/2395328",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "据纽约邮报：美国针对伊朗的报复性打击大约在30分钟前开始。美军声明中提到行动保持“对等性”，这可能暗示此次打击并非要重回全面战争状态。",
+          "url": "https://flash.jin10.com/detail/20260610052954565800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
@@ -483,7 +610,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股跳水，纳指跌超3%，科技股回落，迈威尔科技大跌13%，金银油齐跌",
@@ -503,9 +630,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "科技股抛售潮再袭，纳指跌破上周五低点，消费股撑道指收涨，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3774176",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "6月基金发行热度不减，集中布局科技周期赛道",
+          "url": "https://wallstreetcn.com/livenews/3117068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "美股指跳水，纳指跌超1%，科技股回落，迈威尔科技跌超8%，金银油齐跌",
@@ -530,18 +679,6 @@
           "time_info": "03时22分"
         },
         {
-          "title": "【每日收评】创业板指震荡走高涨近4%，科技股迎集体反弹，PCB、芯片产业链联袂领涨",
-          "url": "https://www.cls.cn/detail/2394851",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 05时55分]"
-        },
-        {
           "title": "新质观察｜从“跟风”到“原创”：中国创新药如何筑牢地基",
           "url": "https://m.thepaper.cn/newsDetail_forward_33337089",
           "source": "澎湃新闻",
@@ -550,8 +687,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 05时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 07时22分]"
         },
         {
           "title": "3300 亿市值胜宏科技董事长被曝电梯亲密视频，公司称与生产经营无关，如何评价？会带来哪些影响？",
@@ -559,6 +696,18 @@
           "source": "知乎",
           "ranks": [
             16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 07时22分]"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走高涨近4%，科技股迎集体反弹，PCB、芯片产业链联袂领涨",
+          "url": "https://www.cls.cn/detail/2394851",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -582,7 +731,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
@@ -593,7 +742,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         }
@@ -603,6 +752,18 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
+        {
+          "title": "谷歌英伟达",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 07时22分]"
+        },
         {
           "title": "谷歌为Anthropic数据中心提供350亿美元融资担保",
           "url": "https://flash.jin10.com/detail/20260610024250153800",
@@ -620,17 +781,6 @@
           "source": "金十数据",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "谷歌英伟达",
-          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -676,6 +826,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "股价未能反映潜力！王传福：2027年将有“惊艳”技术爆发｜比亚迪股东大会",
+          "url": "https://www.cls.cn/detail/2395116",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 07时22分]"
+        },
+        {
           "title": "朱雀二号改进型再次成功发射 民商火箭工程化提速与行业格局分化并存",
           "url": "https://www.cls.cn/detail/2394867",
           "source": "财联社热门",
@@ -688,28 +850,17 @@
           "time_info": "[00时09分 ~ 05时55分]"
         },
         {
-          "title": "股价未能反映潜力！王传福：2027年将有“惊艳”技术爆发｜比亚迪股东大会",
-          "url": "https://www.cls.cn/detail/2395116",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 05时55分]"
-        },
-        {
           "title": "太空电站关键技术取得突破",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%AA%E7%A9%BA%E7%94%B5%E7%AB%99%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4",
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 05时55分]"
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 07时22分]"
         },
         {
           "title": "黑石集团买入特别风险转移（SRT），银行业正急于对冲贷款风险。",
@@ -729,7 +880,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         }
@@ -748,8 +899,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 05时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 07时22分]"
         },
         {
           "title": "美股三大股指盘中回升，道指率先转涨，标普500指数跌幅收窄至0.5%，纳指跌幅收窄至1.2%。",
@@ -769,7 +920,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         }
