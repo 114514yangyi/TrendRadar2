@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T03:22:51.702820+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-06-10T05:55:22.850803+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 05时55分]"
         },
         {
           "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
@@ -32,6 +32,17 @@
           "time_info": "[00时09分 ~ 03时22分]"
         },
         {
+          "title": "针对美国AI标准与创新中心，白宫要求Caisi停止披露公共报告。 这反映白宫正加强对人工智能模型的管控。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3117045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
           "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
           "url": "https://www.cls.cn/detail/2394903",
           "source": "财联社热门",
@@ -39,8 +50,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 05时55分]"
+        },
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 05时55分]"
+        },
+        {
+          "title": "中东暂歇火、AI牛股继续嗨 高盛提醒动量交易风险 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2395176",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 05时55分]"
         },
         {
           "title": "腾讯高管称今年大部分代码都由 AI 生成，这会对软件开发行业带来哪些深远影响？",
@@ -55,27 +90,15 @@
           "time_info": "[00时09分 ~ 03时22分]"
         },
         {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
+          "title": "上周五的暴跌只是预演？高盛、巴克莱齐发警告：AI交易拥挤度已爆表",
+          "url": "https://wallstreetcn.com/articles/3774243",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时22分]"
-        },
-        {
-          "title": "中东暂歇火、AI牛股继续嗨 高盛提醒动量交易风险 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2395176",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         },
         {
           "title": "欧盟勒令Meta暂停针对AI竞争对手们限制WhatsApp。 要求该公司在五个工作日内做到合规。",
@@ -95,9 +118,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "狂揽70亿美元：超微电脑拟启动巨额股权融资，全力囤货抢购AI芯片与关键组件",
+          "url": "https://wallstreetcn.com/livenews/3117028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "紧跟福特步伐！通用汽车高调杀入数据中心储能赛道，携手Peak Energy抢占AI电力红利",
+          "url": "https://wallstreetcn.com/livenews/3117027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         },
         {
           "title": "都在盯地缘和AI，真正没准备的可能是加息风险！",
@@ -128,7 +173,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -142,12 +187,185 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "美国白宫AI政策顾问Thomas Lind将离职。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3117016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国家 改革 政策 发布 合作",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "据华尔街日报：特朗普政府要求人工智能测试机构停止发布公开报告，反映白宫正加强对人工智能模型的管控。",
+          "url": "https://flash.jin10.com/detail/20260610055143921800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌1.5%，报381.70点。 在十个板块中，北欧工业板块跌幅最大。 诺基亚跌7.0%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3116939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时09分"
+        },
+        {
+          "title": "德国退出法德 FCAS 战斗机项目，将对欧洲防务合作带来哪些挑战？",
+          "url": "https://www.zhihu.com/question/2047473562320164586",
+          "source": "知乎",
+          "ranks": [
+            11,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 05时55分]"
+        },
+        {
+          "title": "美国最大电网运营商PJM针对其大西洋中部及南部服务区发布了6月11日至12日的高温天气预警。",
+          "url": "https://flash.jin10.com/detail/20260610025620669800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国国家飓风中心（NHC）：风暴“克里斯蒂娜”（Cristina）在尼加拉瓜西北部沿海附近移动缓慢；预计未来几天中美洲部分地区将出现强降雨。",
+          "url": "https://flash.jin10.com/detail/20260610023444030800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "武磊国家队百场纪念，第101次上场！中泰男足0比0",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33344405",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "国家体育总局科研所与世卫组织签署合作意向书",
+          "url": "https://wallstreetcn.com/livenews/3116920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时09分"
+        },
+        {
+          "title": "以色列国防军：在监测到有发射物从黎巴嫩射向以色列北部多个定居点后，后方司令部发布了预防性指令。当局要求民众在警报响起时进入掩体或安全空间。",
+          "url": "https://flash.jin10.com/detail/20260610050419639800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "市场消息：白宫人工智能政策顾问托马斯·林德（Thomas Lind）即将离职。",
+          "url": "https://flash.jin10.com/detail/20260610044447360800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "康小伟突发疾病在国家队集训驻地逝世",
+          "url": "https://www.baidu.com/s?wd=%E5%BA%B7%E5%B0%8F%E4%BC%9F%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85%E5%9C%A8%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%9B%86%E8%AE%AD%E9%A9%BB%E5%9C%B0%E9%80%9D%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时09分"
+        },
+        {
+          "title": "国足为武磊举行国家队百场纪念仪式",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E4%B8%BA%E6%AD%A6%E7%A3%8A%E4%B8%BE%E8%A1%8C%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%99%BE%E5%9C%BA%E7%BA%AA%E5%BF%B5%E4%BB%AA%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "阿布扎比国家石油公司首席执行官：阿布扎比国家石油公司的子公司XRG对加拿大上游和液化天然气领域的机会非常感兴趣。",
+          "url": "https://flash.jin10.com/detail/20260610015737414800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3117014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "Anthropic发布不具备执行网络安全任务能力的Mythos模型",
+          "url": "https://wallstreetcn.com/livenews/3116966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         }
       ]
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "外交部：已向韩方提出严正交涉",
@@ -158,8 +376,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 05时55分]"
         },
         {
           "title": "韩国议员窜访台湾，外交部表态",
@@ -169,8 +387,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 05时55分]"
         },
         {
           "title": "伊朗外长重申霍尔木兹海峡不是国际水域",
@@ -179,7 +397,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -191,19 +409,42 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 05时55分]"
         },
         {
           "title": "遭美拒签裁判无缘执法世界杯：感谢国际足联支持，将专注未来",
           "url": "https://m.thepaper.cn/newsDetail_forward_33341639",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 05时55分]"
+        },
+        {
+          "title": "据纽约邮报：美国针对伊朗的报复性打击大约在30分钟前开始。美军声明中提到行动保持“对等性”，这可能暗示此次打击并非要重回全面战争状态。",
+          "url": "https://flash.jin10.com/detail/20260610052954565800",
+          "source": "金十数据",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "05时55分"
+        },
+        {
+          "title": "美方将阿里巴巴、比亚迪等列入“涉军”清单，外交部：敦促美方停止无理打压中企",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33341315",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         },
         {
           "title": "伊朗最高领袖：我们从未寻求战争，也不寻求战争，但我们绝不会放弃我们的合法权利。",
@@ -223,7 +464,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -241,103 +482,8 @@
       ]
     },
     {
-      "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "明晟公司MSCI北欧国家指数跌1.5%，报381.70点。 在十个板块中，北欧工业板块跌幅最大。 诺基亚跌7.0%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3116939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "德国退出法德 FCAS 战斗机项目，将对欧洲防务合作带来哪些挑战？",
-          "url": "https://www.zhihu.com/question/2047473562320164586",
-          "source": "知乎",
-          "ranks": [
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时22分]"
-        },
-        {
-          "title": "美国最大电网运营商PJM针对其大西洋中部及南部服务区发布了6月11日至12日的高温天气预警。",
-          "url": "https://flash.jin10.com/detail/20260610025620669800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "美国国家飓风中心（NHC）：风暴“克里斯蒂娜”（Cristina）在尼加拉瓜西北部沿海附近移动缓慢；预计未来几天中美洲部分地区将出现强降雨。",
-          "url": "https://flash.jin10.com/detail/20260610023444030800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "国家体育总局科研所与世卫组织签署合作意向书",
-          "url": "https://wallstreetcn.com/livenews/3116920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "康小伟突发疾病在国家队集训驻地逝世",
-          "url": "https://www.baidu.com/s?wd=%E5%BA%B7%E5%B0%8F%E4%BC%9F%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85%E5%9C%A8%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%9B%86%E8%AE%AD%E9%A9%BB%E5%9C%B0%E9%80%9D%E4%B8%96",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "阿布扎比国家石油公司首席执行官：阿布扎比国家石油公司的子公司XRG对加拿大上游和液化天然气领域的机会非常感兴趣。",
-          "url": "https://flash.jin10.com/detail/20260610015737414800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "Anthropic发布不具备执行网络安全任务能力的Mythos模型",
-          "url": "https://wallstreetcn.com/livenews/3116966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股跳水，纳指跌超3%，科技股回落，迈威尔科技大跌13%，金银油齐跌",
@@ -346,9 +492,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "美股高开低走，盘中跳水，纳指跌超3%，迈威尔科技大跌13%，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3774176",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         },
         {
           "title": "美股指跳水，纳指跌超1%，科技股回落，迈威尔科技跌超8%，金银油齐跌",
@@ -368,7 +525,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -381,19 +538,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 05时55分]"
         },
         {
           "title": "新质观察｜从“跟风”到“原创”：中国创新药如何筑牢地基",
           "url": "https://m.thepaper.cn/newsDetail_forward_33337089",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 05时55分]"
         },
         {
           "title": "3300 亿市值胜宏科技董事长被曝电梯亲密视频，公司称与生产经营无关，如何评价？会带来哪些影响？",
@@ -403,8 +561,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 05时55分]"
         },
         {
           "title": "纳指日内跌幅扩大至逾1.5%，标普500指数跌1%。费城半导体指数跌3.7%，高通(QCOM.O)跌7.5%，英特尔(INTC.O)跌3.6%，美光科技(MU.O)跌4%。",
@@ -416,6 +574,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "“海洋地质六号”最新成果：我国深海电磁测量技术迎新突破",
+          "url": "https://wallstreetcn.com/livenews/3117019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "标普500指数的11个板块多数收涨，房地产板块涨2.13%，原材料、保健、工业、公用事业板块至多涨1.72%，能源板块则收跌1.6%，信息技术/科技板块跌1.82%。",
+          "url": "https://wallstreetcn.com/livenews/3117013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         }
       ]
     },
@@ -430,7 +610,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -441,7 +621,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -452,7 +632,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -463,7 +643,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -474,7 +654,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -485,7 +665,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         }
@@ -493,7 +673,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "朱雀二号改进型再次成功发射 民商火箭工程化提速与行业格局分化并存",
@@ -504,8 +684,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 05时55分]"
         },
         {
           "title": "股价未能反映潜力！王传福：2027年将有“惊艳”技术爆发｜比亚迪股东大会",
@@ -516,19 +696,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 05时55分]"
         },
         {
           "title": "太空电站关键技术取得突破",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%AA%E7%A9%BA%E7%94%B5%E7%AB%99%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 05时55分]"
         },
         {
           "title": "黑石集团买入特别风险转移（SRT），银行业正急于对冲贷款风险。",
@@ -537,15 +718,26 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "行业周报：美国上周API原油库存锐减超900万桶",
+          "url": "https://wallstreetcn.com/livenews/3117017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         }
       ]
     },
     {
       "keyword_group": "美股 美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -556,8 +748,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 05时55分]"
         },
         {
           "title": "美股三大股指盘中回升，道指率先转涨，标普500指数跌幅收窄至0.5%，纳指跌幅收窄至1.2%。",
@@ -566,9 +758,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "周二（6月9日），美股行业ETF多数收涨，全球航空业ETF涨3.10%，生物科技指数ETF、银行业ETF、医疗业ETF、区域银行ETF、日常消费品ETF、公用事业ETF至多涨1.46%，网络股指数ETF、半导体ETF至多收跌1.20%，全球科技股指数ETF、能源业ETF、科技行业ETF至多跌1.85%。",
+          "url": "https://wallstreetcn.com/livenews/3117012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         }
       ]
     }
