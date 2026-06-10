@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T16:56:12.056918+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-06-10T20:32:18.287748+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
@@ -24,11 +24,23 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3Dai%20Dai",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时55分 ~ 20时32分]"
+        },
+        {
+          "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
+          "url": "https://www.cls.cn/detail/2396017",
+          "source": "财联社热门",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时55分 ~ 16时56分]"
+          "time_info": "[20时31分 ~ 20时32分]"
         },
         {
           "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
@@ -60,7 +72,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -93,7 +105,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -123,6 +135,18 @@
           "time_info": "[05时55分 ~ 16时56分]"
         },
         {
+          "title": "AI入口重燃战火？多家互联网企业官宣接入微信AI生态，能带来什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33343767",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 20时32分]"
+        },
+        {
           "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
           "url": "https://wallstreetcn.com/articles/3774156",
           "source": "华尔街见闻",
@@ -146,6 +170,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时09分 ~ 07时22分]"
+        },
+        {
+          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
+          "url": "https://wallstreetcn.com/articles/3774282",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时55分 ~ 20时32分]"
+        },
+        {
+          "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
+          "url": "https://www.zhihu.com/question/2047598353421170561",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时55分 ~ 20时32分]"
         },
         {
           "title": "中东暂歇火、AI牛股继续嗨 高盛提醒动量交易风险 | 今夜看点",
@@ -172,18 +219,6 @@
           "time_info": "[12时22分 ~ 16时56分]"
         },
         {
-          "title": "AI入口重燃战火？多家互联网企业官宣接入微信AI生态，能带来什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33343767",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 16时56分]"
-        },
-        {
           "title": "腾讯高管称今年大部分代码都由 AI 生成，这会对软件开发行业带来哪些深远影响？",
           "url": "https://www.zhihu.com/question/2046196309359646371",
           "source": "知乎",
@@ -194,17 +229,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 03时22分]"
-        },
-        {
-          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
-          "url": "https://wallstreetcn.com/articles/3774282",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 16时56分]"
         },
         {
           "title": "金刚石助力芯片突破散热瓶颈 AI算力进一步打开应用空间",
@@ -229,15 +253,26 @@
           "time_info": "[16时55分 ~ 16时56分]"
         },
         {
-          "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
-          "url": "https://www.zhihu.com/question/2047598353421170561",
-          "source": "知乎",
+          "title": "小米AI上岛",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3AI%E4%B8%8A%E5%B2%9B%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时55分 ~ 16时56分]"
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
+          "title": "分析｜受AI产业热潮、价格因素等推动，5月进出口双双高增",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33344044",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
         },
         {
           "title": "Claude神话模型Mythos发布",
@@ -396,8 +431,429 @@
       ]
     },
     {
+      "keyword_group": "国家 改革 政策 发布 合作",
+      "match_count": 37,
+      "titles": [
+        {
+          "title": "武磊国家队百场纪念，第101次上场！中泰男足0比0",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33344405",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时55分 ~ 20时32分]"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌1.5%，报381.70点。 在十个板块中，北欧工业板块跌幅最大。 诺基亚跌7.0%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3116939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时09分"
+        },
+        {
+          "title": "小红书发布《Skill上传规范》，明确平台立场",
+          "url": "https://wallstreetcn.com/livenews/3117357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "国家统计局：5月份CPI同比上涨1.2% PPI同比上涨3.9%",
+          "url": "https://www.cls.cn/detail/2395543",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 16时56分]"
+        },
+        {
+          "title": "中矿资源集团与津巴布韦矿业部深化交流合作",
+          "url": "https://flash.jin10.com/detail/20260610163848706800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "深化改革落地两月，创业板IPO暖意起",
+          "url": "https://wallstreetcn.com/livenews/3117064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "据华尔街日报：特朗普政府要求人工智能测试机构停止发布公开报告，反映白宫正加强对人工智能模型的管控。",
+          "url": "https://flash.jin10.com/detail/20260610055143921800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 07时22分]"
+        },
+        {
+          "title": "德国退出法德 FCAS 战斗机项目，将对欧洲防务合作带来哪些挑战？",
+          "url": "https://www.zhihu.com/question/2047473562320164586",
+          "source": "知乎",
+          "ranks": [
+            11,
+            18,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 07时22分]"
+        },
+        {
+          "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
+          "url": "https://www.cls.cn/detail/2396287",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
+          "title": "为什么国家要在教材上设置反自学模式，难道非要老师教吗？就不能自己学吗？",
+          "url": "https://www.zhihu.com/question/1939204343371928254",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
+          "title": "国足为武磊举行国家队百场纪念仪式",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E4%B8%BA%E6%AD%A6%E7%A3%8A%E4%B8%BE%E8%A1%8C%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%99%BE%E5%9C%BA%E7%BA%AA%E5%BF%B5%E4%BB%AA%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 07时22分]"
+        },
+        {
+          "title": "千问高考志愿大模型权威发布",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9D%83%E5%A8%81%E5%8F%91%E5%B8%83%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 16时56分]"
+        },
+        {
+          "title": "美国最大电网运营商PJM针对其大西洋中部及南部服务区发布了6月11日至12日的高温天气预警。",
+          "url": "https://flash.jin10.com/detail/20260610025620669800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "小红书发布《Skill上传规范》 明确平台立场",
+          "url": "https://flash.jin10.com/detail/20260610163552448800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "影石发布全球首款8K徕卡双摄云台相机Luna Ultra，售价3999元起",
+          "url": "https://wallstreetcn.com/livenews/3117491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "Anthropic发布Mythos系列新模型：代码、科研、视觉能力全面突破",
+          "url": "https://www.cls.cn/detail/2395360",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "城市轨道交通车辆“体检标准” 新规发布 今年11月起实施",
+          "url": "https://flash.jin10.com/detail/20260610163224003800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "DR007重回政策利率上方，资金面由超宽松回归均衡",
+          "url": "https://wallstreetcn.com/livenews/3117055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "美国国家飓风中心（NHC）：风暴“克里斯蒂娜”（Cristina）在尼加拉瓜西北部沿海附近移动缓慢；预计未来几天中美洲部分地区将出现强降雨。",
+          "url": "https://flash.jin10.com/detail/20260610023444030800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国对于伊朗南部的袭击已经减弱。（伊朗国家电视台）",
+          "url": "https://wallstreetcn.com/livenews/3117053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "据伊朗国家媒体：在美国对伊朗南部地区发动袭击后，目前局势已恢复平静。",
+          "url": "https://flash.jin10.com/detail/20260610061434000800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "荣耀YOYO与微信A2A合作正式上线",
+          "url": "https://wallstreetcn.com/livenews/3117333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "火山引擎与周星驰旗下比高集团达成版权合作",
+          "url": "https://wallstreetcn.com/livenews/3117485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "国家体育总局科研所与世卫组织签署合作意向书",
+          "url": "https://wallstreetcn.com/livenews/3116920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时09分"
+        },
+        {
+          "title": "日本与英国料将围绕离岸（海上）风电合作达成共识。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3117048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "以色列国防军：在监测到有发射物从黎巴嫩射向以色列北部多个定居点后，后方司令部发布了预防性指令。当局要求民众在警报响起时进入掩体或安全空间。",
+          "url": "https://flash.jin10.com/detail/20260610050419639800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "决战CPI！能源冲击拉高总体通胀，核心分化令美联储政策再添悬念",
+          "url": "https://flash.jin10.com/detail/20260610200551587800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "市场消息：白宫人工智能政策顾问托马斯·林德（Thomas Lind）即将离职。",
+          "url": "https://flash.jin10.com/detail/20260610044447360800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "美国与其他国家的联合声明中还提及了伊朗在北美的威胁。",
+          "url": "https://flash.jin10.com/detail/20260610200523643800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "康小伟突发疾病在国家队集训驻地逝世",
+          "url": "https://www.baidu.com/s?wd=%E5%BA%B7%E5%B0%8F%E4%BC%9F%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85%E5%9C%A8%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%9B%86%E8%AE%AD%E9%A9%BB%E5%9C%B0%E9%80%9D%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时09分"
+        },
+        {
+          "title": "美国与其他国家发表联合声明，谴责伊朗伊斯兰革命卫队在欧洲的致命阴谋及其他恶意行动。",
+          "url": "https://flash.jin10.com/detail/20260610200504730800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "阿布扎比国家石油公司首席执行官：阿布扎比国家石油公司的子公司XRG对加拿大上游和液化天然气领域的机会非常感兴趣。",
+          "url": "https://flash.jin10.com/detail/20260610015737414800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报165100元/吨，较上日16:30价格上涨750元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3117179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "硅基流动：与贵州移动深化战略合作，加速“Token工厂”建设",
+          "url": "https://wallstreetcn.com/livenews/3117474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3117014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "腾讯云与华硕电脑签署战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/3117316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "Anthropic发布不具备执行网络安全任务能力的Mythos模型",
+          "url": "https://wallstreetcn.com/livenews/3116966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "国际 外交 战争",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "外交部：已向韩方提出严正交涉",
@@ -413,6 +869,18 @@
           "time_info": "[00时09分 ~ 16时56分]"
         },
         {
+          "title": "中东局势再次升级，外交部回应",
+          "url": "https://news.ifeng.com/c/8tqO0HPwZF8",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时55分 ~ 20时32分]"
+        },
+        {
           "title": "韩国议员窜访台湾，外交部表态",
           "url": "https://news.ifeng.com/c/8tokCBuSl1E",
           "source": "凤凰网",
@@ -426,14 +894,15 @@
         },
         {
           "title": "中东局势再次升级，外交部回应",
-          "url": "https://news.ifeng.com/c/8tqO0HPwZF8",
-          "source": "凤凰网",
+          "url": "https://www.cls.cn/detail/2395923",
+          "source": "财联社热门",
           "ranks": [
-            1
+            11,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 16时56分]"
+          "appearance_count": 4,
+          "time_info": "[16时55分 ~ 20时32分]"
         },
         {
           "title": "国际油价金价大跌",
@@ -453,7 +922,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -464,7 +933,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -528,15 +997,15 @@
           "time_info": "[07时22分 ~ 12时22分]"
         },
         {
-          "title": "中东局势再次升级，外交部回应",
-          "url": "https://www.cls.cn/detail/2395923",
-          "source": "财联社热门",
+          "title": "外交部回应日方抹黑中国军事活动",
+          "url": "https://www.toutiao.com/trending/7648988382177099817/",
+          "source": "今日头条",
           "ranks": [
-            11
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时55分 ~ 16时56分]"
+          "time_info": "[20时31分 ~ 20时32分]"
         },
         {
           "title": "德国航运公司赫伯罗特CEO：霍尔木兹海峡重新开放后，将重新思考长期服务海湾地区的运输方式，但很多做法会恢复到伊朗战争之前的状态。",
@@ -545,7 +1014,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -567,7 +1036,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -589,7 +1058,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -600,7 +1069,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -622,7 +1091,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -633,7 +1102,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -655,7 +1124,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -677,9 +1146,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
+        },
+        {
+          "title": "伊拉克重申国际联盟将于9月前撤军",
+          "url": "https://wallstreetcn.com/livenews/3117476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：美国持续违反停火协议，损害外交进程。",
@@ -688,7 +1168,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -699,7 +1179,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -710,9 +1190,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
+        },
+        {
+          "title": "国际现货黄金讲解中",
+          "url": "https://flash.jin10.com/detail/20260610200154335800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "据国际文传电讯社引述州长消息称，俄罗斯弗拉基米尔州两处工业设施在无人机袭击后起火。",
@@ -726,6 +1217,17 @@
           "time_info": "12时22分"
         },
         {
+          "title": "俄外交部：俄愿为通过谈判解决伊朗问题提供便利",
+          "url": "https://wallstreetcn.com/livenews/3117470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "调查：经济学家预计美联储今年将按兵不动，因战争引发的通胀持续",
           "url": "https://wallstreetcn.com/livenews/3116905",
           "source": "华尔街见闻-快讯",
@@ -735,344 +1237,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 29,
-      "titles": [
+        },
         {
-          "title": "明晟公司MSCI北欧国家指数跌1.5%，报381.70点。 在十个板块中，北欧工业板块跌幅最大。 诺基亚跌7.0%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3116939",
+          "title": "俄外交部发言人：俄将强硬回应欧盟新一轮制裁",
+          "url": "https://wallstreetcn.com/livenews/3117469",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "小红书发布《Skill上传规范》，明确平台立场",
-          "url": "https://wallstreetcn.com/livenews/3117357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "国家统计局：5月份CPI同比上涨1.2% PPI同比上涨3.9%",
-          "url": "https://www.cls.cn/detail/2395543",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 16时56分]"
-        },
-        {
-          "title": "中矿资源集团与津巴布韦矿业部深化交流合作",
-          "url": "https://flash.jin10.com/detail/20260610163848706800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "深化改革落地两月，创业板IPO暖意起",
-          "url": "https://wallstreetcn.com/livenews/3117064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "武磊国家队百场纪念，第101次上场！中泰男足0比0",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33344405",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时55分 ~ 16时56分]"
-        },
-        {
-          "title": "据华尔街日报：特朗普政府要求人工智能测试机构停止发布公开报告，反映白宫正加强对人工智能模型的管控。",
-          "url": "https://flash.jin10.com/detail/20260610055143921800",
-          "source": "金十数据",
-          "ranks": [
-            1,
             28
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 07时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
-          "title": "德国退出法德 FCAS 战斗机项目，将对欧洲防务合作带来哪些挑战？",
-          "url": "https://www.zhihu.com/question/2047473562320164586",
-          "source": "知乎",
+          "title": "挂单报告：国际现货黄金警惕下方空单 镑美下方多单密集",
+          "url": "https://flash.jin10.com/detail/20260610200029017800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            18,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 07时22分]"
-        },
-        {
-          "title": "国足为武磊举行国家队百场纪念仪式",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B3%E4%B8%BA%E6%AD%A6%E7%A3%8A%E4%B8%BE%E8%A1%8C%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%99%BE%E5%9C%BA%E7%BA%AA%E5%BF%B5%E4%BB%AA%E5%BC%8F",
-          "source": "百度热搜",
-          "ranks": [
-            22,
             30
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 07时22分]"
-        },
-        {
-          "title": "千问高考志愿大模型权威发布",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9D%83%E5%A8%81%E5%8F%91%E5%B8%83%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 16时56分]"
-        },
-        {
-          "title": "美国最大电网运营商PJM针对其大西洋中部及南部服务区发布了6月11日至12日的高温天气预警。",
-          "url": "https://flash.jin10.com/detail/20260610025620669800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "小红书发布《Skill上传规范》 明确平台立场",
-          "url": "https://flash.jin10.com/detail/20260610163552448800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "Anthropic发布Mythos系列新模型：代码、科研、视觉能力全面突破",
-          "url": "https://www.cls.cn/detail/2395360",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "城市轨道交通车辆“体检标准” 新规发布 今年11月起实施",
-          "url": "https://flash.jin10.com/detail/20260610163224003800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "DR007重回政策利率上方，资金面由超宽松回归均衡",
-          "url": "https://wallstreetcn.com/livenews/3117055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "美国国家飓风中心（NHC）：风暴“克里斯蒂娜”（Cristina）在尼加拉瓜西北部沿海附近移动缓慢；预计未来几天中美洲部分地区将出现强降雨。",
-          "url": "https://flash.jin10.com/detail/20260610023444030800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "美国对于伊朗南部的袭击已经减弱。（伊朗国家电视台）",
-          "url": "https://wallstreetcn.com/livenews/3117053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "据伊朗国家媒体：在美国对伊朗南部地区发动袭击后，目前局势已恢复平静。",
-          "url": "https://flash.jin10.com/detail/20260610061434000800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "荣耀YOYO与微信A2A合作正式上线",
-          "url": "https://wallstreetcn.com/livenews/3117333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "国家体育总局科研所与世卫组织签署合作意向书",
-          "url": "https://wallstreetcn.com/livenews/3116920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "日本与英国料将围绕离岸（海上）风电合作达成共识。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3117048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "以色列国防军：在监测到有发射物从黎巴嫩射向以色列北部多个定居点后，后方司令部发布了预防性指令。当局要求民众在警报响起时进入掩体或安全空间。",
-          "url": "https://flash.jin10.com/detail/20260610050419639800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "市场消息：白宫人工智能政策顾问托马斯·林德（Thomas Lind）即将离职。",
-          "url": "https://flash.jin10.com/detail/20260610044447360800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "康小伟突发疾病在国家队集训驻地逝世",
-          "url": "https://www.baidu.com/s?wd=%E5%BA%B7%E5%B0%8F%E4%BC%9F%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85%E5%9C%A8%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%9B%86%E8%AE%AD%E9%A9%BB%E5%9C%B0%E9%80%9D%E4%B8%96",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "阿布扎比国家石油公司首席执行官：阿布扎比国家石油公司的子公司XRG对加拿大上游和液化天然气领域的机会非常感兴趣。",
-          "url": "https://flash.jin10.com/detail/20260610015737414800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报165100元/吨，较上日16:30价格上涨750元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3117179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3117014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "腾讯云与华硕电脑签署战略合作协议",
-          "url": "https://wallstreetcn.com/livenews/3117316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "Anthropic发布不具备执行网络安全任务能力的Mythos模型",
-          "url": "https://wallstreetcn.com/livenews/3116966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "20时32分"
         }
       ]
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "科技股抛售潮再袭，纳指跌破上周五低点，消费股撑道指收涨，金银油齐跌",
@@ -1082,8 +1274,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 16时56分]"
+          "appearance_count": 6,
+          "time_info": "[07时22分 ~ 20时32分]"
         },
         {
           "title": "至少59所一流高校调整毕业规定，多个硕博拿学位不再“唯论文”",
@@ -1139,6 +1331,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
+          "url": "https://wallstreetcn.com/articles/3774257",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 20时32分]"
         },
         {
           "title": "美股指跳水，纳指跌超1%，科技股回落，迈威尔科技跌超8%，金银油齐跌",
@@ -1198,17 +1401,6 @@
           "time_info": "[00时09分 ~ 05时55分]"
         },
         {
-          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
-          "url": "https://wallstreetcn.com/articles/3774257",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 16时56分]"
-        },
-        {
           "title": "今年的牛股被谁承包了？科技浪下的A股版图重塑",
           "url": "https://www.cls.cn/detail/2395615",
           "source": "财联社热门",
@@ -1220,13 +1412,57 @@
           "time_info": "[16时55分 ~ 16时56分]"
         },
         {
+          "title": "【每日收评】深成指与创业板指双双跌超2%，科技股分化加剧，半导体材料逆势走强",
+          "url": "https://www.cls.cn/detail/2396047",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
+          "title": "建行股价再创新高！月内跑赢近九成个股，银行本月领跑市场，目前估值到哪里了？",
+          "url": "https://www.cls.cn/detail/2396065",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
+          "title": "《新疆师范大学学报》火速刊出「韬定律」相关论文，距该新闻首发仅八天，如何看待这篇文章及相关事件？",
+          "url": "https://www.zhihu.com/question/2046703254248088627",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
+          "title": "要不要从科技转战老蓝筹",
+          "url": "https://www.toutiao.com/trending/7649692694536523327/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
           "title": "美股芯片股盘前走低。美光科技跌近4%，迈威尔科技跌超3%，阿斯麦、英特尔跌超2%，英伟达跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3117347",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -1237,7 +1473,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -1251,6 +1487,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "自然指数2026科研领导者榜单出炉 中国多项指标居首",
+          "url": "https://wallstreetcn.com/livenews/3117486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "纳指日内跌幅扩大至逾1.5%，标普500指数跌1%。费城半导体指数跌3.7%，高通(QCOM.O)跌7.5%，英特尔(INTC.O)跌3.6%，美光科技(MU.O)跌4%。",
@@ -1303,7 +1550,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -1322,18 +1569,19 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "工信部：加强高端光电芯片和器件研发 开展光电混合组网技术试验",
           "url": "https://www.cls.cn/detail/2395872",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 16时56分]"
+          "appearance_count": 4,
+          "time_info": "[16时55分 ~ 20时32分]"
         },
         {
           "title": "股价未能反映潜力！王传福：2027年将有“惊艳”技术爆发｜比亚迪股东大会",
@@ -1373,13 +1621,35 @@
           "time_info": "[03时22分 ~ 07时22分]"
         },
         {
+          "title": "太空经济第一个颠覆的行业，为什么会是医药？",
+          "url": "https://wallstreetcn.com/articles/3774244",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
+          "title": "SemiAnalysis报告称两大关键技术延迟，引发“光电”大跌，网友激辩CPO",
+          "url": "https://wallstreetcn.com/articles/3774279",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
           "title": "商务部等8单位：鼓励金融机构为旅游列车技术改造和设备更新提供融资支持",
           "url": "https://wallstreetcn.com/livenews/3117350",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -1412,7 +1682,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         }
@@ -1528,6 +1798,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 steam 显卡 内存 处理器",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“内存减半”实为不得已？机构：英伟达要力保CPU出货",
+          "url": "https://www.cls.cn/detail/2396007",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
         }
       ]
     }
