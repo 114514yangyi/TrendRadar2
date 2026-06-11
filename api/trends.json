@@ -1,204 +1,11 @@
 {
-  "generated_at": "2026-06-11T08:23:38.163628+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2026-06-11T13:58:24.919033+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
-          "url": "https://www.cls.cn/detail/2396017",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 08时23分]"
-        },
-        {
-          "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33350280",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 08时23分]"
-        },
-        {
-          "title": "阿波罗：过多AI支出被用于“低智商”任务",
-          "url": "https://wallstreetcn.com/livenews/3117625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
-          "url": "https://wallstreetcn.com/articles/3774282",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 08时23分]"
-        },
-        {
-          "title": "于娜看到已故老公AI形象崩溃大哭",
-          "url": "https://www.toutiao.com/trending/7649760127175904777/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 08时23分]"
-        },
-        {
-          "title": "于娜看到已故丈夫AI形象崩溃大哭",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%A8%9C%E7%9C%8B%E5%88%B0%E5%B7%B2%E6%95%85%E4%B8%88%E5%A4%ABAI%E5%BD%A2%E8%B1%A1%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 08时23分]"
-        },
-        {
-          "title": "夏奇拉邀请你来跳Dai Dai",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3Dai%20Dai",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 06时11分]"
-        },
-        {
-          "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
-          "url": "https://www.zhihu.com/question/2047598353421170561",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 08时23分]"
-        },
-        {
-          "title": "Anthropic的CEO：政府应当有权封杀、阻断高风险新AI模型的部署",
-          "url": "https://wallstreetcn.com/livenews/3117664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时41分"
-        },
-        {
-          "title": "没有物理AI业务且与2026年世界杯不存在业务合作关系！四连板AI应用概念股发布异动公告|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2396351",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "特朗普称将与AI公司高管讨论回馈公众",
-          "url": "https://wallstreetcn.com/livenews/3117617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "报道：Altman预计OpenAI将于未来一年内IPO",
-          "url": "https://wallstreetcn.com/livenews/3117610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
-          "url": "https://wallstreetcn.com/livenews/3117653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时41分"
-        },
-        {
-          "title": "马斯克旗下xAI联合创始人Babuschkin自立门户，宣布与特斯拉旧部成立新公司River AI，主攻颠覆性“全个性化AI智能体”。",
-          "url": "https://wallstreetcn.com/livenews/3117706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "Anthropic CEO：不知道Claude是否被（特朗普）用于袭击伊朗学校。",
-          "url": "https://wallstreetcn.com/livenews/3117603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "阿波罗全球管理示警：律所和咨询公司等专业服务行业将面临AI颠覆",
-          "url": "https://wallstreetcn.com/livenews/3117649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "科技股抛售潮再袭，纳指跌破上周五低点，消费股撑道指收涨，金银油齐跌",
@@ -217,11 +24,12 @@
           "url": "https://wallstreetcn.com/articles/3774300",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时23分 ~ 13时58分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.12%，报24307点。 恒生科技指数主连夜盘收涨0.21%，报4720点。",
@@ -307,13 +115,46 @@
           "time_info": "06时11分"
         },
         {
+          "title": "A股光刻胶板块震荡走高，雅克科技触及涨停，南大光电、聚合材料、彤程新材、百合花跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3117935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
+          "url": "https://wallstreetcn.com/articles/3774357",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "韩国投资者持续加码中国硬科技，增持资产曝光",
+          "url": "https://www.cls.cn/detail/2396870",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "美银：客户上周抛售美国科技股规模创2008年以来最大",
           "url": "https://wallstreetcn.com/livenews/3117786",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
         },
@@ -335,7 +176,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
         },
@@ -346,9 +187,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
+        },
+        {
+          "title": "A股光刻胶板块震荡走高，雅克科技触及涨停，南大光电、聚合材料、彤程新材、百合花跟涨。",
+          "url": "https://flash.jin10.com/detail/20260611132142102800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "乌克兰宣布重大军事成果",
+          "url": "https://www.toutiao.com/trending/7648925525532131371/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "5月末百亿私募升至139家创新高，年内备案产品增长近五成",
@@ -357,7 +220,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
         },
@@ -379,16 +242,483 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
         }
       ]
     },
     {
-      "keyword_group": "国际 外交 战争",
-      "match_count": 14,
+      "keyword_group": "国家 改革 政策 发布 合作",
+      "match_count": 20,
       "titles": [
+        {
+          "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
+          "url": "https://www.cls.cn/detail/2396287",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 08时23分]"
+        },
+        {
+          "title": "伊朗革命卫队海军：我们警告任何在海湾和阿曼海停泊的船只，若靠近霍尔木兹海峡，将被视为与敌方合作。",
+          "url": "https://flash.jin10.com/detail/20260611134450932800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "美元在美国CPI通胀数据发布日大致持平",
+          "url": "https://wallstreetcn.com/livenews/3117675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "为什么国家要在教材上设置反自学模式，难道非要老师教吗？就不能自己学吗？",
+          "url": "https://www.zhihu.com/question/1939204343371928254",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 06时11分]"
+        },
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3117788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时23分"
+        },
+        {
+          "title": "赛力斯和豆包合作造车",
+          "url": "https://s.weibo.com/weibo?q=%E8%B5%9B%E5%8A%9B%E6%96%AF%E5%92%8C%E8%B1%86%E5%8C%85%E5%90%88%E4%BD%9C%E9%80%A0%E8%BD%A6&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时23分"
+        },
+        {
+          "title": "世界杯官方主题曲《DNA》发布",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%98%E6%96%B9%E4%B8%BB%E9%A2%98%E6%9B%B2%E3%80%8ADNA%E3%80%8B%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "美国总统特朗普：（关于国家情报总监提名）我们正在面试五位候选人。",
+          "url": "https://flash.jin10.com/detail/20260611000022410800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "据伊朗国家电视台：阿巴斯港传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260611054128793800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "评论｜武磊国家队生涯进入尾声，国足急需找到下一个武磊",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33350192",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数大致收平，报382.08点。 在十个板块中，北欧医疗保健板块涨幅最大。 马士基涨5.5%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3117612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "炽礼瞳合作曲MV上线",
+          "url": "https://www.douyin.com/hot/2530228",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "2026上合组织数字技术合作发展论坛开幕",
+          "url": "https://wallstreetcn.com/livenews/3117917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "经济日报：中国5月份物价“剪刀差”扩大，专家称促消费政策有加力空间",
+          "url": "https://wallstreetcn.com/livenews/3117765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时23分"
+        },
+        {
+          "title": "极兔速递股价跌超10%，此前国家邮政局依法对极兔速递有限公司立案调查。",
+          "url": "https://wallstreetcn.com/livenews/3117912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "Anthropic首席执行官阿莫代伊：政府应当有权叫停新人工智能模型的发布。",
+          "url": "https://flash.jin10.com/detail/20260611023504794800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "极兔速递股价跳水跌超4%。此前国家邮政局依法对极兔速递有限公司立案调查。",
+          "url": "https://wallstreetcn.com/livenews/3117907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "国家邮政局依法对极兔速递有限公司立案调查",
+          "url": "https://wallstreetcn.com/livenews/3117906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "梅西将解锁国家队200场里程碑",
+          "url": "https://www.douyin.com/hot/2529509",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时23分"
+        },
+        {
+          "title": "美国驻伊拉克首都大使馆发布安全警告：建议在伊拉克的公民保持警惕。",
+          "url": "https://wallstreetcn.com/livenews/3117700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Qwen DeepSeek Claude",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
+          "url": "https://www.cls.cn/detail/2396017",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 08时23分]"
+        },
+        {
+          "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33350280",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 13时58分]"
+        },
+        {
+          "title": "阿波罗：过多AI支出被用于“低智商”任务",
+          "url": "https://wallstreetcn.com/livenews/3117625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "于娜看到已故老公AI形象崩溃大哭",
+          "url": "https://www.toutiao.com/trending/7649760127175904777/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 13时58分]"
+        },
+        {
+          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
+          "url": "https://wallstreetcn.com/articles/3774282",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 08时23分]"
+        },
+        {
+          "title": "于娜看到已故丈夫AI形象崩溃大哭",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%A8%9C%E7%9C%8B%E5%88%B0%E5%B7%B2%E6%95%85%E4%B8%88%E5%A4%ABAI%E5%BD%A2%E8%B1%A1%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 08时23分]"
+        },
+        {
+          "title": "夏奇拉邀请你来跳Dai Dai",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3Dai%20Dai",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 06时11分]"
+        },
+        {
+          "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
+          "url": "https://www.zhihu.com/question/2047598353421170561",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 08时23分]"
+        },
+        {
+          "title": "抖音AI创作大赛来了",
+          "url": "https://www.douyin.com/hot/2529851",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
+          "url": "https://www.cls.cn/detail/2396831",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "Anthropic的CEO：政府应当有权封杀、阻断高风险新AI模型的部署",
+          "url": "https://wallstreetcn.com/livenews/3117664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "没有物理AI业务且与2026年世界杯不存在业务合作关系！四连板AI应用概念股发布异动公告|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2396351",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "特朗普称将与AI公司高管讨论回馈公众",
+          "url": "https://wallstreetcn.com/livenews/3117617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "报道：Altman预计OpenAI将于未来一年内IPO",
+          "url": "https://wallstreetcn.com/livenews/3117610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
+          "url": "https://wallstreetcn.com/livenews/3117653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "马斯克旗下xAI联合创始人Babuschkin自立门户，宣布与特斯拉旧部成立新公司River AI，主攻颠覆性“全个性化AI智能体”。",
+          "url": "https://wallstreetcn.com/livenews/3117706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "Anthropic CEO：不知道Claude是否被（特朗普）用于袭击伊朗学校。",
+          "url": "https://wallstreetcn.com/livenews/3117603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "阿波罗全球管理示警：律所和咨询公司等专业服务行业将面临AI颠覆",
+          "url": "https://wallstreetcn.com/livenews/3117649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国际 外交 战争",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "特朗普威胁打击伊朗电厂、桥梁，油价应声攀升，俄外交部：袭击民用设施“绝对不可接受”",
+          "url": "https://wallstreetcn.com/articles/3774340",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 13时58分]"
+        },
         {
           "title": "中东局势再次升级，外交部回应",
           "url": "https://news.ifeng.com/c/8tqO0HPwZF8",
@@ -401,25 +731,13 @@
           "time_info": "[00时40分 ~ 06时11分]"
         },
         {
-          "title": "特朗普威胁打击伊朗电厂、桥梁，油价应声攀升，俄外交部：袭击民用设施“绝对不可接受”",
-          "url": "https://wallstreetcn.com/articles/3774340",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 08时23分]"
-        },
-        {
           "title": "伊朗战争最新动态丨伊朗彻底关闭霍尔木兹海峡",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
         },
@@ -435,6 +753,17 @@
           "time_info": "03时41分"
         },
         {
+          "title": "“超级挤压”来袭！伊朗战争引爆金属市场，铜铝价格或数年居高不下",
+          "url": "https://flash.jin10.com/detail/20260611134228323800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社当地时间今天（6月11日）凌晨最新报道，伊朗与美军在海上发生冲突。 ( CCTV国际时讯)",
           "url": "https://wallstreetcn.com/livenews/3117732",
           "source": "华尔街见闻-快讯",
@@ -444,6 +773,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "央视发布关于第 23 届国际足联世界杯版权保护的声明，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2048121034398594641",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "中东局势再次升级，外交部回应",
@@ -486,9 +826,31 @@
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时23分 ~ 13时58分]"
+        },
+        {
+          "title": "美国外交官被发现死在缅甸酒店，警方拘留一名泰国女子",
+          "url": "https://news.ifeng.com/c/8trq14hB87i",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时23分"
+          "time_info": "13时58分"
+        },
+        {
+          "title": "如何评价《DOTA2》Ti15 国际邀请赛门票一秒售空？",
+          "url": "https://www.zhihu.com/question/2048050908693631773",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "伊朗议会国家安全委员会主席：这一次，战争将不会局限于本地区。",
@@ -519,7 +881,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
         },
@@ -548,147 +910,8 @@
       ]
     },
     {
-      "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
-          "url": "https://www.cls.cn/detail/2396287",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 08时23分]"
-        },
-        {
-          "title": "美元在美国CPI通胀数据发布日大致持平",
-          "url": "https://wallstreetcn.com/livenews/3117675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时41分"
-        },
-        {
-          "title": "为什么国家要在教材上设置反自学模式，难道非要老师教吗？就不能自己学吗？",
-          "url": "https://www.zhihu.com/question/1939204343371928254",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 06时11分]"
-        },
-        {
-          "title": "中国即将发行或正在发行的国债和政策性金融债",
-          "url": "https://wallstreetcn.com/livenews/3117788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时23分"
-        },
-        {
-          "title": "赛力斯和豆包合作造车",
-          "url": "https://s.weibo.com/weibo?q=%E8%B5%9B%E5%8A%9B%E6%96%AF%E5%92%8C%E8%B1%86%E5%8C%85%E5%90%88%E4%BD%9C%E9%80%A0%E8%BD%A6&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时23分"
-        },
-        {
-          "title": "美国总统特朗普：（关于国家情报总监提名）我们正在面试五位候选人。",
-          "url": "https://flash.jin10.com/detail/20260611000022410800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "据伊朗国家电视台：阿巴斯港传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260611054128793800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数大致收平，报382.08点。 在十个板块中，北欧医疗保健板块涨幅最大。 马士基涨5.5%，在一众北欧个股里领跑。",
-          "url": "https://wallstreetcn.com/livenews/3117612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "经济日报：中国5月份物价“剪刀差”扩大，专家称促消费政策有加力空间",
-          "url": "https://wallstreetcn.com/livenews/3117765",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时23分"
-        },
-        {
-          "title": "Anthropic首席执行官阿莫代伊：政府应当有权叫停新人工智能模型的发布。",
-          "url": "https://flash.jin10.com/detail/20260611023504794800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时41分"
-        },
-        {
-          "title": "梅西将解锁国家队200场里程碑",
-          "url": "https://www.douyin.com/hot/2529509",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时23分"
-        },
-        {
-          "title": "美国驻伊拉克首都大使馆发布安全警告：建议在伊拉克的公民保持警惕。",
-          "url": "https://wallstreetcn.com/livenews/3117700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "小米 SU7 电吸门夹伤女子致骨折，官方确认无防夹功能，汽车电吸门技术应如何平衡便利与安全？",
@@ -704,6 +927,17 @@
           "time_info": "[00时40分 ~ 08时23分]"
         },
         {
+          "title": "92 年技术极客陈宇森接任钉钉 CEO，成阿里最年轻的事业部 CEO，阿里选他的逻辑是什么？",
+          "url": "https://www.zhihu.com/question/2048345326587569444",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "SemiAnalysis报告称两大关键技术延迟，引发“光电”大跌，网友激辩CPO",
           "url": "https://wallstreetcn.com/articles/3774279",
           "source": "华尔街见闻",
@@ -714,6 +948,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 08时23分]"
+        },
+        {
+          "title": "钉钉换帅！陈航卸任，92年技术极客陈宇森接任钉钉CEO",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33356193",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "特朗普政府声明称，甲骨文(ORCL.N)获得了美国政府合同，将为政府提供人力资源软件。",
@@ -758,7 +1003,7 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "“内存减半”实为不得已？机构：英伟达要力保CPU出货",
@@ -772,6 +1017,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时40分 ~ 06时11分]"
+        },
+        {
+          "title": "曝iPhone18内存屏幕二选一",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18%E5%86%85%E5%AD%98%E5%B1%8F%E5%B9%95%E4%BA%8C%E9%80%89%E4%B8%80%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         }
       ]
     }
