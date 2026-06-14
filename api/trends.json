@@ -1,8 +1,270 @@
 {
-  "generated_at": "2026-06-14T13:58:38.416616+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-06-14T17:52:59.340801+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "国家 改革 政策 发布 合作",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "如何评价智谱 6 月 13 日发布的 GLM5.2 模型？",
+          "url": "https://www.zhihu.com/question/2049161661567723164",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 08时16分]"
+        },
+        {
+          "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
+          "url": "https://wallstreetcn.com/articles/3774568",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 08时16分]"
+        },
+        {
+          "title": "国家防总维持针对浙江、福建、江西等地防汛四级应急响应",
+          "url": "https://wallstreetcn.com/livenews/3119214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "英格兰国家队我帮你们破案了",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%9B%BD%E5%AE%B6%E9%98%9F%E6%88%91%E5%B8%AE%E4%BD%A0%E4%BB%AC%E7%A0%B4%E6%A1%88%E4%BA%86&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时16分 ~ 06时13分]"
+        },
+        {
+          "title": "十项促进两岸交流合作的政策措施对接签约会在厦门举行",
+          "url": "https://wallstreetcn.com/livenews/3119151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 08时16分]"
+        },
+        {
+          "title": "中国人民保险集团股份有限公司原党委委员、副总裁俞小平接受中央纪委国家监委纪律审查和监察调查。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3119143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 08时16分]"
+        },
+        {
+          "title": "伊朗民众集会反对达成协议，“改革派等于投降派”",
+          "url": "https://news.ifeng.com/c/8twXXk8mMBz",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 17时52分]"
+        },
+        {
+          "title": "前五个月国家铁路累计发送货物16.7亿",
+          "url": "https://wallstreetcn.com/livenews/3119188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 17时52分]"
+        },
+        {
+          "title": "据黎巴嫩国家通讯社：宾特朱拜勒地区的卡夫拉镇和亚塔尔镇上空出现照明弹。",
+          "url": "https://flash.jin10.com/detail/20260614031526901800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 08时16分]"
+        },
+        {
+          "title": "国家统计局：6月上旬生猪（外三元）价格环比下降1.0%",
+          "url": "https://wallstreetcn.com/livenews/3119185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 17时52分]"
+        },
+        {
+          "title": "中央气象台发布强对流天气蓝色预警",
+          "url": "https://www.toutiao.com/trending/7650381846575857700/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 17时52分]"
+        },
+        {
+          "title": "普京给不友好国家提建议：永远不要企图与俄罗斯作战",
+          "url": "https://news.ifeng.com/c/8twe9fUhHT8",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "中建六局与大禹集团签署战略合作协议",
+          "url": "https://flash.jin10.com/detail/20260614125741564800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "据韩联社：韩国高级外汇官员与美国官员会晤讨论外汇市场，双方同意就韩元疲软问题开展合作。",
+          "url": "https://flash.jin10.com/detail/20260614171955826800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "英国首相府发言人：英国首相斯塔默今晨与北约秘书长吕特通话，重申了他在北约安卡拉峰会前发布英国国防投资计划的承诺。",
+          "url": "https://flash.jin10.com/detail/20260613224321557800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "据黎巴嫩国家通讯社报道，以色列军队轰炸了黎巴嫩南部马尔贾扬地区的布拉特镇。",
+          "url": "https://flash.jin10.com/detail/20260614021043868800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "前五个月国家铁路累计发送货物16.7亿吨",
+          "url": "https://flash.jin10.com/detail/20260614104801534800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "维尼修斯攻入国家队第10球",
+          "url": "https://www.toutiao.com/trending/7650756647503872009/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        },
+        {
+          "title": "泽连斯基呼吁加大对俄制裁，强化远程打击与无人机等合作",
+          "url": "https://flash.jin10.com/detail/20260614163410183800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "据约旦国家电视台：约旦响起警报声。",
+          "url": "https://flash.jin10.com/detail/20260614102249039800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "国家统计局：6月上旬生猪（外三元）价格环比下降1.0%",
+          "url": "https://flash.jin10.com/detail/20260614095538960800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "国家防总维持针对浙江、福建、江西等地防汛四级应急响应。",
+          "url": "https://flash.jin10.com/detail/20260614160416237800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        }
+      ]
+    },
     {
       "keyword_group": "国际 外交 战争",
       "match_count": 20,
@@ -33,6 +295,18 @@
           "time_info": "[00时21分 ~ 13时58分]"
         },
         {
+          "title": "西湖大学本科生学费内地生每年 6000 元，外籍生 35 万元，相差近 58 倍，如何看待这种定价？是国际惯例吗？",
+          "url": "https://www.zhihu.com/question/2047264542703597437",
+          "source": "知乎",
+          "ranks": [
+            14,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时16分 ~ 17时52分]"
+        },
+        {
           "title": "科威特外交大臣与卡塔尔首相通话 讨论美伊和平协议最终文本进展",
           "url": "https://flash.jin10.com/detail/20260614015044549800",
           "source": "金十数据",
@@ -55,18 +329,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 08时16分]"
-        },
-        {
-          "title": "西湖大学本科生学费内地生每年 6000 元，外籍生 35 万元，相差近 58 倍，如何看待这种定价？是国际惯例吗？",
-          "url": "https://www.zhihu.com/question/2047264542703597437",
-          "source": "知乎",
-          "ranks": [
-            14,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时16分 ~ 13时58分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗外交部发言人表示，伊朗将必须对在霍尔木兹海峡提供的服务收取费用。",
@@ -212,7 +474,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -241,222 +503,8 @@
       ]
     },
     {
-      "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "如何评价智谱 6 月 13 日发布的 GLM5.2 模型？",
-          "url": "https://www.zhihu.com/question/2049161661567723164",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 08时16分]"
-        },
-        {
-          "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
-          "url": "https://wallstreetcn.com/articles/3774568",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 08时16分]"
-        },
-        {
-          "title": "伊朗民众集会反对达成协议，“改革派等于投降派”",
-          "url": "https://news.ifeng.com/c/8twXXk8mMBz",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "英格兰国家队我帮你们破案了",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%9B%BD%E5%AE%B6%E9%98%9F%E6%88%91%E5%B8%AE%E4%BD%A0%E4%BB%AC%E7%A0%B4%E6%A1%88%E4%BA%86&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时16分 ~ 06时13分]"
-        },
-        {
-          "title": "前五个月国家铁路累计发送货物16.7亿",
-          "url": "https://wallstreetcn.com/livenews/3119188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "十项促进两岸交流合作的政策措施对接签约会在厦门举行",
-          "url": "https://wallstreetcn.com/livenews/3119151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 08时16分]"
-        },
-        {
-          "title": "中国人民保险集团股份有限公司原党委委员、副总裁俞小平接受中央纪委国家监委纪律审查和监察调查。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3119143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 08时16分]"
-        },
-        {
-          "title": "据黎巴嫩国家通讯社：宾特朱拜勒地区的卡夫拉镇和亚塔尔镇上空出现照明弹。",
-          "url": "https://flash.jin10.com/detail/20260614031526901800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时22分 ~ 08时16分]"
-        },
-        {
-          "title": "普京给不友好国家提建议：永远不要企图与俄罗斯作战",
-          "url": "https://news.ifeng.com/c/8twe9fUhHT8",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "国家统计局：6月上旬生猪（外三元）价格环比下降1.0%",
-          "url": "https://wallstreetcn.com/livenews/3119185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "中建六局与大禹集团签署战略合作协议",
-          "url": "https://flash.jin10.com/detail/20260614125741564800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "英国首相府发言人：英国首相斯塔默今晨与北约秘书长吕特通话，重申了他在北约安卡拉峰会前发布英国国防投资计划的承诺。",
-          "url": "https://flash.jin10.com/detail/20260613224321557800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "据黎巴嫩国家通讯社报道，以色列军队轰炸了黎巴嫩南部马尔贾扬地区的布拉特镇。",
-          "url": "https://flash.jin10.com/detail/20260614021043868800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "前五个月国家铁路累计发送货物16.7亿吨",
-          "url": "https://flash.jin10.com/detail/20260614104801534800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "维尼修斯攻入国家队第10球",
-          "url": "https://www.toutiao.com/trending/7650756647503872009/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时16分"
-        },
-        {
-          "title": "中央气象台发布强对流天气蓝色预警",
-          "url": "https://www.toutiao.com/trending/7650381846575857700/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "据约旦国家电视台：约旦响起警报声。",
-          "url": "https://flash.jin10.com/detail/20260614102249039800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "国家统计局：6月上旬生猪（外三元）价格环比下降1.0%",
-          "url": "https://flash.jin10.com/detail/20260614095538960800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
@@ -480,11 +528,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 13时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 17时52分]"
         },
         {
           "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
@@ -495,11 +544,12 @@
             8,
             7,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 13时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 17时52分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -512,8 +562,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 13时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 17时52分]"
         },
         {
           "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
@@ -522,9 +572,20 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 17时52分]"
+        },
+        {
+          "title": "美禁止外国主体使用安特罗匹克最新AI模型",
+          "url": "https://wallstreetcn.com/livenews/3119219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "17时52分"
         },
         {
           "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
@@ -536,6 +597,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 08时16分]"
+        },
+        {
+          "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
+          "url": "https://wallstreetcn.com/articles/3774601",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "如何评价 Claude Fable 5 全球暂停访问？",
@@ -557,8 +629,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时16分 ~ 13时58分]"
+          "appearance_count": 3,
+          "time_info": "[08时16分 ~ 17时52分]"
         },
         {
           "title": "全猿 AI Coding 会不会导致研发 Leader 或 PM 这种管理大量失业，因为不需要了？",
@@ -585,13 +657,46 @@
           "time_info": "[08时16分 ~ 13时58分]"
         },
         {
+          "title": "天风证券：电子布年内第五轮涨价落地 AI链拉动玻纤景气延续",
+          "url": "https://flash.jin10.com/detail/20260614171030729800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "蚂蚁集团正秘密测试AI版支付宝",
+          "url": "https://flash.jin10.com/detail/20260614170709289800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "特朗普发布 AI 视频，变身火影忍者，引发日本民众抗议，日本官员称已多次提醒美方注意版权，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2049169967136953360",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
           "title": "作为老师，你见过最明显的 AI 作业是什么？你怎么看待当下学生用 AI 写论文这件事？",
           "url": "https://www.zhihu.com/question/2037135692707390495",
           "source": "知乎",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -632,7 +737,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "不写论文也能拿学位？首批实践毕业生：用小说、商业项目其实更难",
@@ -653,9 +758,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "以色列官员：我们希望谈判取得成果，同时战火不会重燃。",
+          "url": "https://flash.jin10.com/detail/20260614173521864800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "业绩下滑遭炮轰、新战略被指“不务正业” 同仁堂科技转型困局凸显|直击股东会",
@@ -678,8 +794,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时16分 ~ 13时58分]"
+          "appearance_count": 3,
+          "time_info": "[08时16分 ~ 17时52分]"
         },
         {
           "title": "经过两周调整，美国大型科技股仓位已经回落至“中性水平”、甚至略低于盈利增长",
@@ -688,9 +804,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 17时52分]"
         },
         {
           "title": "“机器人伴侣”来了！10天已预售3800台，男款身着修身西装，女款可上妆，搭载“养成系”情感大模型，仅限成人购买！",
@@ -699,9 +815,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "纳指科技ETF景顺：本基金将于6月15日开市起至当日10:30停牌。",
+          "url": "https://flash.jin10.com/detail/20260614171658710800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "小米工程师谈某大模型重新出山",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%B0%88%E6%9F%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%87%8D%E6%96%B0%E5%87%BA%E5%B1%B1&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "欧洲理事会主席科斯塔：刚刚与苹果公司CEO蒂姆·库克就儿童网络安全、人工智能及创新议题进行了富有成效的交谈。",
@@ -718,7 +856,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "变压器出海高景气还能看两三年？出海模式升级 SST“大家都没有订单”|行业观察",
@@ -727,11 +865,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 13时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 17时52分]"
         },
         {
           "title": "中国软件因恶意串通被禁止参加政府采购活动一年|速读公告",
@@ -740,11 +879,12 @@
           "ranks": [
             4,
             5,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 13时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 17时52分]"
         },
         {
           "title": "伊朗多家银行出现技术故障 正开展修复工作",
@@ -774,11 +914,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33374518",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 17时52分]"
+        },
+        {
+          "title": "网传 iPhone 改日期可空出 20G，苹果回应不建议操作，这个邪修方法有用吗？技术层面有什么依据吗？",
+          "url": "https://www.zhihu.com/question/2046000361807111269",
+          "source": "知乎",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "17时52分"
         }
       ]
     },
@@ -792,11 +944,29 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 13时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 17时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 steam 显卡 内存 处理器",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "以色列官员：美伊协议并非游戏的终局。",
+          "url": "https://flash.jin10.com/detail/20260614173404972800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         }
       ]
     }
