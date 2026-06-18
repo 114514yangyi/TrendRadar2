@@ -1,8 +1,196 @@
 {
-  "generated_at": "2026-06-19T05:25:28.556262+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-06-19T07:51:56.363122+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI Qwen DeepSeek Claude",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "让AI走进千家万户",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E8%B5%B0%E8%BF%9B%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 07时51分]"
+        },
+        {
+          "title": "Claude：Claude Code现在支持Artifacts。",
+          "url": "https://wallstreetcn.com/livenews/3121857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
+          "url": "https://www.cls.cn/detail/2403645",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 07时51分]"
+        },
+        {
+          "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
+          "url": "https://www.zhihu.com/question/2050289332632790558",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 07时51分]"
+        },
+        {
+          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
+          "url": "https://wallstreetcn.com/articles/3775029",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 07时51分]"
+        },
+        {
+          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
+          "url": "https://wallstreetcn.com/articles/3774993",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 07时51分]"
+        },
+        {
+          "title": "5月证券APP月活1.82亿，月活增速谁最强？新一轮卡位在AI Skill",
+          "url": "https://www.cls.cn/detail/2403949",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 05时25分]"
+        },
+        {
+          "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
+          "url": "https://www.cls.cn/detail/2404033",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 07时51分]"
+        },
+        {
+          "title": "美国五角大楼披露，马斯克旗下的Grok AI被用于协调针对伊朗全境超过2000枚弹药的部署行动。",
+          "url": "https://flash.jin10.com/detail/20260619014905464800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
+          "url": "https://wallstreetcn.com/articles/3775010",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "Snap因成本问题而拆分人工智能视频（AI Video）团队为新公司Dotmo。（TechCrunch）",
+          "url": "https://wallstreetcn.com/livenews/3121892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "Alphabet、Visa等公司释放加强AI监管信号",
+          "url": "https://wallstreetcn.com/livenews/3121845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "Meta Platforms(META.O)与数据中心公司Crusoe签署AI算力合作协议，预计将获得约1.6吉瓦的算力。",
+          "url": "https://flash.jin10.com/detail/20260619042115583800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "Meta Platforms与数据中心公司Crusoe敲定AI计算协议。 Meta将根据合同购买对方两个数据中心（美国密苏里+得克萨斯）的算力。 Meta有望获得大约1.6 GW算力。",
+          "url": "https://wallstreetcn.com/livenews/3121883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美国参议员桑德斯将提出法案，赋予民众AI企业股权",
+          "url": "https://wallstreetcn.com/livenews/3121827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        }
+      ]
+    },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
       "match_count": 15,
@@ -15,8 +203,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 05时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 07时51分]"
         },
         {
           "title": "美国总统特朗普：我们必须阻止犹他州这样做。如果操作不当，全邮寄选票将为民主党人带来巨大优势；由于他们的政策荒谬至极，作弊成了他们通往胜利的唯一途径。",
@@ -49,8 +237,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 05时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 07时51分]"
         },
         {
           "title": "有关国家炒作“南海仲裁案”，中方：自始不接受、不承认",
@@ -60,8 +248,33 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 07时51分]"
+        },
+        {
+          "title": "奥特曼改革,开拓女性市场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355242&amp;topic_name=%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%94%B9%E9%9D%A9%2C%E5%BC%80%E6%8B%93%E5%A5%B3%E6%80%A7%E5%B8%82%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 07时51分]"
+        },
+        {
+          "title": "岳阳发布“射击俱乐部枪支走火致人死亡”调查报告：体验者枪支脱手，击中安全员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33408344",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时33分 ~ 05时25分]"
+          "time_info": "[05时25分 ~ 07时51分]"
         },
         {
           "title": "雷佳音跟胡歌第一次合作",
@@ -76,16 +289,15 @@
           "time_info": "[02时33分 ~ 05时25分]"
         },
         {
-          "title": "奥特曼改革,开拓女性市场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355242&amp;topic_name=%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%94%B9%E9%9D%A9%2C%E5%BC%80%E6%8B%93%E5%A5%B3%E6%80%A7%E5%B8%82%E5%9C%BA",
-          "source": "贴吧",
+          "title": "雷佳音跟胡歌首次合作",
+          "url": "https://www.douyin.com/hot/2539698",
+          "source": "抖音",
           "ranks": [
-            23,
-            24
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时33分 ~ 05时25分]"
+          "time_info": "[05时25分 ~ 07时51分]"
         },
         {
           "title": "穆迪：SpaceX(SPCX.O)保持保守的财务政策，同时得益于可观的现金余额，拥有强大的流动性和财务灵活性。",
@@ -94,18 +306,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "岳阳发布“射击俱乐部枪支走火致人死亡”调查报告：体验者枪支脱手，击中安全员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33408344",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -116,7 +317,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -127,7 +328,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -149,7 +350,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -160,189 +361,121 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "雷佳音跟胡歌首次合作",
-          "url": "https://www.douyin.com/hot/2539698",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         }
       ]
     },
     {
-      "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 14,
+      "keyword_group": "国际 外交 战争",
+      "match_count": 9,
       "titles": [
         {
-          "title": "让AI走进千家万户",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E8%B5%B0%E8%BF%9B%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 05时25分]"
-        },
-        {
-          "title": "Claude：Claude Code现在支持Artifacts。",
-          "url": "https://wallstreetcn.com/livenews/3121857",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗称要成为中国真正的伙伴，外交部表态",
+          "url": "https://news.ifeng.com/c/8u3juhtDVpR",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 07时51分]"
         },
         {
-          "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
-          "url": "https://www.cls.cn/detail/2403645",
-          "source": "财联社热门",
+          "title": "普京为何当面点破马科斯的外交失礼",
+          "url": "https://www.toutiao.com/trending/7652695671731916331/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 05时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 07时51分]"
         },
         {
-          "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
-          "url": "https://www.zhihu.com/question/2050289332632790558",
-          "source": "知乎",
+          "title": "H5｜一场战争与转向中的世界：中东硝烟111天全记录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33402514",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 05时25分]"
-        },
-        {
-          "title": "5月证券APP月活1.82亿，月活增速谁最强？新一轮卡位在AI Skill",
-          "url": "https://www.cls.cn/detail/2403949",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 05时25分]"
-        },
-        {
-          "title": "美国五角大楼披露，马斯克旗下的Grok AI被用于协调针对伊朗全境超过2000枚弹药的部署行动。",
-          "url": "https://flash.jin10.com/detail/20260619014905464800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
-          "url": "https://wallstreetcn.com/articles/3775029",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
-          "url": "https://wallstreetcn.com/articles/3774993",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "Snap因成本问题而拆分人工智能视频（AI Video）团队为新公司Dotmo。（TechCrunch）",
-          "url": "https://wallstreetcn.com/livenews/3121892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
-          "url": "https://www.cls.cn/detail/2404033",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "Alphabet、Visa等公司释放加强AI监管信号",
-          "url": "https://wallstreetcn.com/livenews/3121845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "Meta Platforms(META.O)与数据中心公司Crusoe签署AI算力合作协议，预计将获得约1.6吉瓦的算力。",
-          "url": "https://flash.jin10.com/detail/20260619042115583800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "Meta Platforms与数据中心公司Crusoe敲定AI计算协议。 Meta将根据合同购买对方两个数据中心（美国密苏里+得克萨斯）的算力。 Meta有望获得大约1.6 GW算力。",
-          "url": "https://wallstreetcn.com/livenews/3121883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            17,
             18
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 07时51分]"
+        },
+        {
+          "title": "特朗普否认伊朗战争暴露其权力受限",
+          "url": "https://flash.jin10.com/detail/20260619070914763800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "俄外交部：俄将对欧盟新一轮制裁采取强硬反制",
+          "url": "https://wallstreetcn.com/livenews/3121890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
         {
-          "title": "美国参议员桑德斯将提出法案，赋予民众AI企业股权",
-          "url": "https://wallstreetcn.com/livenews/3121827",
+          "title": "乌克兰总统泽连斯基：如果战争持续，我们将需要一个冬季援助计划，包括天然气、柴油和能源设备。",
+          "url": "https://flash.jin10.com/detail/20260619063313447800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：我们希望在冬季之前通过外交和对俄罗斯施加压力来结束这场战争。",
+          "url": "https://flash.jin10.com/detail/20260619063035603800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "美国4月国际资本净流入 261亿美元，前值 1507亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3121880",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时33分"
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美特使：伊朗将邀请国际原子能机构检查其核设施",
+          "url": "https://wallstreetcn.com/livenews/3121909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         }
       ]
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "【焦点复盘】极致两极分化行情再现，硬科技方向多点开花，大金融板块全线重挫",
@@ -353,8 +486,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 05时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 07时51分]"
+        },
+        {
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         },
         {
           "title": "4只千元股齐创新高！茅台股价则退守“924”，今日新高热股盘点，“高价股”成关键词",
@@ -365,8 +509,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 05时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 07时51分]"
         },
         {
           "title": "美国总统特朗普：美国致力于实现和平，我们鼓励中东地区的各方继续保持承诺，让我们的谈判顺利推进并取得圆满成果。",
@@ -386,9 +530,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "欧盟27国领导人一致通过涉乌结论文件",
+          "url": "https://wallstreetcn.com/livenews/3121921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.88%，报6068.15点。 热门中概股里，世纪互联初步收跌4.8%，万国数据跌4.3%，金山云跌3.1%，新东方跌1.3%，阿里跌0.2%，百度涨0.1%，网易涨0.5%，腾讯涨0.6%，阿特斯太阳能涨1.3%，网易有道涨4%，日月光半导体涨8.7%。 ETF中，中概互联网指数ETF（KWEB）收跌0.55%，中国科技指数ETF（CQQQ）收涨2.57%。 德银嘉实沪深300指数ETF（ASHR）收涨1.17%，XtrackersHarvest中证50（ASHS）收涨2.03%，MSCI新兴市场ex中国ETF（EMXC）收涨3.92%。",
@@ -397,7 +552,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -408,76 +563,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国际 外交 战争",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "伊朗称要成为中国真正的伙伴，外交部表态",
-          "url": "https://news.ifeng.com/c/8u3juhtDVpR",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 05时25分]"
-        },
-        {
-          "title": "普京为何当面点破马科斯的外交失礼",
-          "url": "https://www.toutiao.com/trending/7652695671731916331/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 05时25分]"
-        },
-        {
-          "title": "H5｜一场战争与转向中的世界：中东硝烟111天全记录",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33402514",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 05时25分]"
-        },
-        {
-          "title": "俄外交部：俄将对欧盟新一轮制裁采取强硬反制",
-          "url": "https://wallstreetcn.com/livenews/3121890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
         {
-          "title": "美国4月国际资本净流入 261亿美元，前值 1507亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3121880",
-          "source": "华尔街见闻-快讯",
+          "title": "UP主深度解读GLM5.2论文",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BBGLM5.2%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            21
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时25分"
+          "time_info": "07时51分"
         }
       ]
     },
     {
       "keyword_group": "美股 美元",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
@@ -491,13 +596,24 @@
           "time_info": "[02时33分 ~ 05时25分]"
         },
         {
+          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
+          "url": "https://wallstreetcn.com/articles/3774963",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周四（6月18日），美国科技股七巨头（Magnificent 7）指数涨1.52%，报213.40点。 “超大”市值科技股指数涨2.27%，报442.43点。",
           "url": "https://wallstreetcn.com/livenews/3121901",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -508,9 +624,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "周四（6月18日），美股人工智能（AI）赢家指数涨4.57%，报457.59点，时隔一个交易日再创收盘历史新高。 成分股中，Bloom能源收涨15.41%，闪迪、Astera Labs、康宁公司、超微电脑涨11.54%-10.37%紧随其后，微软涨0.13%涨幅最小，天弘股份跌2.06%跌幅第三大，Lumentum跌2.30%，戴尔科技跌2.34%。",
+          "url": "https://wallstreetcn.com/livenews/3121914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "周四（6月18日），美股信息科技指数涨4.35%，报465.35点，时隔一个交易日再创收盘历史新高。 成分股中，闪迪涨11.54%，Astera Labs康宁公司、英特尔、超微电脑涨11.31%-10.37%，Credo科技集团涨9.02%表现第六，惠与（HPE）则跌1.65%表现倒数第十，Salesforce跌2.09%，Lumentum跌2.30%，IBM跌5.05%，埃森哲跌17.97%表现最差。 在标普科技板块，也是闪迪、康宁公司、英特尔、超微电脑领涨，埃森哲跌幅最大。",
+          "url": "https://wallstreetcn.com/livenews/3121912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         },
         {
           "title": "周四（6月18日）纽约尾盘，彭博谷物分类指数跌0.92%，报29.7383点。 CBOT玉米期货跌1%，CBOT小麦期货跌跌1.19%。 CBOT大豆期货跌0.63%，报11.42美元/蒲式耳，豆粕期货跌0.88%，豆油期货跌1.75%。",
@@ -519,7 +657,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         }
@@ -527,7 +665,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "未来5年 找工作关注这些行业领域",
@@ -537,8 +675,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 05时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 07时51分]"
         },
         {
           "title": "未来5年找工作关注这些行业领域",
@@ -551,6 +689,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 05时25分]"
+        },
+        {
+          "title": "未来5年 找工作关注这些行业领域",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A55%E5%B9%B4+%E6%89%BE%E5%B7%A5%E4%BD%9C%E5%85%B3%E6%B3%A8%E8%BF%99%E4%BA%9B%E8%A1%8C%E4%B8%9A%E9%A2%86%E5%9F%9F",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         },
         {
           "title": "欧洲央行管委艾斯克里瓦：能源成本上涨正传导至服务业与交通运输行业。",
@@ -586,11 +735,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 05时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 07时51分]"
         },
         {
           "title": "老哥与游戏NPC同居被分手",
@@ -598,11 +748,12 @@
           "source": "贴吧",
           "ranks": [
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 05时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 07时51分]"
         },
         {
           "title": "八年开发终于修成正果，如何评价游戏《太吾绘卷》1.0 完全版？",
@@ -612,25 +763,37 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 07时51分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Faker拍谷歌广告血赚7个亿",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 05时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 07时51分]"
+        },
+        {
+          "title": "周四（6月18日），美股超大规模云服务商（Hyperscalers）涨1.39%，报95.20点。 成分股中，亚马逊收涨2.90%，Meta涨1.70%，谷歌A涨1.17%，甲骨文涨0.41%，微软涨0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3121908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         }
       ]
     }
