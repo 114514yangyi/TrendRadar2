@@ -1,34 +1,12 @@
 {
-  "generated_at": "2026-06-27T15:55:33.377443+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-06-27T18:17:26.811159+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
-        {
-          "title": "6月26日，四川省人民政府和三峡集团签署全面深化战略合作协议。",
-          "url": "https://flash.jin10.com/detail/20260627152734020800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
-          "title": "美国国家公路交通安全管理局（NHTSA）结束对约376241辆特斯拉Model 3和Model Y美国车辆转向失控问题的工程分析（EA）。",
-          "url": "https://flash.jin10.com/detail/20260627151134945800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        },
         {
           "title": "佛得角成史上进淘汰赛面积最小国家",
           "url": "https://www.toutiao.com/trending/7655646082685370404/",
@@ -47,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -58,7 +36,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -74,6 +52,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时57分 ~ 12时59分]"
+        },
+        {
+          "title": "6月26日，四川省人民政府和三峡集团签署全面深化战略合作协议。",
+          "url": "https://flash.jin10.com/detail/20260627152734020800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时55分 ~ 18时17分]"
+        },
+        {
+          "title": "美国国家公路交通安全管理局（NHTSA）结束对约376241辆特斯拉Model 3和Model Y美国车辆转向失控问题的工程分析（EA）。",
+          "url": "https://flash.jin10.com/detail/20260627151134945800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时55分 ~ 18时17分]"
         },
         {
           "title": "纳米比亚大力拓展对华旅游合作",
@@ -116,11 +118,24 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 15时55分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 18时17分]"
+        },
+        {
+          "title": "黄金大跌 多家银行发布公告",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%A4%A7%E8%B7%8C+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 18时17分]"
         },
         {
           "title": "金砖国家新开发银行首次在澳门发行莲花债",
@@ -133,17 +148,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 04时03分]"
-        },
-        {
-          "title": "黄金大跌 多家银行发布公告",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%A4%A7%E8%B7%8C+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 15时55分]"
         },
         {
           "title": "市场消息：扎克伯格敦促Meta Platforms(META.O)考虑与PolyMarket开展合作。",
@@ -214,6 +218,17 @@
           "time_info": "12时59分"
         },
         {
+          "title": "据巴林国家通讯社：巴林谴责伊朗周六对其领土发动的无人机袭击。伊朗在各方推动缓和局势之际继续发动袭击，应为此承担破坏和平努力的责任。",
+          "url": "https://flash.jin10.com/detail/20260627165503432800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "伊朗国家媒体援引伊斯兰革命卫队消息报道称，该部队已针对美军在该地区的多个部署地点实施打击。",
           "url": "https://wallstreetcn.com/livenews/3125481",
           "source": "华尔街见闻-快讯",
@@ -253,9 +268,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：结束对约376,241辆特斯拉(TSLA.O)Model 3和Model Y车辆因转向失控问题的工程分析。",
+          "url": "https://flash.jin10.com/detail/20260627162738213800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "国家统计局：1—5月份电子行业利润增长103.9% 对全部规模以上工业企业利润增长的贡献率达43.1%",
@@ -278,6 +304,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "伊朗议会国家安全委员会主席：任何违反伊朗霍尔木兹海峡航运指令的行为都将遭到果断应对。",
+          "url": "https://flash.jin10.com/detail/20260627162213580800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "乌克兰国家天然气公司称，俄罗斯袭击了该公司在波尔塔瓦和哈尔科夫地区的生产设施，造成损失。",
+          "url": "https://flash.jin10.com/detail/20260627155744357800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "马克·古尔曼：触屏MacBook将搭载M5芯片发布，苹果计划跳过M6 Pro及M6 Max",
+          "url": "https://wallstreetcn.com/livenews/3125563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "特朗普威胁对任何征收数字服务税的国家加征100%关税",
@@ -319,7 +378,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         }
@@ -327,7 +386,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
@@ -375,11 +434,29 @@
             11,
             4,
             2,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时57分 ~ 12时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 18时17分]"
+        },
+        {
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10,
+            11,
+            12,
+            19,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时57分 ~ 18时17分]"
         },
         {
           "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
@@ -392,22 +469,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时57分 ~ 08时16分]"
-        },
-        {
-          "title": "纯中二?美官员把AI当英雄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10,
-            11,
-            12,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时57分 ~ 15时55分]"
         },
         {
           "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
@@ -461,6 +522,20 @@
           "time_info": "[01时57分 ~ 08时16分]"
         },
         {
+          "title": "AI就业冲击已初现裂缝，高盛：1500万美国工人或将经历岗位转移",
+          "url": "https://wallstreetcn.com/articles/3775640",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时15分 ~ 18时17分]"
+        },
+        {
           "title": "报道：苹果负责Vision Pro和智能眼镜业务的负责人将跳槽至OpenAI",
           "url": "https://wallstreetcn.com/livenews/3125443",
           "source": "华尔街见闻-快讯",
@@ -473,19 +548,6 @@
           "time_info": "[04时03分 ~ 06时20分]"
         },
         {
-          "title": "AI就业冲击已初现裂缝，高盛：1500万美国工人或将经历岗位转移",
-          "url": "https://wallstreetcn.com/articles/3775640",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时15分 ~ 15时55分]"
-        },
-        {
           "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
           "url": "https://wallstreetcn.com/articles/3775658",
           "source": "华尔街见闻",
@@ -494,8 +556,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 15时55分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 18时17分]"
+        },
+        {
+          "title": "我喜欢的漫画被AI改编了",
+          "url": "https://www.douyin.com/hot/2549059",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 18时17分]"
         },
         {
           "title": "Anthropic迈向与美国政府达成协议，解除对AI模型的限制。",
@@ -516,18 +590,6 @@
           "ranks": [
             7,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 15时55分]"
-        },
-        {
-          "title": "我喜欢的漫画被AI改编了",
-          "url": "https://www.douyin.com/hot/2549059",
-          "source": "抖音",
-          "ranks": [
-            9,
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -557,6 +619,28 @@
           "time_info": "12时59分"
         },
         {
+          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
+          "url": "https://wallstreetcn.com/articles/3775650",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
+          "url": "https://www.cls.cn/detail/2410894",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "市场消息：苹果(AAPL.O)公司负责Vision Pro和智能眼镜业务的负责人将离职加入OpenAI。",
           "url": "https://flash.jin10.com/detail/20260627032342952800",
           "source": "金十数据",
@@ -579,6 +663,17 @@
           "time_info": "04时03分"
         },
         {
+          "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
+          "url": "https://www.zhihu.com/question/2050591443664779181",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "市场消息：OpenAI开启GPT-5.6系列有限预览版测试。",
           "url": "https://flash.jin10.com/detail/20260627010721618800",
           "source": "金十数据",
@@ -590,13 +685,35 @@
           "time_info": "01时57分"
         },
         {
+          "title": "DeepSeek发布DSpark",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83DSpark%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "北大与DeepSeek联合开源DSpark框架，高并发下生成速度提升超60%",
+          "url": "https://wallstreetcn.com/livenews/3125564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "OpenAI发布GPT5.6",
           "url": "https://www.baidu.com/s?wd=OpenAI%E5%8F%91%E5%B8%83GPT5.6",
           "source": "百度热搜",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         }
@@ -604,7 +721,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "如何看待兰州大学一篇顶刊论文插图中有豆包水印，同时被质疑图片复用？这有可能涉及学术不端吗？",
@@ -689,6 +806,17 @@
           "time_info": "[06时20分 ~ 08时16分]"
         },
         {
+          "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
+          "url": "https://wallstreetcn.com/articles/3775625",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 18时17分]"
+        },
+        {
           "title": "医疗业ETF收涨3%，与生物科技ETF领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3125469",
           "source": "华尔街见闻-快讯",
@@ -701,15 +829,15 @@
           "time_info": "[06时20分 ~ 08时16分]"
         },
         {
-          "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
-          "url": "https://wallstreetcn.com/articles/3775625",
-          "source": "华尔街见闻",
+          "title": "光谷出台一揽子科技金融新政，上市企业力争突破100家",
+          "url": "https://flash.jin10.com/detail/20260627172654595800",
+          "source": "金十数据",
           "ranks": [
-            10
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时59分"
+          "time_info": "18时17分"
         },
         {
           "title": "雷勇军已任国防科技大学校长",
@@ -718,9 +846,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
+        },
+        {
+          "title": "张国清在浙江调研时强调 强化科技创新和产业创新深度融合 全面加强质量管理增加高质量供给",
+          "url": "https://flash.jin10.com/detail/20260627154955125800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "我国医疗器械产业创新发展势头强劲",
@@ -732,12 +871,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "张国清在浙江调研时强调 强化科技创新和产业创新深度融合 全面加强质量管理增加高质量供给",
+          "url": "https://wallstreetcn.com/livenews/3125557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "日本对华外交是否在朝错误方向发展？岸田文雄答凤凰",
@@ -773,6 +923,17 @@
           "time_info": "[01时57分 ~ 08时16分]"
         },
         {
+          "title": "阿联酋外交大臣称赞黎巴嫩和以色列政府达成框架协议的努力。",
+          "url": "https://flash.jin10.com/detail/20260627173831195800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "国际海事组织：约2500名海员已撤离霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3125415",
           "source": "华尔街见闻-快讯",
@@ -795,6 +956,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时59分 ~ 15时55分]"
+        },
+        {
+          "title": "国际金价银价上涨",
+          "url": "https://www.douyin.com/hot/2549494",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "巴林外交部：今天凌晨的伊朗袭击严重侵犯了主权，我们保留反击的权利。",
+          "url": "https://flash.jin10.com/detail/20260627165539822800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "据媒体报道：美国国务院一位消息人士表示，外交部长进入了以色列-黎巴嫩谈判厅。",
@@ -821,61 +1004,8 @@
       ]
     },
     {
-      "keyword_group": "美股 美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
-          "url": "https://www.cls.cn/detail/2410765",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时20分 ~ 15时55分]"
-        },
-        {
-          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
-          "url": "https://www.cls.cn/detail/2410784",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时15分 ~ 15时55分]"
-        },
-        {
-          "title": "周五（6月26日），美股纳斯达克生物科技指数收涨超2.2%，连续五天创收盘历史新高。 成分股Pyxis Oncology收涨24.22%，Humacyte、ATAI Beckley、Moderna（莫德纳）、Immunitybio Inc.、GH Research、Abcellera Biologics涨18.05%-10.81%，Compass Pathways涨9.20%紧随其后。 Kymera则收跌7.26%、表现倒数第四，Ardelyx跌8.50%，Mesoblast跌9.03%，奥麦罗制药（OMER）跌19.17%。",
-          "url": "https://wallstreetcn.com/livenews/3125495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时16分"
-        },
-        {
-          "title": "美元指数本周涨约0.6%",
-          "url": "https://wallstreetcn.com/livenews/3125447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "40年来从未见过的景象！数据中心与内存成本激增正在推动第三波通胀浪潮",
@@ -884,11 +1014,12 @@
           "ranks": [
             9,
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时02分 ~ 15时55分]"
+          "appearance_count": 8,
+          "time_info": "[04时02分 ~ 18时17分]"
         },
         {
           "title": "steam夏促史低游戏推荐",
@@ -927,6 +1058,81 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时59分 ~ 15时55分]"
+        },
+        {
+          "title": "美光高管暗示内存涨价苹果应负责",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%85%89%E9%AB%98%E7%AE%A1%E6%9A%97%E7%A4%BA%E5%86%85%E5%AD%98%E6%B6%A8%E4%BB%B7%E8%8B%B9%E6%9E%9C%E5%BA%94%E8%B4%9F%E8%B4%A3",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
+          "url": "https://wallstreetcn.com/livenews/3125560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
+          "url": "https://www.cls.cn/detail/2410765",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时20分 ~ 18时17分]"
+        },
+        {
+          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
+          "url": "https://www.cls.cn/detail/2410784",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时15分 ~ 18时17分]"
+        },
+        {
+          "title": "周五（6月26日），美股纳斯达克生物科技指数收涨超2.2%，连续五天创收盘历史新高。 成分股Pyxis Oncology收涨24.22%，Humacyte、ATAI Beckley、Moderna（莫德纳）、Immunitybio Inc.、GH Research、Abcellera Biologics涨18.05%-10.81%，Compass Pathways涨9.20%紧随其后。 Kymera则收跌7.26%、表现倒数第四，Ardelyx跌8.50%，Mesoblast跌9.03%，奥麦罗制药（OMER）跌19.17%。",
+          "url": "https://wallstreetcn.com/livenews/3125495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        },
+        {
+          "title": "美元指数本周涨约0.6%",
+          "url": "https://wallstreetcn.com/livenews/3125447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         }
       ]
     },
@@ -953,7 +1159,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
