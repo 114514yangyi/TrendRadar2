@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T06:10:04.895746+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-06-28T08:10:26.122960+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 08时10分]"
         },
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -27,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 08时10分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
@@ -36,23 +37,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时10分]"
-        },
-        {
-          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
-          "url": "https://wallstreetcn.com/articles/3775658",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 08时10分]"
         },
         {
           "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
@@ -60,6 +50,44 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 08时10分]"
+        },
+        {
+          "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
+          "url": "https://wallstreetcn.com/articles/3775663",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 08时10分]"
+        },
+        {
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 08时10分]"
+        },
+        {
+          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
+          "url": "https://wallstreetcn.com/articles/3775658",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
             7
           ],
           "is_new": false,
@@ -79,29 +107,6 @@
           "time_info": "[00时12分 ~ 04时15分]"
         },
         {
-          "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
-          "url": "https://wallstreetcn.com/articles/3775663",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时10分]"
-        },
-        {
-          "title": "纯中二?美官员把AI当英雄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时10分]"
-        },
-        {
           "title": "我喜欢的漫画被AI改编了",
           "url": "https://www.douyin.com/hot/2549059",
           "source": "抖音",
@@ -110,8 +115,41 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时14分 ~ 06时10分]"
+          "appearance_count": 5,
+          "time_info": "[04时14分 ~ 08时10分]"
+        },
+        {
+          "title": "英伟达AI版图再扩张！数据中心以太网交换机收入暴增193%，悄然登顶全球第一",
+          "url": "https://wallstreetcn.com/articles/3775674",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "AI监管松绑！报道：美国放行Anthropic最强模型，超100家机构获准使用",
+          "url": "https://wallstreetcn.com/articles/3775659",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "黄灿灿 AI你猜错了",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%81%BF%E7%81%BF%20AI%E4%BD%A0%E7%8C%9C%E9%94%99%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         }
       ]
     },
@@ -128,8 +166,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 08时10分]"
         },
         {
           "title": "佛得角成史上进淘汰赛面积最小国家",
@@ -137,11 +175,12 @@
           "source": "今日头条",
           "ranks": [
             25,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时11分 ~ 06时10分]"
+          "appearance_count": 6,
+          "time_info": "[02时11分 ~ 08时10分]"
         },
         {
           "title": "雄安新区获批建设国家级知识产权保护中心",
@@ -151,8 +190,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 06时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 08时10分]"
         },
         {
           "title": "塞尔维亚人民币论坛聚焦拓展双边金融合作",
@@ -162,8 +201,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 06时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 08时10分]"
         },
         {
           "title": "王小洪在吉林调研时强调 强化创新驱动 丰富政策供给 助力推动新时代东北全面振兴",
@@ -173,8 +212,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 06时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 08时10分]"
         },
         {
           "title": "以国家安全部长：黎以美框架协议是“重大错误”",
@@ -185,8 +224,19 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时15分 ~ 08时10分]"
+        },
+        {
+          "title": "坦桑尼亚国家电网故障致大面积停电",
+          "url": "https://flash.jin10.com/detail/20260628042701043800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时15分 ~ 06时10分]"
+          "time_info": "[06时10分 ~ 08时10分]"
         },
         {
           "title": "王濛：和李小冉双人合作后没有遗憾了",
@@ -198,17 +248,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 04时15分]"
-        },
-        {
-          "title": "坦桑尼亚国家电网故障致大面积停电",
-          "url": "https://flash.jin10.com/detail/20260628042701043800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
         },
         {
           "title": "雄安新区获批建设国家级知识产权保护中心",
@@ -276,7 +315,7 @@
     },
     {
       "keyword_group": "美股 美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -286,8 +325,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 08时10分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -298,8 +337,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 08时10分]"
+        },
+        {
+          "title": "下半年美元指数何去何从",
+          "url": "https://wallstreetcn.com/articles/3775680",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         }
       ]
     },
@@ -314,11 +364,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 08时10分]"
         },
         {
           "title": "报道称苹果游说美国政府希望获批采购长鑫存储内存芯片，成功概率有多大？国产芯片打入苹果高端机型难点在哪？",
@@ -330,8 +381,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时11分 ~ 06时10分]"
+          "appearance_count": 6,
+          "time_info": "[02时11分 ~ 08时10分]"
         }
       ]
     },
@@ -347,8 +398,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时09分 ~ 06时10分]"
+          "appearance_count": 3,
+          "time_info": "[06时09分 ~ 08时10分]"
         }
       ]
     }
