@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T19:52:54.540821+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-06-28T22:05:12.362217+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 23,
+      "match_count": 31,
       "titles": [
         {
           "title": "国家统计局：1—5月份电子行业利润增长103.9% 对全部规模以上工业企业利润增长的贡献率达43.1%",
@@ -32,6 +32,20 @@
           "time_info": "[13时23分 ~ 17时23分]"
         },
         {
+          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 22时05分]"
+        },
+        {
           "title": "雄安新区获批建设国家级知识产权保护中心",
           "url": "https://wallstreetcn.com/livenews/3125603",
           "source": "华尔街见闻-快讯",
@@ -50,7 +64,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -91,26 +105,38 @@
           "time_info": "13时23分"
         },
         {
-          "title": "伊朗国家电视台称，船只通过霍尔木兹海峡仍需与革命卫队协调。 进入波斯湾的船只最安全的过境航道位于伊朗霍尔木兹岛以南，而驶出波斯湾的船只最安全航道位于伊朗拉拉克岛以南。",
-          "url": "https://wallstreetcn.com/livenews/3125658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
           "title": "据伊朗国家电视台：通过霍尔木兹海峡仍需与伊朗革命卫队协调。进入波斯湾的船只最安全的航道在霍尔木兹岛以南，驶出船只的安全路线则在拉拉克岛以南。",
           "url": "https://flash.jin10.com/detail/20260628191633807800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "伊拉克政府发言人：政府采取特定方法打击腐败。行动仍在继续，这是国家主权最重要的支柱之一。反腐败工作因其透明性而受到赞扬，旨在保护公共资金。",
+          "url": "https://flash.jin10.com/detail/20260628211621097800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "美联储的集权式改革以及沃什的阳谋",
+          "url": "https://wallstreetcn.com/articles/3775689",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 22时05分]"
         },
         {
           "title": "王小洪在吉林调研时强调 强化创新驱动 丰富政策供给 助力推动新时代东北全面振兴",
@@ -136,17 +162,16 @@
           "time_info": "[17时23分 ~ 19时52分]"
         },
         {
-          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
-          "source": "澎湃新闻",
+          "title": "伊朗国家电视台称，船只通过霍尔木兹海峡仍需与革命卫队协调。 进入波斯湾的船只最安全的过境航道位于伊朗霍尔木兹岛以南，而驶出波斯湾的船只最安全航道位于伊朗拉拉克岛以南。",
+          "url": "https://wallstreetcn.com/livenews/3125658",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            14,
-            8
+            4,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 19时52分]"
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 22时05分]"
         },
         {
           "title": "以国家安全部长：黎以美框架协议是“重大错误”",
@@ -161,16 +186,16 @@
           "time_info": "[04时15分 ~ 08时10分]"
         },
         {
-          "title": "美联储的集权式改革以及沃什的阳谋",
-          "url": "https://wallstreetcn.com/articles/3775689",
-          "source": "华尔街见闻",
+          "title": "伊朗呼吁与海湾国家建立安全框架",
+          "url": "https://wallstreetcn.com/livenews/3125656",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            6,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 19时52分]"
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 22时05分]"
         },
         {
           "title": "坦桑尼亚国家电网故障致大面积停电",
@@ -195,6 +220,17 @@
           "time_info": "[17时22分 ~ 17时23分]"
         },
         {
+          "title": "三星电子海力士将发布大规模投资计划",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%B0%86%E5%8F%91%E5%B8%83%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%95%E8%B5%84%E8%AE%A1%E5%88%92%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 22时05分]"
+        },
+        {
           "title": "王濛：和李小冉双人合作后没有遗憾了",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%BF%9B%EF%BC%9A%E5%92%8C%E6%9D%8E%E5%B0%8F%E5%86%89%E5%8F%8C%E4%BA%BA%E5%90%88%E4%BD%9C%E5%90%8E%E6%B2%A1%E6%9C%89%E9%81%97%E6%86%BE%E4%BA%86",
           "source": "百度热搜",
@@ -212,20 +248,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
         {
-          "title": "伊朗呼吁与海湾国家建立安全框架",
-          "url": "https://wallstreetcn.com/livenews/3125656",
-          "source": "华尔街见闻-快讯",
+          "title": "俄罗斯总统普京：国家杜马选举将在规定期限内严格依法举行。",
+          "url": "https://flash.jin10.com/detail/20260628210802777800",
+          "source": "金十数据",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "22时05分"
         },
         {
           "title": "伊朗外长阿拉格齐：德黑兰欢迎与伊拉克等海湾阿拉伯国家就海湾安全问题进行谈判的框架。",
@@ -239,15 +275,37 @@
           "time_info": "17时23分"
         },
         {
+          "title": "俄罗斯总统普京：国家及公民的安全、俄罗斯边境的不可侵犯性将得到保障。",
+          "url": "https://flash.jin10.com/detail/20260628210336786800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "聚焦三个维度 江苏楼市政策“工具箱”扩容",
           "url": "https://flash.jin10.com/detail/20260628183635251800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "俄罗斯总统普京：当前时期对国家而言具有决定性意义。俄罗斯在战场上不可能被击败。",
+          "url": "https://flash.jin10.com/detail/20260628210016556800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "雄安新区获批建设国家级知识产权保护中心",
@@ -267,15 +325,48 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "沃什上任一月掀改革风暴！美联储正告别“透明时代”",
+          "url": "https://flash.jin10.com/detail/20260628200027069800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "黎巴嫩军方消息人士：以色列关于黎巴嫩军队内部存在不忠于国家的人员的指控，我们予以拒绝和谴责。",
+          "url": "https://flash.jin10.com/detail/20260628195830911800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "黎巴嫩军方消息人士：黎巴嫩军队是国家机构，不接受任何一方对其作出评价，仅遵守黎巴嫩法律。",
+          "url": "https://flash.jin10.com/detail/20260628195817461800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         }
       ]
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -286,8 +377,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 19时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时12分 ~ 22时05分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
@@ -317,6 +408,17 @@
           "time_info": "[00时12分 ~ 08时10分]"
         },
         {
+          "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470630",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 22时05分]"
+        },
+        {
           "title": "纯中二?美官员把AI当英雄",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
           "source": "贴吧",
@@ -327,8 +429,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 19时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时12分 ~ 22时05分]"
         },
         {
           "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
@@ -342,6 +444,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时12分 ~ 08时10分]"
+        },
+        {
+          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
+          "url": "https://wallstreetcn.com/articles/3775685",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 22时05分]"
         },
         {
           "title": "我喜欢的漫画被AI改编了",
@@ -371,17 +486,6 @@
           "time_info": "[00时12分 ~ 08时10分]"
         },
         {
-          "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470630",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 19时52分]"
-        },
-        {
           "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
           "url": "https://wallstreetcn.com/articles/3775658",
           "source": "华尔街见闻",
@@ -392,19 +496,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时12分 ~ 06时10分]"
-        },
-        {
-          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
-          "url": "https://wallstreetcn.com/articles/3775685",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 19时52分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
@@ -432,28 +523,6 @@
           "time_info": "[08时10分 ~ 17时23分]"
         },
         {
-          "title": "中信建投：AI算力虽景气逻辑不变但波动加剧 建议谨慎追高",
-          "url": "https://flash.jin10.com/detail/20260628193536578800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "豆包和DeepSeek的博弈",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
           "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
           "url": "https://wallstreetcn.com/articles/3775696",
           "source": "华尔街见闻",
@@ -462,8 +531,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 19时52分]"
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 22时05分]"
         },
         {
           "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
@@ -471,11 +540,58 @@
           "source": "财联社热门",
           "ranks": [
             9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 22时05分]"
+        },
+        {
+          "title": "豆包和DeepSeek的博弈",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
             10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时22分 ~ 19时52分]"
+          "time_info": "[19时52分 ~ 22时05分]"
+        },
+        {
+          "title": "中信建投：AI算力虽景气逻辑不变但波动加剧 建议谨慎追高",
+          "url": "https://flash.jin10.com/detail/20260628193536578800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 22时05分]"
+        },
+        {
+          "title": "特朗普发扛地球AI照，伊以都不服！",
+          "url": "https://news.ifeng.com/c/8uKW9oaTnDA",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 22时05分]"
+        },
+        {
+          "title": "人民日报评“AI脸看腻了”",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9CAI%E8%84%B8%E7%9C%8B%E8%85%BB%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 22时05分]"
         },
         {
           "title": "AI监管松绑！报道：美国放行Anthropic最强模型，超100家机构获准使用",
@@ -498,6 +614,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850560&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/0RDhkEBMWjSXyCo40ljjk.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260628210453136800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "央视曝光高考志愿填报咨询陷阱，资质造假、照着 AI 念，高考志愿咨询服务是智商税吗？",
@@ -525,7 +652,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国海军陆战队接收首批「无雷达」F-35，没有雷达在现代战争中意味着什么？",
@@ -534,11 +661,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 19时52分]"
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 22时05分]"
         },
         {
           "title": "声明显示，伊朗外交部谴责美国对南伊朗的空袭，称其违反了临时停火协议。",
@@ -552,6 +680,17 @@
           "time_info": "13时23分"
         },
         {
+          "title": "富达国际资深股票分析师：具身智能投资从追本体转向掘金细分产业链",
+          "url": "https://wallstreetcn.com/livenews/3125681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "国际清算银行：需要协调全球监管以增强金融稳定性。",
           "url": "https://flash.jin10.com/detail/20260628170228561800",
           "source": "金十数据",
@@ -561,17 +700,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
-        },
-        {
-          "title": "中国人民银行行长潘功胜出席国际清算银行行长例会及年度股东大会",
-          "url": "https://wallstreetcn.com/livenews/3125657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
         },
         {
           "title": "国际油价26日显著下跌",
@@ -595,6 +723,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时11分 ~ 04时15分]"
+        },
+        {
+          "title": "中国人民银行行长潘功胜出席国际清算银行行长例会及年度股东大会",
+          "url": "https://wallstreetcn.com/livenews/3125657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 22时05分]"
+        },
+        {
+          "title": "伊朗队队长怒斥国际足联",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%98%9F%E9%98%9F%E9%95%BF%E6%80%92%E6%96%A5%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 22时05分]"
         },
         {
           "title": "伊朗队队长怒斥国际足联：极其不公平",
@@ -636,7 +787,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -658,7 +809,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -680,9 +831,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "据俄罗斯副总理诺瓦克，俄能源部还没有提出柴油出口禁令方面的建议。（国际文传通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3125675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "巴基斯坦外交部长强调，各方必须遵守停火协议。",
@@ -691,9 +853,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "伊拉克外交部长侯赛因表示，他与阿拉格齐讨论了一系列共同关心的问题，包括伊拉克在近期战事中遭受的袭击，以及霍尔木兹海峡通航受阻对伊拉克财政和经济的影响。 侯赛因表示，伊拉克的政策是反对战争，通过对话和谈判解决问题。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3125669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "伊朗外交部长阿拉格齐28日在伊拉克表示，伊美谅解备忘录包括在所有战线停火，尤其是在黎巴嫩，这是美国政府的责任。 他强调，以色列必须停止对黎巴嫩的袭击，并从黎巴嫩被占领土撤军。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3125668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "沙特外交部谴责伊朗对巴林的攻击，认为这是对国际法的侵犯。",
@@ -713,7 +897,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         }
@@ -746,6 +930,18 @@
           "time_info": "[17时22分 ~ 19时52分]"
         },
         {
+          "title": "200 万粉丝网红诋毁袁隆平成果引发中国食品报发声，反映了哪些问题？这种造谣者背后有怎样的利益链条？",
+          "url": "https://www.zhihu.com/question/2054482230035191060",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时52分 ~ 22时05分]"
+        },
+        {
           "title": "诋毁袁隆平成果网红称大不了就进去",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AF%8B%E6%AF%81%E8%A2%81%E9%9A%86%E5%B9%B3%E6%88%90%E6%9E%9C%E7%BD%91%E7%BA%A2%E7%A7%B0%E5%A4%A7%E4%B8%8D%E4%BA%86%E5%B0%B1%E8%BF%9B%E5%8E%BB%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -757,17 +953,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时23分 ~ 19时52分]"
-        },
-        {
-          "title": "200 万粉丝网红诋毁袁隆平成果引发中国食品报发声，反映了哪些问题？这种造谣者背后有怎样的利益链条？",
-          "url": "https://www.zhihu.com/question/2054482230035191060",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
         },
         {
           "title": "富信科技：网传公司销售周志奇演讲完整原文为杜撰文章",
@@ -787,7 +972,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -809,7 +994,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -850,7 +1035,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "专家详解“人造太阳”核心技术",
@@ -873,30 +1058,43 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 19时52分]"
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 22时05分]"
         },
         {
           "title": "抖音封禁诋毁杂交技术的网红账号",
           "url": "https://www.douyin.com/hot/2550626",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时52分 ~ 22时05分]"
         },
         {
           "title": "200 万粉丝博主诋毁袁隆平「三系杂交技术」被封禁，什么是三系杂交技术？该博主应承担哪些责任？",
           "url": "https://www.zhihu.com/question/2054512680099227066",
           "source": "知乎",
           "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时52分 ~ 22时05分]"
+        },
+        {
+          "title": "周末要闻汇总：前5月电子行业利润翻倍；美国再对伊朗实施军事打击",
+          "url": "https://www.cls.cn/detail/2411069",
+          "source": "财联社热门",
+          "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 22时05分]"
         },
         {
           "title": "200万粉网红诋毁袁隆平水稻育种技术",
@@ -916,7 +1114,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         }
@@ -968,7 +1166,7 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
@@ -997,13 +1195,35 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时11分 ~ 08时10分]"
+        },
+        {
+          "title": "Steam夏促游戏有哪些新低",
+          "url": "https://search.bilibili.com/all?keyword=Steam%E5%A4%8F%E4%BF%83%E6%B8%B8%E6%88%8F%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E4%BD%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 22时05分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
+          "url": "https://wallstreetcn.com/articles/3775694",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 22时05分]"
+        },
         {
           "title": "据英国金融时报：谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量。",
           "url": "https://flash.jin10.com/detail/20260628120732763800",
