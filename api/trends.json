@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T12:09:32.303063+08:00",
-  "total_titles_processed": 826,
+  "generated_at": "2026-07-02T16:16:53.935967+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 12时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 16时16分]"
         },
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -37,11 +37,12 @@
           "ranks": [
             7,
             8,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 12时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 16时16分]"
         },
         {
           "title": "AI版支付宝开放公测 上线72项办事技能",
@@ -50,7 +51,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -88,6 +89,18 @@
           "time_info": "00时32分"
         },
         {
+          "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
+          "url": "https://wallstreetcn.com/articles/3775980",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时21分 ~ 16时16分]"
+        },
+        {
           "title": "越来越多公司证明AI无法替代人工",
           "url": "https://www.toutiao.com/trending/7657394487626416137/",
           "source": "今日头条",
@@ -99,18 +112,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时03分 ~ 07时22分]"
-        },
-        {
-          "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
-          "url": "https://wallstreetcn.com/articles/3775980",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时21分 ~ 12时09分]"
         },
         {
           "title": "盘前涨逾5%！报道：Meta筹划进军云计算市场，以出售富余的AI算力资源",
@@ -149,6 +150,65 @@
           "time_info": "[05时43分 ~ 07时22分]"
         },
         {
+          "title": "SpaceX“造AI手机”传闻带飞高通 马斯克火速否认浇灭市场热情",
+          "url": "https://www.cls.cn/detail/2414781",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 16时16分]"
+        },
+        {
+          "title": "Meta消息砸盘！AI基础设施股重挫，盘中闪迪、CoreWeave跌超10%，市场开始担心算力过剩？",
+          "url": "https://wallstreetcn.com/articles/3775997",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 16时16分]"
+        },
+        {
+          "title": "联合国专家组警告：AI发展速度已超越科学认知和监管能力 或带来灾难性风险",
+          "url": "https://www.cls.cn/detail/2414744",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 16时16分]"
+        },
+        {
+          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
+          "url": "https://wallstreetcn.com/articles/3775976",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 16时16分]"
+        },
+        {
+          "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
+          "url": "https://wallstreetcn.com/articles/3776029",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "报道：SpaceX开发出类似手机的AI原型机",
           "url": "https://wallstreetcn.com/livenews/3127573",
           "source": "华尔街见闻-快讯",
@@ -160,48 +220,15 @@
           "time_info": "03时03分"
         },
         {
-          "title": "SpaceX“造AI手机”传闻带飞高通 马斯克火速否认浇灭市场热情",
-          "url": "https://www.cls.cn/detail/2414781",
-          "source": "财联社热门",
+          "title": "软银计划在美国推出AI云服务 以抓住激增的需求",
+          "url": "https://wallstreetcn.com/livenews/3127904",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "联合国专家组警告：AI发展速度已超越科学认知和监管能力 或带来灾难性风险",
-          "url": "https://www.cls.cn/detail/2414744",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "Meta消息砸盘！AI基础设施股重挫，盘中闪迪、CoreWeave跌超10%，市场开始担心算力过剩？",
-          "url": "https://wallstreetcn.com/articles/3775997",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
-          "url": "https://wallstreetcn.com/articles/3775976",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
+          "time_info": "16时16分"
         },
         {
           "title": "Guggenheim称AI并非该行业的“丧钟”",
@@ -235,6 +262,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
+          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "市场消息：消息人士称，软银正与多家贷款机构谈判，拟筹集100亿美元保证金贷款，以OpenAI持股及还款担保作为支持。高盛、摩根大通及瑞穗金融集团预计将加入该贷款银团。",
@@ -298,16 +336,40 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "AI演员已经能演出情绪变化了",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         }
       ]
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "iPhone 18 Pro大量细节被曝光，印度合作伙伴泄密给苹果敲响哪些警钟",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33494648",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时21分 ~ 16时16分]"
+        },
         {
           "title": "英伟达通过收入分成的方式与人工智能云公司合作，该合作包括信用支持模式。",
           "url": "https://wallstreetcn.com/livenews/3127793",
@@ -315,7 +377,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -342,16 +404,15 @@
           "time_info": "[00时32分 ~ 07时22分]"
         },
         {
-          "title": "iPhone 18 Pro大量细节被曝光，印度合作伙伴泄密给苹果敲响哪些警钟",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33494648",
-          "source": "澎湃新闻",
+          "title": "马斯克发布大合照：特斯拉弗里蒙特工厂Optimus产线或已就绪！",
+          "url": "https://www.cls.cn/detail/2415009",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            2
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时21分 ~ 12时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "乌克兰总理：成品收入的20%和零部件收入的30%将用于国家国防基金。",
@@ -371,9 +432,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "商务部：愿与加方继续拉长合作清单，压缩问题清单",
+          "url": "https://wallstreetcn.com/livenews/3127906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "美国劳动力市场接近均衡，政策收紧压力正边际降温",
@@ -382,7 +454,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -404,9 +476,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "商务部：愿与加方继续拉长合作清单，压缩问题清单",
+          "url": "https://flash.jin10.com/detail/20260702154914084800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "同业股权扫货热度升温，中小银行改革成重要推手",
@@ -426,7 +509,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -475,13 +558,24 @@
           "time_info": "07时22分"
         },
         {
+          "title": "商务部：中德经济合作联委会将重启，力争2027年初召开合作机制新一次会议",
+          "url": "https://wallstreetcn.com/livenews/3127894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报162350元/吨，较上日16:30价格上涨1000元/吨。",
           "url": "https://wallstreetcn.com/livenews/3127762",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -503,7 +597,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -533,7 +627,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "上海一高校将追究《为什么导师喜欢娶自己的博士？》作者的责任，「底刊」论文的法律边界在哪里？",
@@ -549,6 +643,17 @@
           "time_info": "[00时32分 ~ 07时22分]"
         },
         {
+          "title": "美股盘前，科技股延续此前跌势，美光科技跌近3%，英特尔跌超2%，康宁跌3.68%。",
+          "url": "https://wallstreetcn.com/livenews/3127910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "美国总统特朗普：美光科技(MU.O)宣布向“特朗普账户”投资2.5亿美元。",
           "url": "https://flash.jin10.com/detail/20260702002047001800",
           "source": "金十数据",
@@ -558,6 +663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "中国多项硬核成果接连刷屏",
+          "url": "https://www.douyin.com/hot/2555664",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "【每日收评】全市场超200股涨停！大金融引领沪指放量收红，科技权重陷入调整",
@@ -577,11 +693,12 @@
           "url": "https://www.cls.cn/detail/2414865",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 16时16分]"
         },
         {
           "title": "A 股下半年第一个交易日，221 股涨停创年内新高，高位科技股出现扎堆「对子顶」，如何看待当下行情？",
@@ -617,6 +734,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "抖音旗下深圳星罗拾光科技增资至283.8亿",
+          "url": "https://wallstreetcn.com/livenews/3127899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "“翻倍基”全面爆发，卡位科技投资各显神通",
@@ -663,13 +791,24 @@
           "time_info": "07时22分"
         },
         {
+          "title": "深度复盘长鑫科技发展史",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%8F%91%E5%B1%95%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "任泽平：科技牛调整是上车机会",
           "url": "https://www.toutiao.com/trending/7657752940899208740/",
           "source": "今日头条",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -680,9 +819,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "从宁王到寒王：中国科技股的万亿之路",
+          "url": "https://www.toutiao.com/trending/7657781414305205786/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "为什么说“A股行情靠科技”",
@@ -710,7 +860,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "国际黄金价格跌破 4000 美元 / 盎司后，未来有可能进一步跌到 3000 美元 / 盎司吗？",
@@ -782,6 +932,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "中国公民因涉嫌违反稀土出口管理规定被采取措施？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3127896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "俄外交部：日本部署美国导弹严重破坏亚太地区稳定",
           "url": "https://wallstreetcn.com/livenews/3127511",
           "source": "华尔街见闻-快讯",
@@ -791,6 +952,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "外交部：亚太地区需要的是稳定而不是动荡",
+          "url": "https://wallstreetcn.com/livenews/3127893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "非农或因季调模型失真出现透支，国际金冲击4360前需具备什么条件？| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260702153118193800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "国际铜夜盘收涨0.10%，沪铜收涨0.70%，沪铝收平，沪锌收跌0.47%，沪铅收跌0.57%，沪镍收跌0.10%，沪锡收涨0.99%。 氧化铝夜盘收涨0.11%，铝合金收涨0.40%。 不锈钢夜盘收跌0.54%。",
@@ -818,8 +1001,20 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "Meta云转向引爆动量崩塌，美光重挫超10%，软件逆势走强纳指100跌1.5%",
+          "url": "https://wallstreetcn.com/articles/3775932",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时43分 ~ 16时16分]"
+        },
         {
           "title": "美伊间接技术性会谈正在多哈进行",
           "url": "https://news.ifeng.com/c/8uPLiqINd70",
@@ -830,18 +1025,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时32分 ~ 07时22分]"
-        },
-        {
-          "title": "Meta云转向引爆动量崩塌，美光重挫超10%，软件逆势走强纳指100跌1.5%",
-          "url": "https://wallstreetcn.com/articles/3775932",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时43分 ~ 12时09分]"
         },
         {
           "title": "原料钨钢棒供给减少+需求扩容 国内钻针如何“接棒”？行业涨价预期升温|传真",
@@ -881,6 +1064,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时32分 ~ 12时09分]"
+        },
+        {
+          "title": "金十数据整理：每日房地产行业动态汇总（2026-07-02）",
+          "url": "https://flash.jin10.com/detail/20260702155529081800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "墨西哥经济部长：保护汽车行业一直是讨论的重点。",
@@ -938,11 +1132,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时21分 ~ 12时09分]"
+          "appearance_count": 4,
+          "time_info": "[07时21分 ~ 16时16分]"
         },
         {
           "title": "美元指数1日上涨",
@@ -1014,8 +1209,41 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "谷歌在欧盟法院就41亿欧元安卓罚款案的诉讼中败诉",
+          "url": "https://flash.jin10.com/detail/20260702155207864800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "谷歌：欧盟法院的判决未能承认维持安卓系统市场开放所需的投资。",
+          "url": "https://flash.jin10.com/detail/20260702154804069800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "谷歌在欧盟就41亿欧元安卓反垄断罚款案中败诉。",
+          "url": "https://wallstreetcn.com/livenews/3127902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
         {
           "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
           "url": "https://www.cls.cn/detail/2414683",
@@ -1023,7 +1251,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -1037,6 +1265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "市场消息：Alphabet旗下谷歌败诉，未能推翻创纪录的41亿欧元反垄断罚款判决。",
+          "url": "https://flash.jin10.com/detail/20260702153536154800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         }
       ]
     },
@@ -1064,7 +1303,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         }
@@ -1081,7 +1320,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         }
