@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T08:14:33.752241+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-07-03T12:50:21.671848+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 34,
+      "match_count": 43,
       "titles": [
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 08时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 12时50分]"
         },
         {
           "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 08时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 12时50分]"
         },
         {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
@@ -123,13 +123,35 @@
           "time_info": "02时41分"
         },
         {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
+          "url": "https://www.cls.cn/detail/2415999",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
           "title": "报道：韩国考虑动用5万亿韩元增量税收推进自主AI模型开发，正在讨论购买约1万个英伟达Vera Rubin GPU模块",
           "url": "https://wallstreetcn.com/livenews/3128284",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
         },
@@ -245,6 +267,17 @@
           "time_info": "[06时15分 ~ 08时14分]"
         },
         {
+          "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告",
+          "url": "https://www.cls.cn/detail/2415788",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 12时50分]"
+        },
+        {
           "title": "储殷：AI正在制造新型穷人",
           "url": "https://www.toutiao.com/trending/7657880852310789641/",
           "source": "今日头条",
@@ -279,15 +312,70 @@
           "time_info": "06时15分"
         },
         {
-          "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告",
-          "url": "https://www.cls.cn/detail/2415788",
+          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
+          "url": "https://wallstreetcn.com/articles/3776098",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "阿里达摩院：AI智能体发现4种全新超导材料，已获实验验证",
+          "url": "https://wallstreetcn.com/livenews/3128407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "Robinhood CEO：AI智能体很快将媲美人类交易员 散户有望获得机构级交易能力",
+          "url": "https://www.cls.cn/detail/2415850",
           "source": "财联社热门",
           "ranks": [
-            13
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时15分"
+          "time_info": "12时50分"
+        },
+        {
+          "title": "特朗普重塑外交准则：以AI实力重新定义盟友",
+          "url": "https://flash.jin10.com/detail/20260703121136992800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "全球AI疯狂重创千元机市场",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83AI%E7%96%AF%E7%8B%82%E9%87%8D%E5%88%9B%E5%8D%83%E5%85%83%E6%9C%BA%E5%B8%82%E5%9C%BA%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "分析师：Meta承认AI进展未达预期，但并非“举白旗”",
@@ -409,12 +497,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "联合国警告：各国应针对AI采取行动",
+          "url": "https://www.toutiao.com/trending/7657422400892485673/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         }
       ]
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 21,
+      "match_count": 32,
       "titles": [
         {
           "title": "美国电网运营巨头PJM互联公司（PJM Interconnection LLC）因为高温高热天气而发布二级电网紧急警报。",
@@ -428,15 +527,37 @@
           "time_info": "06时15分"
         },
         {
+          "title": "泰国国家船运商协会：泰铢应走弱以助力出口。",
+          "url": "https://flash.jin10.com/detail/20260703122556855800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
           "url": "https://wallstreetcn.com/livenews/3128288",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
+        },
+        {
+          "title": "国家发改委价格监测中心副主任刘刚带队赴小米集团开展工作调研，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2056094088609390914",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "据黎巴嫩国家通讯社：以色列无人机袭击黎巴嫩南部城镇纳巴提耶一家医院附近。",
@@ -462,6 +583,17 @@
           "time_info": "[00时57分 ~ 02时41分]"
         },
         {
+          "title": "小鹏 MONA L03 首秀发布，14.38 万起，有哪些技术亮点？预计销量如何？",
+          "url": "https://www.zhihu.com/question/2056034391034262100",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
           "title": "Meta Platforms(META.O)CTO：鼠标追踪软件在发布前经过了隐私、法律和其他方面的审查。",
           "url": "https://flash.jin10.com/detail/20260703040521349800",
           "source": "金十数据",
@@ -471,6 +603,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "芬兰政策出现重大变化，俄将其列为核打击目标",
+          "url": "https://news.ifeng.com/c/8uSEN276KZP",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "英国央行货币政策委员曼恩：自6月以来金融条件的宽松变化，将对我在下次会议上的利率投票至关重要。",
@@ -484,13 +627,24 @@
           "time_info": "00时57分"
         },
         {
+          "title": "人社部拟发布12个新职业",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E7%A4%BE%E9%83%A8%E6%8B%9F%E5%8F%91%E5%B8%8312%E4%B8%AA%E6%96%B0%E8%81%8C%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
           "title": "中央气象台7月3日06时继续发布台风蓝色预警",
           "url": "https://wallstreetcn.com/livenews/3128272",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
         },
@@ -501,7 +655,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
         },
@@ -517,6 +671,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "3人发布涉赛格坠楼事件谣言被罚",
+          "url": "https://www.douyin.com/hot/2556198",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
           "title": "英国首相候选人伯纳姆：我认为国防开支计划是国家必须严肃面对的事情。",
           "url": "https://flash.jin10.com/detail/20260703020400051800",
           "source": "金十数据",
@@ -526,6 +691,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "日本7天发布10条中国海军动态",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC7%E5%A4%A9%E5%8F%91%E5%B8%8310%E6%9D%A1%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%8A%A8%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "美国电网运营巨头PJM互联公司（PJM Interconnection LLC）更新炎热天气的运营情况。 针对7月3日发布“最大化发电警报”。 现阶段针对7月3日发布电网负荷管理警告。 针对炎热天气的（用电）警报有效期至少将持续至7月4日。",
@@ -545,7 +721,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
         },
@@ -567,9 +743,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报164700元/吨，较上日16:30价格上涨2250元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3128385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "加拿大首席谈判代表：多个欧洲国家即将以创始成员身份加入防务、安全与韧性银行（Defence, Security and Resilience Bank）。",
@@ -581,6 +768,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "F1英国站新闻发布会",
+          "url": "https://search.bilibili.com/all?keyword=F1%E8%8B%B1%E5%9B%BD%E7%AB%99%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "加拿大首席谈判代表：预计约有10个国家将成为全球防务银行的创始成员。",
@@ -611,9 +809,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
+        },
+        {
+          "title": "国家烟草专卖局：引导电子烟产业向具有产业基础和条件的地区适度集中",
+          "url": "https://wallstreetcn.com/livenews/3128377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "美国电网PJM发布警报，通知发电调度员尽快启动所有离线发电机组，并将其功率提升至满负荷（紧急最大功率）。",
@@ -622,9 +831,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
+        },
+        {
+          "title": "泰国国家船运商协会：泰国2026年出口预计增长8%至10%（1月份预计为增长2%至4%）。",
+          "url": "https://flash.jin10.com/detail/20260703115107347800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "美国参议员沃伦致信美联储理事沃勒，要求停止推进地区联储改革方案",
@@ -652,7 +872,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
@@ -703,6 +923,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "蓝思科技：玻璃基板相关业务还未产生收入 未来存在不确定性",
+          "url": "https://wallstreetcn.com/livenews/3128415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "宇树科技IPO注册获批",
@@ -783,9 +1014,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
+        },
+        {
+          "title": "清华教授举报蒋方舟论文造假",
+          "url": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%E4%B8%BE%E6%8A%A5%E8%92%8B%E6%96%B9%E8%88%9F%E8%AE%BA%E6%96%87%E9%80%A0%E5%81%87&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（7月3日）",
@@ -794,7 +1036,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
         },
@@ -805,7 +1047,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
         },
@@ -816,7 +1058,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
         },
@@ -860,7 +1102,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
         },
@@ -871,9 +1113,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
+        },
+        {
+          "title": "蓝思科技：玻璃基板相关业务还未产生收入 未来存在不确定性",
+          "url": "https://flash.jin10.com/detail/20260703114833963800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         }
       ]
     },
@@ -1020,7 +1273,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
         },
@@ -1042,7 +1295,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
         }
@@ -1050,18 +1303,19 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "实体游戏光盘会就此终结吗",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E4%BD%93%E6%B8%B8%E6%88%8F%E5%85%89%E7%9B%98%E4%BC%9A%E5%B0%B1%E6%AD%A4%E7%BB%88%E7%BB%93%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 12时50分]"
         },
         {
           "title": "实体游戏盘的消失是趋势吗",
@@ -1075,6 +1329,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时56分 ~ 04时24分]"
+        },
+        {
+          "title": "数字时代还能真正拥有游戏吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E8%BF%98%E8%83%BD%E7%9C%9F%E6%AD%A3%E6%8B%A5%E6%9C%89%E6%B8%B8%E6%88%8F%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 12时50分]"
         },
         {
           "title": "据Business Insider：Meta Platforms(META.O)推出了带有氛围编码游戏信息流的Pocket应用程序。",
@@ -1099,21 +1365,21 @@
           "time_info": "00时57分"
         },
         {
-          "title": "数字时代还能真正拥有游戏吗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E8%BF%98%E8%83%BD%E7%9C%9F%E6%AD%A3%E6%8B%A5%E6%9C%89%E6%B8%B8%E6%88%8F%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "《光与影：33 号远征队》技术总监称 GTA6 无趣，R 星游戏太无聊，如何看待此评价？",
+          "url": "https://www.zhihu.com/question/2055646415695634495",
+          "source": "知乎",
           "ranks": [
-            30
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时14分"
+          "time_info": "12时50分"
         }
       ]
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Meta云转向引爆动量崩塌，美光重挫超10%，软件逆势走强纳指100跌1.5%",
@@ -1133,7 +1399,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
         },
@@ -1144,9 +1410,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
+        },
+        {
+          "title": "鸿蒙因不兼容多 CPU 架构落选重要集采，这是怎样一个门槛？背后可能涉及哪些技术路线问题？",
+          "url": "https://www.zhihu.com/question/2056314668243579078",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "美国总统特朗普：不管人工智能是好是坏， 我们已经用上这项技术了。",
@@ -1166,7 +1443,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
         }
@@ -1183,7 +1460,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
         }
