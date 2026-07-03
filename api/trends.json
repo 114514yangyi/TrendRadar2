@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T19:38:45.120403+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2026-07-03T22:25:14.588779+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 54,
+      "match_count": 57,
       "titles": [
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时56分 ~ 12时50分]"
+        },
+        {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 22时25分]"
         },
         {
           "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
@@ -69,18 +82,6 @@
           "time_info": "[12时50分 ~ 19时38分]"
         },
         {
-          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
-          "url": "https://wallstreetcn.com/articles/3776101",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时50分 ~ 19时38分]"
-        },
-        {
           "title": "7 月 2 日大量网友反馈 DeepSeek 崩了，是怎么回事？",
           "url": "https://www.zhihu.com/question/2056064893745193207",
           "source": "知乎",
@@ -108,13 +109,50 @@
           "time_info": "[16时15分 ~ 19时38分]"
         },
         {
+          "title": "曝阿里7月10日起全面禁用Claude",
+          "url": "https://www.toutiao.com/trending/7658254613019102783/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
+        },
+        {
+          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
+          "url": "https://wallstreetcn.com/articles/3776098",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 22时25分]"
+        },
+        {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 22时25分]"
+        },
+        {
           "title": "鹏鼎控股：拟定增募资不超过96亿元，用于庆鼎AI服务器和高速光模块高密度互连积层板项目",
           "url": "https://wallstreetcn.com/livenews/3128681",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -171,15 +209,16 @@
           "time_info": "02时41分"
         },
         {
-          "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/2056384180200498322",
-          "source": "知乎",
+          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
           "ranks": [
+            6,
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 22时25分]"
         },
         {
           "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
@@ -205,6 +244,31 @@
           "time_info": "08时14分"
         },
         {
+          "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2056384180200498322",
+          "source": "知乎",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 22时25分]"
+        },
+        {
+          "title": "曝阿里禁用Claude",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%98%BF%E9%87%8C%E7%A6%81%E7%94%A8Claude%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时15分 ~ 22时25分]"
+        },
+        {
           "title": "如何评价AI巨头之间的混战",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
           "source": "bilibili 热搜",
@@ -226,18 +290,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时56分 ~ 04时24分]"
-        },
-        {
-          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
-          "url": "https://wallstreetcn.com/articles/3776098",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时50分 ~ 19时38分]"
         },
         {
           "title": "随着AI矿产热潮吸引投资关注，刚果（金）计划建立首个证券交易所。（彭博）",
@@ -263,19 +315,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时56分 ~ 04时24分]"
-        },
-        {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时50分 ~ 19时38分]"
         },
         {
           "title": "为什么现在 DeepSeek 快速模式豆包化？",
@@ -305,18 +344,6 @@
           "time_info": "[00时56分 ~ 04时24分]"
         },
         {
-          "title": "曝阿里禁用Claude",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%98%BF%E9%87%8C%E7%A6%81%E7%94%A8Claude%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时15分 ~ 19时38分]"
-        },
-        {
           "title": "Robinhood CEO：AI智能体很快将媲美人类交易员 散户有望获得机构级交易能力",
           "url": "https://www.cls.cn/detail/2415850",
           "source": "财联社热门",
@@ -326,6 +353,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时50分 ~ 16时16分]"
+        },
+        {
+          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
+          "url": "https://www.cls.cn/detail/2416593",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 22时25分]"
+        },
+        {
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 22时25分]"
         },
         {
           "title": "微软高管：微软可以帮助企业改进AI使用方式",
@@ -375,6 +426,17 @@
           "time_info": "[06时15分 ~ 12时50分]"
         },
         {
+          "title": "4名大学生出题 AI考了0分",
+          "url": "https://www.baidu.com/s?wd=4%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%87%BA%E9%A2%98+AI%E8%80%83%E4%BA%860%E5%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
+        },
+        {
           "title": "储殷：AI正在制造新型穷人",
           "url": "https://www.toutiao.com/trending/7657880852310789641/",
           "source": "今日头条",
@@ -385,17 +447,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 08时14分]"
-        },
-        {
-          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
         },
         {
           "title": "美国总统特朗普被问及入股OpenAI，拿英特尔举例。",
@@ -448,7 +499,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -459,29 +510,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
-          "url": "https://www.cls.cn/detail/2416593",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -624,9 +653,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
+        },
+        {
+          "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
+          "url": "https://flash.jin10.com/detail/20260703213623637800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "联合国警告：各国应针对AI采取行动",
@@ -643,7 +683,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 41,
+      "match_count": 51,
       "titles": [
         {
           "title": "国家发改委价格监测中心副主任刘刚带队赴小米集团开展工作调研，哪些信息值得关注？",
@@ -652,11 +692,23 @@
           "ranks": [
             5,
             3,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时50分 ~ 19时38分]"
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 22时25分]"
+        },
+        {
+          "title": "四部门出台稳岗扩岗政策",
+          "url": "https://www.douyin.com/hot/2556062",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
         },
         {
           "title": "美国电网运营巨头PJM互联公司（PJM Interconnection LLC）因为高温高热天气而发布二级电网紧急警报。",
@@ -670,13 +722,24 @@
           "time_info": "06时15分"
         },
         {
+          "title": "波兰铜业集团（KGHM Polska Miedz SA）：与滨海省就普克多水钾镁盐矿项目合作签署谅解备忘录。 普克项目基于米耶罗希诺矿床，估计地质资源量超过3.03亿吨。 将准备申请该矿床采矿特许权所需的文件。 获得该项目的相关审批决定可能需要大约6年时间。",
+          "url": "https://wallstreetcn.com/livenews/3128751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "中方坚决反对有关国家诋毁中国民族政策",
           "url": "https://www.toutiao.com/trending/7657540121208127531/",
           "source": "今日头条",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -690,6 +753,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
+        },
+        {
+          "title": "贵州：支持茅台古镇按照国家5A级旅游景区标准建设 打造成为酒旅融合标志性景区",
+          "url": "https://wallstreetcn.com/livenews/3128748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "三部门调整节能汽车、新能源汽车车船税优惠政策",
+          "url": "https://www.cls.cn/detail/2416626",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 22时25分]"
         },
         {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
@@ -709,9 +795,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
+        },
+        {
+          "title": "贵州：支持茅台古镇按照国家5A级旅游景区标准建设 打造成为酒旅融合标志性景区",
+          "url": "https://flash.jin10.com/detail/20260703221005744800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "据黎巴嫩国家通讯社：以色列无人机袭击黎巴嫩南部城镇纳巴提耶一家医院附近。",
@@ -748,6 +845,18 @@
           "time_info": "[12时50分 ~ 19时38分]"
         },
         {
+          "title": "C 罗姐姐称世界杯后 C 罗将退出国家队，你怎么看待 C 罗这一个人选择？他的离开可能带来哪些变化？",
+          "url": "https://www.zhihu.com/question/2056278090137822907",
+          "source": "知乎",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 22时25分]"
+        },
+        {
           "title": "人社部拟发布12个新职业",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E7%A4%BE%E9%83%A8%E6%8B%9F%E5%8F%91%E5%B8%8312%E4%B8%AA%E6%96%B0%E8%81%8C%E4%B8%9A",
           "source": "百度热搜",
@@ -772,6 +881,28 @@
           "time_info": "[00时57分 ~ 02时41分]"
         },
         {
+          "title": "国家发改委印发《循环经济发展“十五五”规划》",
+          "url": "https://www.cls.cn/detail/2416403",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
+        },
+        {
+          "title": "佛得角中高收入国家",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%BE%97%E8%A7%92%E4%B8%AD%E9%AB%98%E6%94%B6%E5%85%A5%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
+        },
+        {
           "title": "佛得角被列为中高收入国家",
           "url": "https://www.toutiao.com/trending/7657788316280471578/",
           "source": "今日头条",
@@ -781,17 +912,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时15分 ~ 16时16分]"
-        },
-        {
-          "title": "三部门调整节能汽车、新能源汽车车船税优惠政策",
-          "url": "https://www.cls.cn/detail/2416626",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
         },
         {
           "title": "小鹏 MONA L03 首秀发布，14.38 万起，有哪些技术亮点？预计销量如何？",
@@ -822,7 +942,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -844,7 +964,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -904,17 +1024,6 @@
           "time_info": "12时50分"
         },
         {
-          "title": "C 罗姐姐称世界杯后 C 罗将退出国家队，你怎么看待 C 罗这一个人选择？他的离开可能带来哪些变化？",
-          "url": "https://www.zhihu.com/question/2056278090137822907",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
           "title": "美国电网运营巨头PJM互联公司（PJM Interconnection LLC）更新炎热天气的运营情况。 针对7月3日发布“最大化发电警报”。 现阶段针对7月3日发布电网负荷管理警告。 针对炎热天气的（用电）警报有效期至少将持续至7月4日。",
           "url": "https://wallstreetcn.com/livenews/3128225",
           "source": "华尔街见闻-快讯",
@@ -924,6 +1033,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "上半年国家铁路完成货物发送量超20亿吨",
+          "url": "https://wallstreetcn.com/livenews/3128726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "姐姐确认C罗国家队最后一舞",
@@ -970,13 +1090,24 @@
           "time_info": "12时50分"
         },
         {
+          "title": "申万菱信基金发布公告称，副总经理贾成东因个人原因而离任，付娟新任公司总经理助理。",
+          "url": "https://wallstreetcn.com/livenews/3128722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "三部门调整车船税优惠政策",
           "url": "https://www.toutiao.com/trending/7657339568953393193/",
           "source": "今日头条",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1031,7 +1162,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1091,6 +1222,28 @@
           "time_info": "00时57分"
         },
         {
+          "title": "国家邮政局走访调研5家快递企业总部",
+          "url": "https://wallstreetcn.com/livenews/3128713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "国家电影局、市场监管总局联合印发《关于促进电影院多样化经营的通知》",
+          "url": "https://wallstreetcn.com/livenews/3128711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "德国公布一揽子全面改革计划",
           "url": "https://wallstreetcn.com/livenews/3128181",
           "source": "华尔街见闻-快讯",
@@ -1105,7 +1258,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
@@ -1275,6 +1428,28 @@
           "time_info": "[16时15分 ~ 16时16分]"
         },
         {
+          "title": "一枚芯片拯救了葡萄牙和 C 罗，有人称科技让规则绝对精准，有人称科技让足球失去偶然性和原始美感，你怎么看？",
+          "url": "https://www.zhihu.com/question/2056380849625325900",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
+        },
+        {
+          "title": "郭一鸣：A股科技股局部回暖 接下来呢",
+          "url": "https://www.toutiao.com/trending/7658270373900717574/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
+        },
+        {
           "title": "如何看待「耿同学讲故事」称中山副院长论文为史上最假 Nature 论文？",
           "url": "https://www.zhihu.com/question/2056072740117772014",
           "source": "知乎",
@@ -1303,7 +1478,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1325,7 +1500,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1358,7 +1533,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1413,7 +1588,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1435,9 +1610,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
+        },
+        {
+          "title": "科技股涨的是盈利还是流动性",
+          "url": "https://flash.jin10.com/detail/20260703214427153800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "蓝思科技：玻璃基板相关业务还未产生收入 未来存在不确定性",
@@ -1457,7 +1643,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         }
@@ -1465,7 +1651,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "中方能否证实在大连的日本人被拘留，外交部回应",
@@ -1485,7 +1671,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1600,6 +1786,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "伊朗媒体：沙特副外交大臣向伊朗已故最高领袖致敬",
+          "url": "https://flash.jin10.com/detail/20260703214440301800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "外交部就印方称日印将加强关键矿产合作答记者问",
           "url": "https://wallstreetcn.com/livenews/3128516",
           "source": "华尔街见闻-快讯",
@@ -1664,12 +1861,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "非农数据爆冷，黄金应声上涨！​《大有作V》栏目更新，3分钟解读国际金走势>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260703213235031800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         }
       ]
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "Meta云转向引爆动量崩塌，美光重挫超10%，软件逆势走强纳指100跌1.5%",
@@ -1694,13 +1902,24 @@
           "time_info": "16时16分"
         },
         {
+          "title": "大陆集团（Continental）德国股价上涨2%，公司即将敲定出售旗下工业技术业务部门康迪泰克的协议。",
+          "url": "https://flash.jin10.com/detail/20260703221105543800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "全球最大编程助手GitHub Copilot宣布接入首个开源模型Kimi K2.7 Code",
           "url": "https://wallstreetcn.com/livenews/3128677",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1727,6 +1946,17 @@
           "time_info": "08时14分"
         },
         {
+          "title": "市场消息：德国汽车零部件制造商大陆集团（Continental）即将敲定出售旗下工业技术业务部门康迪泰克业务的协议。",
+          "url": "https://flash.jin10.com/detail/20260703220501267800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "京东方A：已成立Micro LED光互连系统及玻璃载板CPO技术攻关项目组 加快技术攻关",
           "url": "https://flash.jin10.com/detail/20260703073115282800",
           "source": "金十数据",
@@ -1747,6 +1977,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
+        },
+        {
+          "title": "加拿大汽车行业市场研究机构DesRosiers：加拿大6月机动车销量同比增长1.9%。",
+          "url": "https://flash.jin10.com/detail/20260703215011591800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "美国总统特朗普：不管人工智能是好是坏， 我们已经用上这项技术了。",
@@ -1774,7 +2015,7 @@
     },
     {
       "keyword_group": "美股 美元",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "韩国 KOSPI 指数大跌 8%，SK 海力士暴跌 14%，单日蒸发 1600 亿美元市值，如何解读？",
@@ -1802,6 +2043,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 06时15分]"
+        },
+        {
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
         },
         {
           "title": "美股三大股指走势分化，纳指跌超1%，标普500指数跌0.28%，道指涨0.64%。",
