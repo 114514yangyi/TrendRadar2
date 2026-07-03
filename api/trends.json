@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T02:20:22.071240+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-07-04T04:19:52.114008+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 04时19分]"
         },
         {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 04时19分]"
         },
         {
           "title": "4名大学生出题 AI考了0分",
@@ -37,8 +37,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 04时19分]"
+        },
+        {
+          "title": "欧洲顶级银行家和监管机构警告：AI发展速度已超越现行规则",
+          "url": "https://wallstreetcn.com/livenews/3128832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
@@ -48,8 +59,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 04时19分]"
+        },
+        {
+          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
+          "url": "https://wallstreetcn.com/articles/3776098",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 04时19分]"
         },
         {
           "title": "曝阿里7月10日起全面禁用Claude",
@@ -57,22 +80,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时20分]"
-        },
-        {
-          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
-          "url": "https://wallstreetcn.com/articles/3776098",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 04时19分]"
         },
         {
           "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
@@ -83,8 +96,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 04时19分]"
         },
         {
           "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
@@ -94,8 +107,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 04时19分]"
         },
         {
           "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
@@ -106,8 +119,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 04时19分]"
         },
         {
           "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
@@ -115,22 +128,46 @@
           "source": "知乎",
           "ranks": [
             19,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 04时19分]"
         },
         {
           "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
           "url": "https://wallstreetcn.com/livenews/3128806",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 04时19分]"
+        },
+        {
+          "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
+          "url": "https://wallstreetcn.com/livenews/3128826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "04时19分"
+        },
+        {
+          "title": "Meta股价因AI进展不及预期下跌",
+          "url": "https://www.douyin.com/hot/2556589",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "行业最直观的风向标闪烁红灯，词元经济学动摇AI热潮叙事",
@@ -158,7 +195,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "三部门调整节能汽车、新能源汽车车船税优惠政策",
@@ -168,8 +205,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 04时19分]"
         },
         {
           "title": "四部门出台稳岗扩岗政策",
@@ -179,19 +216,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时20分]"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
-          "url": "https://flash.jin10.com/detail/20260704021129048800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 04时19分]"
         },
         {
           "title": "伊朗总统与俄罗斯讨论扩大合作的事宜。（ISN）",
@@ -200,7 +226,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -211,7 +237,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -233,9 +259,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
+          "url": "https://flash.jin10.com/detail/20260704021129048800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 04时19分]"
         },
         {
           "title": "三部门调整节能汽车、新能源汽车车船税优惠政策，哪些信息值得关注？",
@@ -246,8 +284,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 04时19分]"
         },
         {
           "title": "新能源汽车车船税优惠政策调整",
@@ -258,8 +296,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 04时19分]"
         },
         {
           "title": "C 罗姐姐称世界杯后 C 罗将退出国家队，你怎么看待 C 罗这一个人选择？他的离开可能带来哪些变化？",
@@ -267,11 +305,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 04时19分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.9%，连续第五个交易日走强，报397.85点，创5月25日以来收盘新高。 在十个板块中，北欧工业板块涨幅最大。 Sandvik AB涨4.4%，在一众北欧个股里领跑。",
@@ -283,6 +322,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "美国电网运营巨头PJM Interconnection LLC在紧急程序网站上发布消息，宣布启动EEA2（二级能源紧急警报）行动，原因是已无法满足预期的能源需求。 该公司表示，正在实施一项运营计划，要求公用事业公司在其服务区域内削减电力需求。该区域覆盖中大西洋地区、南部地区以及华盛顿特区，服务人口达6700万。",
+          "url": "https://wallstreetcn.com/livenews/3128822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "伊朗总统与俄罗斯就扩大合作进行了会谈",
+          "url": "https://wallstreetcn.com/livenews/3128816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "伯纳姆：若接任首相将不提前大选 稳住政策延续性",
+          "url": "https://flash.jin10.com/detail/20260704025904703800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "佛得角中高收入国家",
@@ -341,7 +413,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -363,7 +435,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         }
@@ -382,54 +454,26 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 04时19分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.33%，暂报2234.25点，上周五结束交易以来（7*24）累计上涨5.08%，6月27-30日低位持稳于2100点附近，7月1-3日持续上扬。 MarketVectorTM数字资产100中盘指数涨1.85%，报2573.64点，最近七天累涨3.75%。 MarketVector数字资产100指数涨0.95%，报12402.25点，最近七天累涨4.56%。 目前，Solana涨0.64%、最近七天迄今累涨13%，狗狗币涨2.98%、最近七天迄今累涨1.37%，XRP涨2.77%、、最近七天迄今累涨6.81%。 比特币涨0.85%，暂报62032.74美元，最近七天迄今累涨4.07%；以太坊涨1.97%，暂报1732.62美元，最近七天迄今累涨10.49%。",
           "url": "https://wallstreetcn.com/livenews/3128802",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "实体游戏光盘会就此终结吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E4%BD%93%E6%B8%B8%E6%88%8F%E5%85%89%E7%9B%98%E4%BC%9A%E5%B0%B1%E6%AD%A4%E7%BB%88%E7%BB%93%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            28
+            14,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时20分]"
-        },
-        {
-          "title": "Steam主机开箱测评",
-          "url": "https://search.bilibili.com/all?keyword=Steam%E4%B8%BB%E6%9C%BA%E5%BC%80%E7%AE%B1%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "[02时20分 ~ 04时19分]"
         }
       ]
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "一枚芯片拯救了葡萄牙和 C 罗，有人称科技让规则绝对精准，有人称科技让足球失去偶然性和原始美感，你怎么看？",
@@ -438,6 +482,47 @@
           "ranks": [
             14,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 04时19分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.20%，报23253点。 恒生科技指数主连夜盘收跌0.13%，报4492点。",
+          "url": "https://wallstreetcn.com/livenews/3128820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 steam 显卡 内存 处理器",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Steam主机开箱测评",
+          "url": "https://search.bilibili.com/all?keyword=Steam%E4%B8%BB%E6%9C%BA%E5%BC%80%E7%AE%B1%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 04时19分]"
+        },
+        {
+          "title": "实体游戏光盘会就此终结吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E4%BD%93%E6%B8%B8%E6%88%8F%E5%85%89%E7%9B%98%E4%BC%9A%E5%B0%B1%E6%AD%A4%E7%BB%88%E7%BB%93%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -456,7 +541,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         }
