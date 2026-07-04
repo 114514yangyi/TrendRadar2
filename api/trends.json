@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-04T06:11:30.377559+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-07-04T08:12:55.340765+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
           "url": "https://wallstreetcn.com/articles/3776101",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 06时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 08时12分]"
         },
         {
           "title": "4名大学生出题 AI考了0分",
@@ -41,15 +42,15 @@
           "time_info": "[00时41分 ~ 04时19分]"
         },
         {
-          "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
-          "url": "https://wallstreetcn.com/livenews/3128844",
-          "source": "华尔街见闻-快讯",
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "08时12分"
         },
         {
           "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
@@ -58,7 +59,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -67,11 +68,65 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 06时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 08时12分]"
+        },
+        {
+          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
+          "url": "https://www.cls.cn/detail/2416593",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 08时12分]"
+        },
+        {
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 08时12分]"
+        },
+        {
+          "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/2056394331271999624",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            16,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 08时12分]"
+        },
+        {
+          "title": "欧洲顶级银行家和监管机构警告：AI发展速度已超越现行规则",
+          "url": "https://wallstreetcn.com/livenews/3128832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 08时12分]"
         },
         {
           "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
@@ -86,16 +141,16 @@
           "time_info": "[00时41分 ~ 06时11分]"
         },
         {
-          "title": "欧洲顶级银行家和监管机构警告：AI发展速度已超越现行规则",
-          "url": "https://wallstreetcn.com/livenews/3128832",
+          "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
+          "url": "https://wallstreetcn.com/livenews/3128844",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            14
+            3,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时19分 ~ 06时11分]"
+          "time_info": "[06时11分 ~ 08时12分]"
         },
         {
           "title": "曝阿里7月10日起全面禁用Claude",
@@ -106,19 +161,6 @@
             6,
             14,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 06时11分]"
-        },
-        {
-          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
-          "url": "https://www.cls.cn/detail/2416593",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            11
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -137,41 +179,17 @@
           "time_info": "[00时41分 ~ 06时11分]"
         },
         {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 06时11分]"
-        },
-        {
-          "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
-          "url": "https://www.zhihu.com/question/2056394331271999624",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 06时11分]"
-        },
-        {
           "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
           "url": "https://wallstreetcn.com/livenews/3128826",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 06时11分]"
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 08时12分]"
         },
         {
           "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
@@ -186,6 +204,18 @@
           "time_info": "[02时20分 ~ 04时19分]"
         },
         {
+          "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
+          "url": "https://wallstreetcn.com/livenews/3128834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 08时12分]"
+        },
+        {
           "title": "Meta股价因AI进展不及预期下跌",
           "url": "https://www.douyin.com/hot/2556589",
           "source": "抖音",
@@ -198,15 +228,15 @@
           "time_info": "[04时19分 ~ 06时11分]"
         },
         {
-          "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
-          "url": "https://wallstreetcn.com/livenews/3128834",
-          "source": "华尔街见闻-快讯",
+          "title": "韩国AI大跃进",
+          "url": "https://wallstreetcn.com/articles/3776121",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "08时12分"
         },
         {
           "title": "行业最直观的风向标闪烁红灯，词元经济学动摇AI热潮叙事",
@@ -218,6 +248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "如何看待AI模型蒸馏",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85AI%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         },
         {
           "title": "安联集团首席经济学家Ludovic Subran：美国6月非农就业数据确实疲软，但我仍然认为通胀峰值将高于3.7%，而且美国经济仍有AI、财政支出和能源因素的支撑。 美联储可能不得不在9月份加息。所以我认为这才是欧洲和美国之间的真正分歧。（彭博电视）",
@@ -234,7 +275,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "四部门出台稳岗扩岗政策",
@@ -244,8 +285,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 06时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 08时12分]"
         },
         {
           "title": "三部门调整节能汽车、新能源汽车车船税优惠政策",
@@ -256,8 +297,33 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 08时12分]"
+        },
+        {
+          "title": "三部门调整节能汽车、新能源汽车车船税优惠政策，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2056425679093339668",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 08时12分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
+          "url": "https://flash.jin10.com/detail/20260704021129048800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时41分 ~ 06时11分]"
+          "time_info": "[02时20分 ~ 08时12分]"
         },
         {
           "title": "伊朗总统与俄罗斯讨论扩大合作的事宜。（ISN）",
@@ -280,31 +346,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
-        },
-        {
-          "title": "三部门调整节能汽车、新能源汽车车船税优惠政策，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2056425679093339668",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 06时11分]"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
-          "url": "https://flash.jin10.com/detail/20260704021129048800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 06时11分]"
         },
         {
           "title": "欧洲央行管委内格尔：德国在改革方面迈出了非常重要的一步。",
@@ -335,11 +376,12 @@
           "ranks": [
             15,
             11,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 06时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 08时12分]"
         },
         {
           "title": "C 罗姐姐称世界杯后 C 罗将退出国家队，你怎么看待 C 罗这一个人选择？他的离开可能带来哪些变化？",
@@ -361,11 +403,46 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            22
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 08时12分]"
+        },
+        {
+          "title": "伯纳姆：若接任首相将不提前大选 稳住政策延续性",
+          "url": "https://flash.jin10.com/detail/20260704025904703800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 08时12分]"
+        },
+        {
+          "title": "英国唐宁街10号发布有关霍尔木兹海峡的联合声明：英国、阿曼、法国致力于确保阿曼水域航行安全。 英国、法国准备部署范围更广的多国军事任务。",
+          "url": "https://wallstreetcn.com/livenews/3128839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时19分 ~ 06时11分]"
+          "time_info": "[06时11分 ~ 08时12分]"
+        },
+        {
+          "title": "热浪期间，法国家中死亡人数激增90%",
+          "url": "https://news.ifeng.com/c/8uTFykgn7t1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 08时12分]"
         },
         {
           "title": "伊朗总统与俄罗斯就扩大合作进行了会谈",
@@ -380,37 +457,15 @@
           "time_info": "[04时19分 ~ 06时11分]"
         },
         {
-          "title": "伯纳姆：若接任首相将不提前大选 稳住政策延续性",
-          "url": "https://flash.jin10.com/detail/20260704025904703800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 06时11分]"
-        },
-        {
-          "title": "英国唐宁街10号发布有关霍尔木兹海峡的联合声明：英国、阿曼、法国致力于确保阿曼水域航行安全。 英国、法国准备部署范围更广的多国军事任务。",
-          "url": "https://wallstreetcn.com/livenews/3128839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "热浪期间，法国家中死亡人数激增90%",
-          "url": "https://news.ifeng.com/c/8uTFykgn7t1",
-          "source": "凤凰网",
+          "title": "明年起，取消对节能汽车减半征收车船税政策，取消对纯电动商用车、插电式（含增程式）混合动力汽车、燃料电池商用车免征车船税政策",
+          "url": "https://wallstreetcn.com/articles/3776152",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "08时12分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.9%，连续第五个交易日走强，报397.85点，创5月25日以来收盘新高。 在十个板块中，北欧工业板块涨幅最大。 Sandvik AB涨4.4%，在一众北欧个股里领跑。",
@@ -513,9 +568,50 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 steam 显卡 内存 处理器",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "实体游戏光盘会就此终结吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E4%BD%93%E6%B8%B8%E6%88%8F%E5%85%89%E7%9B%98%E4%BC%9A%E5%B0%B1%E6%AD%A4%E7%BB%88%E7%BB%93%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 06时11分]"
+        },
+        {
+          "title": "Steam主机开箱测评",
+          "url": "https://search.bilibili.com/all?keyword=Steam%E4%B8%BB%E6%9C%BA%E5%BC%80%E7%AE%B1%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 04时19分]"
+        },
+        {
+          "title": "腾讯游戏防沉迷系统升级",
+          "url": "https://www.douyin.com/hot/2557156",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         }
       ]
     },
@@ -563,8 +659,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 06时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 08时12分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.20%，报23253点。 恒生科技指数主连夜盘收跌0.13%，报4492点。",
@@ -572,41 +668,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 06时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "实体游戏光盘会就此终结吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E4%BD%93%E6%B8%B8%E6%88%8F%E5%85%89%E7%9B%98%E4%BC%9A%E5%B0%B1%E6%AD%A4%E7%BB%88%E7%BB%93%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            28
+            24,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时41分 ~ 06时11分]"
-        },
-        {
-          "title": "Steam主机开箱测评",
-          "url": "https://search.bilibili.com/all?keyword=Steam%E4%B8%BB%E6%9C%BA%E5%BC%80%E7%AE%B1%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 04时19分]"
+          "time_info": "[04时19分 ~ 08时12分]"
         }
       ]
     },
