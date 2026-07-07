@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-07-07T20:01:14.955621+08:00",
-  "total_titles_processed": 1254,
-  "failed_sources": [
-    "jin10"
-  ],
+  "generated_at": "2026-07-07T23:09:52.739076+08:00",
+  "total_titles_processed": 1426,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 61,
+      "match_count": 65,
       "titles": [
         {
           "title": "泪洒绿茵,内马尔告别国家队",
@@ -167,6 +165,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "美联储“三把手”：对短期通胀前景略趋乐观，当前货币政策“恰到好处”",
+          "url": "https://flash.jin10.com/detail/20260707223602677800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "国家外汇管理局：6月外汇储备规模下降",
           "url": "https://wallstreetcn.com/livenews/3129839",
           "source": "华尔街见闻-快讯",
@@ -218,7 +227,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时01分"
         },
@@ -425,7 +434,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时01分"
         },
@@ -480,7 +489,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时01分"
         },
@@ -535,9 +544,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时01分"
+        },
+        {
+          "title": "葡萄牙知名企业期待与中交集团持续深化合作",
+          "url": "https://wallstreetcn.com/livenews/3130053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "北约秘书长吕特：多个盟国已承诺通力合作，共同采购、储存、运输和管理关键国防物资的储备。",
@@ -661,6 +681,17 @@
           "time_info": "08时16分"
         },
         {
+          "title": "日本欲重建从中东国家采购原油的渠道",
+          "url": "https://www.toutiao.com/trending/7658852808632352831/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "巴勒斯坦总统顾问：多个权力中心或治理实体的存在将破坏国家基础。",
           "url": "https://flash.jin10.com/detail/20260707033924499800",
           "source": "金十数据",
@@ -672,13 +703,24 @@
           "time_info": "05时01分"
         },
         {
+          "title": "亚太政商领袖敦促加强合作以维持可持续增长",
+          "url": "https://wallstreetcn.com/livenews/3130048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "印度与印尼签订防务合作协议",
           "url": "https://wallstreetcn.com/livenews/3129932",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时01分"
         },
@@ -700,7 +742,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时01分"
         }
@@ -708,7 +750,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
@@ -717,11 +759,12 @@
           "ranks": [
             5,
             2,
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时00分 ~ 20时01分]"
+          "appearance_count": 6,
+          "time_info": "[13时00分 ~ 23时09分]"
         },
         {
           "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
@@ -734,6 +777,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时56分 ~ 08时16分]"
+        },
+        {
+          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
+          "url": "https://wallstreetcn.com/articles/3776319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时00分 ~ 23时09分]"
         },
         {
           "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
@@ -756,18 +811,6 @@
             8,
             5,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时00分 ~ 20时01分]"
-        },
-        {
-          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
-          "url": "https://wallstreetcn.com/articles/3776319",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -880,6 +923,30 @@
           "time_info": "[13时00分 ~ 16时35分]"
         },
         {
+          "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
+          "url": "https://wallstreetcn.com/articles/3776368",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 23时09分]"
+        },
+        {
+          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 23时09分]"
+        },
+        {
           "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
           "url": "https://wallstreetcn.com/articles/3776266",
           "source": "华尔街见闻",
@@ -889,6 +956,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时16分 ~ 13时01分]"
+        },
+        {
+          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
+          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 23时09分]"
         },
         {
           "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
@@ -923,39 +1002,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 03时02分]"
-        },
-        {
-          "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
-          "url": "https://wallstreetcn.com/articles/3776368",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时01分]"
-        },
-        {
-          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时01分]"
-        },
-        {
-          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
-          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时01分]"
         },
         {
           "title": "Claude被封 天才程序员陨落",
@@ -1057,6 +1103,17 @@
           "time_info": "16时35分"
         },
         {
+          "title": "DeepSeek被曝自研芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "Solstice斥资145亿美元收购Element Solutions，进一步聚焦AI市场",
           "url": "https://wallstreetcn.com/livenews/3129469",
           "source": "华尔街见闻-快讯",
@@ -1066,6 +1123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "“物质科学智能研发工厂”在上海落地，AI4S实现科研全流程无人干预",
+          "url": "https://wallstreetcn.com/livenews/3130047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "三星二季度运营利润同比激增超1800%，AI需求继续提振存储芯片价格",
@@ -1088,12 +1156,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
+        },
+        {
+          "title": "上海市消保委：今年上半年共享租赁和AI相关投诉频发",
+          "url": "https://wallstreetcn.com/livenews/3130042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         }
       ]
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨",
@@ -1232,6 +1311,17 @@
           "time_info": "08时16分"
         },
         {
+          "title": "美股芯片股持续走低，闪迪(SNDK.O)跌超11%，西部数据(WDC.O)跌近10%，美光科技(MU.O)<br/>、希捷科技(STX.O)跌超7%， 英伟达(NVDA.O)跌1.3%。",
+          "url": "https://flash.jin10.com/detail/20260707221359560800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "兆科眼科：老花眼创新药YUVEZZI获批准",
           "url": "https://flash.jin10.com/detail/20260707121251635800",
           "source": "金十数据",
@@ -1254,6 +1344,17 @@
           "time_info": "05时01分"
         },
         {
+          "title": "日媒：中国金融科技专利数量和质量均居全球首位",
+          "url": "https://wallstreetcn.com/livenews/3130060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "香港恒生指数7月7日（周二）收盘下跌119.43点，跌幅0.51%，报23496.89点；<br/>香港恒生科技指数7月7日（周二）收盘下跌34.19点，跌幅0.75%，报4507.04点；<br/>国企指数7月7日（周二）收盘下跌42.09点，跌幅0.54%，报7770.26点；<br/>红筹指数7月7日（周二）收盘下跌49.45点，跌幅1.28%，报3805.13点。",
           "url": "https://flash.jin10.com/detail/20260707161426746800",
           "source": "金十数据",
@@ -1265,6 +1366,17 @@
           "time_info": "16时35分"
         },
         {
+          "title": "闪迪、美光科技跌超6%",
+          "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%BF%AA%E3%80%81%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "天孚通信旗下天孚之星科技公司增资至8亿",
           "url": "https://wallstreetcn.com/livenews/3129810",
           "source": "华尔街见闻-快讯",
@@ -1274,6 +1386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至2%，成分股Astera Labs跌11.7%，闪迪跌11%，泰瑞达跌11%，西部数据跌10.4%。 半导体指数跌6.1%，芯片股持续走低，闪迪跌超11%，西部数据跌近10%，美光科技、希捷科技跌超7%，英伟达跌1.3%。 纳指跌1.3%，标普跌约0.6%。 欧洲STOXX 600指数跌幅扩大至0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3130052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "光弘科技7月7日在互动平台表示，公司已涉及各类服务器算力板卡、算力节点及散热组件的制造。目前相关业务在公司整体业务中的占比较低，但预计后续将以较快速度增长。",
@@ -1348,7 +1471,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时01分"
         },
@@ -1359,7 +1482,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时01分"
         }
@@ -1367,7 +1490,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "国际足联主席回应美国球员巴洛贡红牌事件",
@@ -1394,6 +1517,17 @@
           "time_info": "[00时56分 ~ 06时22分]"
         },
         {
+          "title": "多国“批评”中方导弹试射活动，外交部再回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33533461",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 23时09分]"
+        },
+        {
           "title": "特朗普：就红牌与国际足联主席通话",
           "url": "https://www.toutiao.com/trending/7659176770528395327/",
           "source": "今日头条",
@@ -1408,15 +1542,15 @@
           "time_info": "[00时56分 ~ 06时22分]"
         },
         {
-          "title": "多国“批评”中方导弹试射活动，外交部再回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33533461",
-          "source": "澎湃新闻",
+          "title": "国际奥委会7日宣布，暂时解除对俄罗斯奥委会的禁赛。",
+          "url": "https://flash.jin10.com/detail/20260707223807317800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "特朗普一通电话后，国际足联“破例”了",
@@ -1442,6 +1576,19 @@
           "time_info": "[03时01分 ~ 06时22分]"
         },
         {
+          "title": "国际足联为东道主开先例，美国队球员巴洛贡红牌“特赦”惹恼欧洲",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531501",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 23时09分]"
+        },
+        {
           "title": "外交部回应海军潜射战略导弹试射",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%B5%B7%E5%86%9B%E6%BD%9C%E5%B0%84%E6%88%98%E7%95%A5%E5%AF%BC%E5%BC%B9%E8%AF%95%E5%B0%84",
           "source": "bilibili 热搜",
@@ -1453,6 +1600,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时01分 ~ 08时16分]"
+        },
+        {
+          "title": "多国“批评”中方导弹试射活动，外交部再回应",
+          "url": "https://news.ifeng.com/c/8uZDUuQKXUe",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 23时09分]"
         },
         {
           "title": "如何评价国际足联主席称确实接到了特朗普电话，但「独立裁决」巴洛贡红牌禁赛延后处罚案件？真的毫无影响吗？",
@@ -1467,27 +1625,38 @@
           "time_info": "[13时00分 ~ 16时35分]"
         },
         {
-          "title": "国际足联为东道主开先例，美国队球员巴洛贡红牌“特赦”惹恼欧洲",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531501",
-          "source": "澎湃新闻",
+          "title": "中国海军组织潜射战略导弹试射，外交部回应「有关国家没有必要过度解读」，释放哪些信息？",
+          "url": "https://www.zhihu.com/question/2057806206094284336",
+          "source": "知乎",
           "ranks": [
-            19,
-            14
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时35分 ~ 20时01分]"
+          "time_info": "[19时59分 ~ 23时09分]"
         },
         {
-          "title": "多国“批评”中方导弹试射活动，外交部再回应",
-          "url": "https://news.ifeng.com/c/8uZDUuQKXUe",
-          "source": "凤凰网",
+          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时01分]"
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 23时09分]"
+        },
+        {
+          "title": "美国队主教练：国际足联裁定巴洛贡可以上场，那这就不是问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33532864",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 23时09分]"
         },
         {
           "title": "世界杯红牌争议“越描越黑”：国际足联罕见决定引爆欧洲怒火",
@@ -1501,39 +1670,6 @@
           "time_info": "[13时00分 ~ 13时01分]"
         },
         {
-          "title": "中国海军组织潜射战略导弹试射，外交部回应「有关国家没有必要过度解读」，释放哪些信息？",
-          "url": "https://www.zhihu.com/question/2057806206094284336",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时01分]"
-        },
-        {
-          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时01分]"
-        },
-        {
-          "title": "美国队主教练：国际足联裁定巴洛贡可以上场，那这就不是问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33532864",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时01分]"
-        },
-        {
           "title": "国际足联主席发表声明",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E4%B8%BB%E5%B8%AD%E5%8F%91%E8%A1%A8%E5%A3%B0%E6%98%8E%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -1543,6 +1679,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
+        },
+        {
+          "title": "国际奥委会：暂时解除对俄奥委会的禁赛",
+          "url": "https://wallstreetcn.com/livenews/3130059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "国际油价6日微跌",
@@ -1587,6 +1734,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "为什么滔搏哥总能在国际赛场上给观众带来令人拍案叫绝的节目效果？远古时期的 EDG 是不是也这样？",
+          "url": "https://www.zhihu.com/question/2056437539146134932",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "7月7日，商务部副部长兼国际贸易谈判副代表凌激会见瑞士联邦经济和教研部国务秘书、经济总局局长布德里格。",
@@ -1636,7 +1794,7 @@
     },
     {
       "keyword_group": "美股 美元",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股期指延续涨势 纳斯达克100指数期货涨超1% | 今夜看点",
@@ -1700,6 +1858,39 @@
           "time_info": "[05时01分 ~ 06时22分]"
         },
         {
+          "title": "美元指数大幅上升，我国6月外储规模环比下跌，央行连续20个月增持购金",
+          "url": "https://www.cls.cn/detail/2419496",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
+          "title": "美股低开低走，纳斯达克100指数跌超2%，费城半导体指数跌超6%，闪迪(SNDK.O)、西部数据(WDC.O)现均跌超10%。",
+          "url": "https://flash.jin10.com/detail/20260707221630076800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
+          "title": "美股费城半导体指数跌幅扩大至7%，英特尔跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3130061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "美元指数6日微涨",
           "url": "https://flash.jin10.com/detail/20260707045644750800",
           "source": "金十数据",
@@ -1720,6 +1911,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "美元指数DXY短线走高10点，向上触及101，日内涨0.13%。",
+          "url": "https://flash.jin10.com/detail/20260707220801467800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "SpaceX(SPCX.O)美股盘前跌1.2%，此前该公司股票被纳入纳斯达克100指数，多家券商开始覆盖该股。",
@@ -1759,11 +1961,12 @@
           "ranks": [
             2,
             5,
-            3
+            3,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时00分 ~ 20时01分]"
+          "appearance_count": 6,
+          "time_info": "[13时00分 ~ 23时09分]"
         },
         {
           "title": "99 万机器人伴侣续航仅 2-4 小时，为啥续航这么差​？技术核心卡点在哪？可能对用户体验有哪些影响？",
@@ -1818,7 +2021,7 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么 PC 取消光驱转向数字化很自然，游戏机取消光驱却被玩家强烈抵触？",
@@ -1842,6 +2045,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时59分 ~ 20时01分]"
+        },
+        {
+          "title": "“印太司令部”改名，并非一个无关紧要的文字游戏",
+          "url": "https://news.ifeng.com/c/8uZX9OuWr3C",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         }
       ]
     },
