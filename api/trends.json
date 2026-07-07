@@ -1,12 +1,29 @@
 {
-  "generated_at": "2026-07-07T08:16:49.376421+08:00",
-  "total_titles_processed": 688,
-  "failed_sources": [],
+  "generated_at": "2026-07-07T13:01:48.430846+08:00",
+  "total_titles_processed": 929,
+  "failed_sources": [
+    "bilibili-hot-search"
+  ],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 35,
+      "match_count": 46,
       "titles": [
+        {
+          "title": "泪洒绿茵,内马尔告别国家队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355924&amp;topic_name=%E6%B3%AA%E6%B4%92%E7%BB%BF%E8%8C%B5%2C%E5%86%85%E9%A9%AC%E5%B0%94%E5%91%8A%E5%88%AB%E5%9B%BD%E5%AE%B6%E9%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14,
+            15,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 13时01分]"
+        },
         {
           "title": "如何评价国家一级文物上出现「TCL 电视」字样，类似报纸印刷画面？可能是什么原因？",
           "url": "https://www.zhihu.com/question/2057159648076158666",
@@ -22,6 +39,28 @@
           "time_info": "[00时56分 ~ 08时16分]"
         },
         {
+          "title": "广西南宁防汛救灾发布会",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E9%98%B2%E6%B1%9B%E6%95%91%E7%81%BE%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
+          "title": "广西南宁防汛救灾新闻发布会",
+          "url": "https://www.douyin.com/hot/2561609",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
           "title": "古巴国家电力联盟：全国电网已崩溃，原因不明。",
           "url": "https://flash.jin10.com/detail/20260707002801185800",
           "source": "金十数据",
@@ -31,6 +70,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "国家发改委：目前我国人工智能原生办公智能体月访问量超2000万次",
+          "url": "https://wallstreetcn.com/livenews/3129761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "美国人：现在才知道我们是个坏国家",
@@ -60,18 +110,26 @@
           "time_info": "[00时56分 ~ 08时16分]"
         },
         {
-          "title": "泪洒绿茵,内马尔告别国家队",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355924&amp;topic_name=%E6%B3%AA%E6%B4%92%E7%BB%BF%E8%8C%B5%2C%E5%86%85%E9%A9%AC%E5%B0%94%E5%91%8A%E5%88%AB%E5%9B%BD%E5%AE%B6%E9%98%9F",
-          "source": "贴吧",
+          "title": "生态环境部发布新规 规范工业园区污水处理标准",
+          "url": "https://flash.jin10.com/detail/20260707124302609800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            14,
-            15,
-            16
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "南宁市防汛救灾新闻发布会",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%97%E5%AE%81%E5%B8%82%E9%98%B2%E6%B1%9B%E6%95%91%E7%81%BE%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 08时16分]"
+          "appearance_count": 1,
+          "time_info": "13时00分"
         },
         {
           "title": "市场消息：美国民主党籍州总检察长反对特朗普拟对60个国家进口商品征收最高12.5%关税的计划。",
@@ -103,7 +161,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -114,7 +172,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -136,7 +194,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -203,6 +261,17 @@
           "time_info": "[03时01分 ~ 05时01分]"
         },
         {
+          "title": "北海银滩景区发布辟谣声明",
+          "url": "https://www.douyin.com/hot/2561000",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
           "title": "博主李要得打出租车到拉萨视频爆火，西藏文旅承诺奖励 50 万，为什么这个视频能火？如何评价这个奖励政策？",
           "url": "https://www.zhihu.com/question/2057125814265542512",
           "source": "知乎",
@@ -213,6 +282,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 08时16分]"
+        },
+        {
+          "title": "广西南宁防汛救灾新闻发布会",
+          "url": "https://www.toutiao.com/trending/7659477018190807059/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
         },
         {
           "title": "荷兰国防大臣：荷兰将于周二在北约论坛上宣布总额超过30亿欧元的国防采购协议及联合项目。届时还将宣布与比利时开展防空合作伙伴关系，以及与英国开展海军舰艇合作项目。",
@@ -248,6 +328,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "国家发改委：初步预测今年人工智能相关产业规模还会有30%以上增速",
+          "url": "https://flash.jin10.com/detail/20260707122516969800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "据韩联社：特朗普重申，关税政策已促使韩国、日本等国汽车制造商赴美建厂。",
           "url": "https://flash.jin10.com/detail/20260707022859049800",
           "source": "金十数据",
@@ -265,9 +356,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
+        },
+        {
+          "title": "香港交易所与跨境清算公司签署合作备忘录 加强香港离岸人民币结算基础设施建设",
+          "url": "https://wallstreetcn.com/livenews/3129747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "欧洲央行管委Wunsch：似乎伊朗冲击已经消退，我们尚未看到太多的第二轮（通胀）效应。 我们可能还得（围绕货币政策）采取更多行动，但形势并不要求央行大幅紧缩。 不排除央行再次（采取加息）行动，但不要让我们等太久。",
@@ -281,13 +383,24 @@
           "time_info": "00时56分"
         },
         {
+          "title": "国家发展改革委披露人工智能产业“十五五”五大工作思路 强化模型、算力、数据等关键技术攻关",
+          "url": "https://wallstreetcn.com/livenews/3129745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "全新自主品牌碳-14核电池发布",
           "url": "https://flash.jin10.com/detail/20260707073331188800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -320,7 +433,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -397,7 +510,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -411,12 +524,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "国家发展改革委披露人工智能产业“十五五”五大工作思路",
+          "url": "https://flash.jin10.com/detail/20260707115944634800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 17,
+      "match_count": 26,
       "titles": [
         {
           "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
@@ -429,6 +553,29 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时56分 ~ 08时16分]"
+        },
+        {
+          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
+          "url": "https://www.cls.cn/detail/2418586",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时16分 ~ 13时01分]"
+        },
+        {
+          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
+          "url": "https://www.zhihu.com/question/2057753624717911009",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -467,17 +614,6 @@
           "time_info": "03时02分"
         },
         {
-          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
-          "url": "https://www.cls.cn/detail/2418586",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时16分"
-        },
-        {
           "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
           "url": "https://wallstreetcn.com/articles/3776262",
           "source": "华尔街见闻",
@@ -501,6 +637,17 @@
           "time_info": "[00时56分 ~ 03时02分]"
         },
         {
+          "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
+          "url": "https://wallstreetcn.com/articles/3776266",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时16分 ~ 13时01分]"
+        },
+        {
           "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
           "url": "https://www.cls.cn/detail/2418217",
           "source": "财联社热门",
@@ -510,6 +657,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 08时16分]"
+        },
+        {
+          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
+          "url": "https://wallstreetcn.com/articles/3776319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
+          "title": "前华为天才少年吐槽DeepSeek面试",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
+          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
+          "url": "https://www.cls.cn/detail/2418780",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
         },
         {
           "title": "英伟达回应AI服务器架构延后的报道，称：公司路线图保持不变",
@@ -524,15 +704,48 @@
           "time_info": "[00时56分 ~ 03时02分]"
         },
         {
-          "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
-          "url": "https://wallstreetcn.com/articles/3776266",
+          "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P",
+          "url": "https://wallstreetcn.com/articles/3776296",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
+          "title": "前华为天才少年吐槽DeepSeek面试",
+          "url": "https://www.baidu.com/s?wd=%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
+          "title": "国家发改委：预计今年AI手机、AI电脑的销量将首次超过非AI产品",
+          "url": "https://wallstreetcn.com/livenews/3129750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时16分"
+          "time_info": "13时01分"
+        },
+        {
+          "title": "招商证券国际：腾讯混元Hy3跻身第一梯队 AI产品生态加速",
+          "url": "https://flash.jin10.com/detail/20260707121237234800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "英国监管机构审查凸显金融服务AI风险",
@@ -546,13 +759,24 @@
           "time_info": "03时02分"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850566&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/1kpbDlnwLmXOUl-HjThIH.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260707121115593800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "前苹果员工创办的中国AI眼镜公司获腾讯、美团投资，估值达10亿美元",
           "url": "https://wallstreetcn.com/livenews/3129608",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -596,7 +820,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -607,7 +831,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         }
@@ -615,8 +839,21 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "国际足联主席回应美国球员巴洛贡红牌事件",
+          "url": "https://news.ifeng.com/c/8uYELXPooFC",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 13时01分]"
+        },
         {
           "title": "曾被中方制裁的荷兰大臣即将访华，外交部回应",
           "url": "https://news.ifeng.com/c/8uXXjPHqLRD",
@@ -627,18 +864,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时56分 ~ 06时22分]"
-        },
-        {
-          "title": "国际足联主席回应美国球员巴洛贡红牌事件",
-          "url": "https://news.ifeng.com/c/8uYELXPooFC",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时01分 ~ 08时16分]"
         },
         {
           "title": "特朗普：就红牌与国际足联主席通话",
@@ -691,13 +916,35 @@
           "time_info": "[03时01分 ~ 08时16分]"
         },
         {
+          "title": "如何评价国际足联主席称确实接到了特朗普电话，但「独立裁决」巴洛贡红牌禁赛延后处罚案件？真的毫无影响吗？",
+          "url": "https://www.zhihu.com/question/2057732608214004902",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
+          "title": "世界杯红牌争议“越描越黑”：国际足联罕见决定引爆欧洲怒火",
+          "url": "https://www.cls.cn/detail/2418558",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
           "title": "国际足联主席发表声明",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E4%B8%BB%E5%B8%AD%E5%8F%91%E8%A1%A8%E5%A3%B0%E6%98%8E%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -735,13 +982,24 @@
           "time_info": "00时56分"
         },
         {
+          "title": "7月7日，商务部副部长兼国际贸易谈判副代表凌激会见瑞士联邦经济和教研部国务秘书、经济总局局长布德里格。",
+          "url": "https://wallstreetcn.com/livenews/3129734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "国际足联：不受理比利时足协的申诉",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%EF%BC%9A%E4%B8%8D%E5%8F%97%E7%90%86%E6%AF%94%E5%88%A9%E6%97%B6%E8%B6%B3%E5%8D%8F%E7%9A%84%E7%94%B3%E8%AF%89",
           "source": "百度热搜",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -760,7 +1018,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨",
@@ -768,11 +1026,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 08时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 13时01分]"
         },
         {
           "title": "【早报】道指创新高，存储、半导体板块爆发；黄金、白银大涨，油价下跌；C罗告别世界杯",
@@ -781,9 +1040,20 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时16分 ~ 13时01分]"
+        },
+        {
+          "title": "安徽：在科技创新方面探索打造“基金+科技贷+投担联动+知识产权质押”组合融资工具",
+          "url": "https://flash.jin10.com/detail/20260707124615621800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时16分"
+          "time_info": "13时01分"
         },
         {
           "title": "字节批量申请网络热梗「咕咕嘎嘎」「香蕉猫」等著作权，背后目的是什么？这算侵占网友的共创成果吗？",
@@ -810,13 +1080,24 @@
           "time_info": "06时22分"
         },
         {
+          "title": "三星电子公布最新季报，预计二季度利润同比暴增 1810%，如何看待这份财报？科技行情还能继续吗？",
+          "url": "https://www.zhihu.com/question/2057735732068979803",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
           "title": "美股存储芯片股盘后普跌，闪迪(SNDK.O)现跌3.5%，美光科技(MU.O)跌2.3%，希捷科技(STX.O)跌2%，西部数据(WDC.O)跌2.8%。",
           "url": "https://flash.jin10.com/detail/20260707074846278800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -827,9 +1108,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
+        },
+        {
+          "title": "兆科眼科：老花眼创新药YUVEZZI获批准",
+          "url": "https://flash.jin10.com/detail/20260707121251635800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "标普500指数初步收0.7%，电信板块涨1.8%，科技板块涨1.3%，可选消费板块涨0.9%，公用事业、保健、房地产板块至多跌超1.1%。 纳斯达克100指数初步收1.3%，成分股中，AMD初步收涨7%，Astera Labs、西部数据、特斯拉、CoreWeave、高通、希捷科技至少涨约5.4%，奈飞则跌2.4%，ORLY跌6.8%，Rocket Lab跌7.8%。 费城半导体指数涨2.1%，存储芯片指数涨2%。",
@@ -841,6 +1133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "光弘科技7月7日在互动平台表示，公司已涉及各类服务器算力板卡、算力节点及散热组件的制造。目前相关业务在公司整体业务中的占比较低，但预计后续将以较快速度增长。",
+          "url": "https://flash.jin10.com/detail/20260707120608604800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "人大通报蒋方舟论文被指造假事件",
@@ -968,7 +1271,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "99 万机器人伴侣续航仅 2-4 小时，为啥续航这么差​？技术核心卡点在哪？可能对用户体验有哪些影响？",
@@ -990,11 +1293,23 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 08时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 13时01分]"
+        },
+        {
+          "title": "今年夏天雪糕行业遭遇大范围滞销，有店家称「销售利润甚至难以覆盖电费」，今年雪糕为什么卖不动？",
+          "url": "https://www.zhihu.com/question/2057431315062993122",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
         },
         {
           "title": "这仿妆技术谁来了都得夸",
@@ -1051,7 +1366,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         }
