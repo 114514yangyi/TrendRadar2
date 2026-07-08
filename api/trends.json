@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T01:46:17.609100+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-09T03:45:28.863224+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
         },
         {
           "title": "国际油价大涨6%金银跳水！特朗普一言引爆全球市场",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
         },
         {
           "title": "伊朗军方：若美国真的发动大规模战争，将会得到“惊喜”",
@@ -37,19 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
-        },
-        {
-          "title": "英国高级别防务官员力促伯纳姆考虑放松财政规则，包括发行战争债券",
-          "url": "https://wallstreetcn.com/livenews/3130841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
         },
         {
           "title": "瑞士央行行长：私人债务在国际层面上被广泛讨论，但在瑞士却是边缘现象。",
@@ -58,31 +47,81 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "英国高级别防务官员力促伯纳姆考虑放松财政规则，包括发行战争债券",
+          "url": "https://wallstreetcn.com/livenews/3130841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时45分]"
         },
         {
           "title": "巴基斯坦外交部：美伊局势升级不符合任何一方利益",
           "url": "https://wallstreetcn.com/livenews/3130839",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时45分]"
         },
         {
           "title": "指责主裁双标，埃及足协就争议判罚向国际足联提出申诉",
           "url": "https://m.thepaper.cn/newsDetail_forward_33540233",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
+        },
+        {
+          "title": "埃及足协向国际足联上诉",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9F%83%E5%8F%8A%E8%B6%B3%E5%8D%8F%E5%90%91%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E4%B8%8A%E8%AF%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
+        },
+        {
+          "title": "【特朗普：美伊之间的局势升级会很快平息】美国总统特朗普8日在土耳其首都安卡拉表示，当前美国与伊朗之间的局势升级会很快平息，他不认为会再度爆发与伊朗的战争。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3130833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "time_info": "[01时46分 ~ 03时45分]"
+        },
+        {
+          "title": "国际铜夜盘收跌0.95%，沪铜收跌0.84%，沪铝收跌0.22%，沪锌收跌0.65%，沪铅收跌0.09%，沪镍收涨0.51%，沪锡收跌1.43%。 氧化铝夜盘收涨0.22%，铝合金收跌0.63%。 不锈钢夜盘收跌1.03%。",
+          "url": "https://wallstreetcn.com/livenews/3130832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时45分]"
         },
         {
           "title": "埃及足协向国际足联正式提出申诉，要求调查主裁判，预计会得到怎样的处理？对已完结比赛结果有多大实际作用？",
@@ -96,37 +135,81 @@
           "time_info": "[01时45分 ~ 01时46分]"
         },
         {
-          "title": "埃及足协向国际足联上诉",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9F%83%E5%8F%8A%E8%B6%B3%E5%8D%8F%E5%90%91%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E4%B8%8A%E8%AF%89",
-          "source": "bilibili 热搜",
+          "title": "伊朗外长与卡塔尔首相通话，强调外交渠道解决地区问题",
+          "url": "https://wallstreetcn.com/livenews/3130856",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
         },
         {
-          "title": "【特朗普：美伊之间的局势升级会很快平息】美国总统特朗普8日在土耳其首都安卡拉表示，当前美国与伊朗之间的局势升级会很快平息，他不认为会再度爆发与伊朗的战争。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3130833",
-          "source": "华尔街见闻-快讯",
+          "title": "国际油价8日显著上涨",
+          "url": "https://flash.jin10.com/detail/20260709032417106800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "03时45分"
         },
         {
-          "title": "国际铜夜盘收跌0.95%，沪铜收跌0.84%，沪铝收跌0.22%，沪锌收跌0.65%，沪铅收跌0.09%，沪镍收涨0.51%，沪锡收跌1.43%。 氧化铝夜盘收涨0.22%，铝合金收跌0.63%。 不锈钢夜盘收跌1.03%。",
-          "url": "https://wallstreetcn.com/livenews/3130832",
-          "source": "华尔街见闻-快讯",
+          "title": "国际货币基金组织：全球经济在中东战争冲击下总体表现出韧性。",
+          "url": "https://flash.jin10.com/detail/20260709032123080800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "03时45分"
+        },
+        {
+          "title": "国际货币基金组织：能源市场和货物运输仍面临压力。",
+          "url": "https://flash.jin10.com/detail/20260709032113933800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        },
+        {
+          "title": "国际货币基金组织：当前不确定性依然高企，战争影响或将持续一段时间。",
+          "url": "https://flash.jin10.com/detail/20260709032000839800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        },
+        {
+          "title": "国际货币基金组织：鼓励各方进一步推动冲突解决，并重新开放霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260709031927687800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        },
+        {
+          "title": "伊朗外长与卡塔尔首相通话 强调外交渠道解决地区问题",
+          "url": "https://flash.jin10.com/detail/20260709031444285800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
         },
         {
           "title": "伊朗外交部长：我们不会以粗俗回应粗俗，而是以行动作出回应。",
@@ -135,7 +218,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -146,7 +229,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -157,7 +240,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -168,7 +251,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         }
@@ -176,18 +259,19 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2058168270499176758",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
         },
         {
           "title": "OpenAI面向全球发布语音模型GPT-Live，有两个版本。",
@@ -196,7 +280,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -208,8 +292,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
+        },
+        {
+          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
+          "url": "https://www.zhihu.com/question/2058166406420460573",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
         },
         {
           "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
@@ -219,19 +315,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
         },
         {
-          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
-          "url": "https://www.zhihu.com/question/2058166406420460573",
-          "source": "知乎",
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
           "ranks": [
-            10
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
+        },
+        {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
         },
         {
           "title": "看空AI就是踏空？私募又争起来了，没买过AI的有什么资格吹哨？",
@@ -245,26 +352,15 @@
           "time_info": "[01时45分 ~ 01时46分]"
         },
         {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
-        },
-        {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
+          "title": "SpaceXAI与Cursor联合发布Grok AI模型，主打法律与金融任务",
+          "url": "https://wallstreetcn.com/livenews/3130843",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
         },
         {
           "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
@@ -273,9 +369,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "OpenAI推出GPT-Live语音模型",
+          "url": "https://wallstreetcn.com/livenews/3130838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
         },
         {
           "title": "华纳兄弟探索（WBD）与亚马逊旗下AWS开发Agentic AI广告体验。",
@@ -284,7 +391,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -295,7 +402,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         }
@@ -303,7 +410,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "韦东奕获国家自然科学奖二等奖",
@@ -313,8 +420,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
         },
         {
           "title": "如何评价韦东奕正式获得国家自然科学二等奖？",
@@ -324,8 +431,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
         },
         {
           "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
@@ -335,30 +442,44 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
         },
         {
           "title": "在职考研乱象调查：“院校合作”招生，是捷径还是陷阱？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33535499",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
+        },
+        {
+          "title": "韦东奕获国家自然科学奖二等奖",
+          "url": "https://www.toutiao.com/trending/7659378797549191231/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
         },
         {
           "title": "陈立泉、贲德获国家最高科学技术奖",
           "url": "https://m.thepaper.cn/newsDetail_forward_33540240",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
         },
         {
           "title": "净利同比最高增长5.61倍！120亿存储芯片概念股发布半年度业绩预告|盘后公告集锦",
@@ -368,19 +489,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
-        },
-        {
-          "title": "韦东奕获国家自然科学奖二等奖",
-          "url": "https://www.toutiao.com/trending/7659378797549191231/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
         },
         {
           "title": "土耳其总统埃尔多安：我们是北约盟友中少数能够自主生产战斗机、自主制造坦克、自主建造舰艇，并研发自身防空系统的国家之一。",
@@ -389,9 +499,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "三星预告将发布折叠屏新机 新设计抢先苹果竞品亮相",
+          "url": "https://www.cls.cn/detail/2420824",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        },
+        {
+          "title": "提醒：北京时间02:00，美联储将发布6月16-17日FOMC货币政策会议的纪要文件。",
+          "url": "https://wallstreetcn.com/livenews/3130846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
         },
         {
           "title": "据黎巴嫩国家通讯社：以色列无人机袭击黎巴嫩南部一家医院附近，造成两人死亡。",
@@ -400,15 +532,26 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "亚当刘柏辛歌手节目后再合作新歌",
+          "url": "https://www.douyin.com/hot/2563517",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
         }
       ]
     },
     {
       "keyword_group": "美股 美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
@@ -418,14 +561,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
+        },
+        {
+          "title": "美元指数8日下跌",
+          "url": "https://flash.jin10.com/detail/20260709032717085800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
         }
       ]
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
@@ -435,25 +589,48 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.22%，报23983点。 恒生科技指数主连夜盘收跌0.36%，报4681点。",
+          "url": "https://wallstreetcn.com/livenews/3130861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
         }
       ]
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "孩子考得很好，要玩手机。我不太想让他碰，可他跟我保证，既能玩好游戏，还能稳住成绩，这种承诺可信吗？",
           "url": "https://www.zhihu.com/question/2055612016530810492",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
+        },
+        {
+          "title": "韩国股市，正走向现实版“鱿鱼游戏”",
+          "url": "https://news.ifeng.com/c/8ubLZunCT8y",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
         }
       ]
     },
@@ -469,8 +646,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 03时45分]"
         }
       ]
     }
