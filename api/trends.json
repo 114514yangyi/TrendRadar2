@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T07:17:21.849359+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-07-09T11:57:57.902787+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
@@ -50,11 +50,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 07时17分]"
+          "appearance_count": 7,
+          "time_info": "[01时45分 ~ 11时57分]"
         },
         {
           "title": "埃及足协向国际足联上诉",
@@ -64,11 +65,23 @@
             19,
             17,
             15,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 07时17分]"
+          "appearance_count": 7,
+          "time_info": "[01时45分 ~ 11时57分]"
+        },
+        {
+          "title": "美伊战火重燃，4个国际组织发表联合声明",
+          "url": "https://news.ifeng.com/c/8ucE13yYeJg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         },
         {
           "title": "瑞士央行行长：私人债务在国际层面上被广泛讨论，但在瑞士却是边缘现象。",
@@ -235,7 +248,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -262,6 +275,17 @@
           "time_info": "01时46分"
         },
         {
+          "title": "特朗普难以摆脱伊朗战争泥潭 分析人士称其选择十分有限",
+          "url": "https://flash.jin10.com/detail/20260709111223654800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
           "title": "特朗普：不认为会再次爆发伊朗战争",
           "url": "https://wallstreetcn.com/livenews/3130824",
           "source": "华尔街见闻-快讯",
@@ -286,8 +310,290 @@
       ]
     },
     {
+      "keyword_group": "国家 改革 政策 发布 合作",
+      "match_count": 24,
+      "titles": [
+        {
+          "title": "韦东奕获国家自然科学奖二等奖",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A6%E4%B8%9C%E5%A5%95%E8%8E%B7%E5%9B%BD%E5%AE%B6%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E5%A5%96%E4%BA%8C%E7%AD%89%E5%A5%96",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 07时17分]"
+        },
+        {
+          "title": "如何评价韦东奕正式获得国家自然科学二等奖？",
+          "url": "https://www.zhihu.com/question/2058217368153756272",
+          "source": "知乎",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时45分 ~ 11时57分]"
+        },
+        {
+          "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
+          "url": "https://www.cls.cn/detail/2420443",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 07时17分]"
+        },
+        {
+          "title": "陈立泉、贲德获国家最高科学技术奖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33540240",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时45分 ~ 11时57分]"
+        },
+        {
+          "title": "在职考研乱象调查：“院校合作”招生，是捷径还是陷阱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33535499",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 07时17分]"
+        },
+        {
+          "title": "韦东奕获国家自然科学奖二等奖",
+          "url": "https://www.toutiao.com/trending/7659378797549191231/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 07时17分]"
+        },
+        {
+          "title": "道明证券美国利率策略主管Gennadiy Goldberg表示：美债实际利率走高受到稳健的增长预期，以及市场担忧美联储在中东冲突升级的情况下需要进一步收紧政策的共同推动。",
+          "url": "https://wallstreetcn.com/livenews/3130895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "据伊朗国家电视台：伊朗阿布穆萨岛附近传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260709045451077800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "国家防总组织多部门联合会商 研究部署超强台风“巴威”防御工作",
+          "url": "https://wallstreetcn.com/livenews/3131080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "净利同比最高增长5.61倍！120亿存储芯片概念股发布半年度业绩预告|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2420778",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 05时18分]"
+        },
+        {
+          "title": "三星预告将发布折叠屏新机 新设计抢先苹果竞品亮相",
+          "url": "https://www.cls.cn/detail/2420824",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时45分 ~ 05时18分]"
+        },
+        {
+          "title": "亚当刘柏辛歌手节目后再合作新歌",
+          "url": "https://www.douyin.com/hot/2563517",
+          "source": "抖音",
+          "ranks": [
+            28,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时45分 ~ 05时18分]"
+        },
+        {
+          "title": "土耳其总统埃尔多安：我们是北约盟友中少数能够自主生产战斗机、自主制造坦克、自主建造舰艇，并研发自身防空系统的国家之一。",
+          "url": "https://flash.jin10.com/detail/20260709013037569800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "预告：国新办7月14日将举行新闻发布会 海关总署介绍2026年上半年进出口情况",
+          "url": "https://flash.jin10.com/detail/20260709112838156800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "香港成为中东科技企业新入口 沙特科技巨头探索智慧城市合作与区域扩张",
+          "url": "https://flash.jin10.com/detail/20260709112816309800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "美国总统特朗普：我们与土耳其达成了很多良好的贸易协议。土耳其总统埃尔多安表现出色。他们是很好的合作伙伴。",
+          "url": "https://flash.jin10.com/detail/20260709065259440800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "韩国央行行长重申需尽快收紧政策",
+          "url": "https://flash.jin10.com/detail/20260709111714915800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "理想汽车：新一代理想L6产品发布会定档7月16日。",
+          "url": "https://flash.jin10.com/detail/20260709111706701800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "西安升级发布高温红色预警信号 最高温将突破40℃",
+          "url": "https://wallstreetcn.com/livenews/3131059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "提醒：北京时间02:00，美联储将发布6月16-17日FOMC货币政策会议的纪要文件。",
+          "url": "https://wallstreetcn.com/livenews/3130846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        },
+        {
+          "title": "罕见！英国因热浪冲击电网发布电力供应预警",
+          "url": "https://wallstreetcn.com/livenews/3130918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "据黎巴嫩国家通讯社：以色列无人机袭击黎巴嫩南部一家医院附近，造成两人死亡。",
+          "url": "https://flash.jin10.com/detail/20260709011118654800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "国家超算互联网核心节点正式上线",
+          "url": "https://wallstreetcn.com/livenews/3131045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "俄罗斯国家杜马通过人工智能监管法案",
+          "url": "https://wallstreetcn.com/livenews/3131042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
@@ -302,6 +608,43 @@
           "time_info": "[01时45分 ~ 03时45分]"
         },
         {
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时45分 ~ 11时57分]"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时45分 ~ 11时57分]"
+        },
+        {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时45分 ~ 11时57分]"
+        },
+        {
           "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
           "url": "https://www.cls.cn/detail/2420504",
           "source": "财联社热门",
@@ -314,47 +657,13 @@
           "time_info": "[01时45分 ~ 07时17分]"
         },
         {
-          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
-          "url": "https://wallstreetcn.com/articles/3776428",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 07时17分]"
-        },
-        {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 07时17分]"
-        },
-        {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 07时17分]"
-        },
-        {
           "title": "AI芯片公司Positron洽谈约7.5亿美元融资 估值最高或达50亿美元",
           "url": "https://flash.jin10.com/detail/20260709070516668800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -394,6 +703,17 @@
           "time_info": "[01时45分 ~ 05时18分]"
         },
         {
+          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
+          "url": "https://wallstreetcn.com/articles/3776500",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
           "title": "OpenAI：将扩大与美国政府及盟友在关键防御领域的合作。",
           "url": "https://flash.jin10.com/detail/20260709043940767800",
           "source": "金十数据",
@@ -405,6 +725,17 @@
           "time_info": "05时18分"
         },
         {
+          "title": "英伟达估值跌回AI热潮前 华尔街看多热情未减",
+          "url": "https://www.cls.cn/detail/2420934",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
           "title": "OpenAI：发布国家安全原则文件。",
           "url": "https://flash.jin10.com/detail/20260709043809283800",
           "source": "金十数据",
@@ -414,6 +745,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "美股AI牛市熄火？逾六成科技股“入熊”：较近期高点暴跌逾20%",
+          "url": "https://www.cls.cn/detail/2421094",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         },
         {
           "title": "SpaceXAI与Cursor联合发布Grok AI模型，主打法律与金融任务",
@@ -484,194 +826,109 @@
       ]
     },
     {
-      "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 16,
+      "keyword_group": "科研 论文 大模型 科技 创新 成果",
+      "match_count": 9,
       "titles": [
         {
-          "title": "韦东奕获国家自然科学奖二等奖",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A6%E4%B8%9C%E5%A5%95%E8%8E%B7%E5%9B%BD%E5%AE%B6%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E5%A5%96%E4%BA%8C%E7%AD%89%E5%A5%96",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 07时17分]"
-        },
-        {
-          "title": "如何评价韦东奕正式获得国家自然科学二等奖？",
-          "url": "https://www.zhihu.com/question/2058217368153756272",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 07时17分]"
-        },
-        {
-          "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
-          "url": "https://www.cls.cn/detail/2420443",
+          "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
+          "url": "https://www.cls.cn/detail/2420693",
           "source": "财联社热门",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 07时17分]"
-        },
-        {
-          "title": "在职考研乱象调查：“院校合作”招生，是捷径还是陷阱？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33535499",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 07时17分]"
-        },
-        {
-          "title": "韦东奕获国家自然科学奖二等奖",
-          "url": "https://www.toutiao.com/trending/7659378797549191231/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 07时17分]"
-        },
-        {
-          "title": "陈立泉、贲德获国家最高科学技术奖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33540240",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 07时17分]"
-        },
-        {
-          "title": "道明证券美国利率策略主管Gennadiy Goldberg表示：美债实际利率走高受到稳健的增长预期，以及市场担忧美联储在中东冲突升级的情况下需要进一步收紧政策的共同推动。",
-          "url": "https://wallstreetcn.com/livenews/3130895",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 07时17分]"
         },
         {
-          "title": "据伊朗国家电视台：伊朗阿布穆萨岛附近传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260709045451077800",
-          "source": "金十数据",
+          "title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了",
+          "url": "https://www.cls.cn/detail/2421042",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "美伊停火破裂刺激油价，欧股重挫，美科技股护盘，纳指逆市收涨，中概股大涨",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "9部门支持加快零售业创新发展",
+          "url": "https://www.toutiao.com/trending/7660349014440988187/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "9部门支持加快零售业创新发展",
+          "url": "https://s.weibo.com/weibo?q=%239%E9%83%A8%E9%97%A8%E6%94%AF%E6%8C%81%E5%8A%A0%E5%BF%AB%E9%9B%B6%E5%94%AE%E4%B8%9A%E5%88%9B%E6%96%B0%E5%8F%91%E5%B1%95%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "长鑫科技，7月16日打新！",
+          "url": "https://www.cls.cn/detail/2421004",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 11时57分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.22%，报23983点。 恒生科技指数主连夜盘收跌0.36%，报4681点。",
+          "url": "https://wallstreetcn.com/livenews/3130861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 05时18分]"
+        },
+        {
+          "title": "标普500指数的11个板块中，原材料板块收跌2.49%，金融、房地产、可选消费、电信、保健、工业板块跌1.92%-1.08%，信息技术/科技板块涨1.44%，能源板块涨1.45%。",
+          "url": "https://wallstreetcn.com/livenews/3130883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "05时18分"
         },
         {
-          "title": "净利同比最高增长5.61倍！120亿存储芯片概念股发布半年度业绩预告|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2420778",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时45分 ~ 05时18分]"
-        },
-        {
-          "title": "三星预告将发布折叠屏新机 新设计抢先苹果竞品亮相",
-          "url": "https://www.cls.cn/detail/2420824",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时45分 ~ 05时18分]"
-        },
-        {
-          "title": "亚当刘柏辛歌手节目后再合作新歌",
-          "url": "https://www.douyin.com/hot/2563517",
-          "source": "抖音",
-          "ranks": [
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时45分 ~ 05时18分]"
-        },
-        {
-          "title": "土耳其总统埃尔多安：我们是北约盟友中少数能够自主生产战斗机、自主制造坦克、自主建造舰艇，并研发自身防空系统的国家之一。",
-          "url": "https://flash.jin10.com/detail/20260709013037569800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "美国总统特朗普：我们与土耳其达成了很多良好的贸易协议。土耳其总统埃尔多安表现出色。他们是很好的合作伙伴。",
-          "url": "https://flash.jin10.com/detail/20260709065259440800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "提醒：北京时间02:00，美联储将发布6月16-17日FOMC货币政策会议的纪要文件。",
-          "url": "https://wallstreetcn.com/livenews/3130846",
+          "title": "长鑫科技7月16日开启新股申购",
+          "url": "https://wallstreetcn.com/livenews/3130910",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "罕见！英国因热浪冲击电网发布电力供应预警",
-          "url": "https://wallstreetcn.com/livenews/3130918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "据黎巴嫩国家通讯社：以色列无人机袭击黎巴嫩南部一家医院附近，造成两人死亡。",
-          "url": "https://flash.jin10.com/detail/20260709011118654800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
         }
       ]
     },
@@ -749,79 +1006,6 @@
       ]
     },
     {
-      "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
-          "url": "https://www.cls.cn/detail/2420693",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 07时17分]"
-        },
-        {
-          "title": "美伊停火破裂刺激油价，欧股重挫，美科技股护盘，纳指逆市收涨，中概股大涨",
-          "url": "https://wallstreetcn.com/articles/3776425",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.22%，报23983点。 恒生科技指数主连夜盘收跌0.36%，报4681点。",
-          "url": "https://wallstreetcn.com/livenews/3130861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 05时18分]"
-        },
-        {
-          "title": "长鑫科技，7月16日打新！",
-          "url": "https://www.cls.cn/detail/2421004",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "标普500指数的11个板块中，原材料板块收跌2.49%，金融、房地产、可选消费、电信、保健、工业板块跌1.92%-1.08%，信息技术/科技板块涨1.44%，能源板块涨1.45%。",
-          "url": "https://wallstreetcn.com/livenews/3130883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "长鑫科技7月16日开启新股申购",
-          "url": "https://wallstreetcn.com/livenews/3130910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
       "match_count": 2,
       "titles": [
@@ -854,7 +1038,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "韩国股市跌入技术性熊市，监管紧急开会：半导体板块过度集中加剧市场波动",
@@ -862,11 +1046,57 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 07时17分]"
+          "appearance_count": 7,
+          "time_info": "[01时45分 ~ 11时57分]"
+        },
+        {
+          "title": "中国有哪些行业打破了西方的技术封锁？",
+          "url": "https://www.zhihu.com/question/52916148",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "RedVelvet海报疑似Gemini生成",
+          "url": "https://s.weibo.com/weibo?q=RedVelvet%E6%B5%B7%E6%8A%A5%E7%96%91%E4%BC%BCGemini%E7%94%9F%E6%88%90&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "热点",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260709111329584800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         }
       ]
     }
