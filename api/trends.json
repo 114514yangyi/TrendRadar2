@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-11T11:25:01.954577+08:00",
-  "total_titles_processed": 709,
+  "generated_at": "2026-07-11T14:22:05.926217+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 24,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "功夫女足发布首支长预告",
+          "url": "https://www.douyin.com/hot/2565958",
+          "source": "抖音",
+          "ranks": [
+            17,
+            22,
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时52分 ~ 14时22分]"
+        },
         {
           "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
           "url": "https://wallstreetcn.com/articles/3776605",
@@ -32,20 +46,6 @@
           "time_info": "[01时52分 ~ 11时25分]"
         },
         {
-          "title": "功夫女足发布首支长预告",
-          "url": "https://www.douyin.com/hot/2565958",
-          "source": "抖音",
-          "ranks": [
-            17,
-            22,
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 11时25分]"
-        },
-        {
           "title": "卡塔尔埃米尔办公室：卡塔尔埃米尔与巴基斯坦总理确认，将继续合作支持地区安全，维护航运和海上通道安全。",
           "url": "https://flash.jin10.com/detail/20260711031632460800",
           "source": "金十数据",
@@ -57,6 +57,17 @@
           "time_info": "03时43分"
         },
         {
+          "title": "应急管理部针对天津、辽宁、吉林启动国家地质灾害四级应急响应",
+          "url": "https://wallstreetcn.com/livenews/3132311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "巴基斯坦总理：同意推进伊朗总统佩泽希齐扬近期访巴期间确定的双边合作议程。",
           "url": "https://flash.jin10.com/detail/20260711014514125800",
           "source": "金十数据",
@@ -66,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "伊朗国家媒体：伊朗外长阿拉格齐抵达阿曼首都马斯喀特。",
+          "url": "https://flash.jin10.com/detail/20260711140137269800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "如何看待丘成桐回应「清华求真书院有学生未过考核」称将进一步改革招生方式，希望招到真正热爱数学的学生？",
@@ -81,15 +103,26 @@
           "time_info": "[01时52分 ~ 05时13分]"
         },
         {
-          "title": "国家海洋预报台发布海水倒灌淹没风险预警 浙江温州等地风险较高",
-          "url": "https://flash.jin10.com/detail/20260711103913921800",
+          "title": "应急管理部针对天津、辽宁、吉林启动国家地质灾害四级应急响应",
+          "url": "https://flash.jin10.com/detail/20260711135253596800",
           "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时25分"
+          "time_info": "14时22分"
+        },
+        {
+          "title": "国家防总针对上海江苏安徽江西四川启动防汛防台风四级应急响应",
+          "url": "https://wallstreetcn.com/livenews/3132308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "耿同学：国家已经意识到这里面的问题，我只是个引子",
@@ -115,6 +148,18 @@
           "time_info": "[01时53分 ~ 03时43分]"
         },
         {
+          "title": "国家海洋预报台发布海水倒灌淹没风险预警 浙江温州等地风险较高",
+          "url": "https://flash.jin10.com/detail/20260711103913921800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 14时22分]"
+        },
+        {
           "title": "中纳同意加强铀锂稀土等关键矿产合作",
           "url": "https://www.toutiao.com/trending/7660361131768234027/",
           "source": "今日头条",
@@ -136,6 +181,64 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时43分 ~ 05时13分]"
+        },
+        {
+          "title": "最高级别！中央气象台发布今年首个暴雨红色预警",
+          "url": "https://wallstreetcn.com/livenews/3132291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 14时22分]"
+        },
+        {
+          "title": "曹院士之子曹云龙和韦东奕同获国家自然科学二等奖，这种评奖会不会没有太多含金量？",
+          "url": "https://www.zhihu.com/question/2058567724738122696",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "国家海洋预报台发布海浪红色警报和风暴潮橙色警报。",
+          "url": "https://wallstreetcn.com/livenews/3132290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 14时22分]"
+        },
+        {
+          "title": "最高级别！今年首个暴雨红色预警发布",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E7%BA%A7%E5%88%AB%EF%BC%81%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "国家海洋预报台发布海水倒灌淹没风险预警，浙江温州等地风险较高",
+          "url": "https://wallstreetcn.com/livenews/3132287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 14时22分]"
         },
         {
           "title": "美国发布针对伊朗的新制裁措施",
@@ -162,6 +265,28 @@
           "time_info": "[03时43分 ~ 05时13分]"
         },
         {
+          "title": "中央气象台发布今年首个暴雨红警",
+          "url": "https://www.toutiao.com/trending/7660322607220883465/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "巴威逼近 浙江多地发布告全体市民书",
+          "url": "https://www.toutiao.com/trending/7661130026703654463/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
           "title": "浙江温州发布《告全体市民书》",
           "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E6%B8%A9%E5%B7%9E%E5%8F%91%E5%B8%83%E3%80%8A%E5%91%8A%E5%85%A8%E4%BD%93%E5%B8%82%E6%B0%91%E4%B9%A6%E3%80%8B",
           "source": "百度热搜",
@@ -173,37 +298,15 @@
           "time_info": "[01时52分 ~ 01时53分]"
         },
         {
-          "title": "最高级别！中央气象台发布今年首个暴雨红色预警",
-          "url": "https://wallstreetcn.com/livenews/3132291",
-          "source": "华尔街见闻-快讯",
+          "title": "近14万日本民众抗议日政府危险政策",
+          "url": "https://www.toutiao.com/trending/7660921707238228022/",
+          "source": "今日头条",
           "ranks": [
-            6
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "国家海洋预报台发布海浪红色警报和风暴潮橙色警报。",
-          "url": "https://wallstreetcn.com/livenews/3132290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "国家海洋预报台发布海水倒灌淹没风险预警，浙江温州等地风险较高",
-          "url": "https://wallstreetcn.com/livenews/3132287",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
         },
         {
           "title": "智利铜业委员会：智利国家铜业公司5月铜产量同比下降18.3%，至10.63万吨。",
@@ -228,15 +331,48 @@
           "time_info": "01时53分"
         },
         {
+          "title": "国家防总对沪苏皖赣川启动防汛防台风四级应急响应",
+          "url": "https://flash.jin10.com/detail/20260711125732130800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "美国国家情报局代理局长：启动第三轮“减少冗余或非关键人员”计划。",
           "url": "https://flash.jin10.com/detail/20260711091951476800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "“巴威”12日凌晨将在浙江三门至苍南一带沿海登陆，橙色预警继续发布",
+          "url": "https://wallstreetcn.com/livenews/3132298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "新修改的《医疗机构水污染物排放标准》发布",
+          "url": "https://flash.jin10.com/detail/20260711122146067800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "古巴国家电力联盟：古巴国家电网已瘫痪。",
@@ -272,13 +408,24 @@
           "time_info": "03时43分"
         },
         {
+          "title": "《2026年中国航海日公告》发布 全国海洋生产总值超11万亿元",
+          "url": "https://flash.jin10.com/detail/20260711113442318800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "习近平同朝鲜劳动党总书记、国务委员会委员长金正恩就《中朝友好合作互助条约》签订65周年互致贺电。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3132272",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         }
@@ -286,7 +433,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "外交部：所谓“南海仲裁案”，中国不接受、不承认",
@@ -452,15 +599,49 @@
           "time_info": "[01时53分 ~ 03时43分]"
         },
         {
+          "title": "国际原子能机构高度肯定我国核安保体系",
+          "url": "https://wallstreetcn.com/livenews/3132288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 14时22分]"
+        },
+        {
+          "title": "据半岛电视台：伊朗官员表示，该国研究基础设施在战争中遭受了3亿美元损失。",
+          "url": "https://flash.jin10.com/detail/20260711133101594800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "伊朗外交部长：伊朗迄今信守承诺，不像美国财政部长那样违反谅解备忘录第9条这一违规行为是美国其他违规和失误的延续。",
           "url": "https://flash.jin10.com/detail/20260711101517977800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "国际能源署（IEA）表示，欧盟在电气化转型上的缓慢进展是一个错误。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3132305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "伊朗外交部发言人巴盖伊：阿拉格齐将访问阿曼，讨论并就建立保障船只安全通过霍尔木兹海峡的适当机制交换意见。",
@@ -472,17 +653,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
-        },
-        {
-          "title": "国际原子能机构高度肯定我国核安保体系",
-          "url": "https://wallstreetcn.com/livenews/3132288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
         },
         {
           "title": "伊朗外交部发言人巴盖伊：美国多次违反相关谅解备忘录中的承诺，伊朗的政策仍基于“承诺换承诺”原则，任何来自华盛顿的违约行为都将遭到伊朗的对等回应。",
@@ -505,6 +675,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "美国总统特朗普：我为美国争取到了一份“好得多”的协议，也因此，那座横跨底特律和加拿大安大略省温莎市的全新壮观的“戈迪·豪国际大桥”将按原计划于7月27日开通。",
+          "url": "https://flash.jin10.com/detail/20260711120605603800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "特朗普又来喊单？2美元战争报价暴露开火空间！",
+          "url": "https://flash.jin10.com/detail/20260711120244661800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "土耳其外交部长：美伊双方在霍尔木兹海峡通行安排上存在沟通不足和误解，需要改善沟通渠道，并建立更有效的“去冲突机制”，以避免局势进一步升级。",
@@ -532,7 +724,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
@@ -543,11 +735,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 11时25分]"
+          "appearance_count": 9,
+          "time_info": "[01时52分 ~ 14时22分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -558,11 +751,25 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 11时25分]"
+          "appearance_count": 9,
+          "time_info": "[01时52分 ~ 14时22分]"
+        },
+        {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时05分 ~ 14时22分]"
         },
         {
           "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
@@ -585,18 +792,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
-        },
-        {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时05分 ~ 11时25分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
@@ -647,6 +842,30 @@
           "time_info": "[07时05分 ~ 11时25分]"
         },
         {
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 14时22分]"
+        },
+        {
+          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
+          "url": "https://wallstreetcn.com/articles/3776665",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 14时22分]"
+        },
+        {
           "title": "欧洲央行Moulin：AI可能加剧通胀波动",
           "url": "https://wallstreetcn.com/livenews/3132205",
           "source": "华尔街见闻-快讯",
@@ -671,37 +890,38 @@
           "time_info": "[05时13分 ~ 07时05分]"
         },
         {
-          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
-          "url": "https://wallstreetcn.com/articles/3776665",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
-        },
-        {
-          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
-          "url": "https://www.cls.cn/detail/2422869",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
-        },
-        {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
           "url": "https://www.cls.cn/detail/2423447",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 14时22分]"
+        },
+        {
+          "title": "《功夫女足》上映 AI预测总票房超10亿",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E4%B8%8A%E6%98%A0+AI%E9%A2%84%E6%B5%8B%E6%80%BB%E7%A5%A8%E6%88%BF%E8%B6%8510%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
         },
         {
           "title": "据悉OpenAI安全系统负责人将离职",
@@ -710,7 +930,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -721,7 +941,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -747,11 +967,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33558076",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 11时25分]"
+          "appearance_count": 9,
+          "time_info": "[01时52分 ~ 14时22分]"
+        },
+        {
+          "title": "科技股续撑纳指三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
+          "url": "https://wallstreetcn.com/articles/3776623",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 14时22分]"
         },
         {
           "title": "长鑫科技上市在即，有望纳入哪些指数？何时能借道ETF布局？",
@@ -765,17 +997,6 @@
           "time_info": "[01时52分 ~ 05时13分]"
         },
         {
-          "title": "科技股续撑纳指三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
-          "url": "https://wallstreetcn.com/articles/3776623",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
-        },
-        {
           "title": "看广西洪灾中的救援硬核科技",
           "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%B9%BF%E8%A5%BF%E6%B4%AA%E7%81%BE%E4%B8%AD%E7%9A%84%E6%95%91%E6%8F%B4%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -783,19 +1004,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 14时22分]"
         },
         {
           "title": "隆华科技集团旗下丰联科光电实现G8.7 AMOLED银合金管靶全自主量产出货",
           "url": "https://flash.jin10.com/detail/20260711110349200800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 14时22分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.33%，报24238点。 恒生科技指数主连夜盘收涨0.40%，报4742点。",
@@ -828,7 +1050,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -842,6 +1064,80 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 steam 显卡 内存 处理器",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "BW游戏展台抢先看",
+          "url": "https://search.bilibili.com/all?keyword=BW%E6%B8%B8%E6%88%8F%E5%B1%95%E5%8F%B0%E6%8A%A2%E5%85%88%E7%9C%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 11时25分]"
+        },
+        {
+          "title": "SK海力士CEO郭鲁正：内存芯片短缺可能持续到2030年以后。",
+          "url": "https://flash.jin10.com/detail/20260711014154681800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "BW2026游戏舞台",
+          "url": "https://search.bilibili.com/all?keyword=BW2026%E6%B8%B8%E6%88%8F%E8%88%9E%E5%8F%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "SK海力士CEO称2027年将迎史上最严重内存短缺",
+          "url": "https://wallstreetcn.com/livenews/3132234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 07时05分]"
+        },
+        {
+          "title": "SK海力士考虑“内存即服务”模式，或允许客户租赁而非购买芯片",
+          "url": "https://wallstreetcn.com/livenews/3132193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "SK海力士CEO郭鲁正：从供应角度来看，2027年将是内存短缺周期中最糟糕的一年。",
+          "url": "https://flash.jin10.com/detail/20260711020816699800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
         }
       ]
     },
@@ -919,72 +1215,9 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "BW游戏展台抢先看",
-          "url": "https://search.bilibili.com/all?keyword=BW%E6%B8%B8%E6%88%8F%E5%B1%95%E5%8F%B0%E6%8A%A2%E5%85%88%E7%9C%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 11时25分]"
-        },
-        {
-          "title": "SK海力士CEO郭鲁正：内存芯片短缺可能持续到2030年以后。",
-          "url": "https://flash.jin10.com/detail/20260711014154681800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "SK海力士CEO称2027年将迎史上最严重内存短缺",
-          "url": "https://wallstreetcn.com/livenews/3132234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 07时05分]"
-        },
-        {
-          "title": "SK海力士考虑“内存即服务”模式，或允许客户租赁而非购买芯片",
-          "url": "https://wallstreetcn.com/livenews/3132193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "SK海力士CEO郭鲁正：从供应角度来看，2027年将是内存短缺周期中最糟糕的一年。",
-          "url": "https://flash.jin10.com/detail/20260711020816699800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
         }
       ]
     },
@@ -1000,8 +1233,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 14时22分]"
         },
         {
           "title": "周五（7月10日），美股行业ETF普遍上涨，日常消费品ETF收涨超1.1%，银行业ETF、半导体ETF至少涨0.54%，科技行业ETF、全球科技股指数ETF、网络股指数ETF涨约0.2%，全球航空业ETF跌0.99%，生物科技指数ETF跌2.68%。 2026年迄今，半导体ETF累涨69.67%，全球科技股指数ETF累涨34.19%，科技行业ETF、能源业ETF至少涨24.89%，可选消费ETF则跌1.42%。",
