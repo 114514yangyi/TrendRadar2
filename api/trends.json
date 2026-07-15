@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T05:07:58.555186+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-07-16T07:03:55.424945+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时03分]"
         },
         {
           "title": "国行苹果AI完成备案",
@@ -24,11 +24,12 @@
           "source": "抖音",
           "ranks": [
             2,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时03分]"
         },
         {
           "title": "美联储理事库克：AI建设与供应冲击都在驱动通胀风险。",
@@ -48,7 +49,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
         },
@@ -73,8 +74,31 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时03分]"
+        },
+        {
+          "title": "DeepSeek工资待遇太恐怖了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时03分]"
+        },
+        {
+          "title": "AI拿冠军,摄影比赛闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时03分]"
         },
         {
           "title": "Claude Code 源码泄露后 OpenCode 却没有一波大更新？是开源社区躺平了，还是另有隐情？",
@@ -90,35 +114,13 @@
           "time_info": "[01时24分 ~ 05时07分]"
         },
         {
-          "title": "DeepSeek工资待遇太恐怖了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时07分]"
-        },
-        {
-          "title": "AI拿冠军,摄影比赛闹笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时07分]"
-        },
-        {
           "title": "贝森特主持金融会议 聚焦地缘政治风险与AI主题",
           "url": "https://flash.jin10.com/detail/20260716042723261800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
         },
@@ -129,9 +131,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "AI 时代，更稀缺的是「提出好问题」还是「判断好答案」?",
@@ -143,6 +156,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "AirNow：美国纽约市空气质量指数现在为“中等”。",
+          "url": "https://wallstreetcn.com/livenews/3134622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "面对 AI 冲击，职场人应该赌「专业深度」还是拼「跨界广度」？",
@@ -192,7 +227,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "伊朗议长称为维护国家利益必须时刻做好准备",
@@ -206,6 +241,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "中证报：稳固开局之势，需政策靠前发力精准用力",
+          "url": "https://wallstreetcn.com/livenews/3134641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
           "title": "多人因猎杀国家一级保护野生动物获刑，最高法发布一批典型案例",
           "url": "https://m.thepaper.cn/newsDetail_forward_33590193",
           "source": "澎湃新闻",
@@ -213,8 +259,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时03分]"
         },
         {
           "title": "为什么杨瀚森在 NBA 发展联盟 & 夏季联赛的发挥，反而比在国家队的发挥好？",
@@ -239,13 +285,24 @@
           "time_info": "01时25分"
         },
         {
+          "title": "美国五角大楼20多年来首次禁止发布F-35战机项目报告",
+          "url": "https://flash.jin10.com/detail/20260716062657832800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：今天我和财政部长贝森特会面，讨论了未来的税务议程。",
           "url": "https://flash.jin10.com/detail/20260716041755331800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
         },
@@ -267,9 +324,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗南部霍尔木兹港东部传出两声爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260716060745848800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "美联储理事库克：通胀预期目前保持稳定，但这取决于适当的货币政策，美联储不能放松警惕。",
@@ -364,8 +432,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时03分]"
         },
         {
           "title": "国际油价15日微涨",
@@ -374,7 +442,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
         },
@@ -383,11 +451,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33589846",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时03分]"
         },
         {
           "title": "阿根廷队主教练：不要混淆足球和战争",
@@ -505,7 +574,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "暑假学习做饭成果展",
@@ -516,8 +585,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时03分]"
         },
         {
           "title": "A股被“猴子”刷屏，公募被创新药热点包围，资金要换方向了？",
@@ -527,8 +596,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时03分]"
         },
         {
           "title": "创新药“算力”告急？“猴哥”单价冲至20万 谁在推高这股风",
@@ -538,8 +607,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时03分]"
         },
         {
           "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
@@ -549,8 +618,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时03分]"
+        },
+        {
+          "title": "还原蒋方舟论文风波：促成逆转的“新线索”到底是什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33588998",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时03分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.71%，报24829点。 恒生科技指数主连夜盘收涨0.63%，报4767点。",
@@ -564,26 +645,16 @@
           "time_info": "03时22分"
         },
         {
-          "title": "还原蒋方舟论文风波：促成逆转的“新线索”到底是什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33588998",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时07分]"
-        },
-        {
           "title": "近300条提问“刷屏”，长鑫科技IPO路演热度高企，朱一明等高管详解增长潜力及全球布局",
           "url": "https://www.cls.cn/detail/2427322",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时03分]"
         },
         {
           "title": "长鑫科技的下一“战”",
@@ -592,9 +663,20 @@
           "ranks": [
             13
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时07分 ~ 07时03分]"
+        },
+        {
+          "title": "提前布局硬科技企业，银行系“耐心资本”加速崛起",
+          "url": "https://wallstreetcn.com/livenews/3134630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时07分"
+          "time_info": "07时03分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨2.92%，报6284.05点，逼近6月15日收盘位6351.42点和50日均线（该技术指标目前报6420.08点）。 热门中概股里，名创优品初步收涨9.2%，美团涨6.2%，再鼎医药涨5.8%，腾讯涨5%，阿里涨4.8%，亚朵涨4.5%，万国数据涨4%，阿特斯、华住、金山云涨超3%。 ETF中，中概互联网指数ETF（KWEB）收涨3.13%，中国科技指数ETF（CQQQ）收跌0.41%。 德银嘉实沪深300指数ETF（ASHR）收跌0.20%，MSCI新兴市场ex中国ETF（EMXC）收跌0.72%，XtrackersHarvest中证50（ASHS）收跌2.24%，",
@@ -603,7 +685,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
         }
@@ -620,22 +702,12 @@
           "ranks": [
             14,
             8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时07分]"
-        },
-        {
-          "title": "周三（7月15日，美国PPI通胀数据发布日），美股降息赢家指数涨1.44%——延续CPI数据出炉当天反弹的表现，报97.17点，美股早盘持续上涨，北京时间22:00以来主要持稳于97点上方。",
-          "url": "https://wallstreetcn.com/livenews/3134610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            5,
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时07分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时03分]"
         },
         {
           "title": "美元指数15日下跌",
@@ -644,7 +716,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
         },
@@ -661,15 +733,28 @@
           "time_info": "[01时25分 ~ 03时22分]"
         },
         {
+          "title": "周三（7月15日，美国PPI通胀数据发布日），美股降息赢家指数涨1.44%——延续CPI数据出炉当天反弹的表现，报97.17点，美股早盘持续上涨，北京时间22:00以来主要持稳于97点上方。",
+          "url": "https://wallstreetcn.com/livenews/3134610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时07分 ~ 07时03分]"
+        },
+        {
           "title": "周三（7月15日），美股存储芯片与硬件供应链指数跌6.36%，报207.63点。 成分股全线溃败，西部数据收跌8.78%，闪迪跌8.12%，美光科技跌8.02%，希捷科技、泰瑞达、拉姆研究、应用材料、Rambus也跌5.69%-2.36%。",
           "url": "https://wallstreetcn.com/livenews/3134607",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时07分 ~ 07时03分]"
         },
         {
           "title": "美股七巨头收盘播报｜周三（7月15日），美国科技股七巨头（Magnificent 7）指数涨2.41%，连续第二个交易日走高，报223.13点。 成分股中，苹果收涨4.01%，刷新收盘历史高位至327.50美元，收盘市值4.81万亿美元——相比之下英伟达5.14万亿美元。 “超大”市值科技股指数涨1.12%，报446.55点。",
@@ -678,7 +763,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
         },
@@ -689,7 +774,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
         },
@@ -700,7 +785,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
         }
@@ -715,22 +800,24 @@
           "url": "https://wallstreetcn.com/livenews/3134609",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时07分 ~ 07时03分]"
         },
         {
           "title": "周三（7月15日），美股超大规模云服务商（Hyperscalers）涨3.10%，报96.09点。 成分股普遍收涨，甲骨文、谷歌A、Meta、亚马逊涨3.56%-3.02%，微软涨2.78%。",
           "url": "https://wallstreetcn.com/livenews/3134608",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时07分 ~ 07时03分]"
         },
         {
           "title": "谷歌公司下周将允许第三方应用商城登陆其应用商店。 谷歌在与Epic的官司中撤销了要求修改法院判决的诉求。",
@@ -746,6 +833,48 @@
       ]
     },
     {
+      "keyword_group": "github 技术 行业 软件",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "行业景气度得到验证，锂电产业链企业上半年业绩大面积预喜",
+          "url": "https://wallstreetcn.com/livenews/3134638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "日媒：日系车“拥抱”中国技术",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%EF%BC%9A%E6%97%A5%E7%B3%BB%E8%BD%A6%E2%80%9C%E6%8B%A5%E6%8A%B1%E2%80%9D%E4%B8%AD%E5%9B%BD%E6%8A%80%E6%9C%AF",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            7,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时03分]"
+        },
+        {
+          "title": "周三（7月15日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.7687元，较周二纽约尾盘涨53点，日内整体交投于6.7782-6.7652元区间，逼近6月16日尾盘报价6.7566元。 彭博数据显示，离岸人民币已经在7月10日涨穿50日均线，该技术指标目前上移至6.7861元。",
+          "url": "https://wallstreetcn.com/livenews/3134617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
       "match_count": 2,
       "titles": [
@@ -754,41 +883,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356191&amp;topic_name=xQc%E5%90%90%E6%A7%BD%E6%8B%B3%E5%A4%B4%E6%B8%B8%E6%88%8F%E7%BA%AF%E6%8A%84%E6%97%A0%E5%8E%9F%E5%88%9B",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时03分]"
         },
         {
           "title": "华尔街集体看多：ASML产能激增，内存“见顶论”可以休矣！",
           "url": "https://wallstreetcn.com/articles/3777029",
           "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "github 技术 行业 软件",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "日媒：日系车“拥抱”中国技术",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%EF%BC%9A%E6%97%A5%E7%B3%BB%E8%BD%A6%E2%80%9C%E6%8B%A5%E6%8A%B1%E2%80%9D%E4%B8%AD%E5%9B%BD%E6%8A%80%E6%9C%AF",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            7,
+            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时07分]"
+          "appearance_count": 2,
+          "time_info": "[05时07分 ~ 07时03分]"
         }
       ]
     }
