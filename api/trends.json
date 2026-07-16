@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T07:03:55.424945+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-07-16T11:20:35.362523+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 19,
+      "match_count": 30,
       "titles": [
         {
           "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
@@ -41,6 +41,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "AI拿冠军,摄影比赛闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 11时20分]"
+        },
+        {
+          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
+          "url": "https://www.zhihu.com/question/2060769193977280048",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "SPACEXAI：开源Grok Build，SPACEXAI的编码代理和TUI。",
@@ -89,16 +113,16 @@
           "time_info": "[01时24分 ~ 07时03分]"
         },
         {
-          "title": "AI拿冠军,摄影比赛闹笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            16
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时03分]"
+          "appearance_count": 2,
+          "time_info": "[07时03分 ~ 11时20分]"
         },
         {
           "title": "Claude Code 源码泄露后 OpenCode 却没有一波大更新？是开源社区躺平了，还是另有隐情？",
@@ -114,6 +138,17 @@
           "time_info": "[01时24分 ~ 05时07分]"
         },
         {
+          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时03分 ~ 11时20分]"
+        },
+        {
           "title": "贝森特主持金融会议 聚焦地缘政治风险与AI主题",
           "url": "https://flash.jin10.com/detail/20260716042723261800",
           "source": "金十数据",
@@ -123,6 +158,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "花钱就看这?功夫女足公开用AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "澳大利亚政府成立AI办公室",
+          "url": "https://news.ifeng.com/c/8unXnFx9vmo",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "xAI：Grok Build现在开源",
@@ -136,15 +193,59 @@
           "time_info": "05时07分"
         },
         {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
+          "title": "韩国央行行长：股市回调的系统性影响有限。 比起芯片制造商的股票价格，我更关注芯片价格。 尽管近期有所企稳，但韩元仍然疲软。 AI发展仍将是货币政策的关键因素。",
+          "url": "https://wallstreetcn.com/livenews/3134764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "知网就AI署名论文发声明",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%A5%E7%BD%91%E5%B0%B1AI%E7%BD%B2%E5%90%8D%E8%AE%BA%E6%96%87%E5%8F%91%E5%A3%B0%E6%98%8E%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时03分"
+          "time_info": "11时20分"
+        },
+        {
+          "title": "黄仁勋日本行感谢30年前“救命恩人” 传英伟达或与日本AI国家队结盟",
+          "url": "https://flash.jin10.com/detail/20260716105658967800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "韩国央行行长：AI热潮是更强劲增长前景的主要驱动力。 更高的企业利润和薪资将对内需形成支撑。 更高的外汇汇率将在一段时间内持续推高通胀。 芯片价格飙升正在推高名义GDP。 需要密切关注能源冲击对CPI的间接影响。 出口、投资和消费均保持强劲。 需求侧压力将在经济增长中发挥重要作用。 如果收入提高，需求侧通胀压力将会增加。 将持续作出政策回应，直至CPI稳定在目标水平。",
+          "url": "https://wallstreetcn.com/livenews/3134757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "报告：阿里领跑中国AI编程市场，份额超第二至第五名总和",
+          "url": "https://wallstreetcn.com/livenews/3134752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "AI 时代，更稀缺的是「提出好问题」还是「判断好答案」?",
@@ -158,24 +259,13 @@
           "time_info": "03时22分"
         },
         {
-          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
           "title": "AirNow：美国纽约市空气质量指数现在为“中等”。",
           "url": "https://wallstreetcn.com/livenews/3134622",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -191,6 +281,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "国行 iPhone 即将牵手阿里千问上线「苹果 AI」，有哪些亮点？可能给手机行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2060770809543758786",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
           "title": "国会山作证第二天，沃什称：AI造成的价格效应未必推高通胀",
           "url": "https://wallstreetcn.com/livenews/3134541",
           "source": "华尔街见闻-快讯",
@@ -202,6 +303,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "第一批用AI的受害者出现了",
+          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E7%94%A8AI%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
           "title": "英伟达与Kawasaki Heavy Shipyard将得到人工智能（AI）技术的支持。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/3134540",
           "source": "华尔街见闻-快讯",
@@ -211,6 +323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "科创50指数拉升翻红，此前一度跌超4%，AI手机、影视传媒、消费电子等方向涨幅居前，沪深京三市上涨个股近2700只。",
+          "url": "https://wallstreetcn.com/livenews/3134739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "美联储主席沃什：如果AI企业让投资者感到失望，资本可能会枯竭。",
@@ -227,8 +350,31 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 17,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "申万宏源赵伟：若后续内需复苏态势仍不稳固 财政与货币政策或协同发力",
+          "url": "https://wallstreetcn.com/livenews/3134776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "多人因猎杀国家一级保护野生动物获刑，最高法发布一批典型案例",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590193",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 11时20分]"
+        },
         {
           "title": "伊朗议长称为维护国家利益必须时刻做好准备",
           "url": "https://wallstreetcn.com/livenews/3134563",
@@ -247,20 +393,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
         {
-          "title": "多人因猎杀国家一级保护野生动物获刑，最高法发布一批典型案例",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33590193",
-          "source": "澎湃新闻",
+          "title": "美情报总监提名人：仍要与中国广泛合作",
+          "url": "https://news.ifeng.com/c/8unaWOfIY37",
+          "source": "凤凰网",
           "ranks": [
-            12
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "为什么杨瀚森在 NBA 发展联盟 & 夏季联赛的发挥，反而比在国家队的发挥好？",
@@ -291,7 +437,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -305,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "申万宏源赵伟：若后续内需复苏态势仍不稳固 财政与货币政策或协同发力",
+          "url": "https://flash.jin10.com/detail/20260716105836826800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "伊朗议长称为维护国家利益必须时刻做好准备",
@@ -335,9 +492,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报150950元/吨，较上日16:30价格下跌1250元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3134760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "美联储理事库克：通胀预期目前保持稳定，但这取决于适当的货币政策，美联储不能放松警惕。",
@@ -373,6 +541,28 @@
           "time_info": "01时25分"
         },
         {
+          "title": "韩国央行承诺将继续采取与进一步加息相一致的政策立场",
+          "url": "https://wallstreetcn.com/livenews/3134751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "中央气象台继续发布高温黄色预警",
+          "url": "https://www.toutiao.com/trending/7662187710740873235/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
           "title": "美联储理事库克：FOMC货币政策具有轻度的限制性。",
           "url": "https://wallstreetcn.com/livenews/3134546",
           "source": "华尔街见闻-快讯",
@@ -382,6 +572,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "江苏发布高温橙色预警 最高气温可达37℃",
+          "url": "https://flash.jin10.com/detail/20260716105135639800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "国家疾控局：病媒生物传染病疫情风险升高 呼吸道传染病整体呈低流行水平",
+          "url": "https://wallstreetcn.com/livenews/3134748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "特朗普：纽约州应立即改变数据中心政策",
@@ -406,6 +618,28 @@
           "time_info": "01时25分"
         },
         {
+          "title": "日本财务大臣片山皋月：利率和外汇汇率是由多种因素决定的。 不会对特定的外汇水平发表评论。 将密切关注市场动态和经济指标，以实现财政可持续性。 具体的货币政策手段由日本央行自行决定。",
+          "url": "https://wallstreetcn.com/livenews/3134741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "国家统计局: 二季度房地产业GDP同比-0.2%，金融业GDP同比+6.9%，住宿和餐饮业GDP同比+5.8%。",
+          "url": "https://wallstreetcn.com/livenews/3134737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数大致持平，报392.87点。 在十个板块中，北欧信息技术板块跌幅最大。 电信集团Elisa Oyj跌5.4%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3134507",
           "source": "华尔街见闻-快讯",
@@ -419,8 +653,273 @@
       ]
     },
     {
+      "keyword_group": "科研 论文 大模型 科技 创新 成果",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "创新药“算力”告急？“猴哥”单价冲至20万 谁在推高这股风",
+          "url": "https://www.cls.cn/detail/2427627",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 11时20分]"
+        },
+        {
+          "title": "暑假学习做饭成果展",
+          "url": "https://www.douyin.com/hot/2571945",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时03分]"
+        },
+        {
+          "title": "A股被“猴子”刷屏，公募被创新药热点包围，资金要换方向了？",
+          "url": "https://www.cls.cn/detail/2427528",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时03分]"
+        },
+        {
+          "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
+          "url": "https://www.cls.cn/detail/2427348",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时03分]"
+        },
+        {
+          "title": "还原蒋方舟论文风波：促成逆转的“新线索”到底是什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33588998",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 11时20分]"
+        },
+        {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨",
+          "url": "https://www.cls.cn/detail/2427842",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "长鑫科技IPO",
+          "url": "https://www.douyin.com/hot/2572967",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.71%，报24829点。 恒生科技指数主连夜盘收涨0.63%，报4767点。",
+          "url": "https://wallstreetcn.com/livenews/3134564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "【数读IPO】长鑫科技今日申购，公司上半年净利预计超500亿",
+          "url": "https://www.cls.cn/detail/2427836",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "创新药概念探底回升，海南海药2连板，博瑞医药、万邦医药涨超12%，普蕊斯、海创药业、昭衍新药、鸿博医药、睿智医药等涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3134773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "近300条提问“刷屏”，长鑫科技IPO路演热度高企，朱一明等高管详解增长潜力及全球布局",
+          "url": "https://www.cls.cn/detail/2427322",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时03分]"
+        },
+        {
+          "title": "长鑫科技的下一“战”",
+          "url": "https://www.cls.cn/detail/2427664",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时07分 ~ 11时20分]"
+        },
+        {
+          "title": "澜起科技回应韩国检方突击搜查：合规经营，积极配合，目前运行正常",
+          "url": "https://wallstreetcn.com/livenews/3134767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "A股锂电池概念震荡反弹，华盛锂电涨超10%，此前孚日股份涨停，富祥股份、滨海能源、领湃科技、珠海冠宇、海科新源跟涨。",
+          "url": "https://flash.jin10.com/detail/20260716105800132800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "提前布局硬科技企业，银行系“耐心资本”加速崛起",
+          "url": "https://wallstreetcn.com/livenews/3134630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "金十图示：2026年07月16日（周四）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20260716105544439800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "恒生科技指数涨超3%，快手、小鹏涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3134758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "金十图示：2026年07月16日（周四）港A科技互联网公司市值排名TOP 50一览",
+          "url": "https://flash.jin10.com/detail/20260716105103831800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "澜起科技：将积极配合韩国检方调查 目前公司运行正常",
+          "url": "https://flash.jin10.com/detail/20260716104902307800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "半导体板块震荡走高，瑞芯微涨停，艾为电子涨超15%，盛科通信、安路科技、赛微微电、乐鑫科技、全志科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3134744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨2.92%，报6284.05点，逼近6月15日收盘位6351.42点和50日均线（该技术指标目前报6420.08点）。 热门中概股里，名创优品初步收涨9.2%，美团涨6.2%，再鼎医药涨5.8%，腾讯涨5%，阿里涨4.8%，亚朵涨4.5%，万国数据涨4%，阿特斯、华住、金山云涨超3%。 ETF中，中概互联网指数ETF（KWEB）收涨3.13%，中国科技指数ETF（CQQQ）收跌0.41%。 德银嘉实沪深300指数ETF（ASHR）收跌0.20%，MSCI新兴市场ex中国ETF（EMXC）收跌0.72%，XtrackersHarvest中证50（ASHS）收跌2.24%，",
+          "url": "https://wallstreetcn.com/livenews/3134590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "恒生科技指数涨超2%，商汤、阿里巴巴涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3134727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "国际 外交 战争",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "为什么阿根廷主帅斯卡洛尼要极力淡化马岛战争对英阿大战的影响，不断强调「这只是一场足球比赛」？",
@@ -452,11 +951,23 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 11时20分]"
+        },
+        {
+          "title": "美国持续打击伊朗，战争成本预测高达1000亿美元",
+          "url": "https://news.ifeng.com/c/8umxPSPZXoN",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "阿根廷队主教练：不要混淆足球和战争",
@@ -516,6 +1027,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "港股贵金属板块持续走强，紫金黄金国际(02259.HK)涨超6%，灵宝黄金(03330.HK)涨超4%，紫金矿业(02899.HK)、山东黄金(01787.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260716105153233800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
           "title": "美国副总统万斯：以色列对美国的影响力超过多数国家。 当伊朗违反承诺时，我们做出回应。 我们正在（针对中东局势）进行微妙的外交斡旋。",
           "url": "https://wallstreetcn.com/livenews/3134545",
           "source": "华尔街见闻-快讯",
@@ -573,125 +1095,6 @@
       ]
     },
     {
-      "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "暑假学习做饭成果展",
-          "url": "https://www.douyin.com/hot/2571945",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时03分]"
-        },
-        {
-          "title": "A股被“猴子”刷屏，公募被创新药热点包围，资金要换方向了？",
-          "url": "https://www.cls.cn/detail/2427528",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时03分]"
-        },
-        {
-          "title": "创新药“算力”告急？“猴哥”单价冲至20万 谁在推高这股风",
-          "url": "https://www.cls.cn/detail/2427627",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时03分]"
-        },
-        {
-          "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
-          "url": "https://www.cls.cn/detail/2427348",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时03分]"
-        },
-        {
-          "title": "还原蒋方舟论文风波：促成逆转的“新线索”到底是什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33588998",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时03分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.71%，报24829点。 恒生科技指数主连夜盘收涨0.63%，报4767点。",
-          "url": "https://wallstreetcn.com/livenews/3134564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "近300条提问“刷屏”，长鑫科技IPO路演热度高企，朱一明等高管详解增长潜力及全球布局",
-          "url": "https://www.cls.cn/detail/2427322",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时03分]"
-        },
-        {
-          "title": "长鑫科技的下一“战”",
-          "url": "https://www.cls.cn/detail/2427664",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 07时03分]"
-        },
-        {
-          "title": "提前布局硬科技企业，银行系“耐心资本”加速崛起",
-          "url": "https://wallstreetcn.com/livenews/3134630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨2.92%，报6284.05点，逼近6月15日收盘位6351.42点和50日均线（该技术指标目前报6420.08点）。 热门中概股里，名创优品初步收涨9.2%，美团涨6.2%，再鼎医药涨5.8%，腾讯涨5%，阿里涨4.8%，亚朵涨4.5%，万国数据涨4%，阿特斯、华住、金山云涨超3%。 ETF中，中概互联网指数ETF（KWEB）收涨3.13%，中国科技指数ETF（CQQQ）收跌0.41%。 德银嘉实沪深300指数ETF（ASHR）收跌0.20%，MSCI新兴市场ex中国ETF（EMXC）收跌0.72%，XtrackersHarvest中证50（ASHS）收跌2.24%，",
-          "url": "https://wallstreetcn.com/livenews/3134590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 美元",
       "match_count": 8,
       "titles": [
@@ -706,8 +1109,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 11时20分]"
         },
         {
           "title": "美元指数15日下跌",
@@ -793,7 +1196,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
@@ -820,6 +1223,28 @@
           "time_info": "[05时07分 ~ 07时03分]"
         },
         {
+          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
+          "url": "https://wallstreetcn.com/articles/3777063",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
+          "url": "https://www.cls.cn/detail/2427717",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
           "title": "谷歌公司下周将允许第三方应用商城登陆其应用商店。 谷歌在与Epic的官司中撤销了要求修改法院判决的诉求。",
           "url": "https://wallstreetcn.com/livenews/3134515",
           "source": "华尔街见闻-快讯",
@@ -837,17 +1262,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "行业景气度得到验证，锂电产业链企业上半年业绩大面积预喜",
-          "url": "https://wallstreetcn.com/livenews/3134638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
           "title": "日媒：日系车“拥抱”中国技术",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%EF%BC%9A%E6%97%A5%E7%B3%BB%E8%BD%A6%E2%80%9C%E6%8B%A5%E6%8A%B1%E2%80%9D%E4%B8%AD%E5%9B%BD%E6%8A%80%E6%9C%AF",
           "source": "百度热搜",
@@ -858,8 +1272,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 11时20分]"
+        },
+        {
+          "title": "行业景气度得到验证，锂电产业链企业上半年业绩大面积预喜",
+          "url": "https://wallstreetcn.com/livenews/3134638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "周三（7月15日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.7687元，较周二纽约尾盘涨53点，日内整体交投于6.7782-6.7652元区间，逼近6月16日尾盘报价6.7566元。 彭博数据显示，离岸人民币已经在7月10日涨穿50日均线，该技术指标目前上移至6.7861元。",
@@ -868,7 +1293,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         }
@@ -884,11 +1309,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 11时20分]"
         },
         {
           "title": "华尔街集体看多：ASML产能激增，内存“见顶论”可以休矣！",
@@ -896,11 +1322,29 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 07时03分]"
+          "appearance_count": 3,
+          "time_info": "[05时07分 ~ 11时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "热点",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260716105336469800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         }
       ]
     }
