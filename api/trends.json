@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-18T12:06:20.588401+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-07-18T15:03:29.387642+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 39,
+      "match_count": 47,
       "titles": [
+        {
+          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
+          "url": "https://wallstreetcn.com/articles/3777165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 15时03分]"
+        },
         {
           "title": "UP主手搓WAIC逛展小助手",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93WAIC%E9%80%9B%E5%B1%95%E5%B0%8F%E5%8A%A9%E6%89%8B",
@@ -22,31 +36,18 @@
           "time_info": "[00时21分 ~ 08时04分]"
         },
         {
-          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
-          "url": "https://wallstreetcn.com/articles/3777165",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 12时06分]"
-        },
-        {
           "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
           "url": "https://www.cls.cn/detail/2429875",
           "source": "财联社热门",
           "ranks": [
             7,
             6,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 12时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 15时03分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -55,11 +56,12 @@
           "ranks": [
             6,
             7,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 12时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 15时03分]"
         },
         {
           "title": "大瓦特·让每一度电都有AI",
@@ -99,28 +101,6 @@
           "time_info": "[00时21分 ~ 08时04分]"
         },
         {
-          "title": "京东健康AI医生“大为”亮相WAIC 2026",
-          "url": "https://wallstreetcn.com/livenews/3135961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "网易智企：集中展示AI Agent编排、AI Coding、AI客服等企业AI能力",
-          "url": "https://wallstreetcn.com/livenews/3135960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
           "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
           "url": "https://wallstreetcn.com/articles/3777230",
           "source": "华尔街见闻",
@@ -129,8 +109,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时03分 ~ 12时06分]"
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 15时03分]"
+        },
+        {
+          "title": "智汇上海 共赴AI新未来",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E6%B1%87%E4%B8%8A%E6%B5%B7%20%E5%85%B1%E8%B5%B4AI%E6%96%B0%E6%9C%AA%E6%9D%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "外交部驳斥“蒸馏论”：矮化中国AI创新能力，居心叵测",
+          "url": "https://news.ifeng.com/c/8urOVdXg5Y1",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "摩根大通：AI主导市场期间欧洲股市或持续跑输全球",
@@ -167,6 +169,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时59分 ~ 08时04分]"
+        },
+        {
+          "title": "京东健康AI医生“大为”亮相WAIC 2026",
+          "url": "https://wallstreetcn.com/livenews/3135961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 15时03分]"
+        },
+        {
+          "title": "网易智企：集中展示AI Agent编排、AI Coding、AI客服等企业AI能力",
+          "url": "https://wallstreetcn.com/livenews/3135960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 15时03分]"
         },
         {
           "title": "效仿三星+SK海力士，阿斯麦拟向员工发放2万欧元一次性奖励，AI需求旺盛推动业绩增长",
@@ -218,6 +244,78 @@
           "time_info": "[08时03分 ~ 12时06分]"
         },
         {
+          "title": "95后夫妻手搓500集AI漫剧爆火",
+          "url": "https://s.weibo.com/weibo?q=95%E5%90%8E%E5%A4%AB%E5%A6%BB%E6%89%8B%E6%90%93500%E9%9B%86AI%E6%BC%AB%E5%89%A7%E7%88%86%E7%81%AB&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 15时03分]"
+        },
+        {
+          "title": "阿里巴巴发布企业级AI应用创作平台秒悟团队版",
+          "url": "https://wallstreetcn.com/livenews/3135957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 15时03分]"
+        },
+        {
+          "title": "网传阿根廷绝杀前犯规的「证据图」被证实为 AI 篡改，如何评价？球衣号码都错误的 AI 假图为何能被大量转发？",
+          "url": "https://www.zhihu.com/question/2061411962487924266",
+          "source": "知乎",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 15时03分]"
+        },
+        {
+          "title": "美企抄袭中国AI玩双标被点名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356286&amp;topic_name=%E7%BE%8E%E4%BC%81%E6%8A%84%E8%A2%AD%E4%B8%AD%E5%9B%BDAI%E7%8E%A9%E5%8F%8C%E6%A0%87%E8%A2%AB%E7%82%B9%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 15时03分]"
+        },
+        {
+          "title": "平头哥真武芯片与阿里云磐久超节点服务器荣膺2026 WAIC“镇馆之宝”",
+          "url": "https://wallstreetcn.com/livenews/3135952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 15时03分]"
+        },
+        {
+          "title": "三地联办摄影大赛获奖作品被指AI生成，作者承认“用AI加了一道闪电”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33600057",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 15时03分]"
+        },
+        {
           "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
           "url": "https://www.zhihu.com/question/2059240244864611894",
           "source": "知乎",
@@ -240,15 +338,15 @@
           "time_info": "[08时03分 ~ 08时04分]"
         },
         {
-          "title": "95后夫妻手搓500集AI漫剧爆火",
-          "url": "https://s.weibo.com/weibo?q=95%E5%90%8E%E5%A4%AB%E5%A6%BB%E6%89%8B%E6%90%93500%E9%9B%86AI%E6%BC%AB%E5%89%A7%E7%88%86%E7%81%AB&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
+          "url": "https://www.cls.cn/detail/2430120",
+          "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时06分"
+          "time_info": "15时03分"
         },
         {
           "title": "阿里巴巴发布企业级AI应用创作平台秒悟团队版",
@@ -257,42 +355,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
         {
-          "title": "阿里巴巴发布企业级AI应用创作平台秒悟团队版",
-          "url": "https://wallstreetcn.com/livenews/3135957",
-          "source": "华尔街见闻-快讯",
+          "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
+          "url": "https://wallstreetcn.com/articles/3777275",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "网传阿根廷绝杀前犯规的「证据图」被证实为 AI 篡改，如何评价？球衣号码都错误的 AI 假图为何能被大量转发？",
-          "url": "https://www.zhihu.com/question/2061411962487924266",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "美企抄袭中国AI玩双标被点名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356286&amp;topic_name=%E7%BE%8E%E4%BC%81%E6%8A%84%E8%A2%AD%E4%B8%AD%E5%9B%BDAI%E7%8E%A9%E5%8F%8C%E6%A0%87%E8%A2%AB%E7%82%B9%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
+          "time_info": "15时03分"
         },
         {
           "title": "Linus 称 Linux 不搞「反 AI」，并要求「要么 fork，要么走人」，这会带来哪些影响？",
@@ -301,18 +377,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "平头哥真武芯片与阿里云磐久超节点服务器荣膺2026 WAIC“镇馆之宝”",
-          "url": "https://wallstreetcn.com/livenews/3135952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -328,6 +393,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
+          "url": "https://wallstreetcn.com/livenews/3135966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
           "title": "擎天租联合智元部署60余台机器人全面承接WAIC公共服务",
           "url": "https://wallstreetcn.com/livenews/3135823",
           "source": "华尔街见闻-快讯",
@@ -337,17 +413,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "三地联办摄影大赛获奖作品被指AI生成，作者承认“用AI加了一道闪电”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33600057",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
         },
         {
           "title": "据悉SpaceX正洽谈为美国防部的AI项目提供数十亿美元算力",
@@ -367,7 +432,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -411,7 +476,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -438,6 +503,28 @@
           "time_info": "04时11分"
         },
         {
+          "title": "中国AI出大招后 美政府听劝了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E5%87%BA%E5%A4%A7%E6%8B%9B%E5%90%8E+%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%90%AC%E5%8A%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
+          "url": "https://flash.jin10.com/detail/20260718115729560800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
           "title": "法国博主在上海被AI震撼",
           "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%A2%ABAI%E9%9C%87%E6%92%BC",
           "source": "百度热搜",
@@ -447,6 +534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "DeepSeek准确估值意外曝光",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%87%86%E7%A1%AE%E4%BC%B0%E5%80%BC%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "俄罗斯：在Mykolaiv港口打击四艘干散货船只。）（国际文传电讯社IFX）",
@@ -463,7 +561,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "美国不再延续涉港国家紧急状态，商务部回应",
@@ -471,11 +569,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 12时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 15时03分]"
         },
         {
           "title": "财政部等三部门：调整部分电池消费税政策",
@@ -542,26 +641,48 @@
           "time_info": "[00时21分 ~ 08时04分]"
         },
         {
-          "title": "伊朗国家电视台援引伊朗军方的话称，伊朗在巴林针对美国军方资产和燃料罐进行了打击。",
-          "url": "https://flash.jin10.com/detail/20260718112529599800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
           "title": "宏观政策靠前发力应对有力",
           "url": "https://www.toutiao.com/trending/7663677404052803123/",
           "source": "今日头条",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 15时03分]"
+        },
+        {
+          "title": "伊朗国家电视台援引伊朗军方的话称，伊朗在巴林针对美国军方资产和燃料罐进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260718112529599800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "国家数据局：全国已建成高质量数据集12万个",
+          "url": "https://wallstreetcn.com/livenews/3135978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "如何评价月之暗面 kimi 最新发布的大模型 k3 ?",
+          "url": "https://www.zhihu.com/question/2061412232924337204",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "国家发展改革委安排3000万元支持重庆山体崩塌灾害灾后应急恢复",
@@ -570,7 +691,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -596,6 +717,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时04分]"
+        },
+        {
+          "title": "自然资源部发布重庆彭水山体崩塌前后对比图",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33609740",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 15时03分]"
         },
         {
           "title": "沙特民防局表示，已在哈尔季（Al-Kharj）发布早期预警，提示潜在危险。 已在延布（Yanbu）发布早期预警，提示潜在危险。",
@@ -648,6 +781,18 @@
           "time_info": "[00时21分 ~ 02时12分]"
         },
         {
+          "title": "国家发展改革委安排3000万元中央预算内投资支持重庆山体崩塌灾害灾后应急恢复。",
+          "url": "https://wallstreetcn.com/livenews/3135956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 15时03分]"
+        },
+        {
           "title": "三部门调整部分电池消费税政策",
           "url": "https://www.douyin.com/hot/2574990",
           "source": "抖音",
@@ -670,26 +815,26 @@
           "time_info": "[08时03分 ~ 08时04分]"
         },
         {
-          "title": "国家发展改革委安排3000万元中央预算内投资支持重庆山体崩塌灾害灾后应急恢复。",
-          "url": "https://wallstreetcn.com/livenews/3135956",
+          "title": "沐曦股份发布超节点新品曦景S600",
+          "url": "https://wallstreetcn.com/livenews/3135972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "国家地方共建人形机器人创新中心中试公共服务平台启用",
+          "url": "https://wallstreetcn.com/livenews/3135971",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "自然资源部发布重庆彭水山体崩塌前后对比图",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33609740",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
+          "time_info": "15时03分"
         },
         {
           "title": "美国国家飓风中心：热带风暴Elida正在开放水域向西北方向移动。",
@@ -698,7 +843,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -712,6 +857,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "三部门分步调整部分电池消费税政策，对无汞原电池、锂原电池等按 2% 税率征税，将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2061492056724174422",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "申通快递发布快递行业首个智能体平台“SClaw”",
@@ -747,6 +903,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队表示，若领土被用于对伊朗的攻击，驻有美国军队的国家应预期“相应的回应”。",
+          "url": "https://flash.jin10.com/detail/20260718122202420800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
           "title": "非洲能源政策中心（Africa Centre for Energy Policy）执行董事Benjamin Boakye：目前并没有令人信服的、基于证据的理由表明加纳的矿业制度需要如此大刀阔斧的改革。 挑战不仅在于从该行业提取更多财政价值，还在于优化矿业对经济的整体贡献，同时保持该国作为投资目的地的竞争力。",
           "url": "https://wallstreetcn.com/livenews/3135841",
           "source": "华尔街见闻-快讯",
@@ -764,7 +931,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -792,11 +959,12 @@
           "ranks": [
             11,
             13,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 12时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 15时03分]"
         },
         {
           "title": "伊朗谴责美袭击民用基础设施犯下战争罪",
@@ -833,8 +1001,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时03分 ~ 12时06分]"
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 15时03分]"
         },
         {
           "title": "LS Power：美国电力市场基本不受伊朗战争推高油价影响",
@@ -994,8 +1162,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时03分 ~ 12时06分]"
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 15时03分]"
         },
         {
           "title": "Kimi冲击美科技股，纳指再跌1%，芯片股跌入熊市，美伊冲突升级油价大涨",
@@ -1009,6 +1177,19 @@
           "time_info": "07时01分"
         },
         {
+          "title": "Kimi K3 横空出世，大摩：中国前沿大模型已实现全面追赶，规模、性能与定价同步突破",
+          "url": "https://wallstreetcn.com/articles/3777236",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 15时03分]"
+        },
+        {
           "title": "伊朗革命卫队：如果美国继续打击伊朗目标，伊方将扩大对美国在中东地区相关工业、科技和人工智能资产的攻击。",
           "url": "https://flash.jin10.com/detail/20260718044547376800",
           "source": "金十数据",
@@ -1020,18 +1201,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时59分 ~ 08时04分]"
-        },
-        {
-          "title": "Kimi K3 横空出世，大摩：中国前沿大模型已实现全面追赶，规模、性能与定价同步突破",
-          "url": "https://wallstreetcn.com/articles/3777236",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时03分 ~ 12时06分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.54%，报24602点。 恒生科技指数主连夜盘收涨0.63%，报4643点。",
@@ -1106,7 +1275,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         }
@@ -1126,8 +1295,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时01分 ~ 12时06分]"
+          "appearance_count": 5,
+          "time_info": "[07时01分 ~ 15时03分]"
         },
         {
           "title": "美元指数17日微涨",
@@ -1175,7 +1344,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -1237,9 +1406,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 15时03分]"
         }
       ]
     }
