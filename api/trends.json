@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-21T06:07:19.382469+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-07-21T08:03:18.158387+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "宽基ETF又见证历史时刻，“国家队”曾重仓的多只ETF显著放量",
           "url": "https://www.cls.cn/detail/2431750",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时07分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 08时03分]"
         },
         {
           "title": "中国肯德基「炸鸡配西瓜」促销引发美国网友热议，品牌本土化营销需要考虑其他国家的文化禁忌吗？",
@@ -24,22 +25,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时07分]"
-        },
-        {
-          "title": "谢霆锋兄妹发布讣告",
-          "url": "https://www.douyin.com/hot/2578637",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时07分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 08时03分]"
         },
         {
           "title": "下届世界杯在6个国家举办",
@@ -48,7 +39,33 @@
           "ranks": [
             18,
             20,
-            21
+            21,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 08时03分]"
+        },
+        {
+          "title": "多家央企旗下上市公司同日发布公告",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%A4%AE%E4%BC%81%E6%97%97%E4%B8%8B%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%90%8C%E6%97%A5%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            22,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 08时03分]"
+        },
+        {
+          "title": "谢霆锋兄妹发布讣告",
+          "url": "https://www.douyin.com/hot/2578637",
+          "source": "抖音",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -64,19 +81,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
-        },
-        {
-          "title": "多家央企旗下上市公司同日发布公告",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%A4%AE%E4%BC%81%E6%97%97%E4%B8%8B%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%90%8C%E6%97%A5%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            22,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 06时07分]"
         },
         {
           "title": "据伊朗国家电视台：伊朗阿巴斯港传出爆炸声。",
@@ -142,7 +146,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -153,7 +157,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -167,6 +171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "高盛：日本政策讨论或更多通过信号传递来提振日本国债",
+          "url": "https://wallstreetcn.com/livenews/3137119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "Archer Aviation涨幅扩大至20.95%，该公司与Anduril发布军用飞机。",
@@ -200,6 +215,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "分析人士：三季度货币政策宽松空间或进一步打开",
+          "url": "https://flash.jin10.com/detail/20260721062925704800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "上证报头版文章：三季度货币政策宽松空间或进一步打开",
+          "url": "https://wallstreetcn.com/livenews/3137109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "白宫：特朗普采取进一步措施，调整美国铝进口政策。",
@@ -238,8 +275,32 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 08时03分]"
+        },
+        {
+          "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
+          "url": "https://wallstreetcn.com/articles/3777388",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 08时03分]"
+        },
         {
           "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
           "url": "https://www.zhihu.com/question/2062518030224061737",
@@ -253,16 +314,19 @@
           "time_info": "[00时38分 ~ 06时07分]"
         },
         {
-          "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
-          "url": "https://wallstreetcn.com/articles/3777388",
-          "source": "华尔街见闻",
+          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
+          "url": "https://www.zhihu.com/question/2061575313973416591",
+          "source": "知乎",
           "ranks": [
-            5,
-            6
+            15,
+            14,
+            12,
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时07分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 08时03分]"
         },
         {
           "title": "清华姚班 全球AI半壁江山",
@@ -271,36 +335,12 @@
           "ranks": [
             5,
             7,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时07分]"
-        },
-        {
-          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
-          "url": "https://www.zhihu.com/question/2061575313973416591",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14,
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时07分]"
-        },
-        {
-          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时07分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 08时03分]"
         },
         {
           "title": "AI不准用,日本漫画家被迫停更",
@@ -311,8 +351,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时07分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 08时03分]"
         },
         {
           "title": "王祖贤肖像授权网易AI",
@@ -323,8 +363,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时07分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 08时03分]"
         },
         {
           "title": "建议普通人都尽早用上AI",
@@ -333,11 +373,12 @@
           "ranks": [
             27,
             23,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时07分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 08时03分]"
         },
         {
           "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
@@ -352,6 +393,17 @@
           "time_info": "[00时38分 ~ 02时59分]"
         },
         {
+          "title": "WAIC预计达成超200亿元意向采购金额",
+          "url": "https://s.weibo.com/weibo?q=%23WAIC%E9%A2%84%E8%AE%A1%E8%BE%BE%E6%88%90%E8%B6%85200%E4%BA%BF%E5%85%83%E6%84%8F%E5%90%91%E9%87%87%E8%B4%AD%E9%87%91%E9%A2%9D%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
           "title": "WAIC机器人格斗拳拳到铁",
           "url": "https://www.douyin.com/hot/2576677",
           "source": "抖音",
@@ -360,8 +412,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时58分 ~ 04时37分]"
+          "appearance_count": 5,
+          "time_info": "[02时58分 ~ 08时03分]"
         },
         {
           "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
@@ -386,6 +438,18 @@
           "time_info": "[00时38分 ~ 00时39分]"
         },
         {
+          "title": "如何看待追光总裁称《三国第一部：争洛阳》以曹操为主角，是参考了 DeepSeek 的建议?",
+          "url": "https://www.zhihu.com/question/2061868472049652679",
+          "source": "知乎",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时07分 ~ 08时03分]"
+        },
+        {
           "title": "xAI为微软Excel推出Grok插件",
           "url": "https://wallstreetcn.com/livenews/3137014",
           "source": "华尔街见闻-快讯",
@@ -395,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "“七巨头”时代终结？分析师：这一概念已不再适用 AI投资逻辑正在重构",
+          "url": "https://www.cls.cn/detail/2431826",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "SpaceXAI：Grok for Excel是一款免费的Microsoft 365插件。",
@@ -419,24 +494,13 @@
           "time_info": "00时39分"
         },
         {
-          "title": "如何看待追光总裁称《三国第一部：争洛阳》以曹操为主角，是参考了 DeepSeek 的建议?",
-          "url": "https://www.zhihu.com/question/2061868472049652679",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
           "title": "市场消息：Anthropic与作者团体达成15亿美元版权和解，以终结其因下载数百万本盗版书籍训练AI引发的集体诉讼。",
           "url": "https://flash.jin10.com/detail/20260721045929468800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -450,12 +514,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "英国政府任命Wes Streeting为国防大臣。 任命Stephen Kinnock为威尔士事务大臣。 任命Chris Bryant为北爱尔兰事务大臣。 任命Ellie Reeves为总检察长。 任命Emma Reynolds为财政部首席秘书。 任命Kanishka Narayan为人工智能（AI）部长。 任命Hamish Falconer为欧洲关系部长。",
+          "url": "https://wallstreetcn.com/livenews/3137105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         }
       ]
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "霍尔木兹海峡几近瘫痪，国际油价盘中突破90美元大关",
@@ -466,8 +541,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时07分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 08时03分]"
         },
         {
           "title": "霍尔木兹海峡几近瘫痪，国际油价盘中突破90美元大关",
@@ -475,11 +550,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时07分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 08时03分]"
         },
         {
           "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
@@ -489,8 +565,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时07分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 08时03分]"
         },
         {
           "title": "中美外长会在东盟会议期间会晤吗？外交部回应",
@@ -504,6 +580,28 @@
           "time_info": "[00时38分 ~ 00时39分]"
         },
         {
+          "title": "“伊朗安全部门扣留法国2名外交人员”",
+          "url": "https://news.ifeng.com/c/8uvMVD6vcSP",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时58分 ~ 08时03分]"
+        },
+        {
+          "title": "消息人士：各方正展开外交努力，试图劝告特朗普政府不要切断与联合国难民署的联系。",
+          "url": "https://flash.jin10.com/detail/20260721073150077800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
           "title": "俄罗斯外交部发言人：俄罗斯将驱逐意大利军事参赞及其副手，作为报复措施。",
           "url": "https://flash.jin10.com/detail/20260721001736809800",
           "source": "金十数据",
@@ -513,17 +611,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
-        },
-        {
-          "title": "“伊朗安全部门扣留法国2名外交人员”",
-          "url": "https://news.ifeng.com/c/8uvMVD6vcSP",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时58分 ~ 06时07分]"
         },
         {
           "title": "沙特外交部表示，将继续支持也门人民以及也门“合法”政府，并谴责胡塞武装指责沙特对也门人民实施“围困”的言论。",
@@ -619,7 +706,7 @@
     },
     {
       "keyword_group": "美股 美元",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "周一（7月20日），美股行业ETF多数收跌，生物科技指数ETF跌1.70%，医疗业ETF、银行业ETF、区域银行ETF至多跌1.14%。 科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨0.29%，半导体ETF涨0.34%，能源业ETF涨0.49%。 标普500指数的11个板块中，保健板块收跌1.15%，原材料、工业、房地产、金融、可选消费板块至多跌0.94%，信息技术/科技板块涨0.1%，能源部那张0.55%，电信板块涨0.74%。",
@@ -632,6 +719,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 06时07分]"
+        },
+        {
+          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
+          "url": "https://www.cls.cn/detail/2431934",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "标普500指数初步收跌0.2%，保健板块跌1%，原材料、工业、房地产板块至多跌0.9%，科技板块大致收平，电信板块涨0.8%。 纳斯达克100指数初步大致收平，成分股中，“新成员”霍尼韦尔航空初步收跌4.5%，，西部数据跌3.7%，RKLB跌3.1%，SpaceX跌3%，特斯拉跌2.8%，苹果跌2%，拼多多涨2.4%，闪迪涨2.7%，Strategy涨3%，泰瑞达涨3.4%，Lumentum涨4.5%。 美股存储芯片指数高开低走，初步收涨大约1.3%于日低附近；费城半导体指数涨0.4%。",
@@ -695,7 +793,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         }
@@ -703,7 +801,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国为何急着打压中国开源大模型",
@@ -741,6 +839,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "日媒：美国五大科技巨头的“隐性债务”飙升至1.65万亿美元",
+          "url": "https://flash.jin10.com/detail/20260721063333398800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
           "title": "恒生指数主连夜盘收跌0.21%，报25099点。 恒生科技指数主连夜盘收跌0.25%，报4745点。",
           "url": "https://wallstreetcn.com/livenews/3137061",
           "source": "华尔街见闻-快讯",
@@ -769,7 +878,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         }
@@ -808,9 +917,49 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "github 技术 行业 软件",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "现代汽车因无线充电技术遭专利侵权诉讼",
+          "url": "https://wallstreetcn.com/livenews/3137054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时37分]"
+        },
+        {
+          "title": "化工品涨价带动行业回暖，多家石油石化公司上半年业绩倍增",
+          "url": "https://wallstreetcn.com/livenews/3137123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "试点稳步扩容，“份额”蓄势待发，基金投顾行业迎发展新机遇",
+          "url": "https://wallstreetcn.com/livenews/3137122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         }
       ]
     },
@@ -825,27 +974,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "github 技术 行业 软件",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现代汽车因无线充电技术遭专利侵权诉讼",
-          "url": "https://wallstreetcn.com/livenews/3137054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 04时37分]"
         }
       ]
     },
