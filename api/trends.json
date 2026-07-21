@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T20:27:35.001269+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2026-07-21T23:09:16.036645+08:00",
+  "total_titles_processed": 1526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 47,
+      "match_count": 51,
       "titles": [
         {
           "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
@@ -118,6 +118,35 @@
           "time_info": "[00时38分 ~ 08时03分]"
         },
         {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            10,
+            19,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 23时09分]"
+        },
+        {
+          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 23时09分]"
+        },
+        {
           "title": "超节点、超集群、TPU方案涌现 算力“拼系统”时代产业最关心Token性价比|WAIC观察",
           "url": "https://www.cls.cn/detail/2432010",
           "source": "财联社热门",
@@ -141,13 +170,36 @@
           "time_info": "[00时38分 ~ 02时59分]"
         },
         {
+          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2433005",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
+        },
+        {
+          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
+          "url": "https://wallstreetcn.com/articles/3777491",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 23时09分]"
+        },
+        {
           "title": "美国财长贝森特：认为今年可通过支付系统改革节省3.5亿美元。 正在追踪阿亚图拉的财产，希望能显示地址。 已听闻关于开源AI模型威胁美国的讨论。 美国支持开源AI模型，但反对侵犯知识产权。",
           "url": "https://wallstreetcn.com/livenews/3137575",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -173,6 +225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "科威特外交部：科威特已就伊朗周一在霍尔木兹海峡袭击科威特油轮“KAIFAN”号一事召见伊朗大使，提出抗议。",
+          "url": "https://flash.jin10.com/detail/20260721224247956800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "Rain喊话NiKo大表哥对决",
@@ -209,18 +272,16 @@
           "time_info": "[15时37分 ~ 18时32分]"
         },
         {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
+          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
+          "url": "https://wallstreetcn.com/articles/3777510",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
             10,
-            19,
-            20
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时20分 ~ 20时27分]"
+          "time_info": "[18时31分 ~ 23时09分]"
         },
         {
           "title": "WAIC机器人格斗拳拳到铁",
@@ -247,19 +308,6 @@
           "time_info": "[12时20分 ~ 18时32分]"
         },
         {
-          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 20时27分]"
-        },
-        {
           "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
           "url": "https://www.zhihu.com/question/2062575282591209175",
           "source": "知乎",
@@ -267,18 +315,6 @@
             6,
             18,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时20分 ~ 18时32分]"
-        },
-        {
-          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
-          "url": "https://wallstreetcn.com/articles/3777491",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -321,17 +357,6 @@
           "time_info": "[18时31分 ~ 20时27分]"
         },
         {
-          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
-          "url": "https://wallstreetcn.com/articles/3777510",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 20时27分]"
-        },
-        {
           "title": "对话︱图灵奖得主萨顿：智慧并不等于知识的堆砌，AI迈向“经验时代”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33620327",
           "source": "澎湃新闻",
@@ -353,6 +378,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时03分 ~ 12时20分]"
+        },
+        {
+          "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
+          "url": "https://www.zhihu.com/question/2061915732447687216",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
+        },
+        {
+          "title": "首部AI长剧要来了",
+          "url": "https://s.weibo.com/weibo?q=%E9%A6%96%E9%83%A8AI%E9%95%BF%E5%89%A7%E8%A6%81%E6%9D%A5%E4%BA%86&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
         },
         {
           "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
@@ -417,7 +464,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -505,7 +552,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -568,7 +615,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "宽基ETF又见证历史时刻，“国家队”曾重仓的多只ETF显著放量",
@@ -686,7 +733,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -727,6 +774,17 @@
           "time_info": "[02时58分 ~ 15时37分]"
         },
         {
+          "title": "英前议员：听到新首相说“国家安全”，意味着中英关系一切照旧",
+          "url": "https://news.ifeng.com/c/8uwWeNbzlCC",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
+        },
+        {
           "title": "博主：以“兵役特权”撕碎国家公平",
           "url": "https://www.toutiao.com/trending/7664563989229080114/",
           "source": "今日头条",
@@ -736,6 +794,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 00时39分]"
+        },
+        {
+          "title": "全国首批婚丧习俗改革典型案例发布",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%A6%96%E6%89%B9%E5%A9%9A%E4%B8%A7%E4%B9%A0%E4%BF%97%E6%94%B9%E9%9D%A9%E5%85%B8%E5%9E%8B%E6%A1%88%E4%BE%8B%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
         },
         {
           "title": "国家队出手 证监会发声",
@@ -799,7 +868,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -821,7 +890,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -920,7 +989,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -953,7 +1022,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1030,7 +1099,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1096,7 +1165,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         }
@@ -1104,8 +1173,44 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 35,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "【焦点复盘】科创50涨超10%创历史第三单日涨幅，大批科技人气股日内上演“地天板”",
+          "url": "https://www.cls.cn/detail/2432754",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 23时09分]"
+        },
+        {
+          "title": "源杰科技、中一科技半年报净利最高预增均超10倍",
+          "url": "https://www.cls.cn/detail/2432698",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 23时09分]"
+        },
+        {
+          "title": "世界人工智能大会达成丰硕成果",
+          "url": "https://www.toutiao.com/trending/7664544012321426987/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时27分 ~ 23时09分]"
+        },
         {
           "title": "历史性突破！全球同步研发创新药在中国首报首发",
           "url": "https://www.cls.cn/detail/2432469",
@@ -1118,15 +1223,26 @@
           "time_info": "[18时31分 ~ 20时27分]"
         },
         {
-          "title": "【焦点复盘】科创50涨超10%创历史第三单日涨幅，大批科技人气股日内上演“地天板”",
-          "url": "https://www.cls.cn/detail/2432754",
-          "source": "财联社热门",
+          "title": "中国科技这3组数字真提气",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94",
+          "source": "百度热搜",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 20时27分]"
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
+        },
+        {
+          "title": "全球科技股反弹！美股盘初走高，存储芯片股普涨，闪迪涨9%，布油重回90美元上方，现货白银涨4%",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
         },
         {
           "title": "中国科技这3组数字真提气",
@@ -1155,34 +1271,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%A7%91%E6%8A%80%E8%82%A1%E5%8F%8D%E5%BC%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "世界人工智能大会达成丰硕成果",
-          "url": "https://www.toutiao.com/trending/7664544012321426987/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "源杰科技、中一科技半年报净利最高预增均超10倍",
-          "url": "https://www.cls.cn/detail/2432698",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
+            2,
+            25
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时31分 ~ 20时27分]"
+          "time_info": "[20时27分 ~ 23时09分]"
+        },
+        {
+          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
+          "url": "https://www.cls.cn/detail/2432689",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 23时09分]"
         },
         {
           "title": "美国为何急着打压中国开源大模型",
@@ -1197,23 +1303,24 @@
           "time_info": "[00时38分 ~ 06时07分]"
         },
         {
+          "title": "长鑫科技：网上投资者放弃认购658万股",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%9A%E7%BD%91%E4%B8%8A%E6%8A%95%E8%B5%84%E8%80%85%E6%94%BE%E5%BC%83%E8%AE%A4%E8%B4%AD658%E4%B8%87%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时27分 ~ 23时09分]"
+        },
+        {
           "title": "张坤增聘后首份季报，调仓方向明了，加科技、减消费、砍港股",
           "url": "https://www.cls.cn/detail/2432530",
           "source": "财联社热门",
           "ranks": [
             12,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 20时27分]"
-        },
-        {
-          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
-          "url": "https://www.cls.cn/detail/2432689",
-          "source": "财联社热门",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1241,6 +1348,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "董事长带头，华工科技高管组团增持！两高管跌停价“抄底”买入近5万股",
+          "url": "https://www.cls.cn/detail/2432986",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
+        },
+        {
+          "title": "长鑫科技：网上弃购658.62万股",
+          "url": "https://www.douyin.com/hot/2580123",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
+        },
+        {
+          "title": "长鑫科技打新弃购658万股",
+          "url": "https://www.toutiao.com/trending/7664932732895497737/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
         },
         {
           "title": "科技市场泡沫是2029年吗",
@@ -1282,9 +1422,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
+        },
+        {
+          "title": "113家私募打新长鑫科技获配，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://wallstreetcn.com/livenews/3137648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "英国科技大臣Kendall从（首相伯纳姆的）政府辞职。",
@@ -1315,18 +1466,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "长鑫科技：网上投资者放弃认购658万股",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%9A%E7%BD%91%E4%B8%8A%E6%8A%95%E8%B5%84%E8%80%85%E6%94%BE%E5%BC%83%E8%AE%A4%E8%B4%AD658%E4%B8%87%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1370,7 +1510,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1414,7 +1554,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1450,6 +1590,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "自然资源部召开座谈会提出 强化科技创新引领 建强自然资源科普阵地",
+          "url": "https://wallstreetcn.com/livenews/3137634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "据上交所官网，中电防务科技股份有限公司科创板IPO审核状态变更为“已问询”。",
@@ -1499,7 +1650,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "霍尔木兹海峡几近瘫痪，国际油价盘中突破90美元大关",
@@ -1541,6 +1692,18 @@
           "time_info": "[00时38分 ~ 12时20分]"
         },
         {
+          "title": "英法加等多国外交使团联合声明谴责以色列",
+          "url": "https://news.ifeng.com/c/8uwjYHRsiGA",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时27分 ~ 23时09分]"
+        },
+        {
           "title": "中美外长会在东盟会议期间会晤吗？外交部回应",
           "url": "https://news.ifeng.com/c/8uunnLWgA08",
           "source": "凤凰网",
@@ -1572,17 +1735,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时58分 ~ 08时03分]"
-        },
-        {
-          "title": "英法加等多国外交使团联合声明谴责以色列",
-          "url": "https://news.ifeng.com/c/8uwjYHRsiGA",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
         },
         {
           "title": "消息人士：各方正展开外交努力，试图劝告特朗普政府不要切断与联合国难民署的联系。",
@@ -1640,6 +1792,18 @@
           "time_info": "12时20分"
         },
         {
+          "title": "外交部：中方仍要求菲方拖走非法的坐滩军舰，恢复仁爱礁原状",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33582096",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时27分 ~ 23时09分]"
+        },
+        {
           "title": "沙特外交部表示，将继续支持也门人民以及也门“合法”政府，并谴责胡塞武装指责沙特对也门人民实施“围困”的言论。",
           "url": "https://flash.jin10.com/detail/20260721041019306800",
           "source": "金十数据",
@@ -1662,6 +1826,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 04时37分]"
+        },
+        {
+          "title": "多国外交使团谴责以色列",
+          "url": "https://www.toutiao.com/trending/7664947142167216138/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
         },
         {
           "title": "外交部：中国同古巴的关系光明正大",
@@ -1736,9 +1911,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
+        },
+        {
+          "title": "德国外长瓦德富尔：今天与沙特阿拉伯外交大臣进行了交谈。我们一致认为，维护航行自由和保持国际水道畅通对地区和全球安全至关重要。德国和沙特阿拉伯将继续支持局势降级。",
+          "url": "https://flash.jin10.com/detail/20260721222313610800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "商品期货收盘，沪银主力合约涨超5%，钯涨近4%，铂、国际铜涨超2%。碳酸锂跌超4%，LU燃油跌超3%，液化气、鸡蛋、对二甲苯跌超2%。",
@@ -1750,17 +1936,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
-        },
-        {
-          "title": "外交部：中方仍要求菲方拖走非法的坐滩军舰，恢复仁爱礁原状",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33582096",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
         },
         {
           "title": "挂单报告：国际现货黄金关注多单押注 欧美警惕空单占优",
@@ -1791,7 +1966,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1997,6 +2172,18 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "证监会召开上市公司、行业机构、专家学者系列座谈会听取意见建议",
+          "url": "https://www.cls.cn/detail/2432934",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时27分 ~ 23时09分]"
+        },
+        {
           "title": "现代汽车因无线充电技术遭专利侵权诉讼",
           "url": "https://wallstreetcn.com/livenews/3137054",
           "source": "华尔街见闻-快讯",
@@ -2042,24 +2229,13 @@
           "time_info": "08时03分"
         },
         {
-          "title": "证监会召开上市公司、行业机构、专家学者系列座谈会听取意见建议",
-          "url": "https://www.cls.cn/detail/2432934",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
           "title": "总部位于美国的生物技术公司Axiom寻求在香港上市。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3137542",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -2089,8 +2265,20 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "如何看待 26 年 7 月 DDR5 内存价格再次暴涨，出现「一天两变、提货被拒、商家劝退用户」的怪象？",
+          "url": "https://www.zhihu.com/question/2061301718021886552",
+          "source": "知乎",
+          "ranks": [
+            17,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时27分 ~ 23时09分]"
+        },
         {
           "title": "如何看待游戏主播旭旭宝宝因发表「不看周星驰新片」观点遭网暴，发视频怒怼网友且拒绝道歉，后又将视频删除？",
           "url": "https://www.zhihu.com/question/2062096553184120966",
@@ -2114,15 +2302,15 @@
           "time_info": "[00时38分 ~ 00时39分]"
         },
         {
-          "title": "如何看待 26 年 7 月 DDR5 内存价格再次暴涨，出现「一天两变、提货被拒、商家劝退用户」的怪象？",
-          "url": "https://www.zhihu.com/question/2061301718021886552",
-          "source": "知乎",
+          "title": "孩之宝上调2026年业绩展望，取消多个数字游戏项目",
+          "url": "https://wallstreetcn.com/livenews/3137647",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "23时09分"
         },
         {
           "title": "《古剑》新实机评论区下，有大量玩家斥责其为类魂游戏。所以古剑真的又是一个类魂么？",
@@ -2153,6 +2341,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 23时09分]"
+        },
+        {
           "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
           "url": "https://www.cls.cn/detail/2431896",
           "source": "财联社热门",
@@ -2173,18 +2373,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
-        },
-        {
-          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
-          "url": "https://wallstreetcn.com/articles/3777467",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 20时27分]"
         },
         {
           "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
