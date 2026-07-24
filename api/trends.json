@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T05:13:12.038303+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-07-25T07:08:58.762436+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -52,6 +52,18 @@
           "time_info": "01时44分"
         },
         {
+          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
+          "url": "https://wallstreetcn.com/articles/3777849",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 07时08分]"
+        },
+        {
           "title": "Meta Platforms(META.O)：得益于Muse Spark 1.1技术，MetaAI现已能够制定计划、连接电子邮件与日历应用、制作演示文稿，并代用户处理各项任务。",
           "url": "https://flash.jin10.com/detail/20260725010418061800",
           "source": "金十数据",
@@ -67,22 +79,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 05时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 07时08分]"
         },
         {
-          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
-          "url": "https://wallstreetcn.com/articles/3777849",
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
           "source": "华尔街见闻",
           "ranks": [
+            10,
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 05时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 07时08分]"
         },
         {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
@@ -96,27 +110,17 @@
           "time_info": "[01时44分 ~ 05时13分]"
         },
         {
-          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
-          "url": "https://wallstreetcn.com/articles/3777836",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 05时13分]"
-        },
-        {
           "title": "大厂挤爆AI宠物赛道",
           "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8E%82%E6%8C%A4%E7%88%86AI%E5%AE%A0%E7%89%A9%E8%B5%9B%E9%81%93",
           "source": "百度热搜",
           "ranks": [
             22,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时40分 ~ 05时13分]"
+          "appearance_count": 4,
+          "time_info": "[03时40分 ~ 07时08分]"
         },
         {
           "title": "AI重现狼牙山五壮士英雄壮举",
@@ -243,190 +247,8 @@
       ]
     },
     {
-      "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777828",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 05时13分]"
-        },
-        {
-          "title": "长鑫科技股价管控“小作文”先于上市登场，谣言为何密集出现？七大拆解",
-          "url": "https://www.cls.cn/detail/2436602",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 05时13分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.22%，报25020点。 恒生科技指数主连夜盘收跌0.11%，报4633点。",
-          "url": "https://wallstreetcn.com/livenews/3139615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时40分"
-        },
-        {
-          "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3139589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 03时40分]"
-        },
-        {
-          "title": "长鑫科技一签能赚多少",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%80%E7%AD%BE%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 05时13分]"
-        },
-        {
-          "title": "长鑫科技一签能赚多少",
-          "url": "https://www.toutiao.com/trending/7665950655214784041/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 05时13分]"
-        },
-        {
-          "title": "一篇硕士学位论文13页大面积雷同疑似抄袭，中南大学：暑假结束再受理举报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652237",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 05时13分]"
-        },
-        {
-          "title": "王兴兴登《时代》封面，回应走红“另一面”：硬核科技的突破需要时间",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652220",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 05时13分]"
-        },
-        {
-          "title": "长鑫科技会成为下一个“中石油”吗",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E2%80%9C%E4%B8%AD%E7%9F%B3%E6%B2%B9%E2%80%9D%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            26,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 05时13分]"
-        },
-        {
-          "title": "中南大学回应一硕士论文13页雷同",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E4%B8%80%E7%A1%95%E5%A3%AB%E8%AE%BA%E6%96%8713%E9%A1%B5%E9%9B%B7%E5%90%8C",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时40分 ~ 05时13分]"
-        },
-        {
-          "title": "标普500指数的11个板块普遍收涨，房地产板块涨2.36%，原材料板块涨1.44%，能源板块涨0.25%，信息技术/科技板块跌0.88%。 所有成分股里，Packaging Corp. of America、Travelers Companies Inc.、Ventas Inc.等13只个股创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3139641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.66%，报6104.64点，本周累计下跌2.80%，整体持续下挫。 热门中概股里，日月光半导体跌6.8%，蔚来、小鹏跌超3%，腾讯涨0.4%，美团涨1%。 XtrackersHarvest中证50（ASHS）收跌1.94%，本周反弹0.27%，此前三周先后回撤1.32%、0.87%、11.31%； 德银嘉实沪深300指数ETF（ASHR）收跌1.21%，本周反弹2.17%，上周跌4.95%； 中国科技指数ETF（CQQQ）收跌1.03%，本周累跌0.87%、延续上周回撤9.56%的表现； 中概互联网指数ETF（KWEB）收涨0.08%，本周回撤1.94%，此前三周先后反弹4.39%、5.56%、1.63%； MSCI新兴市场ex中国ETF（EMXC）收跌2.39%，本周累涨0.12%。",
-          "url": "https://wallstreetcn.com/livenews/3139635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "本周，标普累跌约0.6%，道指累跌0.4%，纳指累跌2.2%，科技股七巨头指数跌3.4%，存储芯片指数冲高回落累涨5.4%，半导体指数涨0.8%。 标普500指数初步大致收平，科技板块跌1%，原材料板块涨1.3%，房地产板块涨2.4%。 纳斯达克100指数初步收跌1.2%，成分股中，Nebius Group初步收跌13.2%，CoreWeave跌11.6%，闪迪、Astera Labs跌11.1%，Lumentum跌8.6%，Arm控股、英特尔至少跌7.9%。",
-          "url": "https://wallstreetcn.com/livenews/3139633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "长鑫科技上市时间敲定 7 月 27 日，哪些信息值得关注？你看好它的上市吗？",
-          "url": "https://www.zhihu.com/question/2063730050579396490",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "费城半导体指数跌5%，美光科技跌超8%，英特尔跌超7%，高通跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3139620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
@@ -434,11 +256,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 05时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 07时08分]"
         },
         {
           "title": "商务部宣布为维护国家安全和利益，将 14 家欧盟实体列入出口管制管控名单，有哪些信息值得关注？",
@@ -447,11 +270,23 @@
           "ranks": [
             9,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时40分 ~ 05时13分]"
+          "appearance_count": 4,
+          "time_info": "[03时40分 ~ 07时08分]"
+        },
+        {
+          "title": "网红券商Robinhood与Crypto.com考虑针对预测市场构建合作伙伴关系。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3139671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "据沙特国家电视台：沙特公共投资基金（PIF）与美国进出口银行签署的谅解备忘录涵盖了先进技术、航天航空、基础设施、未来出行、水安全及矿产资源等领域。",
@@ -485,8 +320,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 05时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 07时08分]"
         },
         {
           "title": "马斯克：Grok 4.6将在未来两周发布，Grok 4.7将在未来四周。",
@@ -555,6 +390,17 @@
           "time_info": "01时44分"
         },
         {
+          "title": "明晟MSCI新兴市场外汇指数周五跌0.1%，整体上连涨四周，创1月初以来最长连涨周数。 MSCI发展中国家股票指数跌2.6%，创最近一个月最大单日跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3139652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
           "title": "地区局势持续紧张 美国驻以使馆发布安全警告",
           "url": "https://flash.jin10.com/detail/20260725003812209800",
           "source": "金十数据",
@@ -572,7 +418,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         },
@@ -586,13 +432,234 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "克洛普执教德国国家队",
+          "url": "https://www.douyin.com/hot/2583794",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科研 论文 大模型 科技 创新 成果",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 07时08分]"
+        },
+        {
+          "title": "长鑫科技股价管控“小作文”先于上市登场，谣言为何密集出现？七大拆解",
+          "url": "https://www.cls.cn/detail/2436602",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 07时08分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.22%，报25020点。 恒生科技指数主连夜盘收跌0.11%，报4633点。",
+          "url": "https://wallstreetcn.com/livenews/3139615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时40分"
+        },
+        {
+          "title": "王兴兴登《时代》封面，回应走红“另一面”：硬核科技的突破需要时间",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652220",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 07时08分]"
+        },
+        {
+          "title": "一篇硕士学位论文13页大面积雷同疑似抄袭，中南大学：暑假结束再受理举报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652237",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 07时08分]"
+        },
+        {
+          "title": "长鑫科技一签能赚多少",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%80%E7%AD%BE%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            24,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 07时08分]"
+        },
+        {
+          "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3139589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时40分]"
+        },
+        {
+          "title": "长鑫科技一签能赚多少",
+          "url": "https://www.toutiao.com/trending/7665950655214784041/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 05时13分]"
+        },
+        {
+          "title": "长鑫科技会成为下一个“中石油”吗",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E2%80%9C%E4%B8%AD%E7%9F%B3%E6%B2%B9%E2%80%9D%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            26,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 05时13分]"
+        },
+        {
+          "title": "中南大学回应一硕士论文13页雷同",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E4%B8%80%E7%A1%95%E5%A3%AB%E8%AE%BA%E6%96%8713%E9%A1%B5%E9%9B%B7%E5%90%8C",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时40分 ~ 07时08分]"
+        },
+        {
+          "title": "标普500指数的11个板块普遍收涨，房地产板块涨2.36%，原材料板块涨1.44%，能源板块涨0.25%，信息技术/科技板块跌0.88%。 所有成分股里，Packaging Corp. of America、Travelers Companies Inc.、Ventas Inc.等13只个股创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3139641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.66%，报6104.64点，本周累计下跌2.80%，整体持续下挫。 热门中概股里，日月光半导体跌6.8%，蔚来、小鹏跌超3%，腾讯涨0.4%，美团涨1%。 XtrackersHarvest中证50（ASHS）收跌1.94%，本周反弹0.27%，此前三周先后回撤1.32%、0.87%、11.31%； 德银嘉实沪深300指数ETF（ASHR）收跌1.21%，本周反弹2.17%，上周跌4.95%； 中国科技指数ETF（CQQQ）收跌1.03%，本周累跌0.87%、延续上周回撤9.56%的表现； 中概互联网指数ETF（KWEB）收涨0.08%，本周回撤1.94%，此前三周先后反弹4.39%、5.56%、1.63%； MSCI新兴市场ex中国ETF（EMXC）收跌2.39%，本周累涨0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3139635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "本周，标普累跌约0.6%，道指累跌0.4%，纳指累跌2.2%，科技股七巨头指数跌3.4%，存储芯片指数冲高回落累涨5.4%，半导体指数涨0.8%。 标普500指数初步大致收平，科技板块跌1%，原材料板块涨1.3%，房地产板块涨2.4%。 纳斯达克100指数初步收跌1.2%，成分股中，Nebius Group初步收跌13.2%，CoreWeave跌11.6%，闪迪、Astera Labs跌11.1%，Lumentum跌8.6%，Arm控股、英特尔至少跌7.9%。",
+          "url": "https://wallstreetcn.com/livenews/3139633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "长鑫科技上市时间敲定 7 月 27 日，哪些信息值得关注？你看好它的上市吗？",
+          "url": "https://www.zhihu.com/question/2063730050579396490",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "费城半导体指数跌5%，美光科技跌超8%，英特尔跌超7%，高通跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3139620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "标普500指数的11个板块普遍收涨，房地产板块涨2.36%，原材料板块涨1.44%，能源板块涨0.25%，信息技术/科技板块跌0.88%。 所有成分股里，Packaging Corp. of America、Travelers Companies Inc.、Ventas Inc.等13只个股创历史新高。 在地产板块，成分股数字房地产信托收涨11.01%，Equinix涨4.9%，美国铁山公司涨3.02%表现第三。",
+          "url": "https://wallstreetcn.com/livenews/3139641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         }
       ]
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 07时08分]"
+        },
         {
           "title": "韩国赠还清代石狮 外交部回应",
           "url": "https://www.douyin.com/hot/2583691",
@@ -602,8 +669,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 05时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 07时08分]"
+        },
+        {
+          "title": "国际油价24日显著下跌",
+          "url": "https://flash.jin10.com/detail/20260725053416950800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "国际铜夜盘收跌0.35%，沪铜收跌0.10%，沪铝收跌0.06%，沪锌收涨0.16%，沪铅收跌0.76%，沪镍收涨0.13%，沪锡收涨0.71%。 氧化铝夜盘收涨0.67%，铝合金收跌0.57%。 不锈钢夜盘收平。",
@@ -617,26 +695,16 @@
           "time_info": "01时44分"
         },
         {
-          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
-          "url": "https://wallstreetcn.com/articles/3777830",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 05时13分]"
-        },
-        {
           "title": "一图世界｜医院桥梁水厂电厂通通遭殃，美伊互袭民用设施试探战争红线",
           "url": "https://m.thepaper.cn/newsDetail_forward_33646279",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 05时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 07时08分]"
         },
         {
           "title": "伊朗与巴基斯坦两国外长会晤，讨论地区及国际局势",
@@ -648,6 +716,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        },
+        {
+          "title": "委内瑞拉正式通报联合国，决定退出国际刑事法院",
+          "url": "https://wallstreetcn.com/livenews/3139660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "伊朗与巴基斯坦两国外长会晤 讨论地区及国际局势",
@@ -678,7 +757,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         },
@@ -725,6 +804,90 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 美元",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "TACO交易油价回落，科技股打压美股，芯片指数暴跌4%，存储芯片板块重挫",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "美元指数24日上涨",
+          "url": "https://flash.jin10.com/detail/20260725053410066800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "周五（7月24日），美股行业ETF多数收涨，全球航空业ETF涨2.66%，网络股指数ETF涨0.44%，能源业ETF涨0.4%，科技行业ETF跌1.44%，全球科技股指数ETF跌1.69%，半导体ETF跌3.27%。 2026年迄今，半导体ETF累计涨幅收窄至55.83%，能源业ETF涨35.19%，全球科技股指数ETF、科技行业ETF至多涨26.76%，网络股指数ETF跌3.73%，可选消费ETF跌8.01%。",
+          "url": "https://wallstreetcn.com/livenews/3139640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 07时08分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.63%，暂报2119.90点，上周五结束交易以来（7*24）累计下跌1.56%，整体冲高回落。 MarketVectorTM数字资产100中盘指数跌1.49%，报2393.94点，期内累跌6.63%，7月21日北京时间16:01拉升至2669.08点，随后持续下挫。 MarketVector数字资产100指数跌1.42%，报12649.38点，期内累涨0.08%，整体冲高回落。 最近七天迄今，Solana累跌1.81%，狗狗币累跌5.52%，XRP累跌0.26%。 比特币跌0.30%，暂报63878.70美元；以太坊涨0.69%，暂报1854.812美元。",
+          "url": "https://wallstreetcn.com/livenews/3139579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "美股存储芯片指数收跌约7.3%，使得本周累计涨幅收窄至不足6%",
+          "url": "https://wallstreetcn.com/livenews/3139661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "彭博援引一封信函报道称，高通告诉客户们，无法再消化涨价问题，将按两位数百分比涨价。 高通跌幅收窄，英伟达涨1.2%刷新日高。 纳斯达克100指数转涨，美股早盘一度跌1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3139564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "美元指数本周涨0.7%",
+          "url": "https://wallstreetcn.com/livenews/3139622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         }
       ]
     },
@@ -779,56 +942,6 @@
       ]
     },
     {
-      "keyword_group": "美股 美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.63%，暂报2119.90点，上周五结束交易以来（7*24）累计下跌1.56%，整体冲高回落。 MarketVectorTM数字资产100中盘指数跌1.49%，报2393.94点，期内累跌6.63%，7月21日北京时间16:01拉升至2669.08点，随后持续下挫。 MarketVector数字资产100指数跌1.42%，报12649.38点，期内累涨0.08%，整体冲高回落。 最近七天迄今，Solana累跌1.81%，狗狗币累跌5.52%，XRP累跌0.26%。 比特币跌0.30%，暂报63878.70美元；以太坊涨0.69%，暂报1854.812美元。",
-          "url": "https://wallstreetcn.com/livenews/3139579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "周五（7月24日），美股行业ETF多数收涨，全球航空业ETF涨2.66%，网络股指数ETF涨0.44%，能源业ETF涨0.4%，科技行业ETF跌1.44%，全球科技股指数ETF跌1.69%，半导体ETF跌3.27%。 2026年迄今，半导体ETF累计涨幅收窄至55.83%，能源业ETF涨35.19%，全球科技股指数ETF、科技行业ETF至多涨26.76%，网络股指数ETF跌3.73%，可选消费ETF跌8.01%。",
-          "url": "https://wallstreetcn.com/livenews/3139640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "彭博援引一封信函报道称，高通告诉客户们，无法再消化涨价问题，将按两位数百分比涨价。 高通跌幅收窄，英伟达涨1.2%刷新日高。 纳斯达克100指数转涨，美股早盘一度跌1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3139564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "美元指数本周涨0.7%",
-          "url": "https://wallstreetcn.com/livenews/3139622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
       "match_count": 4,
       "titles": [
@@ -838,22 +951,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 05时13分]"
-        },
-        {
-          "title": "显卡再次暴涨,等等党气哭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356469&amp;topic_name=%E6%98%BE%E5%8D%A1%E5%86%8D%E6%AC%A1%E6%9A%B4%E6%B6%A8%2C%E7%AD%89%E7%AD%89%E5%85%9A%E6%B0%94%E5%93%AD",
-          "source": "贴吧",
-          "ranks": [
+            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 05时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 07时08分]"
         },
         {
           "title": "如何看待内存的涨价终于波及到了显卡，50 系显卡逐渐大面积缺货开始暴涨？",
@@ -863,11 +966,23 @@
             14,
             11,
             9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 07时08分]"
+        },
+        {
+          "title": "显卡再次暴涨,等等党气哭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356469&amp;topic_name=%E6%98%BE%E5%8D%A1%E5%86%8D%E6%AC%A1%E6%9A%B4%E6%B6%A8%2C%E7%AD%89%E7%AD%89%E5%85%9A%E6%B0%94%E5%93%AD",
+          "source": "贴吧",
+          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 05时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 07时08分]"
         },
         {
           "title": "靠出轨剧情出海小游戏日入338万",
@@ -886,7 +1001,7 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "曝演员片酬再降，片酬从 2 亿降到最高 2500 万，透露出影视业哪些问题？对行业生态来说，是好事还是坏事？",
@@ -896,22 +1011,35 @@
             3,
             5,
             8,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 05时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 07时08分]"
         },
         {
           "title": "马斯克：打算让特斯拉Model S与Model X软件开源。",
           "url": "https://wallstreetcn.com/livenews/3139651",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 07时08分]"
+        },
+        {
+          "title": "马斯克：特斯拉计划开源Model S和Model X的软件。",
+          "url": "https://flash.jin10.com/detail/20260725044718667800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时13分"
+          "time_info": "07时08分"
         },
         {
           "title": "iShares软件ETF涨1%，创最近两周最佳单日表现。",
@@ -920,7 +1048,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         }
