@@ -1,11 +1,451 @@
 {
-  "generated_at": "2026-07-26T15:41:58.524906+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-07-26T18:08:37.703467+08:00",
+  "total_titles_processed": 974,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "国家 改革 政策 发布 合作",
+      "match_count": 36,
+      "titles": [
+        {
+          "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
+          "url": "https://www.cls.cn/detail/2436740",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时08分 ~ 18时08分]"
+        },
+        {
+          "title": "最高级别预警！中央气象台发布暴雨红警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33658733",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 15时41分]"
+        },
+        {
+          "title": "“红霞”已加强为强台风，中央气象台发布今年首个台风红色预警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33659697",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时19分 ~ 18时08分]"
+        },
+        {
+          "title": "如何看待月之暗面发布 kimi K3-256K 大模型，能力和 K3 一样，不能看视频，上下文只有 256K？",
+          "url": "https://www.zhihu.com/question/2064106505993971519",
+          "source": "知乎",
+          "ranks": [
+            19,
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 08时06分]"
+        },
+        {
+          "title": "中央气象台发布今年首个台风红警",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E5%8F%91%E5%B8%83%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            8,
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 08时06分]"
+        },
+        {
+          "title": "中央气象台发布今年首个台风红色预警",
+          "url": "https://www.toutiao.com/trending/7666467518051012146/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 01时09分]"
+        },
+        {
+          "title": "菲律宾拉拢域外国家“联合巡航”，南部战区回应",
+          "url": "https://news.ifeng.com/c/8v4qQU8aMiG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "“红霞”即将登陆，中央气象台发布最高级别台风预警",
+          "url": "https://wallstreetcn.com/livenews/3139773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 12时33分]"
+        },
+        {
+          "title": "国家数据局党组书记、局长刘烈宏赴上海市调研数据要素市场化配置改革工作",
+          "url": "https://wallstreetcn.com/livenews/3139769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 12时33分]"
+        },
+        {
+          "title": "印尼官员：印尼对华发展长期合作伙伴关系承诺坚定",
+          "url": "https://wallstreetcn.com/livenews/3139767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 12时33分]"
+        },
+        {
+          "title": "时光代理人3片头曲发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%B6%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA3%E7%89%87%E5%A4%B4%E6%9B%B2%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 06时05分]"
+        },
+        {
+          "title": "美国国家飓风中心：“Fausto”继续向西移动，预计周日凌晨进入中太平洋。“Genevieve”已接近飓风强度，预计下周初将增强为强飓风。",
+          "url": "https://flash.jin10.com/detail/20260726043541129800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时02分 ~ 08时06分]"
+        },
+        {
+          "title": "APEC人工智能未来合作开启新路径",
+          "url": "https://s.weibo.com/weibo?q=%23APEC%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%9C%AA%E6%9D%A5%E5%90%88%E4%BD%9C%E5%BC%80%E5%90%AF%E6%96%B0%E8%B7%AF%E5%BE%84%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 15时41分]"
+        },
+        {
+          "title": "深圳市发布台风红色预警信号",
+          "url": "https://flash.jin10.com/detail/20260726005022755800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时19分]"
+        },
+        {
+          "title": "新一届“35岁以下科技创新35人”中国区名单在沪发布，罗福莉在列",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33658459",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时06分 ~ 18时08分]"
+        },
+        {
+          "title": "据以色列广播局：在以色列国家安全部长本·格维尔住宅附近坠毁的无人机仅携带了摄像头。",
+          "url": "https://flash.jin10.com/detail/20260726041034041800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时02分 ~ 08时06分]"
+        },
+        {
+          "title": "今年首个台风红色预警发布",
+          "url": "https://www.douyin.com/hot/2585235",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 03时19分]"
+        },
+        {
+          "title": "以色列国家安全部长办公室：在部长本-格维尔住宅附近坠毁的无人机已由以色列国防军回收，无人员伤亡。部长及其家人状况良好。",
+          "url": "https://flash.jin10.com/detail/20260726034612336800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时02分 ~ 08时06分]"
+        },
+        {
+          "title": "据以色列方面报道，一架无人机在以色列国家安全部长本-格维尔位于希伯伦的住宅附近坠毁。细节正在调查中。",
+          "url": "https://flash.jin10.com/detail/20260726034033729800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时02分 ~ 08时06分]"
+        },
+        {
+          "title": "广东惠来发布龙卷风警报",
+          "url": "https://www.douyin.com/hot/2585710",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 18时08分]"
+        },
+        {
+          "title": "国家防减救灾委对广东启动国家四级救灾应急响应",
+          "url": "https://wallstreetcn.com/livenews/3139810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 18时08分]"
+        },
+        {
+          "title": "《APEC数据促进增长高级别圆桌会主席声明》发布",
+          "url": "https://flash.jin10.com/detail/20260726000736034800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时19分]"
+        },
+        {
+          "title": "日媒发布宇树机器人拆机视频后认输",
+          "url": "https://www.toutiao.com/trending/7666652778256862771/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 15时41分]"
+        },
+        {
+          "title": "“景德镇手工瓷业遗存”申遗成功有何重大意义？国家文物局负责人详解",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33658598",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 15时41分]"
+        },
+        {
+          "title": "南部战区新闻发言人就菲律宾拉拢域外国家组织所谓“联合巡航”发表谈话",
+          "url": "https://flash.jin10.com/detail/20260726170606968800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "美国国家飓风中心：福斯托（Fausto）在进入中太平洋盆地时略微减弱。",
+          "url": "https://flash.jin10.com/detail/20260726164743716800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "媒体曝阿根廷国家队更衣室内幕",
+          "url": "https://s.weibo.com/weibo?q=%E5%AA%92%E4%BD%93%E6%9B%9D%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9B%BD%E5%AE%B6%E9%98%9F%E6%9B%B4%E8%A1%A3%E5%AE%A4%E5%86%85%E5%B9%95&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "“红霞”已加强为强台风 今年首个台风红色预警发布",
+          "url": "https://flash.jin10.com/detail/20260725225609658800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "南部战区回应菲拉拢域外国家巡航",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E8%8F%B2%E6%8B%89%E6%8B%A2%E5%9F%9F%E5%A4%96%E5%9B%BD%E5%AE%B6%E5%B7%A1%E8%88%AA",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "非洲开发银行气候负责人：非洲国家今年需要高达500亿美元的额外气候融资，以帮助应对气候变化。",
+          "url": "https://flash.jin10.com/detail/20260726160042336800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "日媒发布宇树G1拆机视频后认输",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E5%8F%91%E5%B8%83%E5%AE%87%E6%A0%91G1%E6%8B%86%E6%9C%BA%E8%A7%86%E9%A2%91%E5%90%8E%E8%AE%A4%E8%BE%93%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "非洲开发银行气候负责人：超级厄尔尼诺现象可能导致受影响的非洲国家经济损失在100亿至200亿美元之间。",
+          "url": "https://flash.jin10.com/detail/20260726160033957800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "刘烈宏赴上海市调研数据要素市场化配置改革工作",
+          "url": "https://flash.jin10.com/detail/20260725220943094800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "香港天文台发布黄色暴雨警告。",
+          "url": "https://flash.jin10.com/detail/20260726155109865800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "海湾合作委员会面临危机，成员国难就伊朗问题达成一致",
+          "url": "https://flash.jin10.com/detail/20260726094333888800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "国家发展改革委紧急安排1亿元中央预算内投资支持广东台风灾害灾后应急恢复",
+          "url": "https://flash.jin10.com/detail/20260726124614481800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -27,11 +467,12 @@
           "ranks": [
             13,
             18,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时08分 ~ 15时41分]"
+          "appearance_count": 11,
+          "time_info": "[01时08分 ~ 18时08分]"
         },
         {
           "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
@@ -142,11 +583,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 15时41分]"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 18时08分]"
         },
         {
           "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
@@ -158,6 +600,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时09分 ~ 06时05分]"
+        },
+        {
+          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
+          "url": "https://wallstreetcn.com/articles/3777930",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 18时08分]"
         },
         {
           "title": "假如莫奈遇上AI机器人",
@@ -182,6 +636,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时08分 ~ 03时19分]"
+        },
+        {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 18时08分]"
         },
         {
           "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
@@ -209,17 +674,6 @@
           "time_info": "[06时04分 ~ 12时33分]"
         },
         {
-          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
-          "url": "https://wallstreetcn.com/articles/3777930",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 15时41分]"
-        },
-        {
           "title": "AI短剧《被裁掉的女孩》播放破2亿",
           "url": "https://www.toutiao.com/trending/7665929964277006363/",
           "source": "今日头条",
@@ -232,15 +686,27 @@
           "time_info": "[12时33分 ~ 15时41分]"
         },
         {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
-          "source": "财联社热门",
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时33分 ~ 15时41分]"
+          "time_info": "[15时41分 ~ 18时08分]"
+        },
+        {
+          "title": "如何看美国审查中国AI模型",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%BE%8E%E5%9B%BD%E5%AE%A1%E6%9F%A5%E4%B8%AD%E5%9B%BDAI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
@@ -265,17 +731,6 @@
           "time_info": "12时33分"
         },
         {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
-        {
           "title": "黄仁勋：中国注定会产出卓越的AI技术",
           "url": "https://flash.jin10.com/detail/20260726113943772800",
           "source": "金十数据",
@@ -293,7 +748,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -320,6 +775,17 @@
           "time_info": "08时06分"
         },
         {
+          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
+          "url": "https://www.zhihu.com/question/2063915578427963194",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
           "title": "AI冲击下短剧演员掀起改行潮",
           "url": "https://www.toutiao.com/trending/7666598612654243903/",
           "source": "今日头条",
@@ -337,9 +803,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
+        },
+        {
+          "title": "顺钠股份：针对AI算力中心、超大型数据中心对供电可靠性及能效的要求开展前瞻性技术研究及产品研发",
+          "url": "https://flash.jin10.com/detail/20260726154611236800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "AI的回答让我重新理解活着",
@@ -348,7 +825,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -359,7 +836,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -370,367 +847,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 29,
-      "titles": [
-        {
-          "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
-          "url": "https://www.cls.cn/detail/2436740",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时08分 ~ 15时41分]"
-        },
-        {
-          "title": "最高级别预警！中央气象台发布暴雨红警",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33658733",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时08分 ~ 15时41分]"
-        },
-        {
-          "title": "如何看待月之暗面发布 kimi K3-256K 大模型，能力和 K3 一样，不能看视频，上下文只有 256K？",
-          "url": "https://www.zhihu.com/question/2064106505993971519",
-          "source": "知乎",
-          "ranks": [
-            19,
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时08分 ~ 08时06分]"
-        },
-        {
-          "title": "中央气象台发布今年首个台风红警",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E5%8F%91%E5%B8%83%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%AD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            8,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时08分 ~ 08时06分]"
-        },
-        {
-          "title": "“红霞”已加强为强台风，中央气象台发布今年首个台风红色预警",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33659697",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时19分 ~ 15时41分]"
-        },
-        {
-          "title": "中央气象台发布今年首个台风红色预警",
-          "url": "https://www.toutiao.com/trending/7666467518051012146/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 01时09分]"
-        },
-        {
-          "title": "“红霞”即将登陆，中央气象台发布最高级别台风预警",
-          "url": "https://wallstreetcn.com/livenews/3139773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 12时33分]"
-        },
-        {
-          "title": "国家数据局党组书记、局长刘烈宏赴上海市调研数据要素市场化配置改革工作",
-          "url": "https://wallstreetcn.com/livenews/3139769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 12时33分]"
-        },
-        {
-          "title": "印尼官员：印尼对华发展长期合作伙伴关系承诺坚定",
-          "url": "https://wallstreetcn.com/livenews/3139767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 12时33分]"
-        },
-        {
-          "title": "时光代理人3片头曲发布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%B6%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA3%E7%89%87%E5%A4%B4%E6%9B%B2%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时19分 ~ 06时05分]"
-        },
-        {
-          "title": "美国国家飓风中心：“Fausto”继续向西移动，预计周日凌晨进入中太平洋。“Genevieve”已接近飓风强度，预计下周初将增强为强飓风。",
-          "url": "https://flash.jin10.com/detail/20260726043541129800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时06分]"
-        },
-        {
-          "title": "APEC人工智能未来合作开启新路径",
-          "url": "https://s.weibo.com/weibo?q=%23APEC%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%9C%AA%E6%9D%A5%E5%90%88%E4%BD%9C%E5%BC%80%E5%90%AF%E6%96%B0%E8%B7%AF%E5%BE%84%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 15时41分]"
-        },
-        {
-          "title": "深圳市发布台风红色预警信号",
-          "url": "https://flash.jin10.com/detail/20260726005022755800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时19分]"
-        },
-        {
-          "title": "据以色列广播局：在以色列国家安全部长本·格维尔住宅附近坠毁的无人机仅携带了摄像头。",
-          "url": "https://flash.jin10.com/detail/20260726041034041800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时06分]"
-        },
-        {
-          "title": "今年首个台风红色预警发布",
-          "url": "https://www.douyin.com/hot/2585235",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时19分]"
-        },
-        {
-          "title": "以色列国家安全部长办公室：在部长本-格维尔住宅附近坠毁的无人机已由以色列国防军回收，无人员伤亡。部长及其家人状况良好。",
-          "url": "https://flash.jin10.com/detail/20260726034612336800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时06分]"
-        },
-        {
-          "title": "据以色列方面报道，一架无人机在以色列国家安全部长本-格维尔位于希伯伦的住宅附近坠毁。细节正在调查中。",
-          "url": "https://flash.jin10.com/detail/20260726034033729800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 08时06分]"
-        },
-        {
-          "title": "新一届“35岁以下科技创新35人”中国区名单在沪发布，罗福莉在列",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33658459",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 15时41分]"
-        },
-        {
-          "title": "《APEC数据促进增长高级别圆桌会主席声明》发布",
-          "url": "https://flash.jin10.com/detail/20260726000736034800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时19分]"
-        },
-        {
-          "title": "日媒发布宇树机器人拆机视频后认输",
-          "url": "https://www.toutiao.com/trending/7666652778256862771/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 15时41分]"
-        },
-        {
-          "title": "“景德镇手工瓷业遗存”申遗成功有何重大意义？国家文物局负责人详解",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33658598",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 15时41分]"
-        },
-        {
-          "title": "广东惠来发布龙卷风警报",
-          "url": "https://www.douyin.com/hot/2585710",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
-        {
-          "title": "国家防减救灾委对广东启动国家四级救灾应急响应",
-          "url": "https://wallstreetcn.com/livenews/3139810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
-        {
-          "title": "媒体曝阿根廷国家队更衣室内幕",
-          "url": "https://s.weibo.com/weibo?q=%E5%AA%92%E4%BD%93%E6%9B%9D%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9B%BD%E5%AE%B6%E9%98%9F%E6%9B%B4%E8%A1%A3%E5%AE%A4%E5%86%85%E5%B9%95&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "“红霞”已加强为强台风 今年首个台风红色预警发布",
-          "url": "https://flash.jin10.com/detail/20260725225609658800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "日媒发布宇树G1拆机视频后认输",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E5%8F%91%E5%B8%83%E5%AE%87%E6%A0%91G1%E6%8B%86%E6%9C%BA%E8%A7%86%E9%A2%91%E5%90%8E%E8%AE%A4%E8%BE%93%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "刘烈宏赴上海市调研数据要素市场化配置改革工作",
-          "url": "https://flash.jin10.com/detail/20260725220943094800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "海湾合作委员会面临危机，成员国难就伊朗问题达成一致",
-          "url": "https://flash.jin10.com/detail/20260726094333888800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "国家发展改革委紧急安排1亿元中央预算内投资支持广东台风灾害灾后应急恢复",
-          "url": "https://flash.jin10.com/detail/20260726124614481800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "15时41分"
         }
@@ -738,7 +855,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "Muriel Siebert首席投资官Mark Malek：在通胀和油价高企、投资者担心企业利润率扩张可能放缓的时候，现在真不是推行关税政策的时候。 我们现在必须非常非常谨慎。 尽管霍尔木兹海峡因伊朗战争而关闭，但股市此前已经出现过反弹，相当于用掉了它唯一的“免死金牌”。",
@@ -748,11 +865,12 @@
             5,
             8,
             16,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 15时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 18时08分]"
         },
         {
           "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
@@ -762,11 +880,23 @@
             6,
             9,
             17,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 15时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 18时08分]"
+        },
+        {
+          "title": "据叙利亚国家通讯社：科威特周日谴责胡塞武装对红海商业航运的多次袭击，包括最近对沙特运营的船只NCC MASA的攻击，称这些袭击违反国际法，威胁全球海洋安全和贸易。",
+          "url": "https://flash.jin10.com/detail/20260726173851324800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "伊朗石油部：在战争期间出售了115亿美元的石油，在停火期间出售了65亿美元的石油。",
@@ -778,6 +908,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "美国在伊朗战争中弹药消耗情况一览",
+          "url": "https://flash.jin10.com/detail/20260726172910581800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "伊朗议会国家安全委员会发言人：伊朗与美国之间的主要争论点是霍尔木兹海峡。 海峡永远不会回到战争前的状态。",
@@ -932,9 +1073,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
+        },
+        {
+          "title": "伊朗军方警告以色列：若重启战争将“承受严重后果”",
+          "url": "https://flash.jin10.com/detail/20260726161051511800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "伊朗：在战争及停火期间合计出售180亿美元石油",
@@ -954,7 +1106,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -965,7 +1117,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -976,7 +1128,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         }
@@ -984,7 +1136,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "马上评｜中国青年科技人才何以“井喷式”爆发",
@@ -1010,8 +1162,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时08分 ~ 15时41分]"
+          "appearance_count": 11,
+          "time_info": "[01时08分 ~ 18时08分]"
         },
         {
           "title": "长鑫科技股价管控“小作文”先于上市登场，谣言为何密集出现？七大拆解",
@@ -1023,6 +1175,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时08分 ~ 06时05分]"
+        },
+        {
+          "title": "中南大学：近日收到费某某学位论文涉嫌抄袭举报，已成立调查组全面核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33660220",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时06分 ~ 18时08分]"
         },
         {
           "title": "科技股大跌是因为“量化砸盘”？中基协私募专业委员会详解A股量化交易",
@@ -1038,17 +1204,27 @@
           "time_info": "[01时09分 ~ 12时33分]"
         },
         {
-          "title": "中南大学：近日收到费某某学位论文涉嫌抄袭举报，已成立调查组全面核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33660220",
-          "source": "澎湃新闻",
+          "title": "华夏基金：旗下部分ETF长鑫科技上市首日或存净值差异风险",
+          "url": "https://flash.jin10.com/detail/20260726171205996800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            6,
             5
           ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "中南大学一硕士论文被指 13 页雷同，校方成立调查组，此前曾称暑假结束再受理举报，如何评价？暴露哪些问题？",
+          "url": "https://www.zhihu.com/question/2064146352787945024",
+          "source": "知乎",
+          "ranks": [
+            16,
+            6
+          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 15时41分]"
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 18时08分]"
         },
         {
           "title": "长鑫科技一签能赚多少",
@@ -1062,24 +1238,24 @@
           "time_info": "12时33分"
         },
         {
+          "title": "上海交大医学院：针对仇某某发表医学论文及新华医院开展临床研究事件，进行全面调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33661692",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
           "title": "如何通俗地理解邓煜、王虹作为菲尔兹奖得主的核心研究成果？有怎样的价值？",
           "url": "https://www.zhihu.com/question/2063759151348410113",
           "source": "知乎",
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
-        {
-          "title": "中南大学一硕士论文被指 13 页雷同，校方成立调查组，此前曾称暑假结束再受理举报，如何评价？暴露哪些问题？",
-          "url": "https://www.zhihu.com/question/2064146352787945024",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -1090,7 +1266,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -1126,12 +1302,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "长鑫科技上市前夕探现场",
+          "url": "https://www.douyin.com/hot/2585697",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         }
       ]
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "爽玩!Bin哥躲酒店天天打游戏",
@@ -1140,11 +1327,12 @@
           "ranks": [
             9,
             13,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时08分 ~ 15时41分]"
+          "appearance_count": 11,
+          "time_info": "[01时08分 ~ 18时08分]"
         },
         {
           "title": "显卡再次暴涨,等等党气哭",
@@ -1162,11 +1350,12 @@
           "url": "https://www.zhihu.com/question/2064331256884622163",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 18时08分]"
         },
         {
           "title": "儿子游戏成瘾 父亲起诉4家游戏公司",
@@ -1187,11 +1376,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 15时41分]"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 18时08分]"
         },
         {
           "title": "为什么显卡又涨价了",
@@ -1203,12 +1393,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "TheShy的游戏天赋有多强",
+          "url": "https://search.bilibili.com/all?keyword=TheShy%E7%9A%84%E6%B8%B8%E6%88%8F%E5%A4%A9%E8%B5%8B%E6%9C%89%E5%A4%9A%E5%BC%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         }
       ]
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "携程滥用市场支配地位实施垄断行为，被罚没 51.79 亿元，起到哪些警示作用？对相关行业有何影响？",
@@ -1228,22 +1429,74 @@
           "url": "https://news.ifeng.com/c/8v4eso1qejg",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 18时08分]"
         },
         {
           "title": "为什么大多数成年人一旦学会游泳就只想连续游，不再关注技术动作？",
           "url": "https://www.zhihu.com/question/7803569929",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 18时08分]"
+        },
+        {
+          "title": "新点软件：预计上半年亏损6302.1万元左右",
+          "url": "https://flash.jin10.com/detail/20260726155023388800",
+          "source": "金十数据",
+          "ranks": [
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时41分"
+          "time_info": "18时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "不满谷歌被重罚，特朗普威胁对欧盟征收巨额关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33658424",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "英伟达“开放权重模型”公开信联署方翻倍至50个 谷歌等加入",
+          "url": "https://flash.jin10.com/detail/20260726111836175800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "如何看待谷歌豪赌 AI ，自由现金流数十年来首次转负？",
+          "url": "https://www.zhihu.com/question/2063587044526404438",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         }
       ]
     },
@@ -1273,23 +1526,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时08分 ~ 08时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达“开放权重模型”公开信联署方翻倍至50个 谷歌等加入",
-          "url": "https://flash.jin10.com/detail/20260726111836175800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
         }
       ]
     }
