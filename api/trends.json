@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T16:38:31.896826+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-07-27T20:32:43.414941+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 55,
+      "match_count": 66,
       "titles": [
         {
           "title": "邓煜获得了 2026 年菲尔兹奖，其研究成果与物理学之间有很强的关联性，他会获得诺贝尔物理学奖吗？",
@@ -21,6 +21,17 @@
           "time_info": "[02时06分 ~ 08时07分]"
         },
         {
+          "title": "长鑫科技上市首日高开 471%，市值突破 3 万亿，成 A 股新「一哥」，如何看待其表现？",
+          "url": "https://www.zhihu.com/question/2065005981617107684",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 20时32分]"
+        },
+        {
           "title": "长鑫科技员工：上市和我们没啥关系",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%91%98%E5%B7%A5%EF%BC%9A%E4%B8%8A%E5%B8%82%E5%92%8C%E6%88%91%E4%BB%AC%E6%B2%A1%E5%95%A5%E5%85%B3%E7%B3%BB",
           "source": "百度热搜",
@@ -31,17 +42,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时08分 ~ 08时07分]"
-        },
-        {
-          "title": "长鑫科技上市首日高开 471%，市值突破 3 万亿，成 A 股新「一哥」，如何看待其表现？",
-          "url": "https://www.zhihu.com/question/2065005981617107684",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 16时38分]"
         },
         {
           "title": "【数读IPO】长鑫科技今日上市",
@@ -76,6 +76,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 12时43分]"
+        },
+        {
+          "title": "长鑫科技上市首日收涨465%",
+          "url": "https://www.douyin.com/hot/2586473",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 20时32分]"
+        },
+        {
+          "title": "长鑫科技上市首日暴涨465%，成交破1400亿！创业板大涨3%，算力硬件午后拉升，恒科指涨逾1%，小米大涨超7%",
+          "url": "https://wallstreetcn.com/articles/3777980",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 20时32分]"
         },
         {
           "title": "【早报】长鑫科技，今日上市；美暂停打击伊朗；油价大跌、黄金反弹；宁德时代启动A股史上最大规模回购",
@@ -124,15 +147,26 @@
           "time_info": "[12时42分 ~ 12时43分]"
         },
         {
-          "title": "长鑫科技上市首日收涨465%",
-          "url": "https://www.douyin.com/hot/2586473",
-          "source": "抖音",
+          "title": "8家券商持长鑫科技市值约509亿，哪家进账最多？跟投、直投与承销齐齐进入兑现期",
+          "url": "https://www.cls.cn/detail/2437945",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时38分"
+          "time_info": "20时32分"
+        },
+        {
+          "title": "国内首个抗失眠创新药法赞雷生在美团买药线上首发",
+          "url": "https://wallstreetcn.com/livenews/3140328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "长鑫科技中1签赚2万",
@@ -158,15 +192,15 @@
           "time_info": "08时07分"
         },
         {
-          "title": "长鑫科技上市首日暴涨465%，成交破1400亿！创业板大涨3%，算力硬件午后拉升，恒科指涨逾1%，小米大涨超7%",
-          "url": "https://wallstreetcn.com/articles/3777980",
-          "source": "华尔街见闻",
+          "title": "立航科技：因特殊事项影响，从2026年7月起，公司在特定客户中获取订单的资格将受限6个月",
+          "url": "https://wallstreetcn.com/livenews/3140324",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时38分"
+          "time_info": "20时32分"
         },
         {
           "title": "大国重器解锁中国科创新高度",
@@ -175,7 +209,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -201,6 +235,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "【每日收评】创业板指涨超3%，全市场近5200股飘红，长鑫科技全天成交额超1400亿",
+          "url": "https://www.cls.cn/detail/2437874",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "A股一哥!长鑫科技开盘暴涨",
@@ -246,6 +291,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 12时43分]"
+        },
+        {
+          "title": "同一位创始人！今日长鑫涨疯、兆易创新跌停，朱一明身价或迎最大重估",
+          "url": "https://wallstreetcn.com/articles/3777995",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 20时32分]"
         },
         {
           "title": "长鑫科技董事长朱一明身家多少",
@@ -391,15 +448,48 @@
           "time_info": "08时07分"
         },
         {
+          "title": "A股一哥易主 中国科技能否长兴",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%80%E5%93%A5%E6%98%93%E4%B8%BB+%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%83%BD%E5%90%A6%E9%95%BF%E5%85%B4",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "百诚医药：创新药BIOS0635-048片获得临床试验批准通知书",
           "url": "https://flash.jin10.com/detail/20260727161016352800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "菲尔兹奖成果的战略意义",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E6%88%90%E6%9E%9C%E7%9A%84%E6%88%98%E7%95%A5%E6%84%8F%E4%B9%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "【焦点复盘】科创50深V回升收复1800点，全市场超180股涨逾10%，长鑫科技上市首日登顶总市值“一哥”",
+          "url": "https://www.cls.cn/detail/2437935",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "长鑫科技周边酒店一房难求",
@@ -413,15 +503,15 @@
           "time_info": "08时07分"
         },
         {
-          "title": "同一位创始人！今日长鑫涨疯、兆易创新跌停，朱一明身价或迎最大重估",
-          "url": "https://wallstreetcn.com/articles/3777995",
-          "source": "华尔街见闻",
+          "title": "长鑫科技员工被楼盘疯抢",
+          "url": "https://www.toutiao.com/trending/7666796224175489060/",
+          "source": "今日头条",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时38分"
+          "time_info": "20时32分"
         },
         {
           "title": "长鑫科技",
@@ -430,9 +520,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "长鑫科技挂牌上市，员工称「上市和我们没啥关系」，更关心未来薪资、待遇，上市对员工有哪些隐藏的好处吗？",
+          "url": "https://www.zhihu.com/question/2064980903453881609",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "UP主解读长鑫科技股东名单",
@@ -474,9 +575,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "长鑫科技开盘涨471.59%，总市值超3.3万亿元，成A股市值最高公司",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33665106",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "长鑫科技今日上市",
@@ -496,7 +608,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -507,7 +619,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -529,7 +641,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -540,7 +652,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -554,6 +666,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "腾讯QQ宣布QQ宠物回归，接入腾讯混元Hy3大模型",
+          "url": "https://wallstreetcn.com/livenews/3140299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "长鑫科技今日上市",
@@ -606,7 +729,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -617,7 +740,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         }
@@ -625,7 +748,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 39,
+      "match_count": 45,
       "titles": [
         {
           "title": "国际货币基金组织（IMF）：一系列主权财富基金的价值在过去十年超过翻倍。",
@@ -638,6 +761,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时08分 ~ 06时05分]"
+        },
+        {
+          "title": "外交部：中日外长在马尼拉没有会见、没有交流",
+          "url": "https://news.ifeng.com/c/8v6Oh85fRdF",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
+          "url": "https://news.ifeng.com/c/8v6QrUZwqR8",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "据美联社：美国五角大楼官方公布的伊朗战争死亡人数中，不再包含在近期战斗中丧生的4名美军士兵，他们与207名伤员一同被归入新的“海外行动”类别。",
@@ -668,9 +813,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "越南外交部：感谢中国！",
+          "url": "https://news.ifeng.com/c/8v5ooxIqQPV",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 20时32分]"
         },
         {
           "title": "卡塔尔外交部：首相强调相关方必须执行谅解备忘录中达成的共识，并确保霍尔木兹海峡的航行自由。",
@@ -733,6 +890,19 @@
           "time_info": "[00时08分 ~ 02时06分]"
         },
         {
+          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 20时32分]"
+        },
+        {
           "title": "美国驻联合国大使Waltz声称：美国总统特朗普在伊朗战争问题对所有选项保持开放态度。 特朗普向“伊朗谈判”提供空间，（双边、相关）对话“正在进行”。 （关于纽约时报称特朗普因弹药供应不足而暂停袭击伊朗）美军在伊朗战争方面拥有所有的（军事）装备。（NBC News）",
           "url": "https://wallstreetcn.com/livenews/3139844",
           "source": "华尔街见闻-快讯",
@@ -757,27 +927,16 @@
           "time_info": "[00时08分 ~ 06时05分]"
         },
         {
-          "title": "越南外交部：感谢中国！",
-          "url": "https://news.ifeng.com/c/8v5ooxIqQPV",
-          "source": "凤凰网",
+          "title": "国际服澜新皮肤预览",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%99%85%E6%9C%8D%E6%BE%9C%E6%96%B0%E7%9A%AE%E8%82%A4%E9%A2%84%E8%A7%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            26,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时42分 ~ 16时38分]"
-        },
-        {
-          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 16时38分]"
+          "time_info": "[12时42分 ~ 20时32分]"
         },
         {
           "title": "俄罗斯外交部：阿拉格齐向拉夫罗夫通报了当前为缓和因美国袭击伊朗而引发的中东紧张局势所开展的外交努力。",
@@ -816,17 +975,6 @@
           "time_info": "[04时15分 ~ 06时05分]"
         },
         {
-          "title": "国际服澜新皮肤预览",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%99%85%E6%9C%8D%E6%BE%9C%E6%96%B0%E7%9A%AE%E8%82%A4%E9%A2%84%E8%A7%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 12时43分]"
-        },
-        {
           "title": "俄罗斯外交部：俄外长就7月25日乌克兰无人机袭击伊朗商船并造成一名伊朗船员死亡一事表示诚挚哀悼。阿拉格齐感谢阿斯特拉罕当局为遇袭船只船员提供帮助，并强调必须防止基辅此类冒险行径。",
           "url": "https://flash.jin10.com/detail/20260727003123877800",
           "source": "金十数据",
@@ -844,7 +992,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -915,6 +1063,17 @@
           "time_info": "06时05分"
         },
         {
+          "title": "因国际原油价格大幅回落，美国航空公司股票在盘前交易中涨，达美航空涨2.7%，捷蓝航空涨2.9%，西南航空上涨3.6%，美国航空涨4%，阿拉斯加航空涨3.2%，联合航空涨3.6%。",
+          "url": "https://flash.jin10.com/detail/20260727201950894800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "以总理办公室官员：国际部队将在与我们军队的全面协调下，在加沙黄线以外的地区开展工作。",
           "url": "https://flash.jin10.com/detail/20260726230953560800",
           "source": "金十数据",
@@ -954,9 +1113,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "挂单报告：国际金警惕横盘整理 美日留意上行押注",
+          "url": "https://flash.jin10.com/detail/20260727201325473800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "伊朗外交部：霍尔木兹海峡仍然关闭",
@@ -965,7 +1135,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -979,6 +1149,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "南航携浦东机场开通“国际通程航班”",
+          "url": "https://wallstreetcn.com/livenews/3140307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "伊朗外交部长：在与欧盟高级代表卡拉斯和俄罗斯外长拉夫罗夫的通话中，我已明确表示，基辅那个不劳而获的家伙所做的一切绝不会不遭到回应。",
@@ -1042,9 +1223,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "国际金极低投机仓位往往是看涨信号，美伊“停火”只是暂时触发逼空行情？ | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260727200040888800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "外交部：今年上半年 中非贸易亮点纷呈",
@@ -1053,7 +1245,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1064,7 +1256,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         }
@@ -1072,7 +1264,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 32,
+      "match_count": 42,
       "titles": [
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -1082,11 +1274,12 @@
             2,
             3,
             8,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 16时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 20时32分]"
         },
         {
           "title": "谁还没跳ACAI拖拉机舞",
@@ -1097,11 +1290,12 @@
             24,
             23,
             19,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 16时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 20时32分]"
         },
         {
           "title": "不要长期向AI倾泻心事",
@@ -1178,16 +1372,26 @@
           "time_info": "12时43分"
         },
         {
-          "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
-          "url": "https://www.cls.cn/detail/2437261",
+          "title": "AI挤占DRAM颗粒供应 又一模组厂预警“无货可卖”风险",
+          "url": "https://www.cls.cn/detail/2437715",
           "source": "财联社热门",
           "ranks": [
-            8,
-            5
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 16时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
+          "url": "https://www.zhihu.com/question/2052464126996353859",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -1195,7 +1399,20 @@
           "source": "贴吧",
           "ranks": [
             4,
-            10
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 20时32分]"
+        },
+        {
+          "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
+          "url": "https://www.cls.cn/detail/2437261",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1244,11 +1461,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 16时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 20时32分]"
         },
         {
           "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
@@ -1372,6 +1590,17 @@
           "time_info": "08时07分"
         },
         {
+          "title": "虞书欣疑似被AI融脸和声音",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%96%91%E4%BC%BC%E8%A2%ABAI%E8%9E%8D%E8%84%B8%E5%92%8C%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "据华尔街日报：知情人士称，英伟达(NVDA.O)正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。",
           "url": "https://flash.jin10.com/detail/20260727072121648800",
           "source": "金十数据",
@@ -1383,6 +1612,17 @@
           "time_info": "08时07分"
         },
         {
+          "title": "Claude Opus 5 系统提示词泄漏，膨胀到 20 万字符的系统提示词，你怎么看？",
+          "url": "https://www.zhihu.com/question/2064349598202779354",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
           "url": "https://www.cls.cn/detail/2437061",
           "source": "财联社热门",
@@ -1392,6 +1632,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "瑞银：低成本开源模型正重塑AI交易格局，利好英伟达等硬件及云巨头！",
+          "url": "https://www.cls.cn/detail/2437519",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "物理AI公司“正奇未来”完成数亿元天使系列融资，年内开展全球商业化落地",
@@ -1414,6 +1665,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662866",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "用AI把这一秒过火做成民国解密游戏",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8AI%E6%8A%8A%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E5%81%9A%E6%88%90%E6%B0%91%E5%9B%BD%E8%A7%A3%E5%AF%86%E6%B8%B8%E6%88%8F%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "美国AI霸权正在被自己人亲手撕碎吗",
+          "url": "https://www.toutiao.com/trending/7667143265350585875/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "Naver计划在下半年在韩国推出一款AI代理平台。",
+          "url": "https://flash.jin10.com/detail/20260727200421156800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "世界黄金协会全球研究负责人：美联储重估与AI吸金夹击，东方买盘正重塑定价逻辑",
+          "url": "https://wallstreetcn.com/livenews/3140300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "中信建投：A股市场短期维持W型底部震荡 ，AI 仍是长期主线",
@@ -1452,7 +1758,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "菲律宾拉拢域外国家组织所谓“联合巡航”，南部战区发声",
@@ -1480,6 +1786,18 @@
           "time_info": "[00时08分 ~ 06时05分]"
         },
         {
+          "title": "芯片巨舰长鑫科技上市：一个人，一座城，与一个国家的存储产业十年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33663468",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 20时32分]"
+        },
+        {
           "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
           "url": "https://wallstreetcn.com/livenews/3139854",
           "source": "华尔街见闻-快讯",
@@ -1503,17 +1821,6 @@
           "time_info": "[00时08分 ~ 08时07分]"
         },
         {
-          "title": "芯片巨舰长鑫科技上市：一个人，一座城，与一个国家的存储产业十年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33663468",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
           "title": "广发期货发布公告，近日，广发期货成功协助客户开立公司范围内首例“划转充实社保基金国有股权及现金收益”期货账户，助力养老资产稳健运行。",
           "url": "https://wallstreetcn.com/livenews/3140015",
           "source": "华尔街见闻-快讯",
@@ -1523,6 +1830,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "中国中化发布国内化工行业首款垂类安全大模型",
+          "url": "https://wallstreetcn.com/livenews/3140322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "小鹏集团发布澳大利亚战略规划",
+          "url": "https://wallstreetcn.com/livenews/3140321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "据华尔街日报：特朗普否认弹药短缺是个问题，他坚称，美国拥有的弹药远超世界上任何国家，也远超实际需求。",
@@ -1561,6 +1890,31 @@
           "time_info": "[08时07分 ~ 16时38分]"
         },
         {
+          "title": "2026上半年规上工业企业利润增长18.7%，国家统计局解读",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33665126",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 20时32分]"
+        },
+        {
+          "title": "耐克终止线上合作后，滔搏被曝暴力打折甩卖库存，如何解读此现象？",
+          "url": "https://www.zhihu.com/question/2064176396658807069",
+          "source": "知乎",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 20时32分]"
+        },
+        {
           "title": "韩国气象厅发布多地最高级别高温警报",
           "url": "https://wallstreetcn.com/livenews/3139830",
           "source": "华尔街见闻-快讯",
@@ -1585,18 +1939,6 @@
           "time_info": "[08时07分 ~ 12时43分]"
         },
         {
-          "title": "2026上半年规上工业企业利润增长18.7%，国家统计局解读",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33665126",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 16时38分]"
-        },
-        {
           "title": "甘肃一景区山洪致露营游客遇难，当地曾发布山洪灾害预警，但游客未被限制进入或及时疏散，景区存在责任吗？",
           "url": "https://www.zhihu.com/question/2064820259022795106",
           "source": "知乎",
@@ -1614,7 +1956,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1636,7 +1978,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1647,18 +1989,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "耐克终止线上合作后，滔搏被曝暴力打折甩卖库存，如何解读此现象？",
-          "url": "https://www.zhihu.com/question/2064176396658807069",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1696,13 +2027,24 @@
           "time_info": "00时08分"
         },
         {
+          "title": "国家防总针对湖北四川启动防汛四级应急响应",
+          "url": "https://wallstreetcn.com/livenews/3140301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "日本首相支持率下滑引发政策担忧，策略师看空日元和日债",
           "url": "https://wallstreetcn.com/livenews/3140126",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1735,7 +2077,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1749,6 +2091,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "央视发布钓鱼岛纪录片",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%8F%91%E5%B8%83%E9%92%93%E9%B1%BC%E5%B2%9B%E7%BA%AA%E5%BD%95%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "金融监管总局：稳步推进中小金融机构改革化险，有效防范化解重点领域风险",
+          "url": "https://wallstreetcn.com/livenews/3140282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         }
       ]
     },
@@ -1777,7 +2141,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1871,7 +2235,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1900,11 +2264,12 @@
             12,
             14,
             20,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 16时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 20时32分]"
         },
         {
           "title": "如何看待儿子沉迷游戏吞药入院，父亲因此起诉腾讯、网易、米哈游和三七互娱，并且索赔 10 元？",
@@ -1945,6 +2310,21 @@
           "time_info": "12时43分"
         },
         {
+          "title": "Mrbeast野兽游戏首入驻B站",
+          "url": "https://search.bilibili.com/all?keyword=Mrbeast%E9%87%8E%E5%85%BD%E6%B8%B8%E6%88%8F%E9%A6%96%E5%85%A5%E9%A9%BBB%E7%AB%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            24,
+            21,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 20时32分]"
+        },
+        {
           "title": "报告：阿里云游戏云模型服务市场份额37%，位列第一",
           "url": "https://flash.jin10.com/detail/20260727121853224800",
           "source": "金十数据",
@@ -1954,20 +2334,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
-        },
-        {
-          "title": "Mrbeast野兽游戏首入驻B站",
-          "url": "https://search.bilibili.com/all?keyword=Mrbeast%E9%87%8E%E5%85%BD%E6%B8%B8%E6%88%8F%E9%A6%96%E5%85%A5%E9%A9%BBB%E7%AB%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            24,
-            21,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 12时43分]"
         }
       ]
     },
