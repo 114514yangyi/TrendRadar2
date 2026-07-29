@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T03:28:07.315656+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-07-30T05:04:36.733799+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "加拿大央行将于十分钟后公布货币政策会议纪要。",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -60,8 +60,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时04分]"
         },
         {
           "title": "内马尔宣布退出巴西国家队",
@@ -72,8 +72,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时04分]"
         },
         {
           "title": "国家助学贷款怎么申请",
@@ -81,22 +81,24 @@
           "source": "抖音",
           "ranks": [
             20,
-            22
+            22,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时04分]"
         },
         {
           "title": "小米澎程系列技术发布会定档 7 月 30 日，有哪些技术亮点和市场竞争力值得关注？",
           "url": "https://www.zhihu.com/question/2065017879477725134",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时27分 ~ 03时28分]"
+          "appearance_count": 3,
+          "time_info": "[03时27分 ~ 05时04分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：我们预计价格将面临下行压力。",
@@ -116,7 +118,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -127,7 +129,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -149,7 +151,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -165,15 +167,37 @@
           "time_info": "01时23分"
         },
         {
+          "title": "欧元在美联储发布决议声明当天涨0.6%，挪威克朗涨超0.9%",
+          "url": "https://wallstreetcn.com/livenews/3141887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
           "title": "美联储主席沃什：市场价格是政策影响经济的诸多方式之一。",
           "url": "https://wallstreetcn.com/livenews/3141849",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "周三（7月29日）纽约尾盘，美元兑日元跌0.27%，报163.40日元，日内交投区间为163.91-163.23日元，亚太盘初至北京时间02:00美联储发布决议声明期间呈现出V形反转、之后快速下跌。 欧元兑日元涨0.35%，刷新日高至187.23日元；英镑兑日元涨0.25%，报218.290日元。",
+          "url": "https://wallstreetcn.com/livenews/3141886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：我们对美联储主席沃什的信心从未如此强烈。",
@@ -193,7 +217,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -204,7 +228,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -215,7 +239,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -226,7 +250,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -253,21 +277,54 @@
           "time_info": "01时23分"
         },
         {
+          "title": "美国30年期国债收益率涨幅扩大至10个基点，在美联储主席沃什新闻发布会结束后报5.19%。",
+          "url": "https://wallstreetcn.com/livenews/3141874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "美联储主席沃什7月29日新闻发布会要点总结",
+          "url": "https://wallstreetcn.com/livenews/3141872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
           "title": "美联储主席沃什举行新闻发布会：本次FOMC讨论富有建设性。",
           "url": "https://wallstreetcn.com/livenews/3141835",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "提醒：美联储主席沃什7月新闻发布会结束，FOMC将于9月15-16日举行下一次货币政策会议。",
+          "url": "https://wallstreetcn.com/livenews/3141871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         }
       ]
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "OpenAI针对学术研究员推出ChatGPT。",
@@ -288,8 +345,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时04分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -299,8 +356,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时04分]"
+        },
+        {
+          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2065710393360479149",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时04分]"
         },
         {
           "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
@@ -311,20 +381,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时28分]"
-        },
-        {
-          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2065710393360479149",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时04分]"
         },
         {
           "title": "AI漫剧走红,国动流量狂跌",
@@ -334,8 +392,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时04分]"
         },
         {
           "title": "赢学入脑,法国声称AI超中国",
@@ -345,8 +403,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时04分]"
         },
         {
           "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
@@ -358,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "微软(MSFT.O)：第四财季OpenAI投资对每股收益的影响为-7美分。",
+          "url": "https://flash.jin10.com/detail/20260730041831120800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "扎克伯格反对封禁中国AI：美国应解决自身问题 而非封禁竞争对手",
@@ -415,13 +484,24 @@
           "time_info": "01时23分"
         },
         {
+          "title": "美国总统特朗普：（谈论人工智能）正在研究管控AI的措施。",
+          "url": "https://wallstreetcn.com/livenews/3141881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
           "title": "美联储主席沃什：高科技（企业的）资本开支激增的现象非常突出。 资本开支为未来的（美国经济）增长做铺垫。 资本开支对供给侧影响的时间点是难以预料的。 资本开支繁荣正推高AI基础设施的价格。",
           "url": "https://wallstreetcn.com/livenews/3141843",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -454,17 +534,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "中方要求胡塞武装保障中国油轮安全通过红海？外交部回应",
-          "url": "https://news.ifeng.com/c/8v9iL1mlf7I",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时28分]"
-        },
-        {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
           "url": "https://www.cls.cn/detail/2440511",
           "source": "财联社热门",
@@ -473,19 +542,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时04分]"
+        },
+        {
+          "title": "中方要求胡塞武装保障中国油轮安全通过红海？外交部回应",
+          "url": "https://news.ifeng.com/c/8v9iL1mlf7I",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时04分]"
         },
         {
           "title": "美方限制进口“先进机器人设备”，外交部回应",
           "url": "https://www.cls.cn/detail/2440070",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时04分]"
         },
         {
           "title": "国际铜夜盘收跌0.25%，沪铜收跌0.26%，沪铝收涨0.41%，沪锌收跌0.06%，沪铅收涨0.06%，沪镍收涨0.66%，沪锡收涨0.53%。 氧化铝夜盘收跌0.45%，铝合金收涨0.24%。 不锈钢夜盘收涨0.59%。",
@@ -534,7 +616,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -546,8 +628,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时04分]"
         },
         {
           "title": "科技股调整到哪一步？多家卖方研判",
@@ -558,8 +640,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时04分]"
         },
         {
           "title": "A股科技股拥挤度",
@@ -567,11 +649,80 @@
           "source": "今日头条",
           "ranks": [
             14,
-            17
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美联储宣布按兵不动当天，标普500指数收跌112.63点，跌幅1.52%，报7316.15点，微幅低开之后、美股早盘持续走低、北京时间00:17以来持续回升，02:00美联储宣布按兵不动时显著收复失地，美联储主席沃什新闻发布会带来冲高回落行情、02:55微涨至7450.84点刷新日高，03:00以来持续走低。 道琼斯工业平均指数收跌1153.18点，创2025年4月份以来最大单日点数跌幅，百分比跌幅2.19%，报51594.14点。 纳斯达克综合指数（纳指）收跌433.97点，跌幅1.74%，报24442.942点。 纳斯达克100指数收跌570.828点，跌幅2.06%，报27192.306点。",
+          "url": "https://wallstreetcn.com/livenews/3141889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "美元指数在美联储决议声明发布日跌超0.5%",
+          "url": "https://wallstreetcn.com/livenews/3141880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "美股费城半导体指数下跌4%，英伟达下跌2.98%，台积电下跌3.67%，博通下跌1.87%，SK海力士下跌1.28%，美光科技下跌5%，美国超微公司下跌5.51%，英特尔下跌3.36%，阿斯麦下跌2.73%，泛林集团下跌5.28%，ArmHoldings下跌6.73%，闪迪下跌8.04%，高通下跌2.84%，迈威尔科技下跌4.82%，西部数据下跌0.68%。",
+          "url": "https://wallstreetcn.com/livenews/3141779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 steam 显卡 内存 处理器",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "长鑫存储 vs 长江存储，一个做内存，一个做闪存，谁更厉害？",
+          "url": "https://www.zhihu.com/question/2061092161337177252",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时28分]"
+          "time_info": "[03时27分 ~ 05时04分]"
+        },
+        {
+          "title": "高通(QCOM.O)：2026财年，内存价格史无前例的上涨和供应短缺给全球智能手机行业带来了周期性逆风。",
+          "url": "https://flash.jin10.com/detail/20260730040737662800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         }
       ]
     },
@@ -593,40 +744,6 @@
       ]
     },
     {
-      "keyword_group": "美股 美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股费城半导体指数下跌4%，英伟达下跌2.98%，台积电下跌3.67%，博通下跌1.87%，SK海力士下跌1.28%，美光科技下跌5%，美国超微公司下跌5.51%，英特尔下跌3.36%，阿斯麦下跌2.73%，泛林集团下跌5.28%，ArmHoldings下跌6.73%，闪迪下跌8.04%，高通下跌2.84%，迈威尔科技下跌4.82%，西部数据下跌0.68%。",
-          "url": "https://wallstreetcn.com/livenews/3141779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "长鑫存储 vs 长江存储，一个做内存，一个做闪存，谁更厉害？",
-          "url": "https://www.zhihu.com/question/2061092161337177252",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时27分 ~ 03时28分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "github 技术 行业 软件",
       "match_count": 1,
       "titles": [
@@ -635,11 +752,12 @@
           "url": "https://www.zhihu.com/question/2064993421949755491",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时27分 ~ 03时28分]"
+          "appearance_count": 3,
+          "time_info": "[03时27分 ~ 05时04分]"
         }
       ]
     }
