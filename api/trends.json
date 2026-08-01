@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T20:06:50.885851+08:00",
-  "total_titles_processed": 1268,
+  "generated_at": "2026-08-01T22:38:52.809784+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
@@ -36,6 +36,17 @@
           "time_info": "[00时05分 ~ 15时33分]"
         },
         {
+          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时07分 ~ 22时38分]"
+        },
+        {
           "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
           "url": "https://wallstreetcn.com/articles/3778421",
           "source": "华尔街见闻",
@@ -48,17 +59,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时05分 ~ 15时33分]"
-        },
-        {
-          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时07分 ~ 20时06分]"
         },
         {
           "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
@@ -81,11 +81,12 @@
             6,
             5,
             9,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时05分 ~ 20时06分]"
+          "appearance_count": 13,
+          "time_info": "[00时05分 ~ 22时38分]"
         },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -126,18 +127,6 @@
           "time_info": "[00时05分 ~ 08时08分]"
         },
         {
-          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2066223484309434997",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 20时06分]"
-        },
-        {
           "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
           "url": "https://wallstreetcn.com/articles/3778448",
           "source": "华尔街见闻",
@@ -150,6 +139,32 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时07分 ~ 20时06分]"
+        },
+        {
+          "title": "“AI股神”最新表态：再也不碰杠杆了",
+          "url": "https://www.cls.cn/detail/2443109",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时07分 ~ 22时38分]"
+        },
+        {
+          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2066223484309434997",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 22时38分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
@@ -204,19 +219,6 @@
           "time_info": "[02时27分 ~ 08时08分]"
         },
         {
-          "title": "“AI股神”最新表态：再也不碰杠杆了",
-          "url": "https://www.cls.cn/detail/2443109",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时07分 ~ 20时06分]"
-        },
-        {
           "title": "市场不相信“神话”：“AI股神”死于杠杆？",
           "url": "https://wallstreetcn.com/articles/3778378",
           "source": "华尔街见闻",
@@ -243,6 +245,20 @@
           "time_info": "[02时27分 ~ 08时08分]"
         },
         {
+          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
+          "url": "https://wallstreetcn.com/articles/3778476",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 22时38分]"
+        },
+        {
           "title": "AI应用“易中天”来了！精品短剧涌现成强催化 哪些公司将受益？",
           "url": "https://www.cls.cn/detail/2442428",
           "source": "财联社热门",
@@ -266,6 +282,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时05分 ~ 08时08分]"
+        },
+        {
+          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 22时38分]"
         },
         {
           "title": "AI男主都能带货了",
@@ -315,6 +345,17 @@
           "time_info": "15时33分"
         },
         {
+          "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
+          "url": "https://flash.jin10.com/detail/20260801222340904800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "如何看待 Anthropic 公布 Claude 也发生了沙箱逃逸，真实入侵了三家机构？",
           "url": "https://www.zhihu.com/question/2066465758503252393",
           "source": "知乎",
@@ -333,7 +374,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -389,6 +430,19 @@
           "time_info": "[04时24分 ~ 08时08分]"
         },
         {
+          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
+          "url": "https://wallstreetcn.com/articles/3778475",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 22时38分]"
+        },
+        {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
           "url": "https://www.zhihu.com/question/2066526486505461299",
           "source": "知乎",
@@ -427,19 +481,6 @@
           "time_info": "[06时12分 ~ 08时08分]"
         },
         {
-          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
-          "url": "https://wallstreetcn.com/articles/3778476",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 20时06分]"
-        },
-        {
           "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。 这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
           "url": "https://wallstreetcn.com/livenews/3143487",
           "source": "华尔街见闻-快讯",
@@ -452,17 +493,30 @@
           "time_info": "[06时12分 ~ 08时08分]"
         },
         {
-          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
-          "source": "澎湃新闻",
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
           "ranks": [
-            17,
-            13,
-            10
+            9,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 20时06分]"
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 22时38分]"
+        },
+        {
+          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
+          "url": "https://wallstreetcn.com/articles/3778474",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 22时38分]"
         },
         {
           "title": "如何看待 Claude 大规模封禁国内开发者账号，让依赖 AI 的程序员「功力尽失」，被调侃天才程序员陨落？",
@@ -501,40 +555,16 @@
           "time_info": "[00时05分 ~ 08时08分]"
         },
         {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 20时06分]"
-        },
-        {
-          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
-          "url": "https://wallstreetcn.com/articles/3778475",
-          "source": "华尔街见闻",
+          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
+          "url": "https://www.zhihu.com/question/2066595452238160814",
+          "source": "知乎",
           "ranks": [
             10,
-            8
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时06分 ~ 20时06分]"
-        },
-        {
-          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
-          "url": "https://wallstreetcn.com/articles/3778474",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 20时06分]"
+          "time_info": "[20时06分 ~ 22时38分]"
         },
         {
           "title": "怎么看 Anthropic 公布的 Claude 也发生了沙箱逃逸，真实入侵了三家组织的事？",
@@ -592,17 +622,6 @@
           "time_info": "08时08分"
         },
         {
-          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
-          "url": "https://www.zhihu.com/question/2066595452238160814",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
           "title": "报道：OpenAI本周预览了AI模型Astra",
           "url": "https://wallstreetcn.com/livenews/3143500",
           "source": "华尔街见闻-快讯",
@@ -620,7 +639,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -642,7 +661,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -653,7 +672,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -700,6 +719,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
+        },
+        {
+          "title": "杨丞琳照片被判AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%9E%E7%90%B3%E7%85%A7%E7%89%87%E8%A2%AB%E5%88%A4AI%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "OpenAI发现其他AI智能体逃离隔离环境的证据。（路透）",
@@ -749,7 +779,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 54,
+      "match_count": 61,
       "titles": [
         {
           "title": "三大运营商发布公告：第三方互联网渠道不再提供电信号卡办理服务",
@@ -774,8 +804,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时27分 ~ 20时06分]"
+          "appearance_count": 12,
+          "time_info": "[02时27分 ~ 22时38分]"
         },
         {
           "title": "国家电网原党组书记、董事长辛保安接受审查调查",
@@ -915,17 +945,6 @@
           "time_info": "[00时05分 ~ 08时08分]"
         },
         {
-          "title": "“年龄不是免罪金牌”新规发布",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%B4%E9%BE%84%E4%B8%8D%E6%98%AF%E5%85%8D%E7%BD%AA%E9%87%91%E7%89%8C%E2%80%9D%E6%96%B0%E8%A7%84%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 20时06分]"
-        },
-        {
           "title": "国家电网原董事长辛保安被查",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%91%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E8%BE%9B%E4%BF%9D%E5%AE%89%E8%A2%AB%E6%9F%A5",
           "source": "百度热搜",
@@ -958,7 +977,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -987,6 +1006,17 @@
           "time_info": "[12时26分 ~ 18时06分]"
         },
         {
+          "title": "少年捐日军侵华罪证遭「销户」威胁，警方已立案并启动保护，这些发布死亡威胁的人该承担怎样的法律责任？",
+          "url": "https://www.zhihu.com/question/2066835566323136078",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 22时38分]"
+        },
+        {
           "title": "国家电网：坚决拥护党中央决定",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%91%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A",
           "source": "百度热搜",
@@ -999,15 +1029,27 @@
           "time_info": "[15时32分 ~ 18时06分]"
         },
         {
-          "title": "美驻以大使馆发布安全警告 敦促在中东美国公民考虑撤离",
-          "url": "https://flash.jin10.com/detail/20260801192342522800",
-          "source": "金十数据",
+          "title": "“年龄不是免罪金牌”新规发布",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%B4%E9%BE%84%E4%B8%8D%E6%98%AF%E5%85%8D%E7%BD%AA%E9%87%91%E7%89%8C%E2%80%9D%E6%96%B0%E8%A7%84%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 22时38分]"
+        },
+        {
+          "title": "俄国家原子能公司货船遭乌无人机袭击",
+          "url": "https://wallstreetcn.com/livenews/3143625",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时06分"
+          "time_info": "22时38分"
         },
         {
           "title": "SpaceX即将发布IPO后首份财报 大摩警告最危险时刻来临",
@@ -1035,17 +1077,6 @@
           "time_info": "[04时24分 ~ 08时08分]"
         },
         {
-          "title": "少年捐日军侵华罪证遭「销户」威胁，警方已立案并启动保护，这些发布死亡威胁的人该承担怎样的法律责任？",
-          "url": "https://www.zhihu.com/question/2066835566323136078",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 20时06分]"
-        },
-        {
           "title": "伊朗最高国家安全委员会秘书：全球经济、能源市场和美国选民将为持续的海上封锁和美国的局势升级付出代价。",
           "url": "https://wallstreetcn.com/livenews/3143491",
           "source": "华尔街见闻-快讯",
@@ -1068,6 +1099,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 15时33分]"
+        },
+        {
+          "title": "美驻以大使馆发布安全警告 敦促在中东美国公民考虑撤离",
+          "url": "https://flash.jin10.com/detail/20260801192342522800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 22时38分]"
         },
         {
           "title": "吉林省发布山洪灾害气象风险橙色预警",
@@ -1104,6 +1147,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时06分 ~ 20时06分]"
+        },
+        {
+          "title": "美驻以大使馆发布安全警告 敦促在中东美国公民考虑撤离",
+          "url": "https://wallstreetcn.com/livenews/3143603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 22时38分]"
         },
         {
           "title": "美媒：美联储主席沃什据悉考虑减少美联储政策会议的频率",
@@ -1237,18 +1292,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "美驻以大使馆发布安全警告 敦促在中东美国公民考虑撤离",
-          "url": "https://wallstreetcn.com/livenews/3143603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -1262,6 +1306,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "《黄岩岛国家级自然保护区管理办法》印发",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33693059",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "“新美联储通讯社”Nick Timiraos：在7月份FOMC货币政策会议上支持加息的三位美联储主席（异议者），对他们决定的理由阐述， 可以说（arguably）比美联储多数派在周三的声明或新闻发布会上提供的还要充分。 7月31日，达拉斯联储主席洛根（Lorie Logan）基本上重申了两周前的看法：即使在剔除近期的外部冲击后，潜在通胀仍接近2.5%，她认为这为采取更紧缩的政策立场提供了依据。",
@@ -1286,6 +1341,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "宁德时代与平陆运河集团签署战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/3143614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "黑龙江省继续发布暴雨红色预警信号",
           "url": "https://wallstreetcn.com/livenews/3143572",
           "source": "华尔街见闻-快讯",
@@ -1295,6 +1361,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
+        },
+        {
+          "title": "据卡塔尔通讯社：海湾合作委员会秘书长谴责伊朗对科威特平民设施的攻击。",
+          "url": "https://flash.jin10.com/detail/20260801202347340800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "针对综艺节目中情绪失控，脱口秀演员「房主任」发布视频道歉，你如何看待？",
+          "url": "https://www.zhihu.com/question/2066803381927146362",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "国家电网公司党组：坚决拥护党中央对辛保安审查调查的决定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33693325",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "科威特军队总参谋部：科威特防空部队目前正在应对敌方无人机攻击，以回击伊朗的侵略行径。若听到爆炸声，那是我方防空系统拦截敌方攻击所致。我们呼吁所有人遵守主管部门发布的安全与防护指令。",
@@ -1314,9 +1413,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
+        },
+        {
+          "title": "新一批国家药品集采纳入65个品种",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692082",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "水利部和中国气象局联合发布红色山洪灾害气象预警",
@@ -1325,7 +1435,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -1380,7 +1490,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -1399,7 +1509,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "至少 96 个足协抵制国际足联主席因凡蒂诺，他为什么犯了众怒？会被弹劾下台吗？",
@@ -1439,6 +1549,43 @@
           "time_info": "[00时05分 ~ 12时26分]"
         },
         {
+          "title": "国际原子能机构：最近扎波罗热核电站近两小时的外部电力断开的原因尚不明确。",
+          "url": "https://flash.jin10.com/detail/20260801222914927800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "国际锐评丨“731”这天，日本“国家情报局”上线意欲何为？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692374",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            15,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时26分 ~ 22时38分]"
+        },
+        {
+          "title": "国际原子能机构：扎波罗热核电站在军事冲突中今天第23次失去外部电源。",
+          "url": "https://flash.jin10.com/detail/20260801222804610800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "白宫官员戈尔卡：在国际足联世界杯赛事期间未查获任何武装无人机。",
           "url": "https://flash.jin10.com/detail/20260801015458388800",
           "source": "金十数据",
@@ -1461,20 +1608,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时05分 ~ 06时12分]"
-        },
-        {
-          "title": "国际锐评丨“731”这天，日本“国家情报局”上线意欲何为？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692374",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 20时06分]"
         },
         {
           "title": "菲律宾在中国领土黄岩岛划设所谓“领海基线”，外交部发布声明",
@@ -1536,6 +1669,30 @@
           "time_info": "[02时27分 ~ 04时24分]"
         },
         {
+          "title": "国际足联放弃新商业提案 欧足联表示欢迎",
+          "url": "https://wallstreetcn.com/livenews/3143600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 22时38分]"
+        },
+        {
+          "title": "出任国际剑联全球大使，王嘉尔：击剑一直流淌在我的血液里",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33693250",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 22时38分]"
+        },
+        {
           "title": "国际足联主席因凡蒂诺放弃「出售世界杯等国际足联赛事部分股权」，为什么大家这么反对这一计划？",
           "url": "https://www.zhihu.com/question/2066811074758665895",
           "source": "知乎",
@@ -1569,17 +1726,6 @@
           "time_info": "04时24分"
         },
         {
-          "title": "国际足联放弃新商业提案 欧足联表示欢迎",
-          "url": "https://wallstreetcn.com/livenews/3143600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
           "title": "乌克兰总统泽连斯基：还与万斯讨论了俄罗斯战争对全球市场的影响。双方团队将保持联系，处理今天讨论的所有事项。",
           "url": "https://flash.jin10.com/detail/20260731234225074800",
           "source": "金十数据",
@@ -1597,7 +1743,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -1608,7 +1754,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -1622,17 +1768,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
-        },
-        {
-          "title": "出任国际剑联全球大使，王嘉尔：击剑一直流淌在我的血液里",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33693250",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
         },
         {
           "title": "国际铜夜盘收跌0.15%，沪铜收跌0.18%，沪铝收平，沪锌收涨0.64%，沪铅收跌1.41%，沪镍收跌0.24%，沪锡收涨0.72%。 氧化铝夜盘收涨0.04%，铝合金收涨0.02%。 不锈钢夜盘收涨0.17%。",
@@ -1671,7 +1806,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "事关半导体！特朗普政府再出手：将入股七家科技公司",
@@ -1704,8 +1839,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 20时06分]"
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 22时38分]"
         },
         {
           "title": "南向资金追踪｜7月净流入约629亿港元 大举回流资讯科技业抛售硬件板块",
@@ -1766,6 +1901,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "开源崛起、降价80%，大模型真的还能赚到钱吗？",
+          "url": "https://wallstreetcn.com/articles/3778491",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "据港交所文件：立景创新科技股份有限公司向港交所提交上市申请书。",
           "url": "https://flash.jin10.com/detail/20260731234326880800",
           "source": "金十数据",
@@ -1775,6 +1921,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "金十整理：2026年7月造车新势力成绩单出炉——比亚迪超41万辆创新高，零跑突破10万大关",
+          "url": "https://flash.jin10.com/detail/20260801203227514800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.07%，报25922点。 恒生科技指数主连夜盘收涨0.35%，报4855点。",
@@ -1805,7 +1962,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -1838,7 +1995,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -1868,8 +2025,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时07分 ~ 20时06分]"
+          "appearance_count": 8,
+          "time_info": "[08时07分 ~ 22时38分]"
         },
         {
           "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
@@ -1955,8 +2112,19 @@
     },
     {
       "keyword_group": "github 技术 行业 软件",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "斯洛伐克总统：中国技术不应被贴标签",
+          "url": "https://news.ifeng.com/c/8vEj1yOFthN",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 22时38分]"
+        },
         {
           "title": "辛保安出席行业会议后被带走",
           "url": "https://www.toutiao.com/trending/7668251153179790902/",
@@ -1967,17 +2135,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
-        },
-        {
-          "title": "斯洛伐克总统：中国技术不应被贴标签",
-          "url": "https://news.ifeng.com/c/8vEj1yOFthN",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时06分"
         },
         {
           "title": "如何评价华为盘古 5050 亿参数的 openPangu-2.0-Pro 模型及技术报告正式开源上线？",
@@ -2003,6 +2160,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "新势力7月交付榜：零跑首破10万创行业纪录 蔚来小鹏企稳、理想连续三月同环比双降",
+          "url": "https://www.cls.cn/detail/2443277",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "中国芯片行业不能只靠“卷老头”",
           "url": "https://www.toutiao.com/trending/7668877656300981769/",
           "source": "今日头条",
@@ -2017,7 +2185,7 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "神人自爆,游戏退款还想白嫖",
@@ -2043,6 +2211,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时05分 ~ 08时08分]"
+        },
+        {
+          "title": "最近内存、存储甚至显卡涨价，一个个都说自己要当等等党，等到 2040 年能成功吗？",
+          "url": "https://www.zhihu.com/question/2065533036477915827",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "曝AMD显卡将涨价",
@@ -2111,11 +2290,12 @@
           "ranks": [
             21,
             24,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 20时06分]"
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 22时38分]"
         }
       ]
     }
