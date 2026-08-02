@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-02T18:05:01.808206+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2026-08-02T20:09:03.121151+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "美国驻埃及、沙特阿拉伯、科威特等国大使馆发布安全警报",
+          "url": "https://news.ifeng.com/c/8vFT7vUQlC9",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时29分 ~ 20时09分]"
+        },
         {
           "title": "最高检、公安部联合发布涉已满 12 周岁未满 14 周岁未成年人严重暴力犯罪的新规，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2066607321828909163",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时03分 ~ 18时05分]"
-        },
-        {
-          "title": "美国驻埃及、沙特阿拉伯、科威特等国大使馆发布安全警报",
-          "url": "https://news.ifeng.com/c/8vFT7vUQlC9",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时29分 ~ 18时05分]"
         },
         {
           "title": "俄国家原子能公司货船遭乌无人机袭击",
@@ -93,15 +93,40 @@
           "time_info": "[00时06分 ~ 08时03分]"
         },
         {
-          "title": "国家外汇管理局召开2026年下半年外汇管理工作交流会",
-          "url": "https://wallstreetcn.com/livenews/3143670",
+          "title": "欧佩克+的声明未提及2026年9月之后的政策。",
+          "url": "https://flash.jin10.com/detail/20260802192808330800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
+          "title": "国家防总、应急管理部针对贵州启动防汛四级应急响应。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3143677",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时05分"
+          "time_info": "20时09分"
+        },
+        {
+          "title": "国家防灾减灾救灾委员会对甘肃渭源县重大山洪灾害调查评估挂牌督办",
+          "url": "https://wallstreetcn.com/livenews/3143648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 20时09分]"
         },
         {
           "title": "宁德时代与平陆运河集团签署战略合作协议",
@@ -140,19 +165,6 @@
           "time_info": "[06时04分 ~ 08时03分]"
         },
         {
-          "title": "国家防灾减灾救灾委员会对甘肃渭源县重大山洪灾害调查评估挂牌督办",
-          "url": "https://wallstreetcn.com/livenews/3143648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 18时05分]"
-        },
-        {
           "title": "美国前副总统哈里斯：特朗普是个孤立主义者，口口声声“美国优先”，但由于他未能理解美国所扮演的角色——尽管这一角色并不完美——他已经造成了两方面的后果，第一，让美国看上去不再是可靠的合作伙伴；第二，他让美国如今在全球事务中发挥影响力的权威降至前所未有的低。",
           "url": "https://flash.jin10.com/detail/20260802014640512800",
           "source": "金十数据",
@@ -177,6 +189,19 @@
           "time_info": "[15时37分 ~ 18时05分]"
         },
         {
+          "title": "水利部：20条河流仍超警，发布红色山洪灾害气象预警",
+          "url": "https://wallstreetcn.com/livenews/3143658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时37分 ~ 20时09分]"
+        },
+        {
           "title": "美国国家飓风中心：热带风暴基尼维夫（Genevieve）正在逐渐减弱。",
           "url": "https://flash.jin10.com/detail/20260801223714218800",
           "source": "金十数据",
@@ -189,16 +214,40 @@
           "time_info": "[00时06分 ~ 02时05分]"
         },
         {
-          "title": "水利部：20条河流仍超警，发布红色山洪灾害气象预警",
-          "url": "https://wallstreetcn.com/livenews/3143658",
+          "title": "国家外汇管理局召开2026年下半年外汇管理工作交流会",
+          "url": "https://wallstreetcn.com/livenews/3143670",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时37分 ~ 18时05分]"
+          "time_info": "[18时05分 ~ 20时09分]"
+        },
+        {
+          "title": "嘲讽张继科解说已解除合作关系",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%98%B2%E8%AE%BD%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%A7%A3%E8%AF%B4%E5%B7%B2%E8%A7%A3%E9%99%A4%E5%90%88%E4%BD%9C%E5%85%B3%E7%B3%BB%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时04分 ~ 20时09分]"
+        },
+        {
+          "title": "甘肃渭源重大山洪灾害致25死23伤，国家防减救灾委挂牌督办",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696829",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时04分 ~ 20时09分]"
         },
         {
           "title": "乌克兰总统泽连斯基：我与阿联酋总统通了电话。我们讨论了阿联酋如何在欧洲，特别是在黑海地区向我们提供帮助。这涉及粮食安全、海上航线安全，以及提升我们保护生命的能力。我们还审议了双方在多个领域开展的合作项目。我们正在努力确保所有项目得到落实。",
@@ -288,17 +337,6 @@
           "time_info": "[15时37分 ~ 18时05分]"
         },
         {
-          "title": "嘲讽张继科解说已解除合作关系",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%98%B2%E8%AE%BD%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%A7%A3%E8%AF%B4%E5%B7%B2%E8%A7%A3%E9%99%A4%E5%90%88%E4%BD%9C%E5%85%B3%E7%B3%BB%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时04分 ~ 18时05分]"
-        },
-        {
           "title": "伊朗外长在分别与土耳其外长、巴基斯坦陆军司令通话时警告称，美国不得采取任何“冒险行动”。美国和以色列的任何“侵略”或地区国家的参与都将遭到“果断回应”。",
           "url": "https://flash.jin10.com/detail/20260802035505032800",
           "source": "金十数据",
@@ -321,17 +359,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时13分 ~ 06时04分]"
-        },
-        {
-          "title": "甘肃渭源重大山洪灾害致25死23伤，国家防减救灾委挂牌督办",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696829",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时04分 ~ 18时05分]"
         },
         {
           "title": "杭州发布主城区雷暴大风黄色预警",
@@ -373,7 +400,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -406,7 +433,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -431,6 +458,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        },
+        {
+          "title": "国家防总、应急管理部针对贵州启动防汛四级应急响应",
+          "url": "https://flash.jin10.com/detail/20260802180646123800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "据卡塔尔通讯社：海湾合作委员会秘书长谴责伊朗对科威特平民设施的攻击。",
@@ -469,7 +507,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -491,11 +529,12 @@
             4,
             6,
             11,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时04分 ~ 18时05分]"
+          "appearance_count": 12,
+          "time_info": "[02时04分 ~ 20时09分]"
         },
         {
           "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
@@ -510,6 +549,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时06分 ~ 08时03分]"
+        },
+        {
+          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
+          "url": "https://wallstreetcn.com/articles/3778497",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时03分 ~ 20时09分]"
         },
         {
           "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
@@ -532,11 +583,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时06分 ~ 18时05分]"
+          "appearance_count": 13,
+          "time_info": "[00时06分 ~ 20时09分]"
         },
         {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
@@ -548,6 +600,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时06分 ~ 06时04分]"
+        },
+        {
+          "title": "这届AI进化到开始玩心眼了",
+          "url": "https://www.douyin.com/hot/2592773",
+          "source": "抖音",
+          "ranks": [
+            5,
+            19,
+            6,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时03分 ~ 20时09分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -563,16 +630,27 @@
           "time_info": "[00时06分 ~ 15时37分]"
         },
         {
-          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
-          "url": "https://wallstreetcn.com/articles/3778497",
+          "title": "中国AI大模型的优势在哪里",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BC%98%E5%8A%BF%E5%9C%A8%E5%93%AA%E9%87%8C",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时04分 ~ 20时09分]"
+        },
+        {
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            4
+            9,
+            5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[08时03分 ~ 18时05分]"
+          "time_info": "[15时36分 ~ 20时09分]"
         },
         {
           "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
@@ -586,20 +664,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时06分 ~ 08时03分]"
-        },
-        {
-          "title": "这届AI进化到开始玩心眼了",
-          "url": "https://www.douyin.com/hot/2592773",
-          "source": "抖音",
-          "ranks": [
-            5,
-            19,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时03分 ~ 18时05分]"
         },
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -618,34 +682,35 @@
           "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E9%9F%A9%E5%9B%BD%E7%AA%81%E7%84%B6%E5%AE%A3%E7%A7%B0%E6%9C%89%E5%AA%B2%E7%BE%8EDeepSeek%E5%A4%A7%E6%A8%A1%E5%9E%8B&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时04分 ~ 18时05分]"
-        },
-        {
-          "title": "中国AI大模型的优势在哪里",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BC%98%E5%8A%BF%E5%9C%A8%E5%93%AA%E9%87%8C",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时04分 ~ 18时05分]"
-        },
-        {
-          "title": "怎么看待AI大回调，大摩120页研报深度解读",
-          "url": "https://wallstreetcn.com/articles/3778502",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
+            2,
+            23
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时36分 ~ 18时05分]"
+          "time_info": "[18时04分 ~ 20时09分]"
+        },
+        {
+          "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
+          "url": "https://wallstreetcn.com/livenews/3143681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
+          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
+          "url": "https://www.cls.cn/detail/2443437",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时36分 ~ 20时09分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -659,15 +724,16 @@
           "time_info": "[00时06分 ~ 06时04分]"
         },
         {
-          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
-          "url": "https://www.cls.cn/detail/2443437",
-          "source": "财联社热门",
+          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
+          "url": "https://wallstreetcn.com/articles/3778505",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时36分 ~ 18时05分]"
+          "time_info": "[18时04分 ~ 20时09分]"
         },
         {
           "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
@@ -682,6 +748,18 @@
           "time_info": "[12时29分 ~ 15时37分]"
         },
         {
+          "title": "中金：AI回调高度类似2000年四轮回撤，本轮企稳需三大压力缓解",
+          "url": "https://flash.jin10.com/detail/20260802172654110800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 20时09分]"
+        },
+        {
           "title": "天才女友 AI片头",
           "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%20AI%E7%89%87%E5%A4%B4&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -691,17 +769,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时36分 ~ 15时37分]"
-        },
-        {
-          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
-          "url": "https://wallstreetcn.com/articles/3778505",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时04分 ~ 18时05分]"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
@@ -762,17 +829,6 @@
           "time_info": "[15时36分 ~ 15时37分]"
         },
         {
-          "title": "中金：AI回调高度类似2000年四轮回撤，本轮企稳需三大压力缓解",
-          "url": "https://flash.jin10.com/detail/20260802172654110800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
           "title": "怎么看 GCC 正式拒绝所有 AI 代码，基于 AI 代码人改的都不行？",
           "url": "https://www.zhihu.com/question/2066611104294482895",
           "source": "知乎",
@@ -782,6 +838,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        },
+        {
+          "title": "广发策略：AI资产在7月份的快速回撤之后 后续大概率有较可观的修正空间",
+          "url": "https://flash.jin10.com/detail/20260802182750759800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
@@ -798,7 +865,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "出任国际剑联全球大使，王嘉尔：击剑一直流淌在我的血液里",
@@ -926,6 +993,19 @@
           "time_info": "[04时13分 ~ 08时03分]"
         },
         {
+          "title": "伊朗外长与沙特外交大臣通电话，讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3143655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时37分 ~ 20时09分]"
+        },
+        {
           "title": "国际原子能机构：最近扎波罗热核电站近两小时的外部电力断开的原因尚不明确。",
           "url": "https://flash.jin10.com/detail/20260801222914927800",
           "source": "金十数据",
@@ -950,16 +1030,15 @@
           "time_info": "[00时06分 ~ 02时05分]"
         },
         {
-          "title": "伊朗外长与沙特外交大臣通电话，讨论地区局势",
-          "url": "https://wallstreetcn.com/livenews/3143655",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外长与沙特外交大臣通电话",
+          "url": "https://www.toutiao.com/trending/7668551012311138340/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            13
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时37分 ~ 18时05分]"
+          "time_info": "[20时08分 ~ 20时09分]"
         },
         {
           "title": "以色列第12频道援引外交人士消息报道称，卡塔尔外交人士正在与伊朗谈判，以确保伊朗革命卫队支持有关霍尔木兹海峡的相关安排。",
@@ -968,7 +1047,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -979,7 +1058,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -1020,7 +1099,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "如何评价凡人修仙传 185 集在线人数创新低？",
@@ -1063,11 +1142,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 18时05分]"
+          "appearance_count": 3,
+          "time_info": "[15时37分 ~ 20时09分]"
         },
         {
           "title": "开源崛起、降价80%，大模型真的还能赚到钱吗？",
@@ -1083,13 +1163,46 @@
           "time_info": "[06时04分 ~ 12时29分]"
         },
         {
+          "title": "下周还能追科技股吗",
+          "url": "https://www.toutiao.com/trending/7669382188420320777/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 20时09分]"
+        },
+        {
+          "title": "A股或告别科技独舞",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%88%96%E5%91%8A%E5%88%AB%E7%A7%91%E6%8A%80%E7%8B%AC%E8%88%9E%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 20时09分]"
+        },
+        {
+          "title": "便宜90%！美企偷偷换上中国大模型",
+          "url": "https://www.baidu.com/s?wd=%E4%BE%BF%E5%AE%9C90%25%EF%BC%81%E7%BE%8E%E4%BC%81%E5%81%B7%E5%81%B7%E6%8D%A2%E4%B8%8A%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 20时09分]"
+        },
+        {
           "title": "一博科技：2026年上半年营收7.09亿元 净利润同比增1561.55%",
           "url": "https://flash.jin10.com/detail/20260802155911642800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -1116,11 +1229,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时29分 ~ 18时05分]"
+          "appearance_count": 7,
+          "time_info": "[12时29分 ~ 20时09分]"
         },
         {
           "title": "SteamOS 3.8深度评测",
@@ -1176,11 +1290,12 @@
             10,
             9,
             8,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时06分 ~ 18时05分]"
+          "appearance_count": 13,
+          "time_info": "[00时06分 ~ 20时09分]"
         },
         {
           "title": "辛保安出席行业会议后被带走",
@@ -1205,11 +1320,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时06分 ~ 18时05分]"
+          "appearance_count": 13,
+          "time_info": "[00时06分 ~ 20时09分]"
         }
       ]
     },
