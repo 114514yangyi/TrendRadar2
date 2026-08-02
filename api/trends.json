@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T04:15:07.895158+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-08-03T06:01:57.249338+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -8,27 +8,42 @@
       "match_count": 22,
       "titles": [
         {
-          "title": "沙特外交大臣与伊朗外长讨论如何缓和地区局势。（沙特官方媒体SPA）",
-          "url": "https://wallstreetcn.com/livenews/3143732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
           "title": "卡塔尔外交部：首相兼外交部长强调，各方必须坚持对话，并确保霍尔木兹海峡的航行自由。",
           "url": "https://wallstreetcn.com/livenews/3143719",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            13
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 06时01分]"
+        },
+        {
+          "title": "沙特外交大臣与伊朗外长讨论如何缓和地区局势。（沙特官方媒体SPA）",
+          "url": "https://wallstreetcn.com/livenews/3143732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时05分 ~ 04时15分]"
+          "time_info": "[04时15分 ~ 06时01分]"
+        },
+        {
+          "title": "伊朗外交部发言人：美国的威胁早已司空见惯，德黑兰将基于自身利益采取行动，不会受各类威胁影响。 伊朗与巴基斯坦、土耳其官员会谈时谈及美方发出的警告与威胁，美方称遭到若伊朗袭击，美方将采取报复行动。",
+          "url": "https://wallstreetcn.com/livenews/3143710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 06时01分]"
         },
         {
           "title": "卡塔尔外交部：首相兼外交部长在与埃及外交部长的通话中讨论了缓解该地区紧张局势的努力。首相兼外交部长强调，各方必须坚持对话，并确保霍尔木兹海峡的航行自由。",
@@ -37,18 +52,6 @@
           "ranks": [
             6,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 04时15分]"
-        },
-        {
-          "title": "伊朗外交部发言人：美国的威胁早已司空见惯，德黑兰将基于自身利益采取行动，不会受各类威胁影响。 伊朗与巴基斯坦、土耳其官员会谈时谈及美方发出的警告与威胁，美方称遭到若伊朗袭击，美方将采取报复行动。",
-          "url": "https://wallstreetcn.com/livenews/3143710",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -71,11 +74,60 @@
           "url": "https://flash.jin10.com/detail/20260803024302941800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 06时01分]"
+        },
+        {
+          "title": "伊朗总统：与美国的谅解备忘录将成为我们未来外交关系的核心",
+          "url": "https://flash.jin10.com/detail/20260803023011765800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 06时01分]"
+        },
+        {
+          "title": "沙特外交部：沙特外交大臣分别与卡塔尔、约旦外交大臣通电话，商讨各方统一立场的重要性，致力于缓和局势，抵制一切有损地区安全的行为。",
+          "url": "https://wallstreetcn.com/livenews/3143724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 06时01分]"
+        },
+        {
+          "title": "以色列外交部长：关于以色列在国际上被孤立的说法是荒谬的，许多国家正前来以色列，表示希望加强关系，而就在本周，刚果的外交部长也曾到访。",
+          "url": "https://flash.jin10.com/detail/20260803022849182800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 06时01分]"
+        },
+        {
+          "title": "以色列外交部长：以色列正与美国一道持续对抗国际刑事法院。近期已有多个国家退出国际刑事法院，相关进程应当持续推进，并配合美国实施的制裁举措。",
+          "url": "https://flash.jin10.com/detail/20260803022811797800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 06时01分]"
         },
         {
           "title": "委内瑞拉与多米尼加决定逐步恢复外交关系",
@@ -89,28 +141,6 @@
           "time_info": "02时05分"
         },
         {
-          "title": "伊朗总统：与美国的谅解备忘录将成为我们未来外交关系的核心",
-          "url": "https://flash.jin10.com/detail/20260803023011765800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "沙特外交部：沙特外交大臣分别与卡塔尔、约旦外交大臣通电话，商讨各方统一立场的重要性，致力于缓和局势，抵制一切有损地区安全的行为。",
-          "url": "https://wallstreetcn.com/livenews/3143724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
           "title": "伊朗外交部发言人：与巴基斯坦和土耳其官员的对话中涉及到针对美国威胁的警告和回应，如果伊朗受到攻击，将进行报复。",
           "url": "https://flash.jin10.com/detail/20260803010226366800",
           "source": "金十数据",
@@ -122,17 +152,6 @@
           "time_info": "02时05分"
         },
         {
-          "title": "以色列外交部长：关于以色列在国际上被孤立的说法是荒谬的，许多国家正前来以色列，表示希望加强关系，而就在本周，刚果的外交部长也曾到访。",
-          "url": "https://flash.jin10.com/detail/20260803022849182800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
           "title": "伊朗外交部发言人：任何与美国合作或共谋攻击伊朗的国家将面临伊朗的正当防卫。向侵略方提供基地或军事、后勤设施的国家将被视为侵略者。",
           "url": "https://flash.jin10.com/detail/20260803005746377800",
           "source": "金十数据",
@@ -142,17 +161,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        },
-        {
-          "title": "以色列外交部长：以色列正与美国一道持续对抗国际刑事法院。近期已有多个国家退出国际刑事法院，相关进程应当持续推进，并配合美国实施的制裁举措。",
-          "url": "https://flash.jin10.com/detail/20260803022811797800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时15分"
         },
         {
           "title": "伊朗外交部发言人：霍尔木兹海峡未来的管理工作，将由伊朗与阿曼协商进行。",
@@ -257,18 +265,31 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "提醒：周一（8月3日），Palantir、安森美半导体等将发布业绩报告； 周二，SpaceX、AMD、卡特彼勒等将发布业绩报告； 周三，诺和诺德、闪迪、西部数据、迪士尼等发布业绩报告。",
           "url": "https://wallstreetcn.com/livenews/3143737",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 06时01分]"
+        },
+        {
+          "title": "美国参议院筹款委员会发布融资立法草案的文本。",
+          "url": "https://wallstreetcn.com/livenews/3143736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 06时01分]"
         },
         {
           "title": "海湾国家对美国缺乏针对伊朗的战略感到不满",
@@ -282,15 +303,49 @@
           "time_info": "00时07分"
         },
         {
-          "title": "美国参议院筹款委员会发布融资立法草案的文本。",
-          "url": "https://wallstreetcn.com/livenews/3143736",
-          "source": "华尔街见闻-快讯",
+          "title": "网友呼吁将邮件礼仪纳入大学课程，北大等此前已发布实操指南",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33697943",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时15分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
+        },
+        {
+          "title": "货币政策的“安娜卡列尼娜原则”：沃什要保住信誉，美联储9月就必须加息？",
+          "url": "https://wallstreetcn.com/articles/3778513",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
+        },
+        {
+          "title": "西班牙休达「偷渡潮」致 67 人丧命，约 5 万人被遣返，反映出欧洲移民政策哪些困境？",
+          "url": "https://www.zhihu.com/question/2067004267278381461",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
+        },
+        {
+          "title": "甘肃渭源重大山洪灾害致25死23伤，国家防减救灾委挂牌督办",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696829",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
         },
         {
           "title": "天津11部门联合出台意见，升级存量资产盘活政策",
@@ -306,61 +361,17 @@
           "time_info": "[00时07分 ~ 04时15分]"
         },
         {
-          "title": "网友呼吁将邮件礼仪纳入大学课程，北大等此前已发布实操指南",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33697943",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时15分]"
-        },
-        {
-          "title": "货币政策的“安娜卡列尼娜原则”：沃什要保住信誉，美联储9月就必须加息？",
-          "url": "https://wallstreetcn.com/articles/3778513",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时15分]"
-        },
-        {
-          "title": "西班牙休达「偷渡潮」致 67 人丧命，约 5 万人被遣返，反映出欧洲移民政策哪些困境？",
-          "url": "https://www.zhihu.com/question/2067004267278381461",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时15分]"
-        },
-        {
-          "title": "甘肃渭源重大山洪灾害致25死23伤，国家防减救灾委挂牌督办",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696829",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时15分]"
-        },
-        {
           "title": "米哈游已经终止云南昊曦合作",
           "url": "https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%93%88%E6%B8%B8%E5%B7%B2%E7%BB%8F%E7%BB%88%E6%AD%A2%E4%BA%91%E5%8D%97%E6%98%8A%E6%9B%A6%E5%90%88%E4%BD%9C%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
             28,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时05分 ~ 04时15分]"
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 06时01分]"
         },
         {
           "title": "伊朗议会国家安全委员会：调停方正提供协助，以期重启与美国的谅解备忘录谈判。 各方正就所有议题交换意见。",
@@ -368,22 +379,35 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 04时15分]"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 06时01分]"
         },
         {
           "title": "法国总理办公室针对外国投资制度发布声明：法国收紧关于非欧洲实体持股法国公司的制度。 非欧洲投资者若取得法国企业10%及以上股权，必须获得法国财政部批准。",
           "url": "https://wallstreetcn.com/livenews/3143731",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 06时01分]"
+        },
+        {
+          "title": "美国参议院拨款委员会发布融资立法草案的文本",
+          "url": "https://flash.jin10.com/detail/20260803042455615800",
+          "source": "金十数据",
+          "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时15分"
+          "time_info": "06时01分"
         },
         {
           "title": "国家电网：多地用电负荷连创历史新高 多措并举保供电",
@@ -441,6 +465,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "“年龄不是免罪金牌”新规发布",
+          "url": "https://www.toutiao.com/trending/7668652434415160838/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
           "title": "国家外汇管理局召开2026年下半年外汇管理工作交流会",
           "url": "https://wallstreetcn.com/livenews/3143670",
           "source": "华尔街见闻-快讯",
@@ -465,8 +500,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
         },
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
@@ -475,11 +510,12 @@
           "ranks": [
             10,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
         },
         {
           "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
@@ -489,8 +525,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
         },
         {
           "title": "这届AI进化到开始玩心眼了",
@@ -498,11 +534,12 @@
           "source": "抖音",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
         },
         {
           "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
@@ -512,8 +549,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -524,8 +561,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
         },
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -536,8 +573,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
         },
         {
           "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
@@ -548,8 +585,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
         },
         {
           "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
@@ -561,8 +598,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -573,8 +610,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
         },
         {
           "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
@@ -594,6 +631,19 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "A股8月修复可期？科技仍为中长期主线？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2443573",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
+        },
+        {
           "title": "国产大模型调用量全球领先",
           "url": "https://www.douyin.com/hot/2594706",
           "source": "抖音",
@@ -601,20 +651,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时15分]"
-        },
-        {
-          "title": "A股8月修复可期？科技仍为中长期主线？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2443573",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
         },
         {
           "title": "6图看我国创新实力持续提升",
@@ -624,8 +662,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时05分 ~ 04时15分]"
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 06时01分]"
         },
         {
           "title": "上海港单日集装箱吞吐量突破20万标准箱创新高",
@@ -653,7 +691,7 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "微软承诺优化Win11内存占用",
@@ -661,11 +699,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时05分 ~ 04时15分]"
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 06时01分]"
         },
         {
           "title": "小伙立遗嘱把氪金10万账号给游戏搭子",
@@ -674,11 +713,12 @@
           "ranks": [
             5,
             21,
-            30
+            30,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 04时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时01分]"
         },
         {
           "title": "小伙立遗嘱把氪金10万账号给游戏搭子",
@@ -686,11 +726,23 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时05分 ~ 04时15分]"
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 06时01分]"
+        },
+        {
+          "title": "武侠小说里说高手「摘叶飞花均可伤人」，可为何武侠游戏里的主角却还要依仗神兵利器呢？",
+          "url": "https://www.zhihu.com/question/2065524137737695948",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         }
       ]
     },
@@ -703,11 +755,12 @@
           "url": "https://www.zhihu.com/question/2065010626171293829",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 04时15分]"
+          "appearance_count": 3,
+          "time_info": "[04时14分 ~ 06时01分]"
         }
       ]
     },
