@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T12:36:29.473720+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2026-08-03T16:36:09.295945+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "网友呼吁将邮件礼仪纳入大学课程，北大等此前已发布实操指南",
@@ -14,22 +14,24 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 12时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 16时36分]"
         },
         {
           "title": "货币政策的“安娜卡列尼娜原则”：沃什要保住信誉，美联储9月就必须加息？",
           "url": "https://wallstreetcn.com/articles/3778513",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 12时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 16时36分]"
         },
         {
           "title": "提醒：周一（8月3日），Palantir、安森美半导体等将发布业绩报告； 周二，SpaceX、AMD、卡特彼勒等将发布业绩报告； 周三，诺和诺德、闪迪、西部数据、迪士尼等发布业绩报告。",
@@ -54,6 +56,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 06时01分]"
+        },
+        {
+          "title": "中央气象台发布暴雨和强对流预警",
+          "url": "https://www.toutiao.com/trending/7668908180629372947/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
         },
         {
           "title": "西班牙休达「偷渡潮」致 67 人丧命，约 5 万人被遣返，反映出欧洲移民政策哪些困境？",
@@ -97,7 +110,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -140,6 +153,17 @@
           "time_info": "[02时05分 ~ 06时01分]"
         },
         {
+          "title": "沙特、俄罗斯、伊拉克等7个国家发表声明",
+          "url": "https://news.ifeng.com/c/8vGi6FW8U9Q",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 16时36分]"
+        },
+        {
           "title": "伊朗议会国家安全委员会：调停方正提供协助，以期重启与美国的谅解备忘录谈判。 各方正就所有议题交换意见。",
           "url": "https://wallstreetcn.com/livenews/3143709",
           "source": "华尔街见闻-快讯",
@@ -153,6 +177,18 @@
           "time_info": "[02时05分 ~ 06时01分]"
         },
         {
+          "title": "如何看待雷军在发布会最后说「晚安」被指营销？",
+          "url": "https://www.zhihu.com/question/2067158057784718693",
+          "source": "知乎",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 16时36分]"
+        },
+        {
           "title": "法国总理办公室针对外国投资制度发布声明：法国收紧关于非欧洲实体持股法国公司的制度。 非欧洲投资者若取得法国企业10%及以上股权，必须获得法国财政部批准。",
           "url": "https://wallstreetcn.com/livenews/3143731",
           "source": "华尔街见闻-快讯",
@@ -163,6 +199,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 06时01分]"
+        },
+        {
+          "title": "性能与Anthropic Fable 5相当！阿里巴巴发布千问3.8-MAX，2.4万亿个参数，长程自动编程表现出色",
+          "url": "https://wallstreetcn.com/articles/3778546",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
         },
         {
           "title": "温州发布防御台风白海豚通知",
@@ -199,24 +246,13 @@
           "time_info": "06时01分"
         },
         {
-          "title": "沙特、俄罗斯、伊拉克等7个国家发表声明",
-          "url": "https://news.ifeng.com/c/8vGi6FW8U9Q",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
           "title": "国家防总、应急管理部针对云南启动防汛四级应急响应",
           "url": "https://wallstreetcn.com/livenews/3143886",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -254,15 +290,15 @@
           "time_info": "02时05分"
         },
         {
-          "title": "如何看待雷军在发布会最后说「晚安」被指营销？",
-          "url": "https://www.zhihu.com/question/2067158057784718693",
-          "source": "知乎",
+          "title": "国家知识产权局副局长张志成会见中国美国商会会长一行",
+          "url": "https://flash.jin10.com/detail/20260803161459133800",
+          "source": "金十数据",
           "ranks": [
-            16
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "16时36分"
         },
         {
           "title": "香港天文台发布黄色暴雨警告。",
@@ -282,7 +318,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -309,13 +345,24 @@
           "time_info": "00时07分"
         },
         {
+          "title": "阿里巴巴(BABA.N)盘前涨超4%，此前发布千问3.8-MAX人工智能模型。",
+          "url": "https://flash.jin10.com/detail/20260803160818204800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报139350元/吨，较上日16:30价格下跌3250元/吨。",
           "url": "https://wallstreetcn.com/livenews/3143866",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -326,7 +373,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -342,13 +389,24 @@
           "time_info": "00时07分"
         },
         {
+          "title": "许勤梁惠玲会见李书福：进一步深化汽车研发生产等方面务实合作",
+          "url": "https://wallstreetcn.com/livenews/3143972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "自变量机器人发布HOST框架并开源",
           "url": "https://flash.jin10.com/detail/20260803112532546800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         }
@@ -356,7 +414,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "卡塔尔外交部：首相兼外交部长强调，各方必须坚持对话，并确保霍尔木兹海峡的航行自由。",
@@ -395,6 +453,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时05分 ~ 06时01分]"
+        },
+        {
+          "title": "日媒：高市早苗电话外交“熄火”",
+          "url": "https://news.ifeng.com/c/8vHT4t7Auou",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 16时36分]"
         },
         {
           "title": "卡塔尔外交部：首相兼外交部长在与埃及外交部长的通话中讨论了缓解该地区紧张局势的努力。首相兼外交部长强调，各方必须坚持对话，并确保霍尔木兹海峡的航行自由。",
@@ -457,6 +527,17 @@
           "time_info": "[04时15分 ~ 06时01分]"
         },
         {
+          "title": "巴基斯坦发生雪崩，10 人国际登山队全部遇难，中国登山者王钟遗体被冲到千米之下，雪山雪崩究竟有多危险？",
+          "url": "https://www.zhihu.com/question/2066825720576398691",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
+        },
+        {
           "title": "以色列外交部长：关于以色列在国际上被孤立的说法是荒谬的，许多国家正前来以色列，表示希望加强关系，而就在本周，刚果的外交部长也曾到访。",
           "url": "https://flash.jin10.com/detail/20260803022849182800",
           "source": "金十数据",
@@ -479,17 +560,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 06时01分]"
-        },
-        {
-          "title": "日媒：高市早苗电话外交“熄火”",
-          "url": "https://news.ifeng.com/c/8vHT4t7Auou",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
         },
         {
           "title": "委内瑞拉与多米尼加决定逐步恢复外交关系",
@@ -525,6 +595,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "缅甸官方：昂山素季会见红十字国际委员会代表",
+          "url": "https://wallstreetcn.com/livenews/3143988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "伊朗外交部发言人：任何与美国合作或共谋攻击伊朗的国家将面临伊朗的正当防卫。向侵略方提供基地或军事、后勤设施的国家将被视为侵略者。",
           "url": "https://flash.jin10.com/detail/20260803005746377800",
           "source": "金十数据",
@@ -553,7 +634,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -635,6 +716,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "欧洲央行称伊朗战争重创欧元区消费，信心下滑拖累经济增长",
+          "url": "https://flash.jin10.com/detail/20260803160753225800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "伊朗外交部发言人：华盛顿未按期允许霍尔木兹海峡航运恢复，并在期限届满前对我们发动攻击。",
           "url": "https://flash.jin10.com/detail/20260803004345324800",
           "source": "金十数据",
@@ -657,13 +749,24 @@
           "time_info": "02时05分"
         },
         {
+          "title": "伊朗外交部：近日无接待或派遣代表团的计划",
+          "url": "https://flash.jin10.com/detail/20260803160552599800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "金十图示：2026年08月03日（周一）上海金早盘价为882.23元/克，较国际金价(882.41元/克)，低0.18元/克",
           "url": "https://flash.jin10.com/detail/20260803112559412800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         }
@@ -671,7 +774,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 21,
+      "match_count": 29,
       "titles": [
         {
           "title": "怎么看待AI大回调，大摩120页研报深度解读",
@@ -683,6 +786,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时07分 ~ 08时04分]"
+        },
+        {
+          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
+          "url": "https://wallstreetcn.com/articles/3778516",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 16时36分]"
         },
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
@@ -724,18 +840,6 @@
           "time_info": "[00时07分 ~ 12时36分]"
         },
         {
-          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
-          "url": "https://wallstreetcn.com/articles/3778516",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 12时36分]"
-        },
-        {
           "title": "神了,OpenAI攻克十年数学难题",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
           "source": "贴吧",
@@ -747,6 +851,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时07分 ~ 12时36分]"
+        },
+        {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -774,6 +889,18 @@
           "time_info": "[00时07分 ~ 08时04分]"
         },
         {
+          "title": "AI的风吹向粤北，大湾区唯一集群如何“织网”｜“逐鹿算网”实地调研韶关篇",
+          "url": "https://www.cls.cn/detail/2443826",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 16时36分]"
+        },
+        {
           "title": "这届AI进化到开始玩心眼了",
           "url": "https://www.douyin.com/hot/2592773",
           "source": "抖音",
@@ -785,6 +912,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时07分 ~ 06时01分]"
+        },
+        {
+          "title": "日本央行警告AI需求或推高通胀",
+          "url": "https://flash.jin10.com/detail/20260803162557590800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
@@ -800,24 +938,68 @@
           "time_info": "[00时07分 ~ 06时01分]"
         },
         {
+          "title": "如何评价 8 月 3 日上线的阿里 Qwen 3.8 Max 正式版？相比其他模型表现如何？",
+          "url": "https://www.zhihu.com/question/2067550234776020574",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
+        },
+        {
+          "title": "华尔街终于开悟了：AI巨头的护城河在“云”里？",
+          "url": "https://www.cls.cn/detail/2443873",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
+        },
+        {
+          "title": "大摩邢自强：AI投资将进入“半场休息”，“9.24”式反转暂时不会到来",
+          "url": "https://wallstreetcn.com/articles/3778511",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
+        },
+        {
+          "title": "阿里Qwen3.8正式发布：总参数量2.4万亿，第三方榜单仅次于Claude",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33708536",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
+        },
+        {
+          "title": "律师谈真人演员卖脸给AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E8%B0%88%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E5%8D%96%E8%84%B8%E7%BB%99AI%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
+        },
+        {
           "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
           "url": "https://www.zhihu.com/question/2066921241156523798",
           "source": "知乎",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "AI的风吹向粤北，大湾区唯一集群如何“织网”｜“逐鹿算网”实地调研韶关篇",
-          "url": "https://www.cls.cn/detail/2443826",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -839,7 +1021,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -855,13 +1037,24 @@
           "time_info": "08时04分"
         },
         {
+          "title": "集邦咨询：CSP资本支出预计增长90% 2026年AI服务器出货量增幅上调至近31%",
+          "url": "https://wallstreetcn.com/livenews/3143985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "阿里巴巴港股涨近6%，Qwen3.8与“千问办公”同日亮相",
           "url": "https://wallstreetcn.com/livenews/3143876",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -894,7 +1087,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -905,7 +1098,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -916,7 +1109,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         }
@@ -924,7 +1117,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "A股8月修复可期？科技仍为中长期主线？十大券商策略来了",
@@ -963,13 +1156,36 @@
           "time_info": "[02时05分 ~ 08时04分]"
         },
         {
+          "title": "乐正绫原创新曲别说废话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%90%E6%AD%A3%E7%BB%AB%E5%8E%9F%E5%88%9B%E6%96%B0%E6%9B%B2%E5%88%AB%E8%AF%B4%E5%BA%9F%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
+        },
+        {
+          "title": "券商晨会精华：科技行情交易底初现 拥挤度是市场的核心锚点",
+          "url": "https://www.cls.cn/detail/2443674",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 16时36分]"
+        },
+        {
           "title": "港股午评：恒生科技指数半日收涨0.74% 阿里巴巴大涨近7%",
           "url": "https://flash.jin10.com/detail/20260803120418757800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -980,20 +1196,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
         {
-          "title": "券商晨会精华：科技行情交易底初现 拥挤度是市场的核心锚点",
-          "url": "https://www.cls.cn/detail/2443674",
-          "source": "财联社热门",
+          "title": "香港恒生指数8月3日（周一）收盘上涨124.97点，涨幅0.48%，报26009.4点；<br/>香港恒生科技指数8月3日（周一）收盘上涨46.39点，涨幅0.96%，报4875.61点；<br/>国企指数8月3日（周一）收盘上涨40.0点，涨幅0.46%，报8652.15点；<br/>红筹指数8月3日（周一）收盘下跌17.16点，跌幅0.41%，报4175.96点。",
+          "url": "https://flash.jin10.com/detail/20260803161143107800",
+          "source": "金十数据",
           "ranks": [
-            12
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "16时36分"
         },
         {
           "title": "脑机接口企业主动科技完成3.3亿元天使轮融资",
@@ -1002,7 +1218,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -1013,9 +1229,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
+        },
+        {
+          "title": "港股收盘，恒生指数收涨0.48%，恒生科技指数收涨0.96%；阿里巴巴(09988.HK)全日收涨7.01%。",
+          "url": "https://flash.jin10.com/detail/20260803160845232800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "石药创新：控股子公司SYS6090启动Ib/II期临床试验",
+          "url": "https://flash.jin10.com/detail/20260803160255783800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "上海港单日集装箱吞吐量突破20万标准箱创新高",
@@ -1046,7 +1284,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         }
@@ -1104,7 +1342,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -1137,7 +1375,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         }
@@ -1165,7 +1403,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -1176,7 +1414,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         }
@@ -1206,7 +1444,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         }
@@ -1223,7 +1461,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         }
