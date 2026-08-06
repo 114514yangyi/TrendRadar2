@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T11:20:02.830527+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2026-08-06T14:38:49.884511+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 25,
+      "match_count": 40,
       "titles": [
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -31,15 +31,26 @@
           "time_info": "[01时51分 ~ 05时19分]"
         },
         {
-          "title": "DeepSeek API即将大幅涨价",
-          "url": "https://www.baidu.com/s?wd=DeepSeek+API%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
+          "title": "DeepSeek拟调高API价格",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "AI细分赛道分析（二）：存储叙事混乱，虽有望强劲反弹但......",
+          "url": "https://flash.jin10.com/detail/20260806143426781800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "外资机构密集发声，AI资本开支拐点隐现",
@@ -53,6 +64,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "DeepSeek拟上调API服务定价",
+          "url": "https://www.douyin.com/hot/2599312",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "Meta旗下AI入侵一公司系统",
           "url": "https://flash.jin10.com/detail/20260806062228967800",
           "source": "金十数据",
@@ -62,6 +84,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "DeepSeek API即将大幅涨价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+API%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 14时38分]"
+        },
+        {
+          "title": "摩根大通：科技股暴跌不代表AI投资周期结束",
+          "url": "https://flash.jin10.com/detail/20260806142022593800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
@@ -133,8 +200,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 14时38分]"
         },
         {
           "title": "“存储ETF”创纪录爆火后，幕后推手再押AI光通信赛道",
@@ -144,8 +211,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 14时38分]"
         },
         {
           "title": "Meta推出首款AI编程智能体，正面挑战Anthropic与OpenAI。",
@@ -187,9 +254,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
+          "url": "https://www.cls.cn/detail/2446947",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
+          "url": "https://www.cls.cn/detail/2447135",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "OpenAI要求法官驳回苹果指控其窃取商业秘密的诉讼",
+          "url": "https://wallstreetcn.com/livenews/3145843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "AI股抛售冲击对冲基金，Balyasny和Verition上月双双亏损",
@@ -203,13 +303,46 @@
           "time_info": "01时51分"
         },
         {
+          "title": "曝张一鸣下死命令：不依赖AI蒸馏技术",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E5%BC%A0%E4%B8%80%E9%B8%A3%E4%B8%8B%E6%AD%BB%E5%91%BD%E4%BB%A4%EF%BC%9A%E4%B8%8D%E4%BE%9D%E8%B5%96AI%E8%92%B8%E9%A6%8F%E6%8A%80%E6%9C%AF",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "法院文件显示，OpenAI向美国法官申请驳回苹果公司指控其侵犯商业秘密的诉讼。",
+          "url": "https://flash.jin10.com/detail/20260806140706295800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "7月AI交易大崩盘：知名基金被迫割肉，下一轮行情或看散户“脸色”",
           "url": "https://flash.jin10.com/detail/20260806103048696800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -236,6 +369,17 @@
           "time_info": "03时47分"
         },
         {
+          "title": "AI细分赛道和选股分析（一）：半导体设备是下一个瓶颈",
+          "url": "https://flash.jin10.com/detail/20260806135711209800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "微软的AI销售主要源自OpenAI，凸显对紧密合作伙伴的依赖程度",
           "url": "https://wallstreetcn.com/livenews/3145543",
           "source": "华尔街见闻-快讯",
@@ -247,6 +391,17 @@
           "time_info": "03时47分"
         },
         {
+          "title": "AI漫剧顶尖从业者月入近百万",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E6%BC%AB%E5%89%A7%E9%A1%B6%E5%B0%96%E4%BB%8E%E4%B8%9A%E8%80%85%E6%9C%88%E5%85%A5%E8%BF%91%E7%99%BE%E4%B8%87%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "DeepSeek把Claude拉进“斩杀线”",
           "url": "https://www.toutiao.com/trending/7670490376733462057/",
           "source": "今日头条",
@@ -256,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "小伙靠AI减肥 45天瘦40斤进了ICU",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%9D%A0AI%E5%87%8F%E8%82%A5+45%E5%A4%A9%E7%98%A640%E6%96%A4%E8%BF%9B%E4%BA%86ICU",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "微软AI收入过半来自OpenAI 显示对合作伙伴依赖仍较高",
@@ -275,7 +441,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -286,7 +452,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         }
@@ -294,7 +460,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "华为发布新款折叠电脑售价24999元起",
@@ -312,11 +478,23 @@
           "url": "https://www.zhihu.com/question/2068364859402450214",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 14时38分]"
+        },
+        {
+          "title": "阿拉伯和伊斯兰国家谴责以色列耶路撒冷政策",
+          "url": "https://wallstreetcn.com/livenews/3145855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "泽连斯基称将与亚洲国家建立更强关系，在打什么牌？",
@@ -369,6 +547,18 @@
           "time_info": "[01时51分 ~ 07时08分]"
         },
         {
+          "title": "韩国“超高龄社会”切面：40℃国家灾难状态下，2400名首尔老人还在巷子里收废纸",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33720253",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 14时38分]"
+        },
+        {
           "title": "韩国因极端高温持续进入「国家灾难状态」，目前已致 16 死，今年当地气候算反常吗？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2068299771345728525",
           "source": "知乎",
@@ -376,30 +566,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
-        },
-        {
-          "title": "韩国“超高龄社会”切面：40℃国家灾难状态下，2400名首尔老人还在巷子里收废纸",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33720253",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 14时38分]"
         },
         {
           "title": "理想i8发布",
           "url": "https://s.weibo.com/weibo?q=%E7%90%86%E6%83%B3i8%E5%8F%91%E5%B8%83&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 14时38分]"
         },
         {
           "title": "我国发起首例对外贸易国家安全调查",
@@ -430,7 +610,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -463,9 +643,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "余承东发布会上误将 24999 元念成 2499 元，客观来看 MateBook Fold 这个定价合理吗？",
+          "url": "https://www.zhihu.com/question/2068437296529897006",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "俄中选委主席：全力保障国家杜马选举安全",
@@ -485,7 +676,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -496,7 +687,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -510,6 +701,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "以色列加速与日本合作有何目的",
+          "url": "https://www.toutiao.com/trending/7670786368976457259/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "伊朗国家广播电视台（IRIB）： 埃及、土耳其、巴基斯坦、沙特阿拉伯四国外长于约旦首都安曼会晤，商讨缓和地区紧张局势的途径，重点围绕霍尔木兹海峡的安全问题展开。",
@@ -565,17 +767,6 @@
           "time_info": "[01时51分 ~ 07时08分]"
         },
         {
-          "title": "从“危机求援”到“全球外交”，乌克兰正发生重大转型",
-          "url": "https://v.ifeng.com/c/8vLgawITqVp",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
-        },
-        {
           "title": "委内瑞拉首都附近国际机场恢复商业货运航班。",
           "url": "https://flash.jin10.com/detail/20260806063250034800",
           "source": "金十数据",
@@ -598,6 +789,18 @@
           "time_info": "03时47分"
         },
         {
+          "title": "从“危机求援”到“全球外交”，乌克兰正发生重大转型",
+          "url": "https://v.ifeng.com/c/8vLgawITqVp",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 14时38分]"
+        },
+        {
           "title": "国际铜夜盘收涨0.66%，沪铜收涨0.56%，沪铝收涨0.29%，沪锌收涨1.60%，沪铅收平，沪镍收跌0.17%，沪锡收涨1.70%。 氧化铝夜盘收涨2.56%，铝合金收涨0.13%。 不锈钢夜盘收跌0.72%。",
           "url": "https://wallstreetcn.com/livenews/3145530",
           "source": "华尔街见闻-快讯",
@@ -610,26 +813,28 @@
           "time_info": "[01时51分 ~ 03时47分]"
         },
         {
-          "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
-          "url": "https://www.cls.cn/detail/2446838",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
-        },
-        {
           "title": "一场被遗忘的战争，彻底杀红了眼",
           "url": "https://news.ifeng.com/c/8vMTlIHgaUm",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 14时38分]"
+        },
+        {
+          "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
+          "url": "https://www.cls.cn/detail/2446838",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 14时38分]"
         },
         {
           "title": "外交部：坚决反对日方抹黑指责中方",
@@ -661,7 +866,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -716,7 +921,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         }
@@ -724,7 +929,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "SpaceX暴跌13%拖累科技板块，标普纳指高位回调，黄金飙涨4%，原油冲高回落",
@@ -734,8 +939,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时08分 ~ 11时20分]"
+          "appearance_count": 4,
+          "time_info": "[07时08分 ~ 14时38分]"
         },
         {
           "title": "美伊缓和叠加财报季提振，标普、道指齐创新高，芯片指数大涨6%，油价重挫",
@@ -777,7 +982,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -810,7 +1015,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -837,6 +1042,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "A股电池板块短线走低，圣阳股份、宁德时代、领湃科技、金银河、容百科技等走低。",
+          "url": "https://wallstreetcn.com/livenews/3145822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌1.09%，报6552.33点。 热门中概股里，阿特斯太阳能初步收跌5.6%，日月光半导体跌4.6%，金山云跌4.2%，腾讯跌1.9%，网易跌1.8%，阿里跌0.1%，新东方涨1.2%。 ETF中，中概互联网指数ETF（KWEB）收跌1.21%，中国科技指数ETF（CQQQ）收涨0.64%。 MSCI新兴市场ex中国ETF（EMXC）收跌0.40%，德银嘉实沪深300指数ETF（ASHR）收涨0.49%，XtrackersHarvest中证50（ASHS）收涨2.09%。",
           "url": "https://wallstreetcn.com/livenews/3145581",
           "source": "华尔街见闻-快讯",
@@ -854,7 +1070,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -865,7 +1081,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -876,9 +1092,102 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 steam 显卡 内存 处理器",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "长鑫拒绝苹果压价，要求内存采购价不低于三星和 SK 海力士，是否意味议价权彻底反转？可能有哪些影响？",
+          "url": "https://www.zhihu.com/question/2068405410696880350",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时47分 ~ 14时38分]"
+        },
+        {
+          "title": "网友吐槽现在的交响乐团只能靠游戏演奏会维持生计，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2067670987710189967",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时51分 ~ 07时08分]"
+        },
+        {
+          "title": "试玩5个高中生做的高中生活游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%95%E7%8E%A95%E4%B8%AA%E9%AB%98%E4%B8%AD%E7%94%9F%E5%81%9A%E7%9A%84%E9%AB%98%E4%B8%AD%E7%94%9F%E6%B4%BB%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            17,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时47分 ~ 14时38分]"
+        },
+        {
+          "title": "内存什么时候能迎来降价？",
+          "url": "https://www.zhihu.com/question/2065573178345363233",
+          "source": "知乎",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 05时19分]"
+        },
+        {
+          "title": "8月6日投资避雷针：余承东称内存高昂涨价 手机之后可能都要大规模涨价",
+          "url": "https://www.cls.cn/detail/2446883",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
+        },
+        {
+          "title": "武侠游戏里「喝酒」只是一个加 Buff 的动作。有没有一款游戏让你觉得这个人在喝酒，而不只是在喝一个图标？",
+          "url": "https://www.zhihu.com/question/2067564394851071651",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
+        },
+        {
+          "title": "武侠游戏里「喝酒」只是一个加 Buff 的动作，有没有一款游戏让你觉得这个人在喝酒，而不只是在喝一个图标？",
+          "url": "https://www.zhihu.com/question/2067564394851071651",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         }
       ]
     },
@@ -955,86 +1264,6 @@
       ]
     },
     {
-      "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "长鑫拒绝苹果压价，要求内存采购价不低于三星和 SK 海力士，是否意味议价权彻底反转？可能有哪些影响？",
-          "url": "https://www.zhihu.com/question/2068405410696880350",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时47分 ~ 11时20分]"
-        },
-        {
-          "title": "网友吐槽现在的交响乐团只能靠游戏演奏会维持生计，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2067670987710189967",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时51分 ~ 07时08分]"
-        },
-        {
-          "title": "内存什么时候能迎来降价？",
-          "url": "https://www.zhihu.com/question/2065573178345363233",
-          "source": "知乎",
-          "ranks": [
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 05时19分]"
-        },
-        {
-          "title": "试玩5个高中生做的高中生活游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%95%E7%8E%A95%E4%B8%AA%E9%AB%98%E4%B8%AD%E7%94%9F%E5%81%9A%E7%9A%84%E9%AB%98%E4%B8%AD%E7%94%9F%E6%B4%BB%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时47分 ~ 07时08分]"
-        },
-        {
-          "title": "8月6日投资避雷针：余承东称内存高昂涨价 手机之后可能都要大规模涨价",
-          "url": "https://www.cls.cn/detail/2446883",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
-        },
-        {
-          "title": "武侠游戏里「喝酒」只是一个加 Buff 的动作。有没有一款游戏让你觉得这个人在喝酒，而不只是在喝一个图标？",
-          "url": "https://www.zhihu.com/question/2067564394851071651",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 美元",
       "match_count": 4,
       "titles": [
@@ -1085,6 +1314,34 @@
       ]
     },
     {
+      "keyword_group": "github 技术 行业 软件",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "数字技术赋能全民健身再升级",
+          "url": "https://www.douyin.com/hot/2599328",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 14时38分]"
+        },
+        {
+          "title": "韩国官员：面对竞争，韩国正努力保持芯片行业优势",
+          "url": "https://flash.jin10.com/detail/20260806141954982800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "热点",
       "match_count": 2,
       "titles": [
@@ -1095,7 +1352,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -1106,26 +1363,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "github 技术 行业 软件",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "数字技术赋能全民健身再升级",
-          "url": "https://www.douyin.com/hot/2599328",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
         }
       ]
     }
