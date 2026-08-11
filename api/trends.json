@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T19:52:00.435402+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2026-08-11T21:21:59.481406+08:00",
+  "total_titles_processed": 1522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 67,
+      "match_count": 69,
       "titles": [
         {
           "title": "《中国人民银行“十五五”改革发展规划》发布",
@@ -31,18 +31,6 @@
           "time_info": "[01时01分 ~ 06时46分]"
         },
         {
-          "title": "中国驻日本大使馆：台湾不是一个国家，不存在“国格”一说",
-          "url": "https://news.ifeng.com/c/8vTrgaTJuzw",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 10时11分]"
-        },
-        {
           "title": "哥伦比亚强震已致111死87伤，政府宣布进入“国家灾难状态”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33756837",
           "source": "澎湃新闻",
@@ -51,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时11分 ~ 19时52分]"
+          "appearance_count": 10,
+          "time_info": "[10时11分 ~ 21时21分]"
         },
         {
           "title": "阿维塔高管称不认为和华为的合作模式是「必要项」，阿维塔具备差异化的能力，如何看待这一表态？",
@@ -63,11 +51,24 @@
             15,
             14,
             7,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时25分 ~ 19时52分]"
+          "appearance_count": 9,
+          "time_info": "[12时25分 ~ 21时21分]"
+        },
+        {
+          "title": "中国驻日本大使馆：台湾不是一个国家，不存在“国格”一说",
+          "url": "https://news.ifeng.com/c/8vTrgaTJuzw",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 10时11分]"
         },
         {
           "title": "上海发布8月11日交通出行通告，早高峰期间仍需注意风雨影响",
@@ -116,7 +117,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -198,6 +199,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "英伟达(NVDA.O)：已与vLLM、Ollama、llama.cpp、LM Studio和Unsloth合作，支持Nemotron 3.5 Lightning。",
+          "url": "https://flash.jin10.com/detail/20260811210626794800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "地震已致77人死亡，哥伦比亚宣布进入国家灾难状态",
           "url": "https://news.ifeng.com/c/8vUHiH9a6H6",
           "source": "凤凰网",
@@ -246,6 +258,19 @@
           "time_info": "[05时50分 ~ 06时46分]"
         },
         {
+          "title": "澎湃回声｜山西省文物局回应“明城墙遭拆旧建新”：正调查，国家文物局已关注",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33758609",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时57分 ~ 21时21分]"
+        },
+        {
           "title": "智利国家铜业委员会：智利国家铜业公司6月份铜产量同比下降4.8%至114,400吨。",
           "url": "https://flash.jin10.com/detail/20260811051120121800",
           "source": "金十数据",
@@ -282,6 +307,18 @@
           "time_info": "[05时50分 ~ 06时46分]"
         },
         {
+          "title": "北京市七区发布暴雨红色预警",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E4%B8%83%E5%8C%BA%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时57分 ~ 21时21分]"
+        },
+        {
           "title": "哥伦比亚因强震进入国家灾难状态",
           "url": "https://www.toutiao.com/trending/7672416286558653958/",
           "source": "今日头条",
@@ -306,16 +343,16 @@
           "time_info": "[18时57分 ~ 19时52分]"
         },
         {
-          "title": "澎湃回声｜山西省文物局回应“明城墙遭拆旧建新”：正调查，国家文物局已关注",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33758609",
-          "source": "澎湃新闻",
+          "title": "告别“外卖指数”转向“硬科技”？恒生科技将迎来最大改革",
+          "url": "https://wallstreetcn.com/articles/3779167",
+          "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时57分 ~ 19时52分]"
+          "time_info": "[19时51分 ~ 21时21分]"
         },
         {
           "title": "胖东来发布顾客间侵权行为管理公示",
@@ -328,18 +365,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时11分 ~ 12时26分]"
-        },
-        {
-          "title": "北京市七区发布暴雨红色预警",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E4%B8%83%E5%8C%BA%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时57分 ~ 19时52分]"
         },
         {
           "title": "国家卫健委回应新冠药购买难",
@@ -375,17 +400,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时57分 ~ 19时52分]"
-        },
-        {
-          "title": "告别“外卖指数”转向“硬科技”？恒生科技将迎来最大改革",
-          "url": "https://wallstreetcn.com/articles/3779167",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时51分 ~ 19时52分]"
         },
         {
           "title": "红米发布会",
@@ -473,7 +487,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -495,7 +509,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -539,7 +553,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -693,7 +707,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -764,6 +778,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "哥伦比亚总统地震发布会笑容满面",
+          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%E5%9C%B0%E9%9C%87%E5%8F%91%E5%B8%83%E4%BC%9A%E7%AC%91%E5%AE%B9%E6%BB%A1%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "北京市发布暴雨橙色预警",
           "url": "https://www.douyin.com/hot/2603930",
           "source": "抖音",
@@ -778,7 +803,7 @@
     },
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 56,
+      "match_count": 60,
       "titles": [
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -802,8 +827,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时11分 ~ 19时52分]"
+          "appearance_count": 10,
+          "time_info": "[10时11分 ~ 21时21分]"
         },
         {
           "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
@@ -820,6 +845,19 @@
           "time_info": "[01时01分 ~ 15时22分]"
         },
         {
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时11分 ~ 21时21分]"
+        },
+        {
           "title": "AI挤占短剧业,真人演员遭偷家",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357005&amp;topic_name=AI%E6%8C%A4%E5%8D%A0%E7%9F%AD%E5%89%A7%E4%B8%9A%2C%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E9%81%AD%E5%81%B7%E5%AE%B6",
           "source": "贴吧",
@@ -831,19 +869,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时01分 ~ 13时58分]"
-        },
-        {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时11分 ~ 19时52分]"
         },
         {
           "title": "用AI重返那年相遇的青涩夏天",
@@ -874,19 +899,6 @@
           "time_info": "[10时11分 ~ 15时22分]"
         },
         {
-          "title": "给AI时代一点手搓实拍的小震撼",
-          "url": "https://www.douyin.com/hot/2605459",
-          "source": "抖音",
-          "ranks": [
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时58分 ~ 19时52分]"
-        },
-        {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
           "url": "https://wallstreetcn.com/articles/3779130",
           "source": "华尔街见闻",
@@ -897,8 +909,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时58分 ~ 19时52分]"
+          "appearance_count": 7,
+          "time_info": "[13时58分 ~ 21时21分]"
+        },
+        {
+          "title": "给AI时代一点手搓实拍的小震撼",
+          "url": "https://www.douyin.com/hot/2605459",
+          "source": "抖音",
+          "ranks": [
+            8,
+            5,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时58分 ~ 21时21分]"
         },
         {
           "title": "怎么看AI突破黎曼猜想下界",
@@ -937,6 +963,32 @@
           "time_info": "[01时01分 ~ 06时46分]"
         },
         {
+          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
+          "url": "https://www.cls.cn/detail/2450953",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 21时21分]"
+        },
+        {
+          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 21时21分]"
+        },
+        {
           "title": "OpenAI：新的高级席位（Premium Seat）使用额度相比标准版提升5倍，无5小时使用限制，并提供可预测的每周使用额度重置。",
           "url": "https://flash.jin10.com/detail/20260811005217914800",
           "source": "金十数据",
@@ -946,6 +998,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "AI打开了我童年记忆的百宝箱",
+          "url": "https://www.douyin.com/hot/2605425",
+          "source": "抖音",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 21时21分]"
+        },
+        {
+          "title": "干湿之困：AI制药如何打通“最后一公里”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            18,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 21时21分]"
         },
         {
           "title": "OpenAI：限时期间，符合条件的工作区管理员每增加一个高级席位（Premium Seat），将获得价值100美元的额度奖励，最多可为5个席位获得总计500美元的额度。",
@@ -992,19 +1070,6 @@
           "time_info": "01时01分"
         },
         {
-          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
-          "url": "https://www.cls.cn/detail/2450953",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 19时52分]"
-        },
-        {
           "title": "TaiLung被永久禁赛有何内幕",
           "url": "https://search.bilibili.com/all?keyword=TaiLung%E8%A2%AB%E6%B0%B8%E4%B9%85%E7%A6%81%E8%B5%9B%E6%9C%89%E4%BD%95%E5%86%85%E5%B9%95",
           "source": "bilibili 热搜",
@@ -1014,44 +1079,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
-        },
-        {
-          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 19时52分]"
-        },
-        {
-          "title": "AI打开了我童年记忆的百宝箱",
-          "url": "https://www.douyin.com/hot/2605425",
-          "source": "抖音",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 19时52分]"
-        },
-        {
-          "title": "干湿之困：AI制药如何打通“最后一公里”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 19时52分]"
         },
         {
           "title": "大摩启动1.5万亿美元美国创新基础设施计划 聚焦AI等前沿技术",
@@ -1104,6 +1131,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时54分 ~ 06时46分]"
+        },
+        {
+          "title": "DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域",
+          "url": "https://wallstreetcn.com/livenews/3148048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 21时21分]"
         },
         {
           "title": "英伟达(NVDA.O)CEO黄仁勋：（谈5000亿美元AI基建融资计划）相关交易将支持人工智能的广泛应用。资金全部来自第三方资本。",
@@ -1200,24 +1239,13 @@
           "time_info": "12时26分"
         },
         {
-          "title": "DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域",
-          "url": "https://wallstreetcn.com/livenews/3148048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
           "title": "强瑞技术：拟定增募资不超过10.5亿元 用于AI服务器精密液冷部件等项目",
           "url": "https://flash.jin10.com/detail/20260811193754160800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -1231,6 +1259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
+          "url": "https://www.cls.cn/detail/2451347",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "报道：英伟达与多家公司围绕5000亿美元AI融资协议合作",
@@ -1253,6 +1292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "据The Information：英伟达(NVDA.O)正在开发一款新的Nemotron 4开源AI模型。",
+          "url": "https://flash.jin10.com/detail/20260811210245641800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "OpenAI刊发针对AI基础设施问题向美国得州州长发送的信函。",
@@ -1286,6 +1336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "IBM与Together AI签署2.4亿美元云服务协议",
+          "url": "https://wallstreetcn.com/livenews/3148066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "据悉英伟达联手华尔街巨头筹划5000亿美元AI基建融资",
@@ -1387,6 +1448,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "强瑞技术：拟定增募资不超过10.5亿元，用于AI服务器精密液冷部件产品及服务器自动化组装、检测设备研发与制造项目、高端半导体设备精密零部件生产制造项目、强瑞技术龙华区总部基地建设项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3148057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "美国得克萨斯州州长阿博特：OpenAI已经作出承诺，会严格遵循当地数据中心的相关规范标准。",
           "url": "https://flash.jin10.com/detail/20260811021755846800",
           "source": "金十数据",
@@ -1445,7 +1517,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "宇树科技科创板申购火爆，中签率仅0.018%，首日盈利或逾20万元",
@@ -1488,6 +1560,20 @@
           "time_info": "[01时01分 ~ 15时22分]"
         },
         {
+          "title": "让“科味”更浓，恒生科技指数大调整，这一次有何不同？",
+          "url": "https://www.cls.cn/detail/2450976",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时58分 ~ 21时21分]"
+        },
+        {
           "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
           "url": "https://www.cls.cn/detail/2450388",
           "source": "财联社热门",
@@ -1500,18 +1586,19 @@
           "time_info": "[01时01分 ~ 10时11分]"
         },
         {
-          "title": "让“科味”更浓，恒生科技指数大调整，这一次有何不同？",
-          "url": "https://www.cls.cn/detail/2450976",
+          "title": "非科技板块的春天？医药板块调研热度超越半导体",
+          "url": "https://www.cls.cn/detail/2450966",
           "source": "财联社热门",
           "ranks": [
-            10,
-            7,
-            2,
-            3
+            12,
+            11,
+            5,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时58分 ~ 19时52分]"
+          "appearance_count": 7,
+          "time_info": "[13时58分 ~ 21时21分]"
         },
         {
           "title": "中国黑科技圈粉老外",
@@ -1525,20 +1612,6 @@
           "time_info": "[01时01分 ~ 03时10分]"
         },
         {
-          "title": "非科技板块的春天？医药板块调研热度超越半导体",
-          "url": "https://www.cls.cn/detail/2450966",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时58分 ~ 19时52分]"
-        },
-        {
           "title": "硅基vs碳基、光vs存储、开源vs闭源--这是高盛顶级科技交易员最关注的10张图表",
           "url": "https://wallstreetcn.com/articles/3779037",
           "source": "华尔街见闻",
@@ -1548,6 +1621,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时01分 ~ 06时46分]"
+        },
+        {
+          "title": "宇树科技网上中签率不到长鑫科技1/26",
+          "url": "https://wallstreetcn.com/livenews/3148086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
@@ -1574,17 +1658,6 @@
           "time_info": "10时11分"
         },
         {
-          "title": "宇树科技中签号出炉：共有19,414个",
-          "url": "https://wallstreetcn.com/livenews/3148051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
           "title": "港股午评：恒指高开低走收跌0.63% 创新药板块延续强势",
           "url": "https://flash.jin10.com/detail/20260811120330753800",
           "source": "金十数据",
@@ -1607,6 +1680,29 @@
           "time_info": "10时11分"
         },
         {
+          "title": "大模型攻入OTA腹地？豆包称酒店推荐“按成交收费” 或挑战“佣金+广告”模式|深度",
+          "url": "https://www.cls.cn/detail/2451001",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时57分 ~ 21时21分]"
+        },
+        {
+          "title": "宇树科技中签号出炉：共有19,414个",
+          "url": "https://wallstreetcn.com/livenews/3148051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 21时21分]"
+        },
+        {
           "title": "行云科技：算力卡被卡在海关传闻不实，在手算力长期3-5年订单约150.82亿元",
           "url": "https://wallstreetcn.com/livenews/3148020",
           "source": "华尔街见闻-快讯",
@@ -1616,17 +1712,6 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时57分 ~ 19时52分]"
-        },
-        {
-          "title": "大模型攻入OTA腹地？豆包称酒店推荐“按成交收费” 或挑战“佣金+广告”模式|深度",
-          "url": "https://www.cls.cn/detail/2451001",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
           "time_info": "[18时57分 ~ 19时52分]"
         },
         {
@@ -1732,7 +1817,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -1757,6 +1842,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "宇树科技中签号出炉",
+          "url": "https://www.toutiao.com/trending/7672729077492485651/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至1%。蔚来、京东、比亚迪股份、小米等跌超2%。",
@@ -1809,7 +1905,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -1847,6 +1943,17 @@
           "time_info": "12时26分"
         },
         {
+          "title": "宇树科技网上中签率不到长鑫科技1/26",
+          "url": "https://flash.jin10.com/detail/20260811205913362800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "九联科技：2026年上半年净利润3511.02万元，实现扭亏为盈",
           "url": "https://flash.jin10.com/detail/20260811181529267800",
           "source": "金十数据",
@@ -1875,9 +1982,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "宇树科技中签号出炉 共约1.94万个",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E5%8F%B7%E5%87%BA%E7%82%89+%E5%85%B1%E7%BA%A61.94%E4%B8%87%E4%B8%AA",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "上海：推动自主芯片与主流大模型深度融合",
@@ -1894,7 +2012,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "外交部：百余名菲律宾公民因非法就业、非法居留被依法处理",
@@ -2057,7 +2175,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -2106,6 +2224,17 @@
           "time_info": "18时57分"
         },
         {
+          "title": "国际金融协会（IIF）：截至7月份，新兴市场股票年度资金流出总额为860亿美元，而去年同期为90亿美元。",
+          "url": "https://flash.jin10.com/detail/20260811210212098800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "卡塔尔外交发言人：谈判处于关键时刻，我们支持一切降级努力。",
           "url": "https://flash.jin10.com/detail/20260811182700046800",
           "source": "金十数据",
@@ -2117,6 +2246,17 @@
           "time_info": "18时57分"
         },
         {
+          "title": "国际金融协会（IIF）：截至7月，新兴市场债务流入量达到2144亿美元，而2025年同期预计为1777亿美元。",
+          "url": "https://flash.jin10.com/detail/20260811210146525800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "卡塔尔外交发言人：我们收到了来自两国的积极反馈。",
           "url": "https://flash.jin10.com/detail/20260811182528344800",
           "source": "金十数据",
@@ -2126,6 +2266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
+        },
+        {
+          "title": "国际金融协会（IIF）：7月份非居民投资者向新兴市场投资组合净增188亿美元，结束了连续两个月的资金外流。",
+          "url": "https://flash.jin10.com/detail/20260811210125700800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "外交部：敦促太平洋岛国论坛秘书处恪守一个中国原则。（新华社）",
@@ -2150,6 +2301,17 @@
           "time_info": "18时57分"
         },
         {
+          "title": "国际金融协会（IIF）：7月份新兴市场债务吸引资金流入267亿美元，6月份为281亿美元。",
+          "url": "https://flash.jin10.com/detail/20260811210052583800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "哥伦比亚外交部长：哥伦比亚承认以色列对戈兰高地的主权。",
           "url": "https://flash.jin10.com/detail/20260811001254786800",
           "source": "金十数据",
@@ -2159,6 +2321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "国际金融协会（IIF）：7月份新兴市场股票资金流出放缓至78亿美元，低于6月份的461亿美元。",
+          "url": "https://flash.jin10.com/detail/20260811210032934800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "国际铜夜盘收跌0.02%，沪铜收涨0.16%，沪铝收涨0.64%，沪锌收涨0.35%，沪铅收涨0.60%，沪镍收跌0.42%，沪锡收跌0.46%。 氧化铝夜盘收跌0.59%，铝合金收涨0.28%。 不锈钢夜盘收跌0.62%。",
@@ -2236,6 +2409,125 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "github 技术 行业 软件",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "上海：到2030年把上海软件和信息服务业打造成经济增长“动力源” 产业规模力争达到4万亿元",
+          "url": "https://www.cls.cn/detail/2451324",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时57分 ~ 21时21分]"
+        },
+        {
+          "title": "国民技术：自10月1日起对公司部分产品价格上调10%—20%",
+          "url": "https://wallstreetcn.com/livenews/3148016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 19时52分]"
+        },
+        {
+          "title": "金十数据整理：每日电动车行业动态汇总（2026-08-11）",
+          "url": "https://flash.jin10.com/detail/20260811145056420800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "全国能繁母猪少了近300万头 猪价为何还在10元挣扎？7月多数猪企再陷亏损|行业动态",
+          "url": "https://www.cls.cn/detail/2451445",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "市场消息：德国基金行业管理的资产规模首次突破5万亿欧元。",
+          "url": "https://flash.jin10.com/detail/20260811193026011800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "金十图示：2026年08月11日（周二）富时中国A50指数成分股午盘收盘行情一览：成分股走势分化，保险行业全线下跌，通信设备、炼化股悉数飘红",
+          "url": "https://flash.jin10.com/detail/20260811113714606800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "索尼与台积电将在日本成立先进图像传感器合资公司，采用先进制程技术2029年量产",
+          "url": "https://wallstreetcn.com/livenews/3148002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "催收新规落地半年 行业有何变化",
+          "url": "https://www.toutiao.com/trending/7671909448416493587/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "德国基金行业管理的资产规模首次突破5万亿欧元 ETF需求强劲",
+          "url": "https://wallstreetcn.com/livenews/3148055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "上海：大力推动开源体系建设，推动智能软件、语料、算法、模型、智能体、人形机器人软硬件等开源项目在沪“首发”",
+          "url": "https://wallstreetcn.com/livenews/3147986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         }
       ]
     },
@@ -2353,94 +2645,22 @@
       ]
     },
     {
-      "keyword_group": "github 技术 行业 软件",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "上海：到2030年把上海软件和信息服务业打造成经济增长“动力源” 产业规模力争达到4万亿元",
-          "url": "https://www.cls.cn/detail/2451324",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时57分 ~ 19时52分]"
-        },
-        {
-          "title": "国民技术：自10月1日起对公司部分产品价格上调10%—20%",
-          "url": "https://wallstreetcn.com/livenews/3148016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 19时52分]"
-        },
-        {
-          "title": "金十数据整理：每日电动车行业动态汇总（2026-08-11）",
-          "url": "https://flash.jin10.com/detail/20260811145056420800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "市场消息：德国基金行业管理的资产规模首次突破5万亿欧元。",
-          "url": "https://flash.jin10.com/detail/20260811193026011800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "金十图示：2026年08月11日（周二）富时中国A50指数成分股午盘收盘行情一览：成分股走势分化，保险行业全线下跌，通信设备、炼化股悉数飘红",
-          "url": "https://flash.jin10.com/detail/20260811113714606800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "索尼与台积电将在日本成立先进图像传感器合资公司，采用先进制程技术2029年量产",
-          "url": "https://wallstreetcn.com/livenews/3148002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时57分"
-        },
-        {
-          "title": "上海：大力推动开源体系建设，推动智能软件、语料、算法、模型、智能体、人形机器人软硬件等开源项目在沪“首发”",
-          "url": "https://wallstreetcn.com/livenews/3147986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
       "match_count": 5,
       "titles": [
+        {
+          "title": "为什么武侠游戏招式名爱用 「 降龙十八掌 」 式的华丽辞藻, 而西方中世纪骑士游戏招式却朴素得像说明书?",
+          "url": "https://www.zhihu.com/question/2070098614244864702",
+          "source": "知乎",
+          "ranks": [
+            20,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 21时21分]"
+        },
         {
           "title": "硬盘、内存价格还会降回去吗？",
           "url": "https://www.zhihu.com/question/2011092640041570925",
@@ -2468,18 +2688,6 @@
           "time_info": "[10时11分 ~ 13时58分]"
         },
         {
-          "title": "为什么武侠游戏招式名爱用 「 降龙十八掌 」 式的华丽辞藻, 而西方中世纪骑士游戏招式却朴素得像说明书?",
-          "url": "https://www.zhihu.com/question/2070098614244864702",
-          "source": "知乎",
-          "ranks": [
-            20,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 19时52分]"
-        },
-        {
           "title": "台积电因内存短缺积压10亿美元苹果芯片？分析师郭明錤否认",
           "url": "https://flash.jin10.com/detail/20260811055637856800",
           "source": "金十数据",
@@ -2505,8 +2713,41 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "雅培与谷歌推出首个合作项目，借助血糖洞察和人工智能改变日常健康管理。",
+          "url": "https://flash.jin10.com/detail/20260811210808524800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "雅培：与谷歌多年合作将雅培的Lingo生物可穿戴设备的血糖观察与谷歌健康技术相结合。",
+          "url": "https://flash.jin10.com/detail/20260811210739634800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "雅培：与谷歌的合作包括大规模研究，以更好地指导人工智能培训。",
+          "url": "https://flash.jin10.com/detail/20260811210715702800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
         {
           "title": "谷歌公司：相信我们遵守美国得州数据中心标准。",
           "url": "https://wallstreetcn.com/livenews/3147629",
@@ -2522,8 +2763,19 @@
     },
     {
       "keyword_group": "热点",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "韩国股市暴跌，聚焦三星电子和SK海力士的投资节目成娱乐新热点",
+          "url": "https://news.ifeng.com/c/8vVaQwUQJEb",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
         {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20260811093817164800",
