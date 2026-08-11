@@ -1,533 +1,11 @@
 {
-  "generated_at": "2026-08-11T13:58:39.269464+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-08-11T15:22:08.006625+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 45,
-      "titles": [
-        {
-          "title": "《中国人民银行“十五五”改革发展规划》发布",
-          "url": "https://www.cls.cn/detail/2450255",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 10时11分]"
-        },
-        {
-          "title": "台湾不是国家不存在“国格”",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E4%B8%8D%E6%98%AF%E5%9B%BD%E5%AE%B6%E4%B8%8D%E5%AD%98%E5%9C%A8%E2%80%9C%E5%9B%BD%E6%A0%BC%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时46分]"
-        },
-        {
-          "title": "中国驻日本大使馆：台湾不是一个国家，不存在“国格”一说",
-          "url": "https://news.ifeng.com/c/8vTrgaTJuzw",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 10时11分]"
-        },
-        {
-          "title": "国务院免去罗文国家市监总局局长职务",
-          "url": "https://www.toutiao.com/trending/7672330009679577129/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            16,
-            17,
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时46分]"
-        },
-        {
-          "title": "泽连斯基声称5万朝军或入俄，呼吁韩国与乌克兰加强合作",
-          "url": "https://news.ifeng.com/c/8vTdI4YiJIX",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时46分]"
-        },
-        {
-          "title": "7月CPI可能反弹，但美联储当前更怕错杀而非落后——新版发布",
-          "url": "https://flash.jin10.com/detail/20260811121142931800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "印度央行行长：敦促各银行对所有人工智能模型进行盘点，并制定经董事会批准的人工智能治理政策。",
-          "url": "https://flash.jin10.com/detail/20260811134517603800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "利比亚国家石油公司：如果攻击持续，将被迫宣布不可抗力，并完全停止扎维耶炼油厂的运营。",
-          "url": "https://flash.jin10.com/detail/20260811060402277800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "利比亚国家石油公司：扎维亚石油混合厂遭无人机袭击，未造成损失或伤亡。这是周日和周一针对扎维耶石油资产的第三次攻击。",
-          "url": "https://flash.jin10.com/detail/20260811060353095800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "消息人士称，英国石油公司将向特立尼达国家天然气公司出售其在委内瑞拉的Cocuina气田20%的股份。70%的天然气将用于生产液化天然气，其余部分将用于石化产品。最终投资决策可能在年底前做出。",
-          "url": "https://flash.jin10.com/detail/20260811005041104800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "地震已致77人死亡，哥伦比亚宣布进入国家灾难状态",
-          "url": "https://news.ifeng.com/c/8vUHiH9a6H6",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时09分 ~ 06时46分]"
-        },
-        {
-          "title": "上海发布8月11日交通出行通告，早高峰期间仍需注意风雨影响",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33754396",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时46分 ~ 13时58分]"
-        },
-        {
-          "title": "货币政策分析公司（Monetary Policy Analytics）经济学家Derek Tang：（相比1998年、2011年）2026年这一次美国与日本联手干预日元汇率时，美联储”并未出资”参与美方的干预行动。 官方数据可能要到今年晚些时候才会公布以证实这一点。 其干预能力理论上仅受限于其意愿。",
-          "url": "https://wallstreetcn.com/livenews/3147693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时54分 ~ 06时46分]"
-        },
-        {
-          "title": "智利国家铜业委员会：智利科拉瓦西矿6月份铜产量同比增长1.7%，达到34,900吨。",
-          "url": "https://flash.jin10.com/detail/20260811051431874800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时46分]"
-        },
-        {
-          "title": "智利国家铜业委员会：智利埃斯孔迪达铜矿6月份铜产量同比增长45.8%，达到111,400吨。",
-          "url": "https://flash.jin10.com/detail/20260811051428380800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时46分]"
-        },
-        {
-          "title": "智利国家铜业委员会：智利国家铜业公司6月份铜产量同比下降4.8%至114,400吨。",
-          "url": "https://flash.jin10.com/detail/20260811051120121800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时46分]"
-        },
-        {
-          "title": "国家防总、应急管理部针对北京、天津启动防汛四级应急响应",
-          "url": "https://wallstreetcn.com/livenews/3147845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 13时58分]"
-        },
-        {
-          "title": "新西兰联储：发布关于引入审慎税的咨询文件。咨询内容包括提议对所有审慎成本及其他费用征收全额成本回收税。",
-          "url": "https://flash.jin10.com/detail/20260811050925355800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时46分]"
-        },
-        {
-          "title": "哥伦比亚强震已致111死87伤，政府宣布进入“国家灾难状态”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33756837",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时58分]"
-        },
-        {
-          "title": "哥伦比亚因强震进入国家灾难状态",
-          "url": "https://www.toutiao.com/trending/7672416286558653958/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 12时26分]"
-        },
-        {
-          "title": "胖东来发布顾客间侵权行为管理公示",
-          "url": "https://www.toutiao.com/trending/7671515837358145542/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 12时26分]"
-        },
-        {
-          "title": "阿维塔高管称不认为和华为的合作模式是「必要项」，阿维塔具备差异化的能力，如何看待这一表态？",
-          "url": "https://www.zhihu.com/question/2070107144536560600",
-          "source": "知乎",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 13时58分]"
-        },
-        {
-          "title": "国家卫健委回应新冠药购买难",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E6%96%B0%E5%86%A0%E8%8D%AF%E8%B4%AD%E4%B9%B0%E9%9A%BE",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 13时58分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：本公司及合作伙伴将为人工智能基础设施客户创建专用资金池。",
-          "url": "https://flash.jin10.com/detail/20260811040700664800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时50分]"
-        },
-        {
-          "title": "河北发布暴雨橙色预警信号",
-          "url": "https://www.douyin.com/hot/2603964",
-          "source": "抖音",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时46分]"
-        },
-        {
-          "title": "泽连斯基同沙特王储通话 推进下一步无人机合作",
-          "url": "https://wallstreetcn.com/livenews/3147866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "国家防总、应急管理部针对北京、天津启动防汛四级应急响应",
-          "url": "https://flash.jin10.com/detail/20260811113818244800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "香港正考虑把Jane Street和城堡证券等交易公司纳入改革之中；相关改革料将为资产管理业带来“大刀阔斧”的减税。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3147825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "韩国官员：将采取一切可能的政策措施来降低市场波动性。 对个股杠杆ETF的投资已经减少。",
-          "url": "https://wallstreetcn.com/livenews/3147764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "国家海洋预报台发布风暴潮黄色警报",
-          "url": "https://flash.jin10.com/detail/20260811093719751800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "知情人士称，通用汽车公司准备将其位于印第安纳州、计划投资35亿美元的电动汽车电池合资项目中的一半股权出售给合作伙伴三星SDI。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3147820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "哥伦比亚进入“国家灾难状态”，强震致超70人遇难",
-          "url": "https://wallstreetcn.com/livenews/3147633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "河南发布红色山洪灾害气象风险预警",
-          "url": "https://wallstreetcn.com/livenews/3147818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "澳洲联储：今日的政策决定一致通过。 尽管中东冲突对通胀的影响目前来看低于预期，但整体通胀率依然过高。 委员会将密切关注数据以及对前景和风险的动态评估，以此指导未来决策。 2025年下半年通胀显著回升，今年初以来的信息证实，部分涨幅反映了更大的产能压力。 委员会仍然专注于确保高通胀不会根深蒂固。 委员会将继续采取其认为必要的措施，以使通胀可持续地回到目标水平；如果上行风险成为现实，将进一步提高现金利率目标。 通胀依然过高。短期通胀预期指标有所缓解，但仍高于今年早些时候。 截尾均值通胀率也依然保持高位，且与一季度相比变化不大。 劳动力市场领先指标显示短期内只会出现有限的缓和。 鉴于货币政策被认为具有一定限制性，委员会决定在评估经济演变情况的同时，维持现金利率目标不变。",
-          "url": "https://wallstreetcn.com/livenews/3147855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "国务院新闻办公室将于2026年8月13日（星期四）上午10时举行“开局起步‘十五五’”系列主题新闻发布会，请生态环境部部长黄润秋介绍全面推进美丽中国建设有关情况，并答记者问。",
-          "url": "https://flash.jin10.com/detail/20260811093315891800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "澳大利亚政策利率 4.35%，预期 4.35%，前值 4.35%。",
-          "url": "https://wallstreetcn.com/livenews/3147853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "新加坡金管局表示，货币政策立场仍然适当。",
-          "url": "https://wallstreetcn.com/livenews/3147756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报144750元/吨，较上日16:30价格持平。",
-          "url": "https://wallstreetcn.com/livenews/3147813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "中信证券：北交所流动性走势有望在政策催化下迎来拐点",
-          "url": "https://wallstreetcn.com/livenews/3147754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "哥伦比亚因地震进入国家灾难状态",
-          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%9B%A0%E5%9C%B0%E9%9C%87%E8%BF%9B%E5%85%A5%E5%9B%BD%E5%AE%B6%E7%81%BE%E9%9A%BE%E7%8A%B6%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数大致持平，报398.84点。 在十个板块中，北欧金融板块跌幅最大。 Investment AB Latour跌3.4%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3147597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "中国军号海外账号发布视频",
-          "url": "https://www.toutiao.com/trending/7672218698578149402/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "利比亚国家石油公司主席：一架无人机击中扎维耶炼油厂的满载燃料储罐。周六还发生了另一起袭击，但并未引发火灾。",
-          "url": "https://wallstreetcn.com/livenews/3147667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        },
-        {
-          "title": "欧洲STOXX 600指数收涨0.03%，报660.45点，连续第五个交易日创收盘历史新高，（在美国非农就业报告发布的次日）整体呈现出N形冲高回落走势。 欧元区STOXX 50指数收涨0.18%，报6535.62点，连续三天创收盘历史新高，7月29日结束交易以来累计上涨3.01%。 富时泛欧绩优300指数收涨0.06%，报2640.65点。",
-          "url": "https://wallstreetcn.com/livenews/3147593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "北京市发布暴雨橙色预警",
-          "url": "https://www.douyin.com/hot/2603930",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 44,
+      "match_count": 52,
       "titles": [
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -551,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 13时58分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 15时22分]"
         },
         {
           "title": "AI挤占短剧业,真人演员遭偷家",
@@ -574,11 +52,23 @@
           "ranks": [
             3,
             2,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时58分]"
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 15时22分]"
+        },
+        {
+          "title": "怎么看AI突破黎曼猜想下界",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -593,6 +83,18 @@
           "time_info": "[01时01分 ~ 06时46分]"
         },
         {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 15时22分]"
+        },
+        {
           "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
           "url": "https://www.cls.cn/detail/2450137",
           "source": "财联社热门",
@@ -602,6 +104,31 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时01分 ~ 06时46分]"
+        },
+        {
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 15时22分]"
+        },
+        {
+          "title": "用AI重返那年相遇的青涩夏天",
+          "url": "https://www.douyin.com/hot/2605104",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 15时22分]"
         },
         {
           "title": "OpenAI：新的高级席位（Premium Seat）使用额度相比标准版提升5倍，无5小时使用限制，并提供可预测的每周使用额度重置。",
@@ -648,27 +175,27 @@
           "time_info": "01时01分"
         },
         {
+          "title": "给AI时代一点手搓实拍的小震撼",
+          "url": "https://www.douyin.com/hot/2605459",
+          "source": "抖音",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时22分]"
+        },
+        {
           "title": "TaiLung被永久禁赛有何内幕",
           "url": "https://search.bilibili.com/all?keyword=TaiLung%E8%A2%AB%E6%B0%B8%E4%B9%85%E7%A6%81%E8%B5%9B%E6%9C%89%E4%BD%95%E5%86%85%E5%B9%95",
           "source": "bilibili 热搜",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
-        },
-        {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时58分]"
         },
         {
           "title": "大摩启动1.5万亿美元美国创新基础设施计划 聚焦AI等前沿技术",
@@ -697,29 +224,16 @@
           "time_info": "[04时54分 ~ 06时46分]"
         },
         {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
+            10,
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时58分]"
-        },
-        {
-          "title": "用AI重返那年相遇的青涩夏天",
-          "url": "https://www.douyin.com/hot/2605104",
-          "source": "抖音",
-          "ranks": [
-            8,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时58分]"
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时22分]"
         },
         {
           "title": "大摩：计划未来十年促成最高1.5万亿美元资金，用于美国创新基建计划，涵盖AI、半导体等战略领域",
@@ -760,6 +274,28 @@
           "time_info": "[04时54分 ~ 05时50分]"
         },
         {
+          "title": "AI打开了我童年记忆的百宝箱",
+          "url": "https://www.douyin.com/hot/2605425",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
+          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
           "title": "英伟达宣布联手六大金融巨头，布局5000亿美元AI基建融资体系",
           "url": "https://flash.jin10.com/detail/20260811041811135800",
           "source": "金十数据",
@@ -782,6 +318,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 06时46分]"
+        },
+        {
+          "title": "干湿之困：AI制药如何打通“最后一公里”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
+          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
+          "url": "https://www.cls.cn/detail/2450953",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
         },
         {
           "title": "英伟达：AI实验室与AI初创公司都需要计算。",
@@ -820,6 +378,17 @@
           "time_info": "[04时54分 ~ 06时46分]"
         },
         {
+          "title": "为什么Claude对子代理这么凶",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88Claude%E5%AF%B9%E5%AD%90%E4%BB%A3%E7%90%86%E8%BF%99%E4%B9%88%E5%87%B6&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
           "title": "爱芯元智下一代大算力AI芯片完成流片，支持多芯级联实现边缘侧满血大模型推理",
           "url": "https://flash.jin10.com/detail/20260811115612569800",
           "source": "金十数据",
@@ -840,17 +409,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
-        },
-        {
-          "title": "给AI时代一点手搓实拍的小震撼",
-          "url": "https://www.douyin.com/hot/2605459",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         },
         {
           "title": "报道：英伟达与多家公司围绕5000亿美元AI融资协议合作",
@@ -875,17 +433,6 @@
           "time_info": "03时10分"
         },
         {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
           "title": "OpenAI刊发针对AI基础设施问题向美国得州州长发送的信函。",
           "url": "https://wallstreetcn.com/livenews/3147639",
           "source": "华尔街见闻-快讯",
@@ -895,6 +442,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "巴克莱仍偏好美国成长股和大型股 因AI支出支撑业绩",
+          "url": "https://wallstreetcn.com/livenews/3147906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "理想第二代AI眼镜预计明年下半年上市",
+          "url": "https://wallstreetcn.com/livenews/3147904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "据悉英伟达联手华尔街巨头筹划5000亿美元AI基建融资",
@@ -1042,6 +611,607 @@
       ]
     },
     {
+      "keyword_group": "国家 改革 政策 发布 合作",
+      "match_count": 52,
+      "titles": [
+        {
+          "title": "《中国人民银行“十五五”改革发展规划》发布",
+          "url": "https://www.cls.cn/detail/2450255",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 10时11分]"
+        },
+        {
+          "title": "台湾不是国家不存在“国格”",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E4%B8%8D%E6%98%AF%E5%9B%BD%E5%AE%B6%E4%B8%8D%E5%AD%98%E5%9C%A8%E2%80%9C%E5%9B%BD%E6%A0%BC%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时46分]"
+        },
+        {
+          "title": "中国驻日本大使馆：台湾不是一个国家，不存在“国格”一说",
+          "url": "https://news.ifeng.com/c/8vTrgaTJuzw",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 10时11分]"
+        },
+        {
+          "title": "上海发布8月11日交通出行通告，早高峰期间仍需注意风雨影响",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33754396",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时46分 ~ 15时22分]"
+        },
+        {
+          "title": "国务院免去罗文国家市监总局局长职务",
+          "url": "https://www.toutiao.com/trending/7672330009679577129/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            16,
+            17,
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时46分]"
+        },
+        {
+          "title": "泽连斯基声称5万朝军或入俄，呼吁韩国与乌克兰加强合作",
+          "url": "https://news.ifeng.com/c/8vTdI4YiJIX",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时46分]"
+        },
+        {
+          "title": "哥伦比亚强震已致111死87伤，政府宣布进入“国家灾难状态”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33756837",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 15时22分]"
+        },
+        {
+          "title": "7月CPI可能反弹，但美联储当前更怕错杀而非落后——新版发布",
+          "url": "https://flash.jin10.com/detail/20260811121142931800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "印度央行行长：敦促各银行对所有人工智能模型进行盘点，并制定经董事会批准的人工智能治理政策。",
+          "url": "https://flash.jin10.com/detail/20260811134517603800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "美国国家公路交通安全管理局周二表示，丰田公司正在美国召回508,354辆汽车，原因是仪表盘无法显示关键安全信息，从而增加了发生碰撞或造成人员受伤的风险。",
+          "url": "https://wallstreetcn.com/livenews/3147922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "利比亚国家石油公司：如果攻击持续，将被迫宣布不可抗力，并完全停止扎维耶炼油厂的运营。",
+          "url": "https://flash.jin10.com/detail/20260811060402277800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        },
+        {
+          "title": "利比亚国家石油公司：扎维亚石油混合厂遭无人机袭击，未造成损失或伤亡。这是周日和周一针对扎维耶石油资产的第三次攻击。",
+          "url": "https://flash.jin10.com/detail/20260811060353095800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        },
+        {
+          "title": "消息人士称，英国石油公司将向特立尼达国家天然气公司出售其在委内瑞拉的Cocuina气田20%的股份。70%的天然气将用于生产液化天然气，其余部分将用于石化产品。最终投资决策可能在年底前做出。",
+          "url": "https://flash.jin10.com/detail/20260811005041104800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "地震已致77人死亡，哥伦比亚宣布进入国家灾难状态",
+          "url": "https://news.ifeng.com/c/8vUHiH9a6H6",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时09分 ~ 06时46分]"
+        },
+        {
+          "title": "阿维塔高管称不认为和华为的合作模式是「必要项」，阿维塔具备差异化的能力，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2070107144536560600",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 15时22分]"
+        },
+        {
+          "title": "货币政策分析公司（Monetary Policy Analytics）经济学家Derek Tang：（相比1998年、2011年）2026年这一次美国与日本联手干预日元汇率时，美联储”并未出资”参与美方的干预行动。 官方数据可能要到今年晚些时候才会公布以证实这一点。 其干预能力理论上仅受限于其意愿。",
+          "url": "https://wallstreetcn.com/livenews/3147693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 06时46分]"
+        },
+        {
+          "title": "智利国家铜业委员会：智利科拉瓦西矿6月份铜产量同比增长1.7%，达到34,900吨。",
+          "url": "https://flash.jin10.com/detail/20260811051431874800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时46分]"
+        },
+        {
+          "title": "智利国家铜业委员会：智利埃斯孔迪达铜矿6月份铜产量同比增长45.8%，达到111,400吨。",
+          "url": "https://flash.jin10.com/detail/20260811051428380800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时46分]"
+        },
+        {
+          "title": "智利国家铜业委员会：智利国家铜业公司6月份铜产量同比下降4.8%至114,400吨。",
+          "url": "https://flash.jin10.com/detail/20260811051120121800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时46分]"
+        },
+        {
+          "title": "国家防总、应急管理部针对北京、天津启动防汛四级应急响应",
+          "url": "https://wallstreetcn.com/livenews/3147845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时58分]"
+        },
+        {
+          "title": "新西兰联储：发布关于引入审慎税的咨询文件。咨询内容包括提议对所有审慎成本及其他费用征收全额成本回收税。",
+          "url": "https://flash.jin10.com/detail/20260811050925355800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时46分]"
+        },
+        {
+          "title": "哥伦比亚因强震进入国家灾难状态",
+          "url": "https://www.toutiao.com/trending/7672416286558653958/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 12时26分]"
+        },
+        {
+          "title": "胖东来发布顾客间侵权行为管理公示",
+          "url": "https://www.toutiao.com/trending/7671515837358145542/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 12时26分]"
+        },
+        {
+          "title": "国家卫健委回应新冠药购买难",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E6%96%B0%E5%86%A0%E8%8D%AF%E8%B4%AD%E4%B9%B0%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 13时58分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：本公司及合作伙伴将为人工智能基础设施客户创建专用资金池。",
+          "url": "https://flash.jin10.com/detail/20260811040700664800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 05时50分]"
+        },
+        {
+          "title": "河北发布暴雨橙色预警信号",
+          "url": "https://www.douyin.com/hot/2603964",
+          "source": "抖音",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时46分]"
+        },
+        {
+          "title": "瑞典国家经济研究院(NIER)：预计（瑞典）2026年GDP增长2.4%，高于6月预测的2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3147914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "泽连斯基同沙特王储通话 推进下一步无人机合作",
+          "url": "https://wallstreetcn.com/livenews/3147866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "国家防总、应急管理部针对北京、天津启动防汛四级应急响应",
+          "url": "https://flash.jin10.com/detail/20260811113818244800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "香港正考虑把Jane Street和城堡证券等交易公司纳入改革之中；相关改革料将为资产管理业带来“大刀阔斧”的减税。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3147825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "韩国官员：将采取一切可能的政策措施来降低市场波动性。 对个股杠杆ETF的投资已经减少。",
+          "url": "https://wallstreetcn.com/livenews/3147764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "国家海洋预报台发布风暴潮黄色警报",
+          "url": "https://flash.jin10.com/detail/20260811093719751800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "伊朗副外长：里海的安全不仅仅是一项区域性和内部责任，必须由沿岸国家通过商定的机制来保障。",
+          "url": "https://flash.jin10.com/detail/20260811144300942800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "知情人士称，通用汽车公司准备将其位于印第安纳州、计划投资35亿美元的电动汽车电池合资项目中的一半股权出售给合作伙伴三星SDI。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3147820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "伊朗副外长：里海沿岸国家比任何其他国家都更受该海域局势发展的影响，因此由它们承担确保里海安全、稳定和未来的首要责任也是理所当然的。",
+          "url": "https://flash.jin10.com/detail/20260811144251340800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "哥伦比亚进入“国家灾难状态”，强震致超70人遇难",
+          "url": "https://wallstreetcn.com/livenews/3147633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "河南发布红色山洪灾害气象风险预警",
+          "url": "https://wallstreetcn.com/livenews/3147818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "澳洲联储：今日的政策决定一致通过。 尽管中东冲突对通胀的影响目前来看低于预期，但整体通胀率依然过高。 委员会将密切关注数据以及对前景和风险的动态评估，以此指导未来决策。 2025年下半年通胀显著回升，今年初以来的信息证实，部分涨幅反映了更大的产能压力。 委员会仍然专注于确保高通胀不会根深蒂固。 委员会将继续采取其认为必要的措施，以使通胀可持续地回到目标水平；如果上行风险成为现实，将进一步提高现金利率目标。 通胀依然过高。短期通胀预期指标有所缓解，但仍高于今年早些时候。 截尾均值通胀率也依然保持高位，且与一季度相比变化不大。 劳动力市场领先指标显示短期内只会出现有限的缓和。 鉴于货币政策被认为具有一定限制性，委员会决定在评估经济演变情况的同时，维持现金利率目标不变。",
+          "url": "https://wallstreetcn.com/livenews/3147855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "伊朗副外长：地区近期的事态发展，特别是犹太复国主义政权和美国最近对伊朗发动的军事行动及其后续影响，再次使里海的地缘政治和战略重要性变得更加凸显。这突显了这片水域在沿岸国家战略考量及区域关系中的地位。",
+          "url": "https://flash.jin10.com/detail/20260811144235498800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "国务院新闻办公室将于2026年8月13日（星期四）上午10时举行“开局起步‘十五五’”系列主题新闻发布会，请生态环境部部长黄润秋介绍全面推进美丽中国建设有关情况，并答记者问。",
+          "url": "https://flash.jin10.com/detail/20260811093315891800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "澳大利亚政策利率 4.35%，预期 4.35%，前值 4.35%。",
+          "url": "https://wallstreetcn.com/livenews/3147853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "新加坡金管局表示，货币政策立场仍然适当。",
+          "url": "https://wallstreetcn.com/livenews/3147756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报144750元/吨，较上日16:30价格持平。",
+          "url": "https://wallstreetcn.com/livenews/3147813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "黄金测试看涨期权撤离点，回调押注在下方重新加码——增强版同步发布！",
+          "url": "https://flash.jin10.com/detail/20260811144152792800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "伊朗副外长：对于伊朗及其沿岸国家而言，里海一直不仅仅是一片水域。纵观历史，里海始终是周边国家地理格局、民族认同及国家关系的重要组成部分，并在塑造地区各族群之间的关系方面发挥了重要作用。",
+          "url": "https://flash.jin10.com/detail/20260811144144584800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "中信证券：北交所流动性走势有望在政策催化下迎来拐点",
+          "url": "https://wallstreetcn.com/livenews/3147754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "哥伦比亚因地震进入国家灾难状态",
+          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%9B%A0%E5%9C%B0%E9%9C%87%E8%BF%9B%E5%85%A5%E5%9B%BD%E5%AE%B6%E7%81%BE%E9%9A%BE%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数大致持平，报398.84点。 在十个板块中，北欧金融板块跌幅最大。 Investment AB Latour跌3.4%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3147597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "中国军号海外账号发布视频",
+          "url": "https://www.toutiao.com/trending/7672218698578149402/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "利比亚国家石油公司主席：一架无人机击中扎维耶炼油厂的满载燃料储罐。周六还发生了另一起袭击，但并未引发火灾。",
+          "url": "https://wallstreetcn.com/livenews/3147667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "欧洲STOXX 600指数收涨0.03%，报660.45点，连续第五个交易日创收盘历史新高，（在美国非农就业报告发布的次日）整体呈现出N形冲高回落走势。 欧元区STOXX 50指数收涨0.18%，报6535.62点，连续三天创收盘历史新高，7月29日结束交易以来累计上涨3.01%。 富时泛欧绩优300指数收涨0.06%，报2640.65点。",
+          "url": "https://wallstreetcn.com/livenews/3147593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "北京市发布暴雨橙色预警",
+          "url": "https://www.douyin.com/hot/2603930",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
       "match_count": 27,
       "titles": [
@@ -1052,11 +1222,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 13时58分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 15时22分]"
         },
         {
           "title": "我国民营企业创新动能持续增强",
@@ -1077,11 +1248,12 @@
             17,
             12,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 13时58分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 15时22分]"
         },
         {
           "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
@@ -1164,6 +1336,18 @@
           "time_info": "10时11分"
         },
         {
+          "title": "让“科味”更浓，恒生科技指数大调整，这一次有何不同？",
+          "url": "https://www.cls.cn/detail/2450976",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时22分]"
+        },
+        {
           "title": "特朗普媒体科技集团二季度净利润2.38亿美元，上年同期亏损0.2亿美元。",
           "url": "https://wallstreetcn.com/livenews/3147687",
           "source": "华尔街见闻-快讯",
@@ -1175,6 +1359,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时54分 ~ 06时46分]"
+        },
+        {
+          "title": "非科技板块的春天？医药板块调研热度超越半导体",
+          "url": "https://www.cls.cn/detail/2450966",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时22分]"
+        },
+        {
+          "title": "黄晓明再回应靠长鑫科技赚百亿传闻",
+          "url": "https://www.toutiao.com/trending/7672605240819089454/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时22分]"
         },
         {
           "title": "宇树科技：网上发行最终中签率0.0181%",
@@ -1237,39 +1444,6 @@
           "time_info": "[04时54分 ~ 05时50分]"
         },
         {
-          "title": "让“科味”更浓，恒生科技指数大调整，这一次有何不同？",
-          "url": "https://www.cls.cn/detail/2450976",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "黄晓明再回应靠长鑫科技赚百亿传闻",
-          "url": "https://www.toutiao.com/trending/7672605240819089454/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "非科技板块的春天？医药板块调研热度超越半导体",
-          "url": "https://www.cls.cn/detail/2450966",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
           "title": "A股MLCC概念板块冲高，双星新材涨停，昀冢科技、国风新材、风华高科、达利凯普跟涨。",
           "url": "https://flash.jin10.com/detail/20260811094014697800",
           "source": "金十数据",
@@ -1309,7 +1483,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1361,7 +1535,7 @@
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "外交部：百余名菲律宾公民因非法就业、非法居留被依法处理",
@@ -1374,8 +1548,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时09分 ~ 13时58分]"
+          "appearance_count": 11,
+          "time_info": "[03时09分 ~ 15时22分]"
         },
         {
           "title": "外交部：百余名菲律宾公民被依法处理",
@@ -1425,6 +1599,30 @@
           "time_info": "[05时50分 ~ 06时46分]"
         },
         {
+          "title": "霍尔木兹海峡重启预期降温 美国战略石油储备创40多年新低 国际油价大涨4%",
+          "url": "https://www.cls.cn/detail/2450585",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 15时22分]"
+        },
+        {
+          "title": "阿联酋总统顾问：地区不能无限期地在战争与和平之间徘徊。",
+          "url": "https://flash.jin10.com/detail/20260811145913626800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
           "title": "外交部批驳印方：藏南地区是中国领土",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%89%B9%E9%A9%B3%E5%8D%B0%E6%96%B9%EF%BC%9A%E8%97%8F%E5%8D%97%E5%9C%B0%E5%8C%BA%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%9C%9F",
           "source": "百度热搜",
@@ -1436,28 +1634,17 @@
           "time_info": "10时11分"
         },
         {
-          "title": "霍尔木兹海峡重启预期降温 美国战略石油储备创40多年新低 国际油价大涨4%",
-          "url": "https://www.cls.cn/detail/2450585",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时58分]"
-        },
-        {
           "title": "伊朗总统之子反思伊朗国际形象",
           "url": "https://www.toutiao.com/trending/7671499615899877402/",
           "source": "今日头条",
           "ranks": [
             8,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 13时58分]"
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 15时22分]"
         },
         {
           "title": "国际金价周一涨1.1%，现货白银涨3.2%",
@@ -1470,6 +1657,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 06时46分]"
+        },
+        {
+          "title": "C919将首次执行国际商业航班",
+          "url": "https://www.toutiao.com/trending/7672261104294608905/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
         },
         {
           "title": "哥伦比亚总统阿韦拉多·德拉埃斯普列亚当地时间8月10日下午表示，当天早上发生的强烈地震已造成111人遇难。（CCTV国际时讯）",
@@ -1514,6 +1712,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "A股贵金属板块高开低走，赤峰黄金跌近9%，四川黄金、招金黄金、中金黄金、山金国际、西部黄金均跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3147895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "伊朗：每当华盛顿发现自己无力开展外交，就会退而诉诸制裁",
@@ -1566,17 +1775,6 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时50分]"
-        },
-        {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
           "url": "https://www.cls.cn/detail/2450652",
           "source": "财联社热门",
@@ -1586,8 +1784,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时46分 ~ 15时22分]"
+        },
+        {
+          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[06时46分 ~ 13时58分]"
+          "time_info": "[01时01分 ~ 05时50分]"
         },
         {
           "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
@@ -1676,7 +1885,7 @@
     },
     {
       "keyword_group": "游戏 steam 显卡 内存 处理器",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "硬盘、内存价格还会降回去吗？",
@@ -1705,6 +1914,17 @@
           "time_info": "[10时11分 ~ 13时58分]"
         },
         {
+          "title": "为什么武侠游戏招式名爱用 「 降龙十八掌 」 式的华丽辞藻, 而西方中世纪骑士游戏招式却朴素得像说明书?",
+          "url": "https://www.zhihu.com/question/2070098614244864702",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
           "title": "台积电因内存短缺积压10亿美元苹果芯片？分析师郭明錤否认",
           "url": "https://flash.jin10.com/detail/20260811055637856800",
           "source": "金十数据",
@@ -1722,9 +1942,37 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "github 技术 行业 软件",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十数据整理：每日电动车行业动态汇总（2026-08-11）",
+          "url": "https://flash.jin10.com/detail/20260811145056420800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "金十图示：2026年08月11日（周二）富时中国A50指数成分股午盘收盘行情一览：成分股走势分化，保险行业全线下跌，通信设备、炼化股悉数飘红",
+          "url": "https://flash.jin10.com/detail/20260811113714606800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         }
       ]
     },
@@ -1742,23 +1990,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "github 技术 行业 软件",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年08月11日（周二）富时中国A50指数成分股午盘收盘行情一览：成分股走势分化，保险行业全线下跌，通信设备、炼化股悉数飘红",
-          "url": "https://flash.jin10.com/detail/20260811113714606800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
         }
       ]
     },
