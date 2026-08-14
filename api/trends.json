@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T16:22:32.383322+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-08-14T19:52:04.625365+08:00",
+  "total_titles_processed": 1361,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时11分 ~ 16时22分]"
+          "appearance_count": 12,
+          "time_info": "[03时11分 ~ 19时52分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -29,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时11分 ~ 16时22分]"
+          "appearance_count": 12,
+          "time_info": "[03时11分 ~ 19时52分]"
         },
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
@@ -46,19 +47,6 @@
           "time_info": "[03时11分 ~ 10时29分]"
         },
         {
-          "title": "AI给假网,吧友中招银狐病毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时11分 ~ 16时22分]"
-        },
-        {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
           "url": "https://www.zhihu.com/question/2071335529577239335",
           "source": "知乎",
@@ -70,6 +58,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时11分 ~ 12时55分]"
+        },
+        {
+          "title": "AI给假网,吧友中招银狐病毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[03时11分 ~ 19时52分]"
         },
         {
           "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
@@ -97,8 +99,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时11分 ~ 16时22分]"
+          "appearance_count": 12,
+          "time_info": "[03时11分 ~ 19时52分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -156,6 +158,19 @@
           "time_info": "[03时11分 ~ 05时55分]"
         },
         {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时50分 ~ 19时52分]"
+        },
+        {
           "title": "DeepSeek官方Agent发布",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -183,6 +198,17 @@
           "time_info": "[12时55分 ~ 16时22分]"
         },
         {
+          "title": "中国AI把价格打下来，美国巨头一口气降80%",
+          "url": "https://news.ifeng.com/c/8vaN8Ao6xPg",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
+        },
+        {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
           "url": "https://wallstreetcn.com/articles/3779332",
           "source": "华尔街见闻",
@@ -196,18 +222,6 @@
           "time_info": "[03时11分 ~ 07时51分]"
         },
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时50分 ~ 16时22分]"
-        },
-        {
           "title": "DeepSeek Harness发布",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -219,6 +233,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时11分 ~ 07时51分]"
+        },
+        {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 19时52分]"
         },
         {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
@@ -342,9 +369,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
+          "url": "https://www.zhihu.com/question/2071486982732223991",
+          "source": "知乎",
+          "ranks": [
+            17,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 19时52分]"
         },
         {
           "title": "OpenAI 上市前年化营收突破 400 亿美元",
@@ -369,18 +408,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时20分 ~ 16时22分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 16时22分]"
         },
         {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
@@ -420,6 +447,29 @@
           "time_info": "[12时55分 ~ 16时22分]"
         },
         {
+          "title": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍",
+          "url": "https://www.cls.cn/detail/2454270",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 19时52分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
+          "url": "https://www.zhihu.com/question/2071375581464343126",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 19时52分]"
+        },
+        {
           "title": "苹果未来几个月将在中国发布一套AI工具，该AI模型的训练得到阿里巴巴的支持。（路透）",
           "url": "https://wallstreetcn.com/livenews/3149477",
           "source": "华尔街见闻-快讯",
@@ -441,6 +491,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时50分 ~ 07时51分]"
+        },
+        {
+          "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
+          "url": "https://www.cls.cn/detail/2454596",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
         },
         {
           "title": "DeepSeek官网撤公告疑似回滚",
@@ -498,17 +559,6 @@
           "time_info": "14时20分"
         },
         {
-          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
-          "url": "https://www.zhihu.com/question/2071375581464343126",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
           "title": "AI驱动半导体景气度高涨，两大晶圆厂第二季度收入均创新高",
           "url": "https://wallstreetcn.com/livenews/3149345",
           "source": "华尔街见闻-快讯",
@@ -520,24 +570,13 @@
           "time_info": "07时51分"
         },
         {
-          "title": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍",
-          "url": "https://www.cls.cn/detail/2454270",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
           "title": "iPhoneAir2再爆料",
           "url": "https://s.weibo.com/weibo?q=%23iPhoneAir2%E5%86%8D%E7%88%86%E6%96%99%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -562,17 +601,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
-        },
-        {
-          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
-          "url": "https://www.zhihu.com/question/2071486982732223991",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
         },
         {
           "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
@@ -614,7 +642,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -636,7 +664,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -655,7 +683,7 @@
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 32,
+      "match_count": 39,
       "titles": [
         {
           "title": "伊朗将正式加入金砖国家新开发银行",
@@ -667,6 +695,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时11分 ~ 05时55分]"
+        },
+        {
+          "title": "国开行：前7个月国家开发银行发放养老产业贷款超百亿元",
+          "url": "https://wallstreetcn.com/livenews/3149734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "红米新品发布后，小米高管回应网友评论称「内存实在太贵了」，反映了当前手机行业哪些挑战？",
@@ -698,11 +737,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E9%BB%98%E8%8C%A834%E9%A1%B9%E6%94%B9%E9%9D%A9",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 19时52分]"
         },
         {
           "title": "市场消息：英国议会标准调查对改革党领袖奈杰尔·法拉奇的调查现已在议会网站上列为“活跃”，此前显示为“暂停”。",
@@ -711,7 +751,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -720,11 +760,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%E5%8F%91%E5%B8%83%20GLM-5.3%20%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 19时52分]"
+        },
+        {
+          "title": "智谱发布 GLM-5.3，如何评价前沿编程能力与涌现的网络安全能力?",
+          "url": "https://www.zhihu.com/question/2071591447367770456",
+          "source": "知乎",
+          "ranks": [
+            18,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 19时52分]"
         },
         {
           "title": "应用材料公司CEO：大客户正向公司提供更长期的合作承诺，并实时更新未来 8 个季度的需求预测，以确保供应链能跟上产能爬坡的步伐。目前预计 2026 自然年整体封装业务营收增幅将超过 70%。 CEO预计，公司全球服务业务（AGS）2026 年的营收增速将超过 20%，未来长期年化增速也有望保持在15%左右。",
@@ -788,6 +841,17 @@
           "time_info": "[03时11分 ~ 04时52分]"
         },
         {
+          "title": "马科斯：没想疏远中国，看好经济合作",
+          "url": "https://news.ifeng.com/c/8vaSjYUOLg5",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
+        },
+        {
           "title": "阿联酋国家石油公司（ADNOC）称，其两艘船只周四在霍尔木兹海峡航行时遭到袭击，暂无人员受伤报告。",
           "url": "https://wallstreetcn.com/livenews/3149315",
           "source": "华尔街见闻-快讯",
@@ -798,6 +862,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时55分]"
+        },
+        {
+          "title": "马科斯：没想疏远中国 看好经济合作",
+          "url": "https://www.toutiao.com/trending/7673781824950124563/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
+        },
+        {
+          "title": "国家体育总局：坚决反对任何形式“追私”行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33783985",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
+        },
+        {
+          "title": "五粮液要求经销商不得低于 800 元卖酒，低价出货将遭处罚，这合法吗？控价政策会给经销商带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2071599755390444398",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
         },
         {
           "title": "伊朗议会国家安全委员会主席阿齐兹：若有人继续向伊朗的敌人屈服，你们的主权就将持续面临风险，国家地位也会被削弱。但若有人甘当敌人的工具，在地区内轻举妄动，伊朗将作出果断而强硬的回应。",
@@ -877,6 +974,17 @@
           "time_info": "14时20分"
         },
         {
+          "title": "国家发改委紧急安排3000万元支持河南灾后应急恢复",
+          "url": "https://wallstreetcn.com/livenews/3149718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "白宫：美国总统特朗普将对部分缺乏特定能力的小型无人机加征25%从价关税，理由是相关产品涉及国家安全问题。",
           "url": "https://flash.jin10.com/detail/20260814052554722800",
           "source": "金十数据",
@@ -905,18 +1013,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "智谱发布 GLM-5.3，如何评价前沿编程能力与涌现的网络安全能力?",
-          "url": "https://www.zhihu.com/question/2071591447367770456",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -960,7 +1057,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -982,7 +1079,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -996,6 +1093,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "商务部、国家发展改革委发布2026年农产品进口关税配额再分配公告",
+          "url": "https://flash.jin10.com/detail/20260814191530879800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "中国人民银行副行长邹澜出席金砖国家财长和央行行长会议",
@@ -1023,7 +1131,7 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "UP主泰拉瑞亚再创新历史",
@@ -1150,7 +1258,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -1186,7 +1294,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -1257,6 +1365,17 @@
           "time_info": "10时29分"
         },
         {
+          "title": "浪潮集团架构调整：智能终端并入智慧科技，董事长孙业志卸任",
+          "url": "https://wallstreetcn.com/livenews/3149717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "A股元件板块冲高，华正新材、艾华集团涨停，中英科技、威尔高、南亚新材、则成电子、中富电路跟涨。",
           "url": "https://flash.jin10.com/detail/20260814094202254800",
           "source": "金十数据",
@@ -1296,7 +1415,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -1354,12 +1473,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "网宿科技：2026年上半年净利润3.48亿元，同比下降6.61%。",
+          "url": "https://wallstreetcn.com/livenews/3149701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "翱捷科技：筹划发行H股并在香港联交所上市。",
+          "url": "https://wallstreetcn.com/livenews/3149700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "华是科技：拟以3亿元收购傲星科技30%股权",
+          "url": "https://flash.jin10.com/detail/20260814190945529800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "美股存储芯片股盘前走高，闪迪涨超6%，美光科技涨3%，西部数据涨近3%，希捷科技涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3149692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         }
       ]
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
@@ -1401,9 +1564,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "直击中芯国际业绩会：Q2晶圆量价提升 算力配套芯片供不应求",
+          "url": "https://www.cls.cn/detail/2454218",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 19时52分]"
         },
         {
           "title": "俄外交部驳斥日方就普京登岛提出的抗议",
@@ -1471,17 +1646,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
-        },
-        {
-          "title": "直击中芯国际业绩会：Q2晶圆量价提升 算力配套芯片供不应求",
-          "url": "https://www.cls.cn/detail/2454218",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
         },
         {
           "title": "伊朗外交部再次谴责美以违反国际人道法",
@@ -1572,6 +1736,17 @@
           "time_info": "07时51分"
         },
         {
+          "title": "科达制造：终止购买广东特福国际控股有限公司51.55%股权。",
+          "url": "https://wallstreetcn.com/livenews/3149705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "中芯国际高管：三季度开出或下线的晶圆使用了新的价格。",
           "url": "https://wallstreetcn.com/livenews/3149395",
           "source": "华尔街见闻-快讯",
@@ -1625,6 +1800,103 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "github 技术 行业 软件",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "深圳多个公园安装“定向音响”破解广场舞噪音难题，技术单位：波束成形抵消噪音",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33775309",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时11分 ~ 14时20分]"
+        },
+        {
+          "title": "费城半导体指数即将重回技术性牛市 华尔街怎么看？",
+          "url": "https://www.cls.cn/detail/2453364",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时11分 ~ 05时55分]"
+        },
+        {
+          "title": "银湖正在洽谈收购企业云应用软件公司Workday。Workday股价迅速飙升14%。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3149280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "消息人士：银湖资本正在洽谈收购企业云应用软件公司Workday，相关磋商仍在进行中。",
+          "url": "https://flash.jin10.com/detail/20260814023458390800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "SK集团董事长崔泰源表示，SK海力士正考虑以合资方式建设新的存储芯片工厂，以降低传统行业盛衰周期下巨额资本支出和产能过剩带来的风险。",
+          "url": "https://wallstreetcn.com/livenews/3149476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 14时20分]"
+        },
+        {
+          "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3149311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时55分]"
+        },
+        {
+          "title": "美国财长贝森特：我们正在针对伊朗的全球银行账户实施最大力度的施压，我们采取的施压行动使伊朗银行业崩溃。",
+          "url": "https://flash.jin10.com/detail/20260814073516828800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "金融监管总局：二季度末我国银行业金融机构本外币资产总额同比增长6.6%",
+          "url": "https://wallstreetcn.com/livenews/3149707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         }
       ]
     },
@@ -1712,92 +1984,6 @@
       ]
     },
     {
-      "keyword_group": "github 技术 行业 软件",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "深圳多个公园安装“定向音响”破解广场舞噪音难题，技术单位：波束成形抵消噪音",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33775309",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时11分 ~ 14时20分]"
-        },
-        {
-          "title": "费城半导体指数即将重回技术性牛市 华尔街怎么看？",
-          "url": "https://www.cls.cn/detail/2453364",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时11分 ~ 05时55分]"
-        },
-        {
-          "title": "银湖正在洽谈收购企业云应用软件公司Workday。Workday股价迅速飙升14%。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3149280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "消息人士：银湖资本正在洽谈收购企业云应用软件公司Workday，相关磋商仍在进行中。",
-          "url": "https://flash.jin10.com/detail/20260814023458390800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "SK集团董事长崔泰源表示，SK海力士正考虑以合资方式建设新的存储芯片工厂，以降低传统行业盛衰周期下巨额资本支出和产能过剩带来的风险。",
-          "url": "https://wallstreetcn.com/livenews/3149476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 14时20分]"
-        },
-        {
-          "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
-          "url": "https://wallstreetcn.com/livenews/3149311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时55分]"
-        },
-        {
-          "title": "美国财长贝森特：我们正在针对伊朗的全球银行账户实施最大力度的施压，我们采取的施压行动使伊朗银行业崩溃。",
-          "url": "https://flash.jin10.com/detail/20260814073516828800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 美元",
       "match_count": 4,
       "titles": [
@@ -1830,7 +2016,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -1857,11 +2043,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 16时22分]"
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 19时52分]"
         },
         {
           "title": "曝苹果iPhone 18搭载12GB内存",
