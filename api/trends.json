@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T20:52:43.177156+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2026-08-16T21:37:34.004584+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时39分 ~ 20时52分]"
+          "appearance_count": 10,
+          "time_info": "[02时39分 ~ 21时37分]"
         },
         {
           "title": "最优“AI泡沫交易”：同时做多“傲慢”与“偏见”",
@@ -36,6 +36,20 @@
           "time_info": "[07时27分 ~ 18时31分]"
         },
         {
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时47分 ~ 21时37分]"
+        },
+        {
           "title": "博通一夜跌6%：AI的下一道坎，是融资成本",
           "url": "https://wallstreetcn.com/articles/3779512",
           "source": "华尔街见闻",
@@ -49,20 +63,6 @@
           "time_info": "[02时39分 ~ 17时34分]"
         },
         {
-          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://www.cls.cn/detail/2455237",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时47分 ~ 20时52分]"
-        },
-        {
           "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
           "url": "https://wallstreetcn.com/articles/3779518",
           "source": "华尔街见闻",
@@ -70,23 +70,12 @@
             7,
             6,
             5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时34分 ~ 20时52分]"
-        },
-        {
-          "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
-          "url": "https://www.zhihu.com/question/2071619812795609447",
-          "source": "知乎",
-          "ranks": [
             3,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时39分 ~ 09时47分]"
+          "appearance_count": 7,
+          "time_info": "[13时34分 ~ 21时37分]"
         },
         {
           "title": "中国医生用AI解决数学圈22年难题",
@@ -97,8 +86,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 20时52分]"
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 21时37分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -112,8 +101,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时34分 ~ 20时52分]"
+          "appearance_count": 7,
+          "time_info": "[13时34分 ~ 21时37分]"
+        },
+        {
+          "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
+          "url": "https://www.zhihu.com/question/2071619812795609447",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时39分 ~ 09时47分]"
         },
         {
           "title": "美国大模型帮日本对AI进行投毒",
@@ -140,6 +141,20 @@
           "time_info": "[07时27分 ~ 16时38分]"
         },
         {
+          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 21时37分]"
+        },
+        {
           "title": "美国大模型帮日本对AI进行投毒",
           "url": "https://www.toutiao.com/trending/7673727363703639571/",
           "source": "今日头条",
@@ -149,6 +164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "全球开源AI大洗牌 中国开源模型加速崛起",
+          "url": "https://wallstreetcn.com/livenews/3150072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "“AI版金融创新”：博通大跌背后的AI芯片“卖方担保”模式",
@@ -169,7 +195,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -214,6 +240,19 @@
           "time_info": "[13时35分 ~ 18时31分]"
         },
         {
+          "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
+          "url": "https://www.cls.cn/detail/2455252",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 21时37分]"
+        },
+        {
           "title": "“AI版金融创新”：CDO vs CCO=2008 vs 2026？",
           "url": "https://wallstreetcn.com/articles/3779499",
           "source": "华尔街见闻",
@@ -240,19 +279,6 @@
           "time_info": "[02时39分 ~ 09时47分]"
         },
         {
-          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 20时52分]"
-        },
-        {
           "title": "大爷手搓AI长片赛博英雄传",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
           "source": "bilibili 热搜",
@@ -265,18 +291,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时39分 ~ 16时38分]"
-        },
-        {
-          "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
-          "url": "https://www.cls.cn/detail/2455252",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 20时52分]"
         },
         {
           "title": "王祖贤：我们是用AI不是被AI用",
@@ -327,6 +341,17 @@
           "time_info": "[02时39分 ~ 09时47分]"
         },
         {
+          "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
+          "url": "https://www.cls.cn/detail/2455353",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时37分]"
+        },
+        {
           "title": "法巴银行：欧洲汽车股被低估，AI受益逻辑需等待市场共识形成",
           "url": "https://flash.jin10.com/detail/20260816151639180800",
           "source": "金十数据",
@@ -349,6 +374,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时47分 ~ 13时35分]"
+        },
+        {
+          "title": "南极冰川现“神秘生物”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E6%9E%81%E5%86%B0%E5%B7%9D%E7%8E%B0%E2%80%9C%E7%A5%9E%E7%A7%98%E7%94%9F%E7%89%A9%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时37分]"
+        },
+        {
+          "title": "一条AI短片演绎时间焦虑",
+          "url": "https://www.douyin.com/hot/2612104",
+          "source": "抖音",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时37分]"
         },
         {
           "title": "固德威与深算院达成战略合作 共建AI+智慧能源联合创新中心",
@@ -397,28 +445,6 @@
           "time_info": "09时47分"
         },
         {
-          "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
-          "url": "https://www.cls.cn/detail/2455353",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
-          "title": "南极冰川现“神秘生物”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E6%9E%81%E5%86%B0%E5%B7%9D%E7%8E%B0%E2%80%9C%E7%A5%9E%E7%A7%98%E7%94%9F%E7%89%A9%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
           "title": "福建：完善AI基础设施建设，加快构建全省一体化算力网",
           "url": "https://flash.jin10.com/detail/20260816080958361800",
           "source": "金十数据",
@@ -463,6 +489,28 @@
           "time_info": "07时27分"
         },
         {
+          "title": "AI如何能辅助办公",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E8%83%BD%E8%BE%85%E5%8A%A9%E5%8A%9E%E5%85%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33792037",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "机构：债券交易员正为AI企业的“影子信贷”担保而忧心忡忡",
           "url": "https://flash.jin10.com/detail/20260816034637477800",
           "source": "金十数据",
@@ -496,15 +544,15 @@
           "time_info": "09时47分"
         },
         {
-          "title": "一条AI短片演绎时间焦虑",
-          "url": "https://www.douyin.com/hot/2612104",
-          "source": "抖音",
+          "title": "张朝阳：我从来不看AI漫剧",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%EF%BC%9A%E6%88%91%E4%BB%8E%E6%9D%A5%E4%B8%8D%E7%9C%8BAI%E6%BC%AB%E5%89%A7",
+          "source": "百度热搜",
           "ranks": [
-            20
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时52分"
+          "time_info": "21时37分"
         },
         {
           "title": "AI动画版大圣归来",
@@ -623,6 +671,30 @@
           "time_info": "[02时39分 ~ 13时35分]"
         },
         {
+          "title": "两人为博眼球发布不实信息被处罚",
+          "url": "https://www.toutiao.com/trending/7674048234083368996/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 21时37分]"
+        },
+        {
+          "title": "我国科学家发布大豆垂直大模型“丰菽”2.0",
+          "url": "https://wallstreetcn.com/livenews/3150051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 21时37分]"
+        },
+        {
           "title": "预告：国新办17日下午3时举行新闻发布会 介绍2026年7月份国民经济运行情况",
           "url": "https://flash.jin10.com/detail/20260816124337792800",
           "source": "金十数据",
@@ -633,18 +705,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时35分 ~ 16时38分]"
-        },
-        {
-          "title": "我国科学家发布大豆垂直大模型“丰菽”2.0",
-          "url": "https://wallstreetcn.com/livenews/3150051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 20时52分]"
         },
         {
           "title": "预告：国新办将于8月17日举行新闻发布会 介绍2026年7月份国民经济运行情况",
@@ -659,17 +719,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时35分 ~ 18时31分]"
-        },
-        {
-          "title": "两人为博眼球发布不实信息被处罚",
-          "url": "https://www.toutiao.com/trending/7674048234083368996/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 20时52分]"
         },
         {
           "title": "雷军晒图：15年前的今天小米手机发布",
@@ -760,6 +809,18 @@
           "time_info": "[07时27分 ~ 09时47分]"
         },
         {
+          "title": "为什么中日韩三个国家长相非常类似语言却不属于同一个语系？",
+          "url": "https://www.zhihu.com/question/289965734",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时37分]"
+        },
+        {
           "title": "山东梁山把二手车卖到了110个国家",
           "url": "https://www.toutiao.com/trending/7674055275451580452/",
           "source": "今日头条",
@@ -816,17 +877,6 @@
           "time_info": "07时27分"
         },
         {
-          "title": "为什么中日韩三个国家长相非常类似语言却不属于同一个语系？",
-          "url": "https://www.zhihu.com/question/289965734",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
           "title": "莫迪：印度2047年要成发达国家",
           "url": "https://www.toutiao.com/trending/7673530396197404698/",
           "source": "今日头条",
@@ -864,19 +914,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时34分 ~ 20时52分]"
-        },
-        {
-          "title": "8月15日，中国外交部国防部都加班了",
-          "url": "https://news.ifeng.com/c/8vd6BYcjMVc",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 18时31分]"
+          "appearance_count": 7,
+          "time_info": "[13时34分 ~ 21时37分]"
         },
         {
           "title": "光明日报刊文评日本政要参拜靖国神社：对历史正义的亵渎，对战后国际秩序的挑衅",
@@ -889,8 +928,19 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时34分 ~ 21时37分]"
+        },
+        {
+          "title": "8月15日，中国外交部国防部都加班了",
+          "url": "https://news.ifeng.com/c/8vd6BYcjMVc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时34分 ~ 20时52分]"
+          "time_info": "[09时47分 ~ 18时31分]"
         },
         {
           "title": "日本政要参拜供奉甲级战犯的靖国神社，外交部：严正交涉、强烈抗议",
@@ -966,6 +1016,42 @@
           "time_info": "[17时34分 ~ 18时31分]"
         },
         {
+          "title": "紫金黄金国际：上半年矿产金产量同比增长44%至约27.3吨",
+          "url": "https://wallstreetcn.com/livenews/3150058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时37分]"
+        },
+        {
+          "title": "紫金黄金国际：上半年母公司拥有人应占溢利约14.5亿美元 同比增长179%",
+          "url": "https://wallstreetcn.com/livenews/3150057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时37分]"
+        },
+        {
+          "title": "紫金黄金国际：上半年矿产金产量同比增长44%至约27.3吨",
+          "url": "https://flash.jin10.com/detail/20260816184007933800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时37分]"
+        },
+        {
           "title": "伊朗外交部强烈谴责以色列对黎袭击",
           "url": "https://flash.jin10.com/detail/20260816144217334800",
           "source": "金十数据",
@@ -987,39 +1073,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
-        },
-        {
-          "title": "紫金黄金国际：上半年矿产金产量同比增长44%至约27.3吨",
-          "url": "https://wallstreetcn.com/livenews/3150058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
-          "title": "紫金黄金国际：上半年母公司拥有人应占溢利约14.5亿美元 同比增长179%",
-          "url": "https://wallstreetcn.com/livenews/3150057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
-          "title": "紫金黄金国际：上半年矿产金产量同比增长44%至约27.3吨",
-          "url": "https://flash.jin10.com/detail/20260816184007933800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
         },
         {
           "title": "以色列高官极端言论震惊国际社会",
@@ -1083,7 +1136,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         }
@@ -1091,8 +1144,19 @@
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "深圳机场暑期通关客流创新高",
+          "url": "https://wallstreetcn.com/livenews/3150073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
         {
           "title": "下周重磅日程：中国7月经济数据，阿里、小米、天孚通信、兆易创新、长飞光纤财报，宇树科技上市在即",
           "url": "https://wallstreetcn.com/articles/3779445",
@@ -1102,8 +1166,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 20时52分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 21时37分]"
         },
         {
           "title": "广东上线「Token 贷」，银行以企业 Token 消耗、业务订单等作为授信核心依据，如何看待这一创新模式？",
@@ -1154,6 +1218,65 @@
           "time_info": "[16时38分 ~ 18时31分]"
         },
         {
+          "title": "中信建投：当前算力产业链需求仍具韧性 A股科技修复尚未结束",
+          "url": "https://flash.jin10.com/detail/20260816193746805800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时37分]"
+        },
+        {
+          "title": "中信建投：当前算力产业链需求仍具韧性，A股科技修复尚未结束",
+          "url": "https://wallstreetcn.com/livenews/3150060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时37分]"
+        },
+        {
+          "title": "宇树科技IPO热下的噪音：“暗盘交易”传闻实为捕风捉影 背后风险不容小觑",
+          "url": "https://www.cls.cn/detail/2455292",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时37分]"
+        },
+        {
+          "title": "中信证券：恒生科技指数的调整具有显著事件效应",
+          "url": "https://flash.jin10.com/detail/20260816184629113800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时37分]"
+        },
+        {
+          "title": "中信证券：恒生科技指数的调整具有显著事件效应",
+          "url": "https://wallstreetcn.com/livenews/3150056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时37分]"
+        },
+        {
           "title": "宇树科技IPO：暗盘交易系捕风捉影，背后风险不容小觑",
           "url": "https://wallstreetcn.com/livenews/3149984",
           "source": "华尔街见闻-快讯",
@@ -1163,61 +1286,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 07时27分]"
-        },
-        {
-          "title": "中信建投：当前算力产业链需求仍具韧性 A股科技修复尚未结束",
-          "url": "https://flash.jin10.com/detail/20260816193746805800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
-          "title": "中信建投：当前算力产业链需求仍具韧性，A股科技修复尚未结束",
-          "url": "https://wallstreetcn.com/livenews/3150060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
-          "title": "宇树科技IPO热下的噪音：“暗盘交易”传闻实为捕风捉影 背后风险不容小觑",
-          "url": "https://www.cls.cn/detail/2455292",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
-          "title": "中信证券：恒生科技指数的调整具有显著事件效应",
-          "url": "https://flash.jin10.com/detail/20260816184629113800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
-          "title": "中信证券：恒生科技指数的调整具有显著事件效应",
-          "url": "https://wallstreetcn.com/livenews/3150056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
         },
         {
           "title": "纳指科技ETF景顺：二级市场价格溢价 8月17日停牌后复牌",
@@ -1238,6 +1306,20 @@
       "titles": [
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/articles/3779527",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 21时37分]"
+        },
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
           "url": "https://wallstreetcn.com/livenews/3150029",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -1251,20 +1333,6 @@
           "time_info": "[13时35分 ~ 18时31分]"
         },
         {
-          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
-          "url": "https://wallstreetcn.com/articles/3779527",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 20时52分]"
-        },
-        {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
           "url": "https://wallstreetcn.com/articles/3779522",
           "source": "华尔街见闻",
@@ -1274,8 +1342,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 20时52分]"
+          "appearance_count": 4,
+          "time_info": "[17时34分 ~ 21时37分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
