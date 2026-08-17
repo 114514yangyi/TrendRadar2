@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T11:07:11.853765+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2026-08-17T18:39:16.775744+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI Qwen DeepSeek Claude",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
@@ -119,6 +119,40 @@
           "time_info": "[02时38分 ~ 11时07分]"
         },
         {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时06分 ~ 18时39分]"
+        },
+        {
+          "title": "哪些券商的Skills率先在work buddy上线了？AI竞争换了战场",
+          "url": "https://www.cls.cn/detail/2455726",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
+          "url": "https://www.zhihu.com/question/2061136311206073648",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
           "title": "大爷手搓AI长片赛博英雄传",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
           "source": "bilibili 热搜",
@@ -181,17 +215,6 @@
           "time_info": "[02时38分 ~ 07时27分]"
         },
         {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时06分 ~ 11时07分]"
-        },
-        {
           "title": "券商晨会精华：AI定价重心将从“涨价”转向“量增”",
           "url": "https://www.cls.cn/detail/2455490",
           "source": "财联社热门",
@@ -236,6 +259,50 @@
           "time_info": "[11时06分 ~ 11时07分]"
         },
         {
+          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
+          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
+          "url": "https://wallstreetcn.com/articles/3779562",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "AI“养蛊”早期观察：Anthropic警告智能体为争夺地盘相互谋划“暗杀”",
+          "url": "https://www.cls.cn/detail/2455627",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "AI故事主角又换了？华尔街开始大举押注云计算赛道",
+          "url": "https://flash.jin10.com/detail/20260817181218865800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
           "title": "Anthropic CEO：击败AI怀疑论者的最好方式就是兑现炒作承诺",
           "url": "https://flash.jin10.com/detail/20260817062707189800",
           "source": "金十数据",
@@ -256,12 +323,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "周鸿祎：马斯克要把整个公司装进AI",
+          "url": "https://www.toutiao.com/trending/7674193139624165422/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         }
       ]
     },
     {
       "keyword_group": "国家 改革 政策 发布 合作",
-      "match_count": 20,
+      "match_count": 27,
       "titles": [
         {
           "title": "煮ル果実与洛天依合作新曲",
@@ -278,13 +356,35 @@
           "time_info": "[02时38分 ~ 11时07分]"
         },
         {
+          "title": "宇树发布超人机器人",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%B6%85%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "多地密集出台住房公积金优化调整政策",
+          "url": "https://www.toutiao.com/trending/7674921277458681370/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
           "title": "能源价格抵消刺激政策，泰国二季度经济增速放缓至1.9%",
           "url": "https://flash.jin10.com/detail/20260817105306064800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         },
@@ -364,7 +464,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         },
@@ -386,7 +486,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         },
@@ -408,7 +508,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         },
@@ -419,9 +519,53 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
+        },
+        {
+          "title": "宇树科技发布“超人” 突破全人类极限",
+          "url": "https://www.cls.cn/detail/2455841",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "宇树发布超人机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%B6%85%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "支付宝发布国内首个智能体商业底座，支持智能体大规模进入生活服务场景",
+          "url": "https://wallstreetcn.com/livenews/3150410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "泰国国家机构：预计泰国2026年GDP增速预期为2.0%—2.5%，5月预期为1.5%—2.5%。",
@@ -430,7 +574,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         },
@@ -441,7 +585,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         },
@@ -452,7 +596,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         },
@@ -463,7 +607,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         },
@@ -485,26 +629,38 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
+        },
+        {
+          "title": "国家发展改革委部署加快2026年新型政策性金融工具投放工作 加大对民间投资项目支持力度",
+          "url": "https://wallstreetcn.com/livenews/3150390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         }
       ]
     },
     {
       "keyword_group": "科研 论文 大模型 科技 创新 成果",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
         {
           "title": "下周重磅日程：中国7月经济数据，阿里、小米、天孚通信、兆易创新、长飞光纤财报，宇树科技上市在即",
           "url": "https://wallstreetcn.com/articles/3779445",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时38分 ~ 11时07分]"
+          "appearance_count": 7,
+          "time_info": "[02时38分 ~ 18时39分]"
         },
         {
           "title": "两代科研人复活曾灭绝的植物",
@@ -541,15 +697,37 @@
           "time_info": "[02时38分 ~ 11时07分]"
         },
         {
+          "title": "长鑫科技股价再创新高 市值重回4万亿以上 机构：三重利好共振打开业绩空间",
+          "url": "https://www.cls.cn/detail/2455825",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
           "title": "恒生科技指数日内涨幅扩大至2%，商汤涨超8%，华虹宏力涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3150177",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
+        },
+        {
+          "title": "雪峰科技：2026年上半年净利润2.54亿元，同比增长9.85%",
+          "url": "https://flash.jin10.com/detail/20260817181609452800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "A股科技修复行情延续，机构：结构性轮动或成主旋律",
@@ -601,13 +779,24 @@
           "time_info": "[02时38分 ~ 06时29分]"
         },
         {
+          "title": "俄专家：美国航母长期部署暴露脆弱性，作战成果有限",
+          "url": "https://flash.jin10.com/detail/20260817181604321800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
           "title": "金十图示：2026年08月17日（周一）港A科技互联网公司市值排名TOP 50一览",
           "url": "https://flash.jin10.com/detail/20260817105039266800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         },
@@ -618,9 +807,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
+        },
+        {
+          "title": "大恒科技：拟以1.1亿元受让中石光芯5%股权，推动公司切入光芯片领域",
+          "url": "https://wallstreetcn.com/livenews/3150431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "新发基金频现提前结募，多位绩优基金经理看好科技成长",
@@ -640,9 +840,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走高涨超3%，全市场逾百股涨停，半导体、算力硬件等科技赛道爆发",
+          "url": "https://www.cls.cn/detail/2456053",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "杠杆出清行情或近尾声，全球科技股再迎资金流入",
@@ -662,7 +873,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         },
@@ -673,7 +884,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         },
@@ -684,7 +895,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         },
@@ -695,16 +906,51 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
+        },
+        {
+          "title": "商务部李成钢会见美国赛默飞世尔科技公司全球总裁江志成",
+          "url": "https://wallstreetcn.com/livenews/3150402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "洁美科技：拟追加4.28亿元投资华北产研总部基地项目 扩大MLCC离型膜产能",
+          "url": "https://wallstreetcn.com/livenews/3150398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         }
       ]
     },
     {
       "keyword_group": "国际 外交 战争",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "战争无正义?日媒装可怜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357784&amp;topic_name=%E6%88%98%E4%BA%89%E6%97%A0%E6%AD%A3%E4%B9%89%3F%E6%97%A5%E5%AA%92%E8%A3%85%E5%8F%AF%E6%80%9C",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时38分 ~ 18时39分]"
+        },
         {
           "title": "据沙特阿拉比亚电视台：沙特外交大臣在利雅得会见了也门外交部长。沙特外交部表示，会谈中“重申了沙特王国坚定支持也门安全与稳定的立场”。",
           "url": "https://flash.jin10.com/detail/20260817021247433800",
@@ -715,18 +961,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
-        },
-        {
-          "title": "战争无正义?日媒装可怜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357784&amp;topic_name=%E6%88%98%E4%BA%89%E6%97%A0%E6%AD%A3%E4%B9%89%3F%E6%97%A5%E5%AA%92%E8%A3%85%E5%8F%AF%E6%80%9C",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时38分 ~ 11时07分]"
         },
         {
           "title": "英媒：两国外交危机持续发酵之际 美国考虑制裁巴西最高法院法官",
@@ -823,6 +1057,39 @@
           "time_info": "02时38分"
         },
         {
+          "title": "外交部发言人点赞“会飞的救生圈”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%91%E8%A8%80%E4%BA%BA%E7%82%B9%E8%B5%9E%E2%80%9C%E4%BC%9A%E9%A3%9E%E7%9A%84%E6%95%91%E7%94%9F%E5%9C%88%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "招商证券：拟向招证国际增资不超过76亿港元",
+          "url": "https://wallstreetcn.com/livenews/3150426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "海纳国际：将京东(JD.O)目标价从35美元下调至30美元。",
+          "url": "https://flash.jin10.com/detail/20260817180440775800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，我们在军事和政治上都赢得了这场战争。这并非指我们摧毁了美军；而是指美国和以色列曾带着9项明确且公开宣称的目标向我们发动攻击，但无论在哪个层面，他们都未能实现其中任何一项。",
           "url": "https://flash.jin10.com/detail/20260817025637231800",
           "source": "金十数据",
@@ -891,6 +1158,68 @@
       ]
     },
     {
+      "keyword_group": "github 技术 行业 软件",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "小摩CEO警告英国财政大臣切勿提高银行业税收",
+          "url": "https://flash.jin10.com/detail/20260817041847175800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时29分]"
+        },
+        {
+          "title": "中国7月规模以上工业增加值同比放缓至4.5%，装备制造业和高技术制造业增势良好",
+          "url": "https://wallstreetcn.com/articles/3779594",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "我国在稀土检测关键技术领域取得重要进展",
+          "url": "https://www.cls.cn/detail/2455699",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "加拿大总理卡尼：我们致力于在全国各地建设更多经济适用房。正因如此，我们推出了“加拿大住房计划”。通过加拿大工人、加拿大材料和加拿大技术，快速大规模地建设住房。",
+          "url": "https://flash.jin10.com/detail/20260817003208964800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "港迪技术：全资子公司签订6916.8万元项目合同",
+          "url": "https://flash.jin10.com/detail/20260817180413373800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -924,40 +1253,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 11时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "github 技术 行业 软件",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "小摩CEO警告英国财政大臣切勿提高银行业税收",
-          "url": "https://flash.jin10.com/detail/20260817041847175800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时29分]"
-        },
-        {
-          "title": "加拿大总理卡尼：我们致力于在全国各地建设更多经济适用房。正因如此，我们推出了“加拿大住房计划”。通过加拿大工人、加拿大材料和加拿大技术，快速大规模地建设住房。",
-          "url": "https://flash.jin10.com/detail/20260817003208964800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
+          "appearance_count": 4,
+          "time_info": "[07时27分 ~ 18时39分]"
         }
       ]
     },
@@ -972,7 +1273,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         }
